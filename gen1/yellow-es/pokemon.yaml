@@ -1,0 +1,2714 @@
+- ids:
+  - - dex_national
+    - 1
+  base_stats:
+    hp: 45
+    attack: 49
+    defense: 49
+    speed: 45
+    special: 65
+  base_yield_exp: 64
+  catch_rate: 45
+  name:
+    spanish: BULBASAUR
+  pokedex_description:
+    spanish: Puede sobrevivir largo tiempo sin probar bocado. Guarda energía en el
+      bulbo de su espalda
+  species_class:
+    spanish: SEMILLA
+- ids:
+  - - dex_national
+    - 2
+  base_stats:
+    hp: 60
+    attack: 62
+    defense: 63
+    speed: 60
+    special: 80
+  base_yield_exp: 141
+  catch_rate: 45
+  name:
+    spanish: IVYSAUR
+  pokedex_description:
+    spanish: Su bulbo crece cuando absorbe energía. Desprende un fuerte aroma cuando
+      florece
+  species_class:
+    spanish: SEMILLA
+- ids:
+  - - dex_national
+    - 3
+  base_stats:
+    hp: 80
+    attack: 82
+    defense: 83
+    speed: 80
+    special: 100
+  base_yield_exp: 208
+  catch_rate: 45
+  name:
+    spanish: VENUSAUR
+  pokedex_description:
+    spanish: La flor de su espalda recoge los rayos del Sol. Los transforma en energía
+  species_class:
+    spanish: SEMILLA
+- ids:
+  - - dex_national
+    - 4
+  base_stats:
+    hp: 39
+    attack: 52
+    defense: 43
+    speed: 65
+    special: 50
+  base_yield_exp: 65
+  catch_rate: 45
+  name:
+    spanish: CHARMANDER
+  pokedex_description:
+    spanish: La llama en la punta de su cola chisporrotea al arder. Sólo se oye en
+      lugares silenciosos
+  species_class:
+    spanish: LAGARTIJA
+- ids:
+  - - dex_national
+    - 5
+  base_stats:
+    hp: 58
+    attack: 64
+    defense: 58
+    speed: 80
+    special: 65
+  base_yield_exp: 142
+  catch_rate: 45
+  name:
+    spanish: CHARMELEON
+  pokedex_description:
+    spanish: Las duras luchas excitan a este POKÉMON. Entonces, lanzará llamaradas
+      blanco-azuladas
+  species_class:
+    spanish: LLAMA
+- ids:
+  - - dex_national
+    - 6
+  base_stats:
+    hp: 78
+    attack: 84
+    defense: 78
+    speed: 100
+    special: 85
+  base_yield_exp: 209
+  catch_rate: 45
+  name:
+    spanish: CHARIZARD
+  pokedex_description:
+    spanish: Cuando lanza una descarga de fuego súper caliente, la roja llama de su
+      cola brilla más intensamente
+  species_class:
+    spanish: LLAMA
+- ids:
+  - - dex_national
+    - 7
+  base_stats:
+    hp: 44
+    attack: 48
+    defense: 65
+    speed: 43
+    special: 50
+  base_yield_exp: 66
+  catch_rate: 45
+  name:
+    spanish: SQUIRTLE
+  pokedex_description:
+    spanish: Lanza agua a su presa desde el agua. Se esconde en su concha cuando se
+      siente en peligro
+  species_class:
+    spanish: TORTUGUITA
+- ids:
+  - - dex_national
+    - 8
+  base_stats:
+    hp: 59
+    attack: 63
+    defense: 80
+    speed: 58
+    special: 65
+  base_yield_exp: 143
+  catch_rate: 45
+  name:
+    spanish: WARTORTLE
+  pokedex_description:
+    spanish: Si es golpeado, esconderá su cabeza. Aun así, su cola puede seguir golpeando
+  species_class:
+    spanish: TORTUGA
+- ids:
+  - - dex_national
+    - 9
+  base_stats:
+    hp: 79
+    attack: 83
+    defense: 100
+    speed: 78
+    special: 85
+  base_yield_exp: 210
+  catch_rate: 45
+  name:
+    spanish: BLASTOISE
+  pokedex_description:
+    spanish: Cuando ataca a un enemigo, su descarga de agua es aún más potente que
+      una manga de bombero
+  species_class:
+    spanish: MARISCO
+- ids:
+  - - dex_national
+    - 10
+  base_stats:
+    hp: 45
+    attack: 30
+    defense: 35
+    speed: 45
+    special: 20
+  base_yield_exp: 53
+  catch_rate: 255
+  name:
+    spanish: CATERPIE
+  pokedex_description:
+    spanish: Si tocas los receptores de su cabeza, soltará un terrible olor para protegerse
+  species_class:
+    spanish: GUSANO
+- ids:
+  - - dex_national
+    - 11
+  base_stats:
+    hp: 50
+    attack: 20
+    defense: 55
+    speed: 30
+    special: 25
+  base_yield_exp: 72
+  catch_rate: 120
+  name:
+    spanish: METAPOD
+  pokedex_description:
+    spanish: Endurece su concha para protegerse. De todos modos, un gran impacto puede
+      afectarle
+  species_class:
+    spanish: CAPULLO
+- ids:
+  - - dex_national
+    - 12
+  base_stats:
+    hp: 60
+    attack: 45
+    defense: 50
+    speed: 70
+    special: 80
+  base_yield_exp: 160
+  catch_rate: 45
+  name:
+    spanish: BUTTERFREE
+  pokedex_description:
+    spanish: Sus alas están cubiertas de polvos venenosos. Como repelen el agua, puede
+      volar bajo la lluvia
+  species_class:
+    spanish: MARIPOSA
+- ids:
+  - - dex_national
+    - 13
+  base_stats:
+    hp: 40
+    attack: 35
+    defense: 30
+    speed: 50
+    special: 20
+  base_yield_exp: 52
+  catch_rate: 255
+  name:
+    spanish: WEEDLE
+  pokedex_description:
+    spanish: Cuidado con el aguijón venenoso de su cabeza. Se esconde en la hierba
+      y arbustos mientras come
+  species_class:
+    spanish: ORUGA
+- ids:
+  - - dex_national
+    - 14
+  base_stats:
+    hp: 45
+    attack: 25
+    defense: 50
+    speed: 35
+    special: 25
+  base_yield_exp: 71
+  catch_rate: 120
+  name:
+    spanish: KAKUNA
+  pokedex_description:
+    spanish: Sólo puede moverse un poco. Cuando está en peligro, envenena a su enemigo
+      con su aguijón
+  species_class:
+    spanish: CAPULLO
+- ids:
+  - - dex_national
+    - 15
+  base_stats:
+    hp: 65
+    attack: 80
+    defense: 40
+    speed: 75
+    special: 45
+  base_yield_exp: 159
+  catch_rate: 45
+  name:
+    spanish: BEEDRILL
+  pokedex_description:
+    spanish: Tiene 3 aguijones venenosos en sus patas y cola. Suelen pinchar a sus
+      enemigos repetidas veces
+  species_class:
+    spanish: ABEJA VEN.
+- ids:
+  - - dex_national
+    - 16
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 40
+    speed: 56
+    special: 35
+  base_yield_exp: 55
+  catch_rate: 255
+  name:
+    spanish: PIDGEY
+  pokedex_description:
+    spanish: Son muy dóciles. Si son atacados, suelen lanzar arena en lugar de repeler
+      el ataque
+  species_class:
+    spanish: PAJARITO
+- ids:
+  - - dex_national
+    - 17
+  base_stats:
+    hp: 63
+    attack: 60
+    defense: 55
+    speed: 71
+    special: 50
+  base_yield_exp: 113
+  catch_rate: 120
+  name:
+    spanish: PIDGEOTTO
+  pokedex_description:
+    spanish: Este POKÉMON está repleto de vitalidad. Suele volar por su territorio
+      en busca de presas
+  species_class:
+    spanish: PÁJARO
+- ids:
+  - - dex_national
+    - 18
+  base_stats:
+    hp: 83
+    attack: 80
+    defense: 75
+    speed: 91
+    special: 70
+  base_yield_exp: 172
+  catch_rate: 45
+  name:
+    spanish: PIDGEOT
+  pokedex_description:
+    spanish: Este POKÉMON vuela a velocidad Mach 2. Sus grandes garras son armas muy
+      peligrosas
+  species_class:
+    spanish: PÁJARO
+- ids:
+  - - dex_national
+    - 19
+  base_stats:
+    hp: 30
+    attack: 56
+    defense: 35
+    speed: 72
+    special: 25
+  base_yield_exp: 57
+  catch_rate: 255
+  name:
+    spanish: RATTATA
+  pokedex_description:
+    spanish: Muerde cualquier cosa con sus colmillos. Si ves uno, seguro que encuentras
+      40 más en la zona
+  species_class:
+    spanish: RATA
+- ids:
+  - - dex_national
+    - 20
+  base_stats:
+    hp: 55
+    attack: 81
+    defense: 60
+    speed: 97
+    special: 50
+  base_yield_exp: 116
+  catch_rate: 90
+  name:
+    spanish: RATICATE
+  pokedex_description:
+    spanish: Sus patas son palmeadas. Sirven de aletas, por lo que puede nadar por
+      ríos en busca de presa
+  species_class:
+    spanish: RATA
+- ids:
+  - - dex_national
+    - 21
+  base_stats:
+    hp: 40
+    attack: 60
+    defense: 30
+    speed: 70
+    special: 31
+  base_yield_exp: 58
+  catch_rate: 255
+  name:
+    spanish: SPEAROW
+  pokedex_description:
+    spanish: Es incapaz de volar a gran altura, pero es muy rápido, lo que le permite
+      protegerse
+  species_class:
+    spanish: PAJARITO
+- ids:
+  - - dex_national
+    - 22
+  base_stats:
+    hp: 65
+    attack: 90
+    defense: 65
+    speed: 100
+    special: 61
+  base_yield_exp: 162
+  catch_rate: 90
+  name:
+    spanish: FEAROW
+  pokedex_description:
+    spanish: Este POKÉMON es conocido desde hace muchos años. Si siente peligro volará
+      lejos inmediatamente
+  species_class:
+    spanish: PICO
+- ids:
+  - - dex_national
+    - 23
+  base_stats:
+    hp: 35
+    attack: 60
+    defense: 44
+    speed: 55
+    special: 40
+  base_yield_exp: 62
+  catch_rate: 255
+  name:
+    spanish: EKANS
+  pokedex_description:
+    spanish: Cuanto más viejo, más crece este POKÉMON. Por la noche, descansa en las
+      ramas de los árboles
+  species_class:
+    spanish: SERPIENTE
+- ids:
+  - - dex_national
+    - 24
+  base_stats:
+    hp: 60
+    attack: 85
+    defense: 69
+    speed: 80
+    special: 65
+  base_yield_exp: 147
+  catch_rate: 90
+  name:
+    spanish: ARBOK
+  pokedex_description:
+    spanish: Los espantosos dibujos de su piel han sido estudiados. Seis variaciones
+      han sido confirmadas
+  species_class:
+    spanish: COBRA
+- ids:
+  - - dex_national
+    - 25
+  base_stats:
+    hp: 35
+    attack: 55
+    defense: 30
+    speed: 90
+    special: 50
+  base_yield_exp: 82
+  catch_rate: 190
+  name:
+    spanish: PIKACHU
+  pokedex_description:
+    spanish: Mantiene su cola en alto para vigilar. Si das un tirón a su cola, querrá
+      morderte
+  species_class:
+    spanish: RATÓN
+- ids:
+  - - dex_national
+    - 26
+  base_stats:
+    hp: 60
+    attack: 90
+    defense: 55
+    speed: 100
+    special: 90
+  base_yield_exp: 122
+  catch_rate: 75
+  name:
+    spanish: RAICHU
+  pokedex_description:
+    spanish: Cuando la electricidad del cuerpo crece, se vuelve irritable. También
+      brilla en la oscuridad
+  species_class:
+    spanish: RATÓN
+- ids:
+  - - dex_national
+    - 27
+  base_stats:
+    hp: 50
+    attack: 75
+    defense: 85
+    speed: 40
+    special: 30
+  base_yield_exp: 93
+  catch_rate: 255
+  name:
+    spanish: SANDSHREW
+  pokedex_description:
+    spanish: Su cuerpo es muy seco. Cuando hace frío por la noche, su piel aparece
+      cubierta con un fino rocío
+  species_class:
+    spanish: RATÓN
+- ids:
+  - - dex_national
+    - 28
+  base_stats:
+    hp: 75
+    attack: 100
+    defense: 110
+    speed: 65
+    special: 55
+  base_yield_exp: 163
+  catch_rate: 90
+  name:
+    spanish: SANDSLASH
+  pokedex_description:
+    spanish: Es muy hábil al golpear a sus enemigos con sus garras. Si se rompen,
+      crecerán en un solo día
+  species_class:
+    spanish: RATÓN
+- ids:
+  - - dex_national
+    - 29
+  base_stats:
+    hp: 55
+    attack: 47
+    defense: 52
+    speed: 41
+    special: 40
+  base_yield_exp: 59
+  catch_rate: 235
+  name:
+    spanish: NIDORAN♀
+  pokedex_description:
+    spanish: A este POKÉMON no le gusta luchar. Pero cuidado, sus pequeños cuernos
+      segregan veneno
+  species_class:
+    spanish: PIN VENENO
+- ids:
+  - - dex_national
+    - 30
+  base_stats:
+    hp: 70
+    attack: 62
+    defense: 67
+    speed: 56
+    special: 55
+  base_yield_exp: 117
+  catch_rate: 120
+  name:
+    spanish: NIDORINA
+  pokedex_description:
+    spanish: Cuando descansa profundamente, sus cuernos se contraen. Esto prueba que
+      está relajado
+  species_class:
+    spanish: PIN VENENO
+- ids:
+  - - dex_national
+    - 31
+  base_stats:
+    hp: 90
+    attack: 82
+    defense: 87
+    speed: 76
+    special: 75
+  base_yield_exp: 194
+  catch_rate: 45
+  name:
+    spanish: NIDOQUEEN
+  pokedex_description:
+    spanish: Grandes escamas recubren el duro cuerpo de este POKÉMON. Éstas crecen
+      cíclicamente
+  species_class:
+    spanish: TALADRO
+- ids:
+  - - dex_national
+    - 32
+  base_stats:
+    hp: 46
+    attack: 57
+    defense: 40
+    speed: 50
+    special: 40
+  base_yield_exp: 60
+  catch_rate: 235
+  name:
+    spanish: NIDORAN♂
+  pokedex_description:
+    spanish: Sus largas orejas se mantienen siempre alerta. Si siente peligro, atacará
+      con su venenoso cuerno
+  species_class:
+    spanish: PIN VENENO
+- ids:
+  - - dex_national
+    - 33
+  base_stats:
+    hp: 61
+    attack: 72
+    defense: 57
+    speed: 65
+    special: 55
+  base_yield_exp: 118
+  catch_rate: 120
+  name:
+    spanish: NIDORINO
+  pokedex_description:
+    spanish: Sus cuernos contienen veneno. Si se introducen en el cuerpo del enemigo,
+      soltarán su tóxica carga
+  species_class:
+    spanish: PIN VENENO
+- ids:
+  - - dex_national
+    - 34
+  base_stats:
+    hp: 81
+    attack: 92
+    defense: 77
+    speed: 85
+    special: 75
+  base_yield_exp: 195
+  catch_rate: 45
+  name:
+    spanish: NIDOKING
+  pokedex_description:
+    spanish: Duro como el acero, posee una poderosa carga. Sus cuernos son tan duros
+      como el diamante
+  species_class:
+    spanish: TALADRO
+- ids:
+  - - dex_national
+    - 35
+  base_stats:
+    hp: 70
+    attack: 45
+    defense: 48
+    speed: 35
+    special: 60
+  base_yield_exp: 68
+  catch_rate: 150
+  name:
+    spanish: CLEFAIRY
+  pokedex_description:
+    spanish: Su aspecto jovial y vivaracho lo hace adorable. Piensan que son raros,
+      ya que no son muy comunes
+  species_class:
+    spanish: HADA
+- ids:
+  - - dex_national
+    - 36
+  base_stats:
+    hp: 95
+    attack: 70
+    defense: 73
+    speed: 60
+    special: 85
+  base_yield_exp: 129
+  catch_rate: 25
+  name:
+    spanish: CLEFABLE
+  pokedex_description:
+    spanish: Protege bastante bien su propio entorno. Es una especie de hada, raramente
+      vista por los humanos
+  species_class:
+    spanish: HADA
+- ids:
+  - - dex_national
+    - 37
+  base_stats:
+    hp: 38
+    attack: 41
+    defense: 40
+    speed: 65
+    special: 65
+  base_yield_exp: 63
+  catch_rate: 190
+  name:
+    spanish: VULPIX
+  pokedex_description:
+    spanish: Su piel y colas son preciosas. Cuando crecen las colas, se dividen formando
+      nuevas colas
+  species_class:
+    spanish: ZORRO
+- ids:
+  - - dex_national
+    - 38
+  base_stats:
+    hp: 73
+    attack: 76
+    defense: 75
+    speed: 100
+    special: 100
+  base_yield_exp: 178
+  catch_rate: 75
+  name:
+    spanish: NINETALES
+  pokedex_description:
+    spanish: De acuerdo con una antigua leyenda, este POKÉMON es la reencarnación
+      de 9 nobles santos
+  species_class:
+    spanish: ZORRO
+- ids:
+  - - dex_national
+    - 39
+  base_stats:
+    hp: 115
+    attack: 45
+    defense: 20
+    speed: 20
+    special: 25
+  base_yield_exp: 76
+  catch_rate: 170
+  name:
+    spanish: JIGGLYPUFF
+  pokedex_description:
+    spanish: Utiliza sus misteriosos ojos para engañar a su enemigo. También cantará
+      para dormirlo
+  species_class:
+    spanish: GLOBO
+- ids:
+  - - dex_national
+    - 40
+  base_stats:
+    hp: 140
+    attack: 70
+    defense: 45
+    speed: 45
+    special: 50
+  base_yield_exp: 109
+  catch_rate: 50
+  name:
+    spanish: WIGGLYTUFF
+  pokedex_description:
+    spanish: Su cuerpo es muy elástico. Cuando inhala aire profundamente, puede inflarse
+      sin límite
+  species_class:
+    spanish: GLOBO
+- ids:
+  - - dex_national
+    - 41
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 35
+    speed: 55
+    special: 40
+  base_yield_exp: 54
+  catch_rate: 255
+  name:
+    spanish: ZUBAT
+  pokedex_description:
+    spanish: Emite sonidos ultrasónicos mientras vuela. Los utiliza como sónar para
+      evitar obstáculos
+  species_class:
+    spanish: MURCIÉLAGO
+- ids:
+  - - dex_national
+    - 42
+  base_stats:
+    hp: 75
+    attack: 80
+    defense: 70
+    speed: 90
+    special: 75
+  base_yield_exp: 171
+  catch_rate: 90
+  name:
+    spanish: GOLBAT
+  pokedex_description:
+    spanish: Ataca de manera violenta sin avisar. Utiliza sus afilados colmillos para
+      chupar sangre
+  species_class:
+    spanish: MURCIÉLAGO
+- ids:
+  - - dex_national
+    - 43
+  base_stats:
+    hp: 45
+    attack: 50
+    defense: 55
+    speed: 30
+    special: 75
+  base_yield_exp: 78
+  catch_rate: 255
+  name:
+    spanish: ODDISH
+  pokedex_description:
+    spanish: Suele ser confundido con un puñado de semillas. Si lo extraes del suelo,
+      gritará
+  species_class:
+    spanish: ALGAS
+- ids:
+  - - dex_national
+    - 44
+  base_stats:
+    hp: 60
+    attack: 65
+    defense: 70
+    speed: 40
+    special: 85
+  base_yield_exp: 132
+  catch_rate: 120
+  name:
+    spanish: GLOOM
+  pokedex_description:
+    spanish: ¡Huele bastante mal! De todas formas, 1 de cada 1000 personas aprecian
+      su fétido olor
+  species_class:
+    spanish: ALGAS
+- ids:
+  - - dex_national
+    - 45
+  base_stats:
+    hp: 75
+    attack: 80
+    defense: 85
+    speed: 50
+    special: 100
+  base_yield_exp: 184
+  catch_rate: 45
+  name:
+    spanish: VILEPLUME
+  pokedex_description:
+    spanish: Aletea sus  pétalos de flores para propagar su venenoso polen. El sonido
+      que emite es agudo
+  species_class:
+    spanish: FLOR
+- ids:
+  - - dex_national
+    - 46
+  base_stats:
+    hp: 35
+    attack: 70
+    defense: 55
+    speed: 25
+    special: 55
+  base_yield_exp: 70
+  catch_rate: 190
+  name:
+    spanish: PARAS
+  pokedex_description:
+    spanish: Escarba bajo el suelo para roer las raíces de los árboles. Sus setas
+      absorben sus energías
+  species_class:
+    spanish: HONGO
+- ids:
+  - - dex_national
+    - 47
+  base_stats:
+    hp: 60
+    attack: 95
+    defense: 80
+    speed: 30
+    special: 80
+  base_yield_exp: 128
+  catch_rate: 75
+  name:
+    spanish: PARASECT
+  pokedex_description:
+    spanish: El parásito absorbe la energía con las setas de la espalda, que lo controlan
+  species_class:
+    spanish: HONGO
+- ids:
+  - - dex_national
+    - 48
+  base_stats:
+    hp: 60
+    attack: 55
+    defense: 50
+    speed: 45
+    special: 40
+  base_yield_exp: 75
+  catch_rate: 190
+  name:
+    spanish: VENONAT
+  pokedex_description:
+    spanish: Sus grandes ojos actúan como radares. En lugares claros, verás montones
+      de pequeños ojos
+  species_class:
+    spanish: INSECTO
+- ids:
+  - - dex_national
+    - 49
+  base_stats:
+    hp: 70
+    attack: 65
+    defense: 60
+    speed: 90
+    special: 90
+  base_yield_exp: 138
+  catch_rate: 75
+  name:
+    spanish: VENOMOTH
+  pokedex_description:
+    spanish: Es difícil quitar el polvo de sus alas. También posee un veneno que se
+      desprende al contacto
+  species_class:
+    spanish: MOPA VEN.
+- ids:
+  - - dex_national
+    - 50
+  base_stats:
+    hp: 10
+    attack: 55
+    defense: 25
+    speed: 95
+    special: 45
+  base_yield_exp: 81
+  catch_rate: 255
+  name:
+    spanish: DIGLETT
+  pokedex_description:
+    spanish: Prefiere los lugares oscuros. Pasa el tiempo bajo tierra, aunque aparece
+      en cuevas
+  species_class:
+    spanish: TOPO
+- ids:
+  - - dex_national
+    - 51
+  base_stats:
+    hp: 35
+    attack: 80
+    defense: 50
+    speed: 120
+    special: 70
+  base_yield_exp: 153
+  catch_rate: 50
+  name:
+    spanish: DUGTRIO
+  pokedex_description:
+    spanish: Un grupo de trillizos que cava a 90 KPH. Por ello, creen que se trata
+      de un terremoto
+  species_class:
+    spanish: TOPO
+- ids:
+  - - dex_national
+    - 52
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 35
+    speed: 90
+    special: 40
+  base_yield_exp: 69
+  catch_rate: 255
+  name:
+    spanish: MEOWTH
+  pokedex_description:
+    spanish: Parece que son más activos por la noche. Adoran las cosas redondas y
+      brillantes
+  species_class:
+    spanish: GATO ARAÑA
+- ids:
+  - - dex_national
+    - 53
+  base_stats:
+    hp: 65
+    attack: 70
+    defense: 60
+    speed: 115
+    special: 65
+  base_yield_exp: 148
+  catch_rate: 90
+  name:
+    spanish: PERSIAN
+  pokedex_description:
+    spanish: ¡La gema en su frente brilla por sí misma! Camina con la elegancia de
+      una reina
+  species_class:
+    spanish: GATO FINO
+- ids:
+  - - dex_national
+    - 54
+  base_stats:
+    hp: 50
+    attack: 52
+    defense: 48
+    speed: 55
+    special: 50
+  base_yield_exp: 80
+  catch_rate: 190
+  name:
+    spanish: PSYDUCK
+  pokedex_description:
+    spanish: Siempre tiene dolores de cabeza. Posee poderes mentales, pero no sabes
+      cuándo los usará
+  species_class:
+    spanish: PATO
+- ids:
+  - - dex_national
+    - 55
+  base_stats:
+    hp: 80
+    attack: 82
+    defense: 78
+    speed: 85
+    special: 80
+  base_yield_exp: 174
+  catch_rate: 75
+  name:
+    spanish: GOLDUCK
+  pokedex_description:
+    spanish: Sus delgados y largos miembros acaban en anchas aletas. Las usan  para
+      nadar en los lagos
+  species_class:
+    spanish: PATO
+- ids:
+  - - dex_national
+    - 56
+  base_stats:
+    hp: 40
+    attack: 80
+    defense: 35
+    speed: 70
+    special: 35
+  base_yield_exp: 74
+  catch_rate: 190
+  name:
+    spanish: MANKEY
+  pokedex_description:
+    spanish: Este ágil POKÉMON vive en los árboles. Se enfada fácilmente y no dudará
+      en atacar a todos
+  species_class:
+    spanish: MONO CERDO
+- ids:
+  - - dex_national
+    - 57
+  base_stats:
+    hp: 65
+    attack: 105
+    defense: 60
+    speed: 95
+    special: 60
+  base_yield_exp: 149
+  catch_rate: 75
+  name:
+    spanish: PRIMEAPE
+  pokedex_description:
+    spanish: Sólo se calma cuando nadie está cerca. Llegar a ver ese momento es realmente
+      difícil
+  species_class:
+    spanish: MONO CERDO
+- ids:
+  - - dex_national
+    - 58
+  base_stats:
+    hp: 55
+    attack: 70
+    defense: 45
+    speed: 60
+    special: 50
+  base_yield_exp: 91
+  catch_rate: 190
+  name:
+    spanish: GROWLITHE
+  pokedex_description:
+    spanish: Este POKÉMON es muy amistoso. Aun así, gruñirá a cualquiera que invada
+      su territorio
+  species_class:
+    spanish: PERRITO
+- ids:
+  - - dex_national
+    - 59
+  base_stats:
+    hp: 90
+    attack: 110
+    defense: 80
+    speed: 95
+    special: 80
+  base_yield_exp: 213
+  catch_rate: 75
+  name:
+    spanish: ARCANINE
+  pokedex_description:
+    spanish: Es un POKÉMON legendario en China. Allí, adoran la gracia y belleza que
+      exhibe al correr
+  species_class:
+    spanish: LEGENDARIO
+- ids:
+  - - dex_national
+    - 60
+  base_stats:
+    hp: 40
+    attack: 50
+    defense: 40
+    speed: 90
+    special: 40
+  base_yield_exp: 77
+  catch_rate: 255
+  name:
+    spanish: POLIWAG
+  pokedex_description:
+    spanish: La dirección de la espiral en el vientre cambia según el área. Prefiere
+      nadar a correr
+  species_class:
+    spanish: RENACUAJO
+- ids:
+  - - dex_national
+    - 61
+  base_stats:
+    hp: 65
+    attack: 65
+    defense: 65
+    speed: 90
+    special: 50
+  base_yield_exp: 131
+  catch_rate: 120
+  name:
+    spanish: POLIWHIRL
+  pokedex_description:
+    spanish: Cuando lo atacan,  usa la espiral del vientre para dormir al rival. Aprovecha
+      para escapar entonces
+  species_class:
+    spanish: RENACUAJO
+- ids:
+  - - dex_national
+    - 62
+  base_stats:
+    hp: 90
+    attack: 85
+    defense: 95
+    speed: 70
+    special: 70
+  base_yield_exp: 185
+  catch_rate: 45
+  name:
+    spanish: POLIWRATH
+  pokedex_description:
+    spanish: Es capaz de nadar usando todos los músculos de su cuerpo. Podrá adelantar
+      incluso a un campeón
+  species_class:
+    spanish: RENACUAJO
+- ids:
+  - - dex_national
+    - 63
+  base_stats:
+    hp: 25
+    attack: 20
+    defense: 15
+    speed: 90
+    special: 105
+  base_yield_exp: 73
+  catch_rate: 200
+  name:
+    spanish: ABRA
+  pokedex_description:
+    spanish: Duerme 18 horas al día. Si siente peligro, se teletransporta a lugar
+      seguro, aun durmiendo
+  species_class:
+    spanish: PSI
+- ids:
+  - - dex_national
+    - 64
+  base_stats:
+    hp: 40
+    attack: 35
+    defense: 30
+    speed: 105
+    special: 120
+  base_yield_exp: 145
+  catch_rate: 100
+  name:
+    spanish: KADABRA
+  pokedex_description:
+    spanish: Muchas cosas raras suceden si está cerca. Por ejemplo, hace que los relojes
+      vayan al revés
+  species_class:
+    spanish: PSI
+- ids:
+  - - dex_national
+    - 65
+  base_stats:
+    hp: 55
+    attack: 50
+    defense: 45
+    speed: 120
+    special: 135
+  base_yield_exp: 186
+  catch_rate: 50
+  name:
+    spanish: ALAKAZAM
+  pokedex_description:
+    spanish: Este POKÉMON lo recuerda todo. Nunca olvida lo que aprende. Es un POKÉMON
+      muy listo
+  species_class:
+    spanish: PSI
+- ids:
+  - - dex_national
+    - 66
+  base_stats:
+    hp: 70
+    attack: 80
+    defense: 50
+    speed: 35
+    special: 35
+  base_yield_exp: 88
+  catch_rate: 180
+  name:
+    spanish: MACHOP
+  pokedex_description:
+    spanish: Muy poderoso a pesar de su pequeño tamaño. Su maestría en artes marciales
+      lo hace muy duro
+  species_class:
+    spanish: SUPERPODER
+- ids:
+  - - dex_national
+    - 67
+  base_stats:
+    hp: 80
+    attack: 100
+    defense: 70
+    speed: 45
+    special: 50
+  base_yield_exp: 146
+  catch_rate: 90
+  name:
+    spanish: MACHOKE
+  pokedex_description:
+    spanish: El cinturón que rodea su cuello retiene toda su energía. Sin él, este
+      POKÉMON sería imparable
+  species_class:
+    spanish: SUPERPODER
+- ids:
+  - - dex_national
+    - 68
+  base_stats:
+    hp: 90
+    attack: 130
+    defense: 80
+    speed: 55
+    special: 65
+  base_yield_exp: 193
+  catch_rate: 45
+  name:
+    spanish: MACHAMP
+  pokedex_description:
+    spanish: Con sólo un brazo puede mover montañas. Usando los cuatro, este POKÉMON
+      puede ser terrible
+  species_class:
+    spanish: SUPERPODER
+- ids:
+  - - dex_national
+    - 69
+  base_stats:
+    hp: 50
+    attack: 75
+    defense: 35
+    speed: 40
+    special: 70
+  base_yield_exp: 84
+  catch_rate: 255
+  name:
+    spanish: BELLSPROUT
+  pokedex_description:
+    spanish: Prefiere los lugares calientes y húmedos. Atrapa pequeños insectos con
+      sus ramas para devorarlos
+  species_class:
+    spanish: FLOR
+- ids:
+  - - dex_national
+    - 70
+  base_stats:
+    hp: 65
+    attack: 90
+    defense: 50
+    speed: 55
+    special: 85
+  base_yield_exp: 151
+  catch_rate: 120
+  name:
+    spanish: WEEPINBELL
+  pokedex_description:
+    spanish: Cuando está hambriento, ataca a todo lo que se mueva. Su pobre presa
+      se derrite en fuertes ácidos
+  species_class:
+    spanish: MATAMOSCAS
+- ids:
+  - - dex_national
+    - 71
+  base_stats:
+    hp: 80
+    attack: 105
+    defense: 65
+    speed: 70
+    special: 100
+  base_yield_exp: 191
+  catch_rate: 45
+  name:
+    spanish: VICTREEBEL
+  pokedex_description:
+    spanish: Engaña a su presa con un dulce aroma a miel. Una vez atrapada, la presa
+      perderá hasta sus huesos
+  species_class:
+    spanish: MATAMOSCAS
+- ids:
+  - - dex_national
+    - 72
+  base_stats:
+    hp: 40
+    attack: 40
+    defense: 35
+    speed: 70
+    special: 100
+  base_yield_exp: 105
+  catch_rate: 190
+  name:
+    spanish: TENTACOOL
+  pokedex_description:
+    spanish: A veces puede ser encontrado seco y medio enterrado en una playa. Al
+      lanzarlo otra vez al mar revivirá
+  species_class:
+    spanish: MEDUSA
+- ids:
+  - - dex_national
+    - 73
+  base_stats:
+    hp: 80
+    attack: 70
+    defense: 65
+    speed: 100
+    special: 120
+  base_yield_exp: 205
+  catch_rate: 60
+  name:
+    spanish: TENTACRUEL
+  pokedex_description:
+    spanish: Puede controlar libremente sus 80 tentáculos. Éstos debilitan a su presa
+      con su poderoso veneno
+  species_class:
+    spanish: MEDUSA
+- ids:
+  - - dex_national
+    - 74
+  base_stats:
+    hp: 40
+    attack: 80
+    defense: 100
+    speed: 20
+    special: 30
+  base_yield_exp: 86
+  catch_rate: 255
+  name:
+    spanish: GEODUDE
+  pokedex_description:
+    spanish: Se encuentran normalmente en los caminos de montaña. Si te cruzas con
+      uno, se enfadará
+  species_class:
+    spanish: ROCA
+- ids:
+  - - dex_national
+    - 75
+  base_stats:
+    hp: 55
+    attack: 95
+    defense: 115
+    speed: 35
+    special: 45
+  base_yield_exp: 134
+  catch_rate: 120
+  name:
+    spanish: GRAVELER
+  pokedex_description:
+    spanish: Se le suele ver rodando por las montañas. Los obstáculos no los evita.
+      ¡Los arrolla!
+  species_class:
+    spanish: ROCA
+- ids:
+  - - dex_national
+    - 76
+  base_stats:
+    hp: 80
+    attack: 110
+    defense: 130
+    speed: 45
+    special: 55
+  base_yield_exp: 177
+  catch_rate: 45
+  name:
+    spanish: GOLEM
+  pokedex_description:
+    spanish: Cuando pierde su piel, su cuerpo se vuelve blando y blanquecino. Si esto
+      ocurre, se esconderá
+  species_class:
+    spanish: MEGATÓN
+- ids:
+  - - dex_national
+    - 77
+  base_stats:
+    hp: 50
+    attack: 85
+    defense: 55
+    speed: 90
+    special: 65
+  base_yield_exp: 152
+  catch_rate: 190
+  name:
+    spanish: PONYTA
+  pokedex_description:
+    spanish: Es capaz de saltar muy alto. Con sus pezuñas y sus robustas patas, absorbe
+      el impacto
+  species_class:
+    spanish: CABALLO F.
+- ids:
+  - - dex_national
+    - 78
+  base_stats:
+    hp: 65
+    attack: 100
+    defense: 70
+    speed: 105
+    special: 80
+  base_yield_exp: 192
+  catch_rate: 60
+  name:
+    spanish: RAPIDASH
+  pokedex_description:
+    spanish: Le encanta correr. Si ve algo más rápido que él, intentará alcanzarlo
+      a toda velocidad
+  species_class:
+    spanish: CABALLO F.
+- ids:
+  - - dex_national
+    - 79
+  base_stats:
+    hp: 90
+    attack: 65
+    defense: 65
+    speed: 15
+    special: 40
+  base_yield_exp: 99
+  catch_rate: 190
+  name:
+    spanish: SLOWPOKE
+  pokedex_description:
+    spanish: Es increíblemente lento y perezoso. Le encanta dormir sin preocuparse
+      ni del tiempo ni de lo que ocurra
+  species_class:
+    spanish: ATONTADO
+- ids:
+  - - dex_national
+    - 80
+  base_stats:
+    hp: 95
+    attack: 75
+    defense: 110
+    speed: 30
+    special: 80
+  base_yield_exp: 164
+  catch_rate: 75
+  name:
+    spanish: SLOWBRO
+  pokedex_description:
+    spanish: Vive tranquilo en el mar. Si el SHELLDER de su cola se cae, vuelve a
+      ser un SLOWPOKE otra vez
+  species_class:
+    spanish: ERMITAÑO
+- ids:
+  - - dex_national
+    - 81
+  base_stats:
+    hp: 25
+    attack: 35
+    defense: 70
+    speed: 45
+    special: 95
+  base_yield_exp: 89
+  catch_rate: 190
+  name:
+    spanish: MAGNEMITE
+  pokedex_description:
+    spanish: Puede desafiar a la gravedad desde su nacimiento. Flota en el aire gracias
+      a ondas electromagnéticas
+  species_class:
+    spanish: IMÁN
+- ids:
+  - - dex_national
+    - 82
+  base_stats:
+    hp: 50
+    attack: 60
+    defense: 95
+    speed: 70
+    special: 120
+  base_yield_exp: 161
+  catch_rate: 60
+  name:
+    spanish: MAGNETON
+  pokedex_description:
+    spanish: Genera extrañas señales de radio. Es capaz de elevar la temperatura 3#214
+      centígrados
+  species_class:
+    spanish: IMÁN
+- ids:
+  - - dex_national
+    - 83
+  base_stats:
+    hp: 52
+    attack: 65
+    defense: 55
+    speed: 60
+    special: 58
+  base_yield_exp: 94
+  catch_rate: 45
+  name:
+    spanish: FARFETCH'D
+  pokedex_description:
+    spanish: Vive cerca de las plantas. Son raramente vistos, así que se piensa que
+      se están extinguiendo
+  species_class:
+    spanish: PATO SALV.
+- ids:
+  - - dex_national
+    - 84
+  base_stats:
+    hp: 35
+    attack: 85
+    defense: 45
+    speed: 75
+    special: 35
+  base_yield_exp: 96
+  catch_rate: 190
+  name:
+    spanish: DODUO
+  pokedex_description:
+    spanish: Sus cortas alas lo hacen volar con dificultad. De todos modos, puede
+      correr a gran velocidad
+  species_class:
+    spanish: AVE GEMELA
+- ids:
+  - - dex_national
+    - 85
+  base_stats:
+    hp: 60
+    attack: 110
+    defense: 70
+    speed: 100
+    special: 60
+  base_yield_exp: 158
+  catch_rate: 45
+  name:
+    spanish: DODRIO
+  pokedex_description:
+    spanish: 'Una de las dos cabezas de DODUO se divide para formar un nuevo #74.
+      Es capaz de correr a 40 KPH'
+  species_class:
+    spanish: AVE TRIPLE
+- ids:
+  - - dex_national
+    - 86
+  base_stats:
+    hp: 65
+    attack: 45
+    defense: 55
+    speed: 45
+    special: 70
+  base_yield_exp: 100
+  catch_rate: 190
+  name:
+    spanish: SEEL
+  pokedex_description:
+    spanish: A este POKÉMON le encanta el frío. Le encanta nadar en climas polares,
+      sea cual sea la temperatura
+  species_class:
+    spanish: LEÓN MAR.
+- ids:
+  - - dex_national
+    - 87
+  base_stats:
+    hp: 90
+    attack: 70
+    defense: 80
+    speed: 70
+    special: 95
+  base_yield_exp: 176
+  catch_rate: 75
+  name:
+    spanish: DEWGONG
+  pokedex_description:
+    spanish: Su cuerpo es como una bola de nieve. Inmune al frío intenso, nada rápidamente
+      en aguas heladas
+  species_class:
+    spanish: LEÓN MAR.
+- ids:
+  - - dex_national
+    - 88
+  base_stats:
+    hp: 80
+    attack: 80
+    defense: 50
+    speed: 25
+    special: 40
+  base_yield_exp: 90
+  catch_rate: 190
+  name:
+    spanish: GRIMER
+  pokedex_description:
+    spanish: Está hecho de fango endurecido. Huele a pútrido. ¡Por donde pasa, no
+      crece la hierba!
+  species_class:
+    spanish: LODO
+- ids:
+  - - dex_national
+    - 89
+  base_stats:
+    hp: 105
+    attack: 105
+    defense: 75
+    speed: 50
+    special: 65
+  base_yield_exp: 157
+  catch_rate: 75
+  name:
+    spanish: MUK
+  pokedex_description:
+    spanish: Huele tan mal que puede provocar desmayos. Ha degenerado tanto, que ya
+      ni él mismo se huele
+  species_class:
+    spanish: LODO
+- ids:
+  - - dex_national
+    - 90
+  base_stats:
+    hp: 30
+    attack: 65
+    defense: 100
+    speed: 40
+    special: 45
+  base_yield_exp: 97
+  catch_rate: 190
+  name:
+    spanish: SHELLDER
+  pokedex_description:
+    spanish: Su concha puede evitar cualquier ataque. El débil cuerpo sólo está expuesto
+      cuando está abierta
+  species_class:
+    spanish: BIVALVO
+- ids:
+  - - dex_national
+    - 91
+  base_stats:
+    hp: 50
+    attack: 95
+    defense: 180
+    speed: 70
+    special: 85
+  base_yield_exp: 203
+  catch_rate: 60
+  name:
+    spanish: CLOYSTER
+  pokedex_description:
+    spanish: Utiliza su concha para protegerse. Dicen que es más dura que el diamante.
+      También lanza espinas
+  species_class:
+    spanish: BIVALVO
+- ids:
+  - - dex_national
+    - 92
+  base_stats:
+    hp: 30
+    attack: 35
+    defense: 30
+    speed: 80
+    special: 100
+  base_yield_exp: 95
+  catch_rate: 190
+  name:
+    spanish: GASTLY
+  pokedex_description:
+    spanish: Sólo aparece en edificios en ruinas. No tiene forma real, ya que parece
+      que está hecho de gas
+  species_class:
+    spanish: GAS
+- ids:
+  - - dex_national
+    - 93
+  base_stats:
+    hp: 45
+    attack: 50
+    defense: 45
+    speed: 95
+    special: 115
+  base_yield_exp: 126
+  catch_rate: 90
+  name:
+    spanish: HAUNTER
+  pokedex_description:
+    spanish: Toma la vida de su adversario a lengüetazos. Esto produce mareos hasta
+      que la víctima fallece
+  species_class:
+    spanish: GAS
+- ids:
+  - - dex_national
+    - 94
+  base_stats:
+    hp: 60
+    attack: 65
+    defense: 60
+    speed: 110
+    special: 130
+  base_yield_exp: 190
+  catch_rate: 45
+  name:
+    spanish: GENGAR
+  pokedex_description:
+    spanish: Sabrás que un GENGAR está cerca cuando sufras de sudores fríos. Intentará
+      echarte un hechizo
+  species_class:
+    spanish: SOMBRA
+- ids:
+  - - dex_national
+    - 95
+  base_stats:
+    hp: 35
+    attack: 45
+    defense: 160
+    speed: 70
+    special: 30
+  base_yield_exp: 108
+  catch_rate: 45
+  name:
+    spanish: ONIX
+  pokedex_description:
+    spanish: Cava a gran velocidad en busca de comida. Los túneles que deja son usados
+      por los DIGLETT
+  species_class:
+    spanish: SERP.ROCA
+- ids:
+  - - dex_national
+    - 96
+  base_stats:
+    hp: 60
+    attack: 48
+    defense: 45
+    speed: 42
+    special: 90
+  base_yield_exp: 102
+  catch_rate: 190
+  name:
+    spanish: DROWZEE
+  pokedex_description:
+    spanish: Si duermes cerca de uno todo el tiempo, en alguna ocasión podrás ver
+      sueños que se haya comido antes
+  species_class:
+    spanish: HIPNOSIS
+- ids:
+  - - dex_national
+    - 97
+  base_stats:
+    hp: 85
+    attack: 73
+    defense: 70
+    speed: 67
+    special: 115
+  base_yield_exp: 165
+  catch_rate: 75
+  name:
+    spanish: HYPNO
+  pokedex_description:
+    spanish: Intenta evitar cualquier tipo de contacto visual con este POKÉMON. Puede
+      hipnotizar con su péndulo
+  species_class:
+    spanish: HIPNOSIS
+- ids:
+  - - dex_national
+    - 98
+  base_stats:
+    hp: 30
+    attack: 105
+    defense: 90
+    speed: 50
+    special: 25
+  base_yield_exp: 115
+  catch_rate: 225
+  name:
+    spanish: KRABBY
+  pokedex_description:
+    spanish: Sus pinzas son armas perfectas. En alguna ocasión pueden romperse en
+      combate, pero crecerán rápido
+  species_class:
+    spanish: CANGREJO
+- ids:
+  - - dex_national
+    - 99
+  base_stats:
+    hp: 55
+    attack: 130
+    defense: 115
+    speed: 75
+    special: 50
+  base_yield_exp: 206
+  catch_rate: 60
+  name:
+    spanish: KINGLER
+  pokedex_description:
+    spanish: Una de sus pinzas crece más que la otra, y es dura como el acero. De
+      todos modos, pesa demasiado
+  species_class:
+    spanish: TENAZA
+- ids:
+  - - dex_national
+    - 100
+  base_stats:
+    hp: 40
+    attack: 30
+    defense: 50
+    speed: 100
+    special: 55
+  base_yield_exp: 103
+  catch_rate: 190
+  name:
+    spanish: VOLTORB
+  pokedex_description:
+    spanish: Se dice que se camufla como una POKÉ BALL. Al más mínimo estímulo se
+      autodestruirá
+  species_class:
+    spanish: BOLA
+- ids:
+  - - dex_national
+    - 101
+  base_stats:
+    hp: 60
+    attack: 50
+    defense: 70
+    speed: 140
+    special: 80
+  base_yield_exp: 150
+  catch_rate: 60
+  name:
+    spanish: ELECTRODE
+  pokedex_description:
+    spanish: Almacena energía eléctrica en su cuerpo. El más leve shock puede provocar
+      una gran explosión
+  species_class:
+    spanish: BOLA
+- ids:
+  - - dex_national
+    - 102
+  base_stats:
+    hp: 60
+    attack: 40
+    defense: 80
+    speed: 40
+    special: 60
+  base_yield_exp: 98
+  catch_rate: 90
+  name:
+    spanish: EXEGGCUTE
+  pokedex_description:
+    spanish: Sus cabezas se atraen unas a otras, y giran entre si. Debe tener seis
+      para equilibrarse
+  species_class:
+    spanish: HUEVO
+- ids:
+  - - dex_national
+    - 103
+  base_stats:
+    hp: 95
+    attack: 95
+    defense: 85
+    speed: 55
+    special: 125
+  base_yield_exp: 212
+  catch_rate: 45
+  name:
+    spanish: EXEGGUTOR
+  pokedex_description:
+    spanish: Este POKÉMON es muy ruidoso. Esto es debido a que cada una de sus cabezas
+      hace lo que quiere
+  species_class:
+    spanish: COCO
+- ids:
+  - - dex_national
+    - 104
+  base_stats:
+    hp: 50
+    attack: 50
+    defense: 95
+    speed: 35
+    special: 40
+  base_yield_exp: 87
+  catch_rate: 190
+  name:
+    spanish: CUBONE
+  pokedex_description:
+    spanish: Siempre lleva el cráneo de su difunta madre. Su grito hace eco y parece
+      una triste melodía
+  species_class:
+    spanish: SOLITARIO
+- ids:
+  - - dex_national
+    - 105
+  base_stats:
+    hp: 60
+    attack: 80
+    defense: 110
+    speed: 45
+    special: 50
+  base_yield_exp: 124
+  catch_rate: 75
+  name:
+    spanish: MAROWAK
+  pokedex_description:
+    spanish: Pequeño y débil, este POKÉMON siempre va acompañado de su palo de hueso
+      de POKÉMON
+  species_class:
+    spanish: APILAHUESO
+- ids:
+  - - dex_national
+    - 106
+  base_stats:
+    hp: 50
+    attack: 120
+    defense: 53
+    speed: 87
+    special: 35
+  base_yield_exp: 139
+  catch_rate: 45
+  name:
+    spanish: HITMONLEE
+  pokedex_description:
+    spanish: Cuando da patadas al enemigo, la planta de sus pies se vuelve tan dura
+      como el diamante
+  species_class:
+    spanish: PATEANDO
+- ids:
+  - - dex_national
+    - 107
+  base_stats:
+    hp: 50
+    attack: 105
+    defense: 79
+    speed: 76
+    special: 35
+  base_yield_exp: 140
+  catch_rate: 45
+  name:
+    spanish: HITMONCHAN
+  pokedex_description:
+    spanish: Sus golpes se asemejan a una taladradora. Puede atravesar un muro de
+      hormigón como si nada
+  species_class:
+    spanish: PEGANDO
+- ids:
+  - - dex_national
+    - 108
+  base_stats:
+    hp: 90
+    attack: 55
+    defense: 75
+    speed: 30
+    special: 60
+  base_yield_exp: 127
+  catch_rate: 45
+  name:
+    spanish: LICKITUNG
+  pokedex_description:
+    spanish: Su lengua mide casi dos metros y se mueve libremente. Sus lametazos pueden
+      causar parálisis
+  species_class:
+    spanish: LAMIENDO
+- ids:
+  - - dex_national
+    - 109
+  base_stats:
+    hp: 40
+    attack: 65
+    defense: 95
+    speed: 35
+    special: 60
+  base_yield_exp: 114
+  catch_rate: 190
+  name:
+    spanish: KOFFING
+  pokedex_description:
+    spanish: A veces puede explotar sin avisar, ya que en lugares calurosos su gas
+      interno se expande
+  species_class:
+    spanish: GAS VENENO
+- ids:
+  - - dex_national
+    - 110
+  base_stats:
+    hp: 65
+    attack: 90
+    defense: 120
+    speed: 60
+    special: 85
+  base_yield_exp: 173
+  catch_rate: 60
+  name:
+    spanish: WEEZING
+  pokedex_description:
+    spanish: Este POKÉMON vive absorbiendo gases venenosos, gérmenes, y el polvo que
+      existe en la basura
+  species_class:
+    spanish: GAS VENENO
+- ids:
+  - - dex_national
+    - 111
+  base_stats:
+    hp: 80
+    attack: 85
+    defense: 95
+    speed: 25
+    special: 30
+  base_yield_exp: 135
+  catch_rate: 120
+  name:
+    spanish: RHYHORN
+  pokedex_description:
+    spanish: Este POKÉMON no tiene muchas luces. Una vez inicia la carga, no para
+      hasta que cae dormido
+  species_class:
+    spanish: CLAVOS
+- ids:
+  - - dex_national
+    - 112
+  base_stats:
+    hp: 105
+    attack: 130
+    defense: 120
+    speed: 40
+    special: 45
+  base_yield_exp: 204
+  catch_rate: 60
+  name:
+    spanish: RHYDON
+  pokedex_description:
+    spanish: Camina sobre sus patas traseras, y muestra signos de inteligencia. Es
+      capaz de aguantar lava hirviendo
+  species_class:
+    spanish: TALADRO
+- ids:
+  - - dex_national
+    - 113
+  base_stats:
+    hp: 250
+    attack: 5
+    defense: 5
+    speed: 50
+    special: 105
+  base_yield_exp: 255
+  catch_rate: 30
+  name:
+    spanish: CHANSEY
+  pokedex_description:
+    spanish: Este amable POKÉMON es capaz de compartir sus nutrientes huevos con un
+      POKÉMON herido
+  species_class:
+    spanish: HUEVO
+- ids:
+  - - dex_national
+    - 114
+  base_stats:
+    hp: 65
+    attack: 55
+    defense: 115
+    speed: 60
+    special: 100
+  base_yield_exp: 166
+  catch_rate: 45
+  name:
+    spanish: TANGELA
+  pokedex_description:
+    spanish: Se camufla tras una gran masa de enredaderas azules. Se dice que nunca
+      dejan de crecer
+  species_class:
+    spanish: ENREDADERA
+- ids:
+  - - dex_national
+    - 115
+  base_stats:
+    hp: 105
+    attack: 95
+    defense: 80
+    speed: 90
+    special: 40
+  base_yield_exp: 175
+  catch_rate: 45
+  name:
+    spanish: KANGASKHAN
+  pokedex_description:
+    spanish: Cuida de su cría en la bolsa de su tripa. No evitará ninguna pelea para
+      protegerla
+  species_class:
+    spanish: PADRES
+- ids:
+  - - dex_national
+    - 116
+  base_stats:
+    hp: 30
+    attack: 40
+    defense: 70
+    speed: 60
+    special: 70
+  base_yield_exp: 83
+  catch_rate: 225
+  name:
+    spanish: HORSEA
+  pokedex_description:
+    spanish: Si se siente en peligro, arrojará un potente chorro de agua, o de una
+      tinta especial, por su boca
+  species_class:
+    spanish: DRAGÓN
+- ids:
+  - - dex_national
+    - 117
+  base_stats:
+    hp: 55
+    attack: 65
+    defense: 95
+    speed: 85
+    special: 95
+  base_yield_exp: 155
+  catch_rate: 75
+  name:
+    spanish: SEADRA
+  pokedex_description:
+    spanish: Tocar su aleta trasera causa parálisis. Se engancha al coral para mantenerse
+      mientras duerme
+  species_class:
+    spanish: DRAGÓN
+- ids:
+  - - dex_national
+    - 118
+  base_stats:
+    hp: 45
+    attack: 67
+    defense: 60
+    speed: 63
+    special: 50
+  base_yield_exp: 111
+  catch_rate: 225
+  name:
+    spanish: GOLDEEN
+  pokedex_description:
+    spanish: En su época de puesta de huevos, suelen ser vistos nadando por ríos contracorriente
+      en grandes grupos
+  species_class:
+    spanish: PEZ COLOR
+- ids:
+  - - dex_national
+    - 119
+  base_stats:
+    hp: 80
+    attack: 92
+    defense: 65
+    speed: 68
+    special: 80
+  base_yield_exp: 170
+  catch_rate: 60
+  name:
+    spanish: SEAKING
+  pokedex_description:
+    spanish: Este POKÉMON hace sus nidos tallando cantos de riachuelo con el cuerno
+      de su cabeza
+  species_class:
+    spanish: PEZ COLOR
+- ids:
+  - - dex_national
+    - 120
+  base_stats:
+    hp: 30
+    attack: 45
+    defense: 55
+    speed: 85
+    special: 70
+  base_yield_exp: 106
+  catch_rate: 225
+  name:
+    spanish: STARYU
+  pokedex_description:
+    spanish: Mientras su parte central se mantenga intacta, crecerá de nuevo aunque
+      haya sido destrozado
+  species_class:
+    spanish: ESTRELLADA
+- ids:
+  - - dex_national
+    - 121
+  base_stats:
+    hp: 60
+    attack: 75
+    defense: 85
+    speed: 115
+    special: 100
+  base_yield_exp: 207
+  catch_rate: 60
+  name:
+    spanish: STARMIE
+  pokedex_description:
+    spanish: Su zona central es conocida como el núcleo. Se piensa que se comunica
+      mediante colores
+  species_class:
+    spanish: MISTERIOSO
+- ids:
+  - - dex_national
+    - 122
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 65
+    speed: 90
+    special: 100
+  base_yield_exp: 136
+  catch_rate: 45
+  name:
+    spanish: MR.MIME
+  pokedex_description:
+    spanish: Siempre practica la misma pantomima. Hace creer al enemigo que existe
+      algo que no es real
+  species_class:
+    spanish: BARRERA
+- ids:
+  - - dex_national
+    - 123
+  base_stats:
+    hp: 70
+    attack: 110
+    defense: 80
+    speed: 105
+    special: 55
+  base_yield_exp: 187
+  catch_rate: 45
+  name:
+    spanish: SCYTHER
+  pokedex_description:
+    spanish: Se agazapa en la hierba alta para saltar sobre su enemigo con sus guadañas.
+      Se mueve como un ninja
+  species_class:
+    spanish: MANTIS
+- ids:
+  - - dex_national
+    - 124
+  base_stats:
+    hp: 65
+    attack: 50
+    defense: 35
+    speed: 95
+    special: 95
+  base_yield_exp: 137
+  catch_rate: 45
+  name:
+    spanish: JYNX
+  pokedex_description:
+    spanish: Parece moverse como si estuviera bailando un ritmo de su propia creación.
+      Menea mucho sus caderas
+  species_class:
+    spanish: F. HUMANA
+- ids:
+  - - dex_national
+    - 125
+  base_stats:
+    hp: 65
+    attack: 83
+    defense: 57
+    speed: 105
+    special: 85
+  base_yield_exp: 156
+  catch_rate: 45
+  name:
+    spanish: ELECTABUZZ
+  pokedex_description:
+    spanish: Cuando hay un apagón, es más que posible que este POKÉMON se haya comido
+      la energía
+  species_class:
+    spanish: ELÉCTRICO
+- ids:
+  - - dex_national
+    - 126
+  base_stats:
+    hp: 65
+    attack: 95
+    defense: 57
+    speed: 93
+    special: 85
+  base_yield_exp: 167
+  catch_rate: 45
+  name:
+    spanish: MAGMAR
+  pokedex_description:
+    spanish: Nacen en volcanes activos. Su cuerpo parece una gran bola de fuego ya
+      que están en llamas
+  species_class:
+    spanish: ESCUPFUEGO
+- ids:
+  - - dex_national
+    - 127
+  base_stats:
+    hp: 65
+    attack: 125
+    defense: 100
+    speed: 85
+    special: 55
+  base_yield_exp: 200
+  catch_rate: 45
+  name:
+    spanish: PINSIR
+  pokedex_description:
+    spanish: Atrapa a su presa con sus pinzas, y aprieta fuerte. No se puede mover
+      si hace mucho frío
+  species_class:
+    spanish: ESCARABAJO
+- ids:
+  - - dex_national
+    - 128
+  base_stats:
+    hp: 75
+    attack: 100
+    defense: 95
+    speed: 110
+    special: 70
+  base_yield_exp: 211
+  catch_rate: 45
+  name:
+    spanish: TAUROS
+  pokedex_description:
+    spanish: Un rudo POKÉMON repleto de energía vital. Cuando corre, no para hasta
+      que choca con algo
+  species_class:
+    spanish: TORO BRAVO
+- ids:
+  - - dex_national
+    - 129
+  base_stats:
+    hp: 20
+    attack: 10
+    defense: 55
+    speed: 80
+    special: 20
+  base_yield_exp: 20
+  catch_rate: 255
+  name:
+    spanish: MAGIKARP
+  pokedex_description:
+    spanish: Famoso por ser poco fiable. Puede encontrarse nadando en mares, lagos,
+      ríos y charcos
+  species_class:
+    spanish: PEZ
+- ids:
+  - - dex_national
+    - 130
+  base_stats:
+    hp: 95
+    attack: 125
+    defense: 79
+    speed: 81
+    special: 100
+  base_yield_exp: 214
+  catch_rate: 45
+  name:
+    spanish: GYARADOS
+  pokedex_description:
+    spanish: Este POKÉMON es enormemente  destructivo. En la antigüedad, era conocido
+      por destruir ciudades
+  species_class:
+    spanish: ATROCIDAD
+- ids:
+  - - dex_national
+    - 131
+  base_stats:
+    hp: 130
+    attack: 85
+    defense: 80
+    speed: 60
+    special: 95
+  base_yield_exp: 219
+  catch_rate: 45
+  name:
+    spanish: LAPRAS
+  pokedex_description:
+    spanish: Este espíritu gentil es capaz de leer la mente. Puede llevar a la gente
+      a través del mar
+  species_class:
+    spanish: TRANSPORTE
+- ids:
+  - - dex_national
+    - 132
+  base_stats:
+    hp: 48
+    attack: 48
+    defense: 48
+    speed: 48
+    special: 48
+  base_yield_exp: 61
+  catch_rate: 35
+  name:
+    spanish: DITTO
+  pokedex_description:
+    spanish: Cuando se fija en un enemigo, su cuerpo se transforma en una copia perfecta
+      del mismo
+  species_class:
+    spanish: TRANSFORM.
+- ids:
+  - - dex_national
+    - 133
+  base_stats:
+    hp: 55
+    attack: 55
+    defense: 50
+    speed: 55
+    special: 65
+  base_yield_exp: 92
+  catch_rate: 45
+  name:
+    spanish: EEVEE
+  pokedex_description:
+    spanish: Su código genético es muy inestable. Puede evolucionar en diversas razas
+      de POKÉMON
+  species_class:
+    spanish: EVOLUCIÓN
+- ids:
+  - - dex_national
+    - 134
+  base_stats:
+    hp: 130
+    attack: 65
+    defense: 60
+    speed: 65
+    special: 110
+  base_yield_exp: 196
+  catch_rate: 45
+  name:
+    spanish: VAPOREON
+  pokedex_description:
+    spanish: Su estructura celular se parece a las moléculas de agua. Es invisible
+      cuando está en el agua
+  species_class:
+    spanish: BURBUJA
+- ids:
+  - - dex_national
+    - 135
+  base_stats:
+    hp: 65
+    attack: 65
+    defense: 60
+    speed: 130
+    special: 110
+  base_yield_exp: 197
+  catch_rate: 45
+  name:
+    spanish: JOLTEON
+  pokedex_description:
+    spanish: Un POKÉMON muy sensible. Se entristece o enfada con mucha facilidad,
+      lo que le da energía
+  species_class:
+    spanish: RELÁMPAGO
+- ids:
+  - - dex_national
+    - 136
+  base_stats:
+    hp: 65
+    attack: 130
+    defense: 60
+    speed: 65
+    special: 110
+  base_yield_exp: 198
+  catch_rate: 45
+  name:
+    spanish: FLAREON
+  pokedex_description:
+    spanish: El cuerpo de este POKÉMON posee una cámara ígnea. Cuando exhala aire,
+      éste está a 3.000#214 Celsius
+  species_class:
+    spanish: LLAMA
+- ids:
+  - - dex_national
+    - 137
+  base_stats:
+    hp: 65
+    attack: 60
+    defense: 70
+    speed: 40
+    special: 75
+  base_yield_exp: 130
+  catch_rate: 45
+  name:
+    spanish: PORYGON
+  pokedex_description:
+    spanish: La gente dice que se trata del único POKÉMON que puede volar por el espacio.
+      Aún no lo ha logrado
+  species_class:
+    spanish: VIRTUAL
+- ids:
+  - - dex_national
+    - 138
+  base_stats:
+    hp: 35
+    attack: 40
+    defense: 100
+    speed: 35
+    special: 90
+  base_yield_exp: 120
+  catch_rate: 45
+  name:
+    spanish: OMANYTE
+  pokedex_description:
+    spanish: 'Este antiguo #74 fue recuperado de un fósil. Nada muy bien gracias al
+      movimiento de sus 10 tentáculos'
+  species_class:
+    spanish: ESPIRAL
+- ids:
+  - - dex_national
+    - 139
+  base_stats:
+    hp: 70
+    attack: 60
+    defense: 125
+    speed: 55
+    special: 115
+  base_yield_exp: 199
+  catch_rate: 45
+  name:
+    spanish: OMASTAR
+  pokedex_description:
+    spanish: Picos afilados rodean su boca. Su concha es demasiado grande como para
+      que se mueva libremente
+  species_class:
+    spanish: ESPIRAL
+- ids:
+  - - dex_national
+    - 140
+  base_stats:
+    hp: 30
+    attack: 80
+    defense: 90
+    speed: 55
+    special: 45
+  base_yield_exp: 119
+  catch_rate: 45
+  name:
+    spanish: KABUTO
+  pokedex_description:
+    spanish: Este POKÉMON fue recuperado desde un fósil. Usa los ojos de su espalda
+      al ocultarse en el lecho marino
+  species_class:
+    spanish: MARISCO
+- ids:
+  - - dex_national
+    - 141
+  base_stats:
+    hp: 60
+    attack: 115
+    defense: 105
+    speed: 80
+    special: 70
+  base_yield_exp: 201
+  catch_rate: 45
+  name:
+    spanish: KABUTOPS
+  pokedex_description:
+    spanish: Este POKÉMON es un hábil y rápido nadador. Atrapa a su presa para drenar
+      sus fluidos vitales
+  species_class:
+    spanish: MARISCO
+- ids:
+  - - dex_national
+    - 142
+  base_stats:
+    hp: 80
+    attack: 105
+    defense: 65
+    speed: 130
+    special: 60
+  base_yield_exp: 202
+  catch_rate: 45
+  name:
+    spanish: AERODACTYL
+  pokedex_description:
+    spanish: Este POKÉMON salvaje, extinto hace siglos, fue resucitado usando ADN
+      tomado de un ámbar
+  species_class:
+    spanish: FÓSIL
+- ids:
+  - - dex_national
+    - 143
+  base_stats:
+    hp: 160
+    attack: 110
+    defense: 65
+    speed: 30
+    special: 65
+  base_yield_exp: 154
+  catch_rate: 25
+  name:
+    spanish: SNORLAX
+  pokedex_description:
+    spanish: Come cualquier cosa. Incluso la comida pasada de fecha. Su estómago nunca
+      se llena
+  species_class:
+    spanish: DORMIR
+- ids:
+  - - dex_national
+    - 144
+  base_stats:
+    hp: 90
+    attack: 85
+    defense: 100
+    speed: 85
+    special: 125
+  base_yield_exp: 215
+  catch_rate: 3
+  name:
+    spanish: ARTICUNO
+  pokedex_description:
+    spanish: Un legendario pájaro POKÉMON. Congela el agua que encuentra en el aire
+      para generar nieve
+  species_class:
+    spanish: CONGELAR
+- ids:
+  - - dex_national
+    - 145
+  base_stats:
+    hp: 90
+    attack: 90
+    defense: 85
+    speed: 100
+    special: 125
+  base_yield_exp: 216
+  catch_rate: 3
+  name:
+    spanish: ZAPDOS
+  pokedex_description:
+    spanish: Este legendario pájaro POKÉMON sólo aparece cuando el cielo se torna
+      oscuro y caen rayos
+  species_class:
+    spanish: ELÉCTRICO
+- ids:
+  - - dex_national
+    - 146
+  base_stats:
+    hp: 90
+    attack: 100
+    defense: 90
+    speed: 90
+    special: 125
+  base_yield_exp: 217
+  catch_rate: 3
+  name:
+    spanish: MOLTRES
+  pokedex_description:
+    spanish: Un legendario pájaro POKÉMON. Cuando aletea sus flamígeras alas, la oscura
+      noche se torna roja
+  species_class:
+    spanish: LLAMA
+- ids:
+  - - dex_national
+    - 147
+  base_stats:
+    hp: 41
+    attack: 64
+    defense: 45
+    speed: 50
+    special: 50
+  base_yield_exp: 67
+  catch_rate: 45
+  name:
+    spanish: DRATINI
+  pokedex_description:
+    spanish: La existencia de este POKÉMON ha sido confirmada recientemente por un
+      pescador que cogió uno
+  species_class:
+    spanish: DRAGÓN
+- ids:
+  - - dex_national
+    - 148
+  base_stats:
+    hp: 61
+    attack: 84
+    defense: 65
+    speed: 70
+    special: 70
+  base_yield_exp: 144
+  catch_rate: 27
+  name:
+    spanish: DRAGONAIR
+  pokedex_description:
+    spanish: De acuerdo con un testigo, un aura de extraña forma lo rodea, dándole
+      un misterioso y místico aspecto
+  species_class:
+    spanish: DRAGÓN
+- ids:
+  - - dex_national
+    - 149
+  base_stats:
+    hp: 91
+    attack: 134
+    defense: 95
+    speed: 80
+    special: 100
+  base_yield_exp: 218
+  catch_rate: 9
+  name:
+    spanish: DRAGONITE
+  pokedex_description:
+    spanish: Se dice que este POKÉMON vive en algún lugar del mar, y que vuela. De
+      todos modos, sólo es un rumor
+  species_class:
+    spanish: DRAGÓN
+- ids:
+  - - dex_national
+    - 150
+  base_stats:
+    hp: 106
+    attack: 110
+    defense: 90
+    speed: 130
+    special: 154
+  base_yield_exp: 220
+  catch_rate: 3
+  name:
+    spanish: MEWTWO
+  pokedex_description:
+    spanish: Su ADN es casi el mismo que el de MEW. De todos modos, su tamaño y disposición
+      son diferentes
+  species_class:
+    spanish: GENÉTICO
+- ids:
+  - - dex_national
+    - 151
+  base_stats:
+    hp: 100
+    attack: 100
+    defense: 100
+    speed: 100
+    special: 100
+  base_yield_exp: 64
+  catch_rate: 45
+  name:
+    spanish: MEW
+  pokedex_description:
+    spanish: Cuando es mirado a través de un microscopio, puede observarse el delicado
+      pelo de este POKÉMON
+  species_class:
+    spanish: N.ESPECIE

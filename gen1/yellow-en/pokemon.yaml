@@ -1,0 +1,2718 @@
+- ids:
+  - - dex_national
+    - 1
+  base_stats:
+    hp: 45
+    attack: 49
+    defense: 49
+    speed: 45
+    special: 65
+  base_yield_exp: 64
+  catch_rate: 45
+  name:
+    english: BULBASAUR
+  pokedex_description:
+    english: It can go for days without eating a single morsel. In the bulb on its
+      back, it stores energy.
+  species_class:
+    english: SEED
+- ids:
+  - - dex_national
+    - 2
+  base_stats:
+    hp: 60
+    attack: 62
+    defense: 63
+    speed: 60
+    special: 80
+  base_yield_exp: 141
+  catch_rate: 45
+  name:
+    english: IVYSAUR
+  pokedex_description:
+    english: The bulb on its back grows by drawing energy. It gives off an aroma when
+      it is ready to bloom.
+  species_class:
+    english: SEED
+- ids:
+  - - dex_national
+    - 3
+  base_stats:
+    hp: 80
+    attack: 82
+    defense: 83
+    speed: 80
+    special: 100
+  base_yield_exp: 208
+  catch_rate: 45
+  name:
+    english: VENUSAUR
+  pokedex_description:
+    english: The flower on its back catches the sun's rays. The sunlight is then absorbed
+      and used for energy.
+  species_class:
+    english: SEED
+- ids:
+  - - dex_national
+    - 4
+  base_stats:
+    hp: 39
+    attack: 52
+    defense: 43
+    speed: 65
+    special: 50
+  base_yield_exp: 65
+  catch_rate: 45
+  name:
+    english: CHARMANDER
+  pokedex_description:
+    english: The flame at the tip of its tail makes a sound as it burns. You can only
+      hear it in quiet places.
+  species_class:
+    english: LIZARD
+- ids:
+  - - dex_national
+    - 5
+  base_stats:
+    hp: 58
+    attack: 64
+    defense: 58
+    speed: 80
+    special: 65
+  base_yield_exp: 142
+  catch_rate: 45
+  name:
+    english: CHARMELEON
+  pokedex_description:
+    english: Tough fights could excite this POKÉMON. When excited, it may blow out
+      bluishwhite flames.
+  species_class:
+    english: FLAME
+- ids:
+  - - dex_national
+    - 6
+  base_stats:
+    hp: 78
+    attack: 84
+    defense: 78
+    speed: 100
+    special: 85
+  base_yield_exp: 209
+  catch_rate: 45
+  name:
+    english: CHARIZARD
+  pokedex_description:
+    english: When expelling a blast of super hot fire, the red flame at the tip of
+      its tail burns more intensely.
+  species_class:
+    english: FLAME
+- ids:
+  - - dex_national
+    - 7
+  base_stats:
+    hp: 44
+    attack: 48
+    defense: 65
+    speed: 43
+    special: 50
+  base_yield_exp: 66
+  catch_rate: 45
+  name:
+    english: SQUIRTLE
+  pokedex_description:
+    english: Shoots water at prey while in the water. Withdraws into its shell when
+      in danger.
+  species_class:
+    english: TINYTURTLE
+- ids:
+  - - dex_national
+    - 8
+  base_stats:
+    hp: 59
+    attack: 63
+    defense: 80
+    speed: 58
+    special: 65
+  base_yield_exp: 143
+  catch_rate: 45
+  name:
+    english: WARTORTLE
+  pokedex_description:
+    english: When tapped, this POKÉMON will pull in its head, but its tail will still
+      stick out a little bit.
+  species_class:
+    english: TURTLE
+- ids:
+  - - dex_national
+    - 9
+  base_stats:
+    hp: 79
+    attack: 83
+    defense: 100
+    speed: 78
+    special: 85
+  base_yield_exp: 210
+  catch_rate: 45
+  name:
+    english: BLASTOISE
+  pokedex_description:
+    english: Once it takes aim at its enemy, it blasts out water with even more force
+      than a fire hose.
+  species_class:
+    english: SHELLFISH
+- ids:
+  - - dex_national
+    - 10
+  base_stats:
+    hp: 45
+    attack: 30
+    defense: 35
+    speed: 45
+    special: 20
+  base_yield_exp: 53
+  catch_rate: 255
+  name:
+    english: CATERPIE
+  pokedex_description:
+    english: If you touch the feeler on top of its head, it will release a horrible
+      stink to protect itself.
+  species_class:
+    english: WORM
+- ids:
+  - - dex_national
+    - 11
+  base_stats:
+    hp: 50
+    attack: 20
+    defense: 55
+    speed: 30
+    special: 25
+  base_yield_exp: 72
+  catch_rate: 120
+  name:
+    english: METAPOD
+  pokedex_description:
+    english: Hardens its shell to protect itself. However, a large impact may cause
+      it to pop out of its shell.
+  species_class:
+    english: COCOON
+- ids:
+  - - dex_national
+    - 12
+  base_stats:
+    hp: 60
+    attack: 45
+    defense: 50
+    speed: 70
+    special: 80
+  base_yield_exp: 160
+  catch_rate: 45
+  name:
+    english: BUTTERFREE
+  pokedex_description:
+    english: Its wings, covered with poisonous powders, repel water. This allows it
+      to fly in the rain.
+  species_class:
+    english: BUTTERFLY
+- ids:
+  - - dex_national
+    - 13
+  base_stats:
+    hp: 40
+    attack: 35
+    defense: 30
+    speed: 50
+    special: 20
+  base_yield_exp: 52
+  catch_rate: 255
+  name:
+    english: WEEDLE
+  pokedex_description:
+    english: Beware of the sharp stinger on its head. It hides in grass and bushes
+      where it eats leaves.
+  species_class:
+    english: HAIRY BUG
+- ids:
+  - - dex_national
+    - 14
+  base_stats:
+    hp: 45
+    attack: 25
+    defense: 50
+    speed: 35
+    special: 25
+  base_yield_exp: 71
+  catch_rate: 120
+  name:
+    english: KAKUNA
+  pokedex_description:
+    english: Able to move only slightly. When endangered, it may stick out its stinger
+      and poison its enemy.
+  species_class:
+    english: COCOON
+- ids:
+  - - dex_national
+    - 15
+  base_stats:
+    hp: 65
+    attack: 80
+    defense: 40
+    speed: 75
+    special: 45
+  base_yield_exp: 159
+  catch_rate: 45
+  name:
+    english: BEEDRILL
+  pokedex_description:
+    english: It has 3 poisonous stingers on its forelegs and its tail. They are used
+      to jab its enemy repeatedly.
+  species_class:
+    english: POISON BEE
+- ids:
+  - - dex_national
+    - 16
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 40
+    speed: 56
+    special: 35
+  base_yield_exp: 55
+  catch_rate: 255
+  name:
+    english: PIDGEY
+  pokedex_description:
+    english: Very docile. If attacked, it will often kick up sand to protect itself
+      rather than fight back.
+  species_class:
+    english: TINY BIRD
+- ids:
+  - - dex_national
+    - 17
+  base_stats:
+    hp: 63
+    attack: 60
+    defense: 55
+    speed: 71
+    special: 50
+  base_yield_exp: 113
+  catch_rate: 120
+  name:
+    english: PIDGEOTTO
+  pokedex_description:
+    english: This POKÉMON is full of vitality. It constantly flies around its large
+      territory in search of prey.
+  species_class:
+    english: BIRD
+- ids:
+  - - dex_national
+    - 18
+  base_stats:
+    hp: 83
+    attack: 80
+    defense: 75
+    speed: 91
+    special: 70
+  base_yield_exp: 172
+  catch_rate: 45
+  name:
+    english: PIDGEOT
+  pokedex_description:
+    english: This POKÉMON flies at Mach 2 speed, seeking prey. Its large talons are
+      feared as wicked weapons.
+  species_class:
+    english: BIRD
+- ids:
+  - - dex_national
+    - 19
+  base_stats:
+    hp: 30
+    attack: 56
+    defense: 35
+    speed: 72
+    special: 25
+  base_yield_exp: 57
+  catch_rate: 255
+  name:
+    english: RATTATA
+  pokedex_description:
+    english: Will chew on anything with its fangs. If you see one, it is certain that
+      40 more live in the area.
+  species_class:
+    english: RAT
+- ids:
+  - - dex_national
+    - 20
+  base_stats:
+    hp: 55
+    attack: 81
+    defense: 60
+    speed: 97
+    special: 50
+  base_yield_exp: 116
+  catch_rate: 90
+  name:
+    english: RATICATE
+  pokedex_description:
+    english: Its hind feet are webbed. They act as flippers, so it can swim in rivers
+      and hunt for prey.
+  species_class:
+    english: RAT
+- ids:
+  - - dex_national
+    - 21
+  base_stats:
+    hp: 40
+    attack: 60
+    defense: 30
+    speed: 70
+    special: 31
+  base_yield_exp: 58
+  catch_rate: 255
+  name:
+    english: SPEAROW
+  pokedex_description:
+    english: Inept at flying high. However, it can fly around very fast to protect
+      its territory.
+  species_class:
+    english: TINY BIRD
+- ids:
+  - - dex_national
+    - 22
+  base_stats:
+    hp: 65
+    attack: 90
+    defense: 65
+    speed: 100
+    special: 61
+  base_yield_exp: 162
+  catch_rate: 90
+  name:
+    english: FEAROW
+  pokedex_description:
+    english: A POKÉMON that dates back many years. If it senses danger, it flies high
+      and away, instantly.
+  species_class:
+    english: BEAK
+- ids:
+  - - dex_national
+    - 23
+  base_stats:
+    hp: 35
+    attack: 60
+    defense: 44
+    speed: 55
+    special: 40
+  base_yield_exp: 62
+  catch_rate: 255
+  name:
+    english: EKANS
+  pokedex_description:
+    english: The older it gets, the longer it grows. At night, it wraps its long body
+      around tree branches to rest.
+  species_class:
+    english: SNAKE
+- ids:
+  - - dex_national
+    - 24
+  base_stats:
+    hp: 60
+    attack: 85
+    defense: 69
+    speed: 80
+    special: 65
+  base_yield_exp: 147
+  catch_rate: 90
+  name:
+    english: ARBOK
+  pokedex_description:
+    english: The frightening patterns on its belly have been studied. Six variations
+      have been confirmed.
+  species_class:
+    english: COBRA
+- ids:
+  - - dex_national
+    - 25
+  base_stats:
+    hp: 35
+    attack: 55
+    defense: 30
+    speed: 90
+    special: 50
+  base_yield_exp: 82
+  catch_rate: 190
+  name:
+    english: PIKACHU
+  pokedex_description:
+    english: It keeps its tail raised to monitor its surroundings. If you yank its
+      tail, it will try to bite you.
+  species_class:
+    english: MOUSE
+- ids:
+  - - dex_national
+    - 26
+  base_stats:
+    hp: 60
+    attack: 90
+    defense: 55
+    speed: 100
+    special: 90
+  base_yield_exp: 122
+  catch_rate: 75
+  name:
+    english: RAICHU
+  pokedex_description:
+    english: When electricity builds up inside its body, it becomes feisty. It also
+      glows in the dark.
+  species_class:
+    english: MOUSE
+- ids:
+  - - dex_national
+    - 27
+  base_stats:
+    hp: 50
+    attack: 75
+    defense: 85
+    speed: 40
+    special: 30
+  base_yield_exp: 93
+  catch_rate: 255
+  name:
+    english: SANDSHREW
+  pokedex_description:
+    english: Its body is dry. When it gets cold at night, its hide is said to become
+      coated with a fine dew.
+  species_class:
+    english: MOUSE
+- ids:
+  - - dex_national
+    - 28
+  base_stats:
+    hp: 75
+    attack: 100
+    defense: 110
+    speed: 65
+    special: 55
+  base_yield_exp: 163
+  catch_rate: 90
+  name:
+    english: SANDSLASH
+  pokedex_description:
+    english: It is skilled at slashing enemies with its claws. If broken, they start
+      to grow back in a day.
+  species_class:
+    english: MOUSE
+- ids:
+  - - dex_national
+    - 29
+  base_stats:
+    hp: 55
+    attack: 47
+    defense: 52
+    speed: 41
+    special: 40
+  base_yield_exp: 59
+  catch_rate: 235
+  name:
+    english: NIDORAN♀
+  pokedex_description:
+    english: A mild-mannered POKÉMON that does not like to fight. Beware, its small
+      horns secrete venom.
+  species_class:
+    english: POISON PIN
+- ids:
+  - - dex_national
+    - 30
+  base_stats:
+    hp: 70
+    attack: 62
+    defense: 67
+    speed: 56
+    special: 55
+  base_yield_exp: 117
+  catch_rate: 120
+  name:
+    english: NIDORINA
+  pokedex_description:
+    english: When resting deep in its burrow, its thorns always retract. This is proof
+      that it is relaxed.
+  species_class:
+    english: POISON PIN
+- ids:
+  - - dex_national
+    - 31
+  base_stats:
+    hp: 90
+    attack: 82
+    defense: 87
+    speed: 76
+    special: 75
+  base_yield_exp: 194
+  catch_rate: 45
+  name:
+    english: NIDOQUEEN
+  pokedex_description:
+    english: Tough scales cover the sturdy body of this POKÉMON. It appears that the
+      scales grow in cycles.
+  species_class:
+    english: DRILL
+- ids:
+  - - dex_national
+    - 32
+  base_stats:
+    hp: 46
+    attack: 57
+    defense: 40
+    speed: 50
+    special: 40
+  base_yield_exp: 60
+  catch_rate: 235
+  name:
+    english: NIDORAN♂
+  pokedex_description:
+    english: Its large ears are always kept upright. If it senses danger, it will
+      attack with a poisonous sting.
+  species_class:
+    english: POISON PIN
+- ids:
+  - - dex_national
+    - 33
+  base_stats:
+    hp: 61
+    attack: 72
+    defense: 57
+    speed: 65
+    special: 55
+  base_yield_exp: 118
+  catch_rate: 120
+  name:
+    english: NIDORINO
+  pokedex_description:
+    english: Its horns contain venom. If they are stabbed into an enemy, the impact
+      makes the poison leak out.
+  species_class:
+    english: POISON PIN
+- ids:
+  - - dex_national
+    - 34
+  base_stats:
+    hp: 81
+    attack: 92
+    defense: 77
+    speed: 85
+    special: 75
+  base_yield_exp: 195
+  catch_rate: 45
+  name:
+    english: NIDOKING
+  pokedex_description:
+    english: Its steel-like hide adds to its powerful tackle. Its horns are so hard,
+      they can pierce a diamond.
+  species_class:
+    english: DRILL
+- ids:
+  - - dex_national
+    - 35
+  base_stats:
+    hp: 70
+    attack: 45
+    defense: 48
+    speed: 35
+    special: 60
+  base_yield_exp: 68
+  catch_rate: 150
+  name:
+    english: CLEFAIRY
+  pokedex_description:
+    english: Adored for their cute looks and playfulness. They are thought to be rare,
+      as they do not appear often.
+  species_class:
+    english: FAIRY
+- ids:
+  - - dex_national
+    - 36
+  base_stats:
+    hp: 95
+    attack: 70
+    defense: 73
+    speed: 60
+    special: 85
+  base_yield_exp: 129
+  catch_rate: 25
+  name:
+    english: CLEFABLE
+  pokedex_description:
+    english: They appear to be very protective of their own world. It is a kind of
+      fairy, rarely seen by people.
+  species_class:
+    english: FAIRY
+- ids:
+  - - dex_national
+    - 37
+  base_stats:
+    hp: 38
+    attack: 41
+    defense: 40
+    speed: 65
+    special: 65
+  base_yield_exp: 63
+  catch_rate: 190
+  name:
+    english: VULPIX
+  pokedex_description:
+    english: Both its fur and its tails are beautiful. As it grows, the tails split
+      and form more tails.
+  species_class:
+    english: FOX
+- ids:
+  - - dex_national
+    - 38
+  base_stats:
+    hp: 73
+    attack: 76
+    defense: 75
+    speed: 100
+    special: 100
+  base_yield_exp: 178
+  catch_rate: 75
+  name:
+    english: NINETALES
+  pokedex_description:
+    english: According to an enduring legend, 9 noble saints were united and reincarnated
+      as this POKÉMON.
+  species_class:
+    english: FOX
+- ids:
+  - - dex_national
+    - 39
+  base_stats:
+    hp: 115
+    attack: 45
+    defense: 20
+    speed: 20
+    special: 25
+  base_yield_exp: 76
+  catch_rate: 170
+  name:
+    english: JIGGLYPUFF
+  pokedex_description:
+    english: Uses its alluring eyes to enrapture its foe. It then sings a pleasing
+      melody that lulls the foe to sleep.
+  species_class:
+    english: BALLOON
+- ids:
+  - - dex_national
+    - 40
+  base_stats:
+    hp: 140
+    attack: 70
+    defense: 45
+    speed: 45
+    special: 50
+  base_yield_exp: 109
+  catch_rate: 50
+  name:
+    english: WIGGLYTUFF
+  pokedex_description:
+    english: Its body is full of elasticity. By inhaling deeply, it can continue to
+      inflate itself without limit.
+  species_class:
+    english: BALLOON
+- ids:
+  - - dex_national
+    - 41
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 35
+    speed: 55
+    special: 40
+  base_yield_exp: 54
+  catch_rate: 255
+  name:
+    english: ZUBAT
+  pokedex_description:
+    english: Emits ultrasonic cries while it flies. They act as a sonar used to check
+      for objects in its way.
+  species_class:
+    english: BAT
+- ids:
+  - - dex_national
+    - 42
+  base_stats:
+    hp: 75
+    attack: 80
+    defense: 70
+    speed: 90
+    special: 75
+  base_yield_exp: 171
+  catch_rate: 90
+  name:
+    english: GOLBAT
+  pokedex_description:
+    english: It attacks in a stealthy manner, without warning. Its sharp fangs are
+      used to bite and suck blood.
+  species_class:
+    english: BAT
+- ids:
+  - - dex_national
+    - 43
+  base_stats:
+    hp: 45
+    attack: 50
+    defense: 55
+    speed: 30
+    special: 75
+  base_yield_exp: 78
+  catch_rate: 255
+  name:
+    english: ODDISH
+  pokedex_description:
+    english: It may be mistaken for a clump of weeds. If you try to yank it out of
+      the ground, it shrieks horribly.
+  species_class:
+    english: WEED
+- ids:
+  - - dex_national
+    - 44
+  base_stats:
+    hp: 60
+    attack: 65
+    defense: 70
+    speed: 40
+    special: 85
+  base_yield_exp: 132
+  catch_rate: 120
+  name:
+    english: GLOOM
+  pokedex_description:
+    english: Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing
+      its nosebending stink.
+  species_class:
+    english: WEED
+- ids:
+  - - dex_national
+    - 45
+  base_stats:
+    hp: 75
+    attack: 80
+    defense: 85
+    speed: 50
+    special: 100
+  base_yield_exp: 184
+  catch_rate: 45
+  name:
+    english: VILEPLUME
+  pokedex_description:
+    english: Flaps its broad flower petals to scatter its poisonous pollen. The flapping
+      sound is very loud.
+  species_class:
+    english: FLOWER
+- ids:
+  - - dex_national
+    - 46
+  base_stats:
+    hp: 35
+    attack: 70
+    defense: 55
+    speed: 25
+    special: 55
+  base_yield_exp: 70
+  catch_rate: 190
+  name:
+    english: PARAS
+  pokedex_description:
+    english: Burrows under the ground to gnaw on tree roots. The mushrooms on its
+      back absorb most of the nutrition.
+  species_class:
+    english: MUSHROOM
+- ids:
+  - - dex_national
+    - 47
+  base_stats:
+    hp: 60
+    attack: 95
+    defense: 80
+    speed: 30
+    special: 80
+  base_yield_exp: 128
+  catch_rate: 75
+  name:
+    english: PARASECT
+  pokedex_description:
+    english: The bug host is drained of energy by the mushrooms on its back. They
+      appear to do all the thinking.
+  species_class:
+    english: MUSHROOM
+- ids:
+  - - dex_national
+    - 48
+  base_stats:
+    hp: 60
+    attack: 55
+    defense: 50
+    speed: 45
+    special: 40
+  base_yield_exp: 75
+  catch_rate: 190
+  name:
+    english: VENONAT
+  pokedex_description:
+    english: Its large eyes act as radars. In a bright place, you can see that they
+      are clusters of many tiny eyes.
+  species_class:
+    english: INSECT
+- ids:
+  - - dex_national
+    - 49
+  base_stats:
+    hp: 70
+    attack: 65
+    defense: 60
+    speed: 90
+    special: 90
+  base_yield_exp: 138
+  catch_rate: 75
+  name:
+    english: VENOMOTH
+  pokedex_description:
+    english: The powdery scales on its wings are hard to remove. They also contain
+      poison that leaks out on contact.
+  species_class:
+    english: POISONMOTH
+- ids:
+  - - dex_national
+    - 50
+  base_stats:
+    hp: 10
+    attack: 55
+    defense: 25
+    speed: 95
+    special: 45
+  base_yield_exp: 81
+  catch_rate: 255
+  name:
+    english: DIGLETT
+  pokedex_description:
+    english: It prefers dark places. It spends most of its time underground, though
+      it may pop up in caves.
+  species_class:
+    english: MOLE
+- ids:
+  - - dex_national
+    - 51
+  base_stats:
+    hp: 35
+    attack: 80
+    defense: 50
+    speed: 120
+    special: 70
+  base_yield_exp: 153
+  catch_rate: 50
+  name:
+    english: DUGTRIO
+  pokedex_description:
+    english: A team of triplets that can burrow over 60 MPH. Due to this, some people
+      think it's an earthquake.
+  species_class:
+    english: MOLE
+- ids:
+  - - dex_national
+    - 52
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 35
+    speed: 90
+    special: 40
+  base_yield_exp: 69
+  catch_rate: 255
+  name:
+    english: MEOWTH
+  pokedex_description:
+    english: Appears to be more active at night. It loves round and shiny things.
+      It can't stop from picking them up.
+  species_class:
+    english: SCRATCHCAT
+- ids:
+  - - dex_national
+    - 53
+  base_stats:
+    hp: 65
+    attack: 70
+    defense: 60
+    speed: 115
+    special: 65
+  base_yield_exp: 148
+  catch_rate: 90
+  name:
+    english: PERSIAN
+  pokedex_description:
+    english: The gem in its forehead glows on its own! It walks with all the grace
+      and elegance of a proud queen.
+  species_class:
+    english: CLASSY CAT
+- ids:
+  - - dex_national
+    - 54
+  base_stats:
+    hp: 50
+    attack: 52
+    defense: 48
+    speed: 55
+    special: 50
+  base_yield_exp: 80
+  catch_rate: 190
+  name:
+    english: PSYDUCK
+  pokedex_description:
+    english: Always tormented by headaches. It uses psychic powers, but it is not
+      known if it intends to do so.
+  species_class:
+    english: DUCK
+- ids:
+  - - dex_national
+    - 55
+  base_stats:
+    hp: 80
+    attack: 82
+    defense: 78
+    speed: 85
+    special: 80
+  base_yield_exp: 174
+  catch_rate: 75
+  name:
+    english: GOLDUCK
+  pokedex_description:
+    english: Its slim and long limbs end in broad flippers. They are used for swimming
+      gracefully in lakes.
+  species_class:
+    english: DUCK
+- ids:
+  - - dex_national
+    - 56
+  base_stats:
+    hp: 40
+    attack: 80
+    defense: 35
+    speed: 70
+    special: 35
+  base_yield_exp: 74
+  catch_rate: 190
+  name:
+    english: MANKEY
+  pokedex_description:
+    english: An agile POKÉMON that lives in trees. It angers easily and will not hesitate
+      to attack anything.
+  species_class:
+    english: PIG MONKEY
+- ids:
+  - - dex_national
+    - 57
+  base_stats:
+    hp: 65
+    attack: 105
+    defense: 60
+    speed: 95
+    special: 60
+  base_yield_exp: 149
+  catch_rate: 75
+  name:
+    english: PRIMEAPE
+  pokedex_description:
+    english: It stops being angry only when nobody else is around. To view this moment
+      is very difficult.
+  species_class:
+    english: PIG MONKEY
+- ids:
+  - - dex_national
+    - 58
+  base_stats:
+    hp: 55
+    attack: 70
+    defense: 45
+    speed: 60
+    special: 50
+  base_yield_exp: 91
+  catch_rate: 190
+  name:
+    english: GROWLITHE
+  pokedex_description:
+    english: A POKÉMON with a friendly nature. However, it will bark fiercely at anything
+      invading its territory.
+  species_class:
+    english: PUPPY
+- ids:
+  - - dex_national
+    - 59
+  base_stats:
+    hp: 90
+    attack: 110
+    defense: 80
+    speed: 95
+    special: 80
+  base_yield_exp: 213
+  catch_rate: 75
+  name:
+    english: ARCANINE
+  pokedex_description:
+    english: A legendary POKÉMON in China. Many people are charmed by its grace and
+      beauty while running.
+  species_class:
+    english: LEGENDARY
+- ids:
+  - - dex_national
+    - 60
+  base_stats:
+    hp: 40
+    attack: 50
+    defense: 40
+    speed: 90
+    special: 40
+  base_yield_exp: 77
+  catch_rate: 255
+  name:
+    english: POLIWAG
+  pokedex_description:
+    english: The direction of the spiral on the belly differs by area. It is more
+      adept at swimming than walking.
+  species_class:
+    english: TADPOLE
+- ids:
+  - - dex_national
+    - 61
+  base_stats:
+    hp: 65
+    attack: 65
+    defense: 65
+    speed: 90
+    special: 50
+  base_yield_exp: 131
+  catch_rate: 120
+  name:
+    english: POLIWHIRL
+  pokedex_description:
+    english: Under attack, it uses its belly  spiral to put the foe to sleep. It then
+      makes its escape.
+  species_class:
+    english: TADPOLE
+- ids:
+  - - dex_national
+    - 62
+  base_stats:
+    hp: 90
+    attack: 85
+    defense: 95
+    speed: 70
+    special: 70
+  base_yield_exp: 185
+  catch_rate: 45
+  name:
+    english: POLIWRATH
+  pokedex_description:
+    english: Swims powerfully using all the muscles in its body. It can even overtake
+      champion swimmers.
+  species_class:
+    english: TADPOLE
+- ids:
+  - - dex_national
+    - 63
+  base_stats:
+    hp: 25
+    attack: 20
+    defense: 15
+    speed: 90
+    special: 105
+  base_yield_exp: 73
+  catch_rate: 200
+  name:
+    english: ABRA
+  pokedex_description:
+    english: Sleeps 18 hours a day. If it senses danger, it will teleport itself to
+      safety even as it sleeps.
+  species_class:
+    english: PSI
+- ids:
+  - - dex_national
+    - 64
+  base_stats:
+    hp: 40
+    attack: 35
+    defense: 30
+    speed: 105
+    special: 120
+  base_yield_exp: 145
+  catch_rate: 100
+  name:
+    english: KADABRA
+  pokedex_description:
+    english: Many odd things happen if this POKÉMON is close by. For example, it makes
+      clocks run backwards.
+  species_class:
+    english: PSI
+- ids:
+  - - dex_national
+    - 65
+  base_stats:
+    hp: 55
+    attack: 50
+    defense: 45
+    speed: 120
+    special: 135
+  base_yield_exp: 186
+  catch_rate: 50
+  name:
+    english: ALAKAZAM
+  pokedex_description:
+    english: A POKÉMON that can memorize anything. It never forgets what it learns-that's
+      why this POKÉMON is smart.
+  species_class:
+    english: PSI
+- ids:
+  - - dex_national
+    - 66
+  base_stats:
+    hp: 70
+    attack: 80
+    defense: 50
+    speed: 35
+    special: 35
+  base_yield_exp: 88
+  catch_rate: 180
+  name:
+    english: MACHOP
+  pokedex_description:
+    english: Very powerful in spite of its small size. Its mastery of many types of
+      martial arts makes it very tough.
+  species_class:
+    english: SUPERPOWER
+- ids:
+  - - dex_national
+    - 67
+  base_stats:
+    hp: 80
+    attack: 100
+    defense: 70
+    speed: 45
+    special: 50
+  base_yield_exp: 146
+  catch_rate: 90
+  name:
+    english: MACHOKE
+  pokedex_description:
+    english: The belt around its waist holds back its energy. Without it, this POKÉMON
+      would be unstoppable.
+  species_class:
+    english: SUPERPOWER
+- ids:
+  - - dex_national
+    - 68
+  base_stats:
+    hp: 90
+    attack: 130
+    defense: 80
+    speed: 55
+    special: 65
+  base_yield_exp: 193
+  catch_rate: 45
+  name:
+    english: MACHAMP
+  pokedex_description:
+    english: One arm alone can move mountains. Using all four arms, this POKÉMON fires
+      off awesome punches.
+  species_class:
+    english: SUPERPOWER
+- ids:
+  - - dex_national
+    - 69
+  base_stats:
+    hp: 50
+    attack: 75
+    defense: 35
+    speed: 40
+    special: 70
+  base_yield_exp: 84
+  catch_rate: 255
+  name:
+    english: BELLSPROUT
+  pokedex_description:
+    english: Prefers hot and humid places. It ensnares tiny insects with its vines
+      and devours them.
+  species_class:
+    english: FLOWER
+- ids:
+  - - dex_national
+    - 70
+  base_stats:
+    hp: 65
+    attack: 90
+    defense: 50
+    speed: 55
+    special: 85
+  base_yield_exp: 151
+  catch_rate: 120
+  name:
+    english: WEEPINBELL
+  pokedex_description:
+    english: When hungry, it swallows anything that moves. Its hapless prey is melted
+      inside by strong acids.
+  species_class:
+    english: FLYCATCHER
+- ids:
+  - - dex_national
+    - 71
+  base_stats:
+    hp: 80
+    attack: 105
+    defense: 65
+    speed: 70
+    special: 100
+  base_yield_exp: 191
+  catch_rate: 45
+  name:
+    english: VICTREEBEL
+  pokedex_description:
+    english: Lures prey with the sweet aroma of honey. Swallowed whole, the prey is
+      melted in a day, bones and all.
+  species_class:
+    english: FLYCATCHER
+- ids:
+  - - dex_national
+    - 72
+  base_stats:
+    hp: 40
+    attack: 40
+    defense: 35
+    speed: 70
+    special: 100
+  base_yield_exp: 105
+  catch_rate: 190
+  name:
+    english: TENTACOOL
+  pokedex_description:
+    english: It can sometimes be found all dry and shriveled up on a beach. Toss it
+      back into the sea to revive it.
+  species_class:
+    english: JELLYFISH
+- ids:
+  - - dex_national
+    - 73
+  base_stats:
+    hp: 80
+    attack: 70
+    defense: 65
+    speed: 100
+    special: 120
+  base_yield_exp: 205
+  catch_rate: 60
+  name:
+    english: TENTACRUEL
+  pokedex_description:
+    english: Its 80 tentacles can stretch and contract freely. They wrap around prey
+      and weaken it with poison.
+  species_class:
+    english: JELLYFISH
+- ids:
+  - - dex_national
+    - 74
+  base_stats:
+    hp: 40
+    attack: 80
+    defense: 100
+    speed: 20
+    special: 30
+  base_yield_exp: 86
+  catch_rate: 255
+  name:
+    english: GEODUDE
+  pokedex_description:
+    english: Commonly found near mountain trails, etc. If you step on one by accident,
+      it gets angry.
+  species_class:
+    english: ROCK
+- ids:
+  - - dex_national
+    - 75
+  base_stats:
+    hp: 55
+    attack: 95
+    defense: 115
+    speed: 35
+    special: 45
+  base_yield_exp: 134
+  catch_rate: 120
+  name:
+    english: GRAVELER
+  pokedex_description:
+    english: Often seen rolling down mountain trails. Obstacles are just things to
+      roll straight over, not avoid.
+  species_class:
+    english: ROCK
+- ids:
+  - - dex_national
+    - 76
+  base_stats:
+    hp: 80
+    attack: 110
+    defense: 130
+    speed: 45
+    special: 55
+  base_yield_exp: 177
+  catch_rate: 45
+  name:
+    english: GOLEM
+  pokedex_description:
+    english: Once it sheds its skin, its body turns tender and whitish. Its hide hardens
+      when it's exposed to air.
+  species_class:
+    english: MEGATON
+- ids:
+  - - dex_national
+    - 77
+  base_stats:
+    hp: 50
+    attack: 85
+    defense: 55
+    speed: 90
+    special: 65
+  base_yield_exp: 152
+  catch_rate: 190
+  name:
+    english: PONYTA
+  pokedex_description:
+    english: Capable of jumping incredibly high. Its hooves and sturdy legs absorb
+      the impact of a hard landing.
+  species_class:
+    english: FIRE HORSE
+- ids:
+  - - dex_national
+    - 78
+  base_stats:
+    hp: 65
+    attack: 100
+    defense: 70
+    speed: 105
+    special: 80
+  base_yield_exp: 192
+  catch_rate: 60
+  name:
+    english: RAPIDASH
+  pokedex_description:
+    english: Just loves to run. If it sees something faster than itself, it will give
+      chase at top speed.
+  species_class:
+    english: FIRE HORSE
+- ids:
+  - - dex_national
+    - 79
+  base_stats:
+    hp: 90
+    attack: 65
+    defense: 65
+    speed: 15
+    special: 40
+  base_yield_exp: 99
+  catch_rate: 190
+  name:
+    english: SLOWPOKE
+  pokedex_description:
+    english: Incredibly slow and sluggish. It is quite content to loll about without
+      worrying about the time.
+  species_class:
+    english: DOPEY
+- ids:
+  - - dex_national
+    - 80
+  base_stats:
+    hp: 95
+    attack: 75
+    defense: 110
+    speed: 30
+    special: 80
+  base_yield_exp: 164
+  catch_rate: 75
+  name:
+    english: SLOWBRO
+  pokedex_description:
+    english: Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes
+      a SLOWPOKE again.
+  species_class:
+    english: HERMITCRAB
+- ids:
+  - - dex_national
+    - 81
+  base_stats:
+    hp: 25
+    attack: 35
+    defense: 70
+    speed: 45
+    special: 95
+  base_yield_exp: 89
+  catch_rate: 190
+  name:
+    english: MAGNEMITE
+  pokedex_description:
+    english: It is born with the ability to defy gravity. It floats in air on powerful
+      electromagnetic waves.
+  species_class:
+    english: MAGNET
+- ids:
+  - - dex_national
+    - 82
+  base_stats:
+    hp: 50
+    attack: 60
+    defense: 95
+    speed: 70
+    special: 120
+  base_yield_exp: 161
+  catch_rate: 60
+  name:
+    english: MAGNETON
+  pokedex_description:
+    english: Generates strange radio signals. It raises the temperature by 3.6F degrees
+      within 3,300 feet.
+  species_class:
+    english: MAGNET
+- ids:
+  - - dex_national
+    - 83
+  base_stats:
+    hp: 52
+    attack: 65
+    defense: 55
+    speed: 60
+    special: 58
+  base_yield_exp: 94
+  catch_rate: 45
+  name:
+    english: FARFETCH'D
+  pokedex_description:
+    english: Lives where reedy plants grow. They are rarely seen, so it's thought
+      their numbers are decreasing.
+  species_class:
+    english: WILD DUCK
+- ids:
+  - - dex_national
+    - 84
+  base_stats:
+    hp: 35
+    attack: 85
+    defense: 45
+    speed: 75
+    special: 35
+  base_yield_exp: 96
+  catch_rate: 190
+  name:
+    english: DODUO
+  pokedex_description:
+    english: Its short wings make flying difficult. Instead, this POKÉMON runs at
+      high speed on developed legs.
+  species_class:
+    english: TWIN BIRD
+- ids:
+  - - dex_national
+    - 85
+  base_stats:
+    hp: 60
+    attack: 110
+    defense: 70
+    speed: 100
+    special: 60
+  base_yield_exp: 158
+  catch_rate: 45
+  name:
+    english: DODRIO
+  pokedex_description:
+    english: One of DODUO's 2 heads splits to form a unique species. It runs close
+      to 40 MPH in prairies.
+  species_class:
+    english: TRIPLEBIRD
+- ids:
+  - - dex_national
+    - 86
+  base_stats:
+    hp: 65
+    attack: 45
+    defense: 55
+    speed: 45
+    special: 70
+  base_yield_exp: 100
+  catch_rate: 190
+  name:
+    english: SEEL
+  pokedex_description:
+    english: Loves freezing cold conditions. Relishes swimming in a frigid climate
+      of around 14F degrees.
+  species_class:
+    english: SEA LION
+- ids:
+  - - dex_national
+    - 87
+  base_stats:
+    hp: 90
+    attack: 70
+    defense: 80
+    speed: 70
+    special: 95
+  base_yield_exp: 176
+  catch_rate: 75
+  name:
+    english: DEWGONG
+  pokedex_description:
+    english: Its entire body is a snowy-white. Unharmed by even intense cold, it swims
+      powerfully in icy waters.
+  species_class:
+    english: SEA LION
+- ids:
+  - - dex_national
+    - 88
+  base_stats:
+    hp: 80
+    attack: 80
+    defense: 50
+    speed: 25
+    special: 40
+  base_yield_exp: 90
+  catch_rate: 190
+  name:
+    english: GRIMER
+  pokedex_description:
+    english: Made of hardened sludge. It smells too putrid to touch. Even weeds won't
+      grow in its path.
+  species_class:
+    english: SLUDGE
+- ids:
+  - - dex_national
+    - 89
+  base_stats:
+    hp: 105
+    attack: 105
+    defense: 75
+    speed: 50
+    special: 65
+  base_yield_exp: 157
+  catch_rate: 75
+  name:
+    english: MUK
+  pokedex_description:
+    english: Smells so awful, it can cause fainting. Through degeneration, it lost
+      its sense of smell.
+  species_class:
+    english: SLUDGE
+- ids:
+  - - dex_national
+    - 90
+  base_stats:
+    hp: 30
+    attack: 65
+    defense: 100
+    speed: 40
+    special: 45
+  base_yield_exp: 97
+  catch_rate: 190
+  name:
+    english: SHELLDER
+  pokedex_description:
+    english: The shell can withstand any attack. However, when it is open, the tender
+      body is exposed.
+  species_class:
+    english: BIVALVE
+- ids:
+  - - dex_national
+    - 91
+  base_stats:
+    hp: 50
+    attack: 95
+    defense: 180
+    speed: 70
+    special: 85
+  base_yield_exp: 203
+  catch_rate: 60
+  name:
+    english: CLOYSTER
+  pokedex_description:
+    english: For protection, it uses its harderthan-diamonds shell. It also shoots
+      spikes from the shell.
+  species_class:
+    english: BIVALVE
+- ids:
+  - - dex_national
+    - 92
+  base_stats:
+    hp: 30
+    attack: 35
+    defense: 30
+    speed: 80
+    special: 100
+  base_yield_exp: 95
+  catch_rate: 190
+  name:
+    english: GASTLY
+  pokedex_description:
+    english: Said to appear in decrepit, deserted buildings. It has no real shape
+      as it appears to be made of a gas.
+  species_class:
+    english: GAS
+- ids:
+  - - dex_national
+    - 93
+  base_stats:
+    hp: 45
+    attack: 50
+    defense: 45
+    speed: 95
+    special: 115
+  base_yield_exp: 126
+  catch_rate: 90
+  name:
+    english: HAUNTER
+  pokedex_description:
+    english: By licking, it saps the victim's life. It causes shaking that won't stop
+      until the victim's demise.
+  species_class:
+    english: GAS
+- ids:
+  - - dex_national
+    - 94
+  base_stats:
+    hp: 60
+    attack: 65
+    defense: 60
+    speed: 110
+    special: 130
+  base_yield_exp: 190
+  catch_rate: 45
+  name:
+    english: GENGAR
+  pokedex_description:
+    english: A GENGAR is close by if you feel a sudden chill. It may be trying to
+      lay a curse on you.
+  species_class:
+    english: SHADOW
+- ids:
+  - - dex_national
+    - 95
+  base_stats:
+    hp: 35
+    attack: 45
+    defense: 160
+    speed: 70
+    special: 30
+  base_yield_exp: 108
+  catch_rate: 45
+  name:
+    english: ONIX
+  pokedex_description:
+    english: Burrows at high speed in search of food. The tunnels it leaves are used
+      as homes by DIGLETTs.
+  species_class:
+    english: ROCK SNAKE
+- ids:
+  - - dex_national
+    - 96
+  base_stats:
+    hp: 60
+    attack: 48
+    defense: 45
+    speed: 42
+    special: 90
+  base_yield_exp: 102
+  catch_rate: 190
+  name:
+    english: DROWZEE
+  pokedex_description:
+    english: If you sleep by it all the time, it will sometimes show you dreams it
+      has eaten in the past.
+  species_class:
+    english: HYPNOSIS
+- ids:
+  - - dex_national
+    - 97
+  base_stats:
+    hp: 85
+    attack: 73
+    defense: 70
+    speed: 67
+    special: 115
+  base_yield_exp: 165
+  catch_rate: 75
+  name:
+    english: HYPNO
+  pokedex_description:
+    english: Avoid eye contact if you come across one. It will try to put you to sleep
+      by using its pendulum.
+  species_class:
+    english: HYPNOSIS
+- ids:
+  - - dex_national
+    - 98
+  base_stats:
+    hp: 30
+    attack: 105
+    defense: 90
+    speed: 50
+    special: 25
+  base_yield_exp: 115
+  catch_rate: 225
+  name:
+    english: KRABBY
+  pokedex_description:
+    english: Its pincers are superb weapons. They sometimes break off during battle,
+      but they grow back fast.
+  species_class:
+    english: RIVER CRAB
+- ids:
+  - - dex_national
+    - 99
+  base_stats:
+    hp: 55
+    attack: 130
+    defense: 115
+    speed: 75
+    special: 50
+  base_yield_exp: 206
+  catch_rate: 60
+  name:
+    english: KINGLER
+  pokedex_description:
+    english: One claw grew massively and as hard as steel. It has 10,000-HP strength.
+      However, it is too heavy.
+  species_class:
+    english: PINCER
+- ids:
+  - - dex_national
+    - 100
+  base_stats:
+    hp: 40
+    attack: 30
+    defense: 50
+    speed: 100
+    special: 55
+  base_yield_exp: 103
+  catch_rate: 190
+  name:
+    english: VOLTORB
+  pokedex_description:
+    english: It is said to camouflage itself as a POKÉ BALL. It will self-destruct
+      with very little stimulus.
+  species_class:
+    english: BALL
+- ids:
+  - - dex_national
+    - 101
+  base_stats:
+    hp: 60
+    attack: 50
+    defense: 70
+    speed: 140
+    special: 80
+  base_yield_exp: 150
+  catch_rate: 60
+  name:
+    english: ELECTRODE
+  pokedex_description:
+    english: Stores electrical energy inside its body. Even the slightest shock could
+      trigger a huge explosion.
+  species_class:
+    english: BALL
+- ids:
+  - - dex_national
+    - 102
+  base_stats:
+    hp: 60
+    attack: 40
+    defense: 80
+    speed: 40
+    special: 60
+  base_yield_exp: 98
+  catch_rate: 90
+  name:
+    english: EXEGGCUTE
+  pokedex_description:
+    english: The heads attract each other and spin around. There must be 6 heads for
+      it to maintain balance.
+  species_class:
+    english: EGG
+- ids:
+  - - dex_national
+    - 103
+  base_stats:
+    hp: 95
+    attack: 95
+    defense: 85
+    speed: 55
+    special: 125
+  base_yield_exp: 212
+  catch_rate: 45
+  name:
+    english: EXEGGUTOR
+  pokedex_description:
+    english: Its cries are very noisy. This is because each of the 3 heads thinks
+      about whatever it likes.
+  species_class:
+    english: COCONUT
+- ids:
+  - - dex_national
+    - 104
+  base_stats:
+    hp: 50
+    attack: 50
+    defense: 95
+    speed: 35
+    special: 40
+  base_yield_exp: 87
+  catch_rate: 190
+  name:
+    english: CUBONE
+  pokedex_description:
+    english: Wears the skull of its deceased mother. Its cries echo inside the skull
+      and come out as a sad melody.
+  species_class:
+    english: LONELY
+- ids:
+  - - dex_national
+    - 105
+  base_stats:
+    hp: 60
+    attack: 80
+    defense: 110
+    speed: 45
+    special: 50
+  base_yield_exp: 124
+  catch_rate: 75
+  name:
+    english: MAROWAK
+  pokedex_description:
+    english: Small and weak, this POKÉMON is adept with its bone club. It has grown
+      more vicious over the ages.
+  species_class:
+    english: BONEKEEPER
+- ids:
+  - - dex_national
+    - 106
+  base_stats:
+    hp: 50
+    attack: 120
+    defense: 53
+    speed: 87
+    special: 35
+  base_yield_exp: 139
+  catch_rate: 45
+  name:
+    english: HITMONLEE
+  pokedex_description:
+    english: When kicking, the sole of its foot turns as hard as a diamond on impact
+      and destroys its enemy.
+  species_class:
+    english: KICKING
+- ids:
+  - - dex_national
+    - 107
+  base_stats:
+    hp: 50
+    attack: 105
+    defense: 79
+    speed: 76
+    special: 35
+  base_yield_exp: 140
+  catch_rate: 45
+  name:
+    english: HITMONCHAN
+  pokedex_description:
+    english: Punches in corkscrew fashion. It can punch its way through a concrete
+      wall in the same way as a drill.
+  species_class:
+    english: PUNCHING
+- ids:
+  - - dex_national
+    - 108
+  base_stats:
+    hp: 90
+    attack: 55
+    defense: 75
+    speed: 30
+    special: 60
+  base_yield_exp: 127
+  catch_rate: 45
+  name:
+    english: LICKITUNG
+  pokedex_description:
+    english: Its tongue spans almost 7 feet and moves more freely than its forelegs.
+      Its licks can cause paralysis.
+  species_class:
+    english: LICKING
+- ids:
+  - - dex_national
+    - 109
+  base_stats:
+    hp: 40
+    attack: 65
+    defense: 95
+    speed: 35
+    special: 60
+  base_yield_exp: 114
+  catch_rate: 190
+  name:
+    english: KOFFING
+  pokedex_description:
+    english: In hot places, its internal gases could expand and explode without any
+      warning. Be very careful!
+  species_class:
+    english: POISON GAS
+- ids:
+  - - dex_national
+    - 110
+  base_stats:
+    hp: 65
+    attack: 90
+    defense: 120
+    speed: 60
+    special: 85
+  base_yield_exp: 173
+  catch_rate: 60
+  name:
+    english: WEEZING
+  pokedex_description:
+    english: It lives and grows by absorbing dust, germs and poison gases that are
+      contained in toxic waste and garbage.
+  species_class:
+    english: POISON GAS
+- ids:
+  - - dex_national
+    - 111
+  base_stats:
+    hp: 80
+    attack: 85
+    defense: 95
+    speed: 25
+    special: 30
+  base_yield_exp: 135
+  catch_rate: 120
+  name:
+    english: RHYHORN
+  pokedex_description:
+    english: A POKÉMON with a one-track mind. Once it charges,  it won't stop running
+      until it falls asleep.
+  species_class:
+    english: SPIKES
+- ids:
+  - - dex_national
+    - 112
+  base_stats:
+    hp: 105
+    attack: 130
+    defense: 120
+    speed: 40
+    special: 45
+  base_yield_exp: 204
+  catch_rate: 60
+  name:
+    english: RHYDON
+  pokedex_description:
+    english: Walks on its hind legs. Shows signs of intelligence. Its armor-like hide
+      even repels molten lava.
+  species_class:
+    english: DRILL
+- ids:
+  - - dex_national
+    - 113
+  base_stats:
+    hp: 250
+    attack: 5
+    defense: 5
+    speed: 50
+    special: 105
+  base_yield_exp: 255
+  catch_rate: 30
+  name:
+    english: CHANSEY
+  pokedex_description:
+    english: A gentle and kindhearted POKÉMON that shares its nutritious eggs if it
+      sees an injured POKÉMON.
+  species_class:
+    english: EGG
+- ids:
+  - - dex_national
+    - 114
+  base_stats:
+    hp: 65
+    attack: 55
+    defense: 115
+    speed: 60
+    special: 100
+  base_yield_exp: 166
+  catch_rate: 45
+  name:
+    english: TANGELA
+  pokedex_description:
+    english: Its identity is obscured by masses of thick, blue vines. The vines are
+      said to never stop growing.
+  species_class:
+    english: VINE
+- ids:
+  - - dex_national
+    - 115
+  base_stats:
+    hp: 105
+    attack: 95
+    defense: 80
+    speed: 90
+    special: 40
+  base_yield_exp: 175
+  catch_rate: 45
+  name:
+    english: KANGASKHAN
+  pokedex_description:
+    english: Raises its young in its belly pouch. Won't run from any fight to keep
+      its young protected.
+  species_class:
+    english: PARENT
+- ids:
+  - - dex_national
+    - 116
+  base_stats:
+    hp: 30
+    attack: 40
+    defense: 70
+    speed: 60
+    special: 70
+  base_yield_exp: 83
+  catch_rate: 225
+  name:
+    english: HORSEA
+  pokedex_description:
+    english: If it senses any danger, it will vigorously spray water or a special
+      type of ink from its mouth.
+  species_class:
+    english: DRAGON
+- ids:
+  - - dex_national
+    - 117
+  base_stats:
+    hp: 55
+    attack: 65
+    defense: 95
+    speed: 85
+    special: 95
+  base_yield_exp: 155
+  catch_rate: 75
+  name:
+    english: SEADRA
+  pokedex_description:
+    english: Touching the back fin causes numbness. It hooks its tail to coral to
+      stay in place while sleeping.
+  species_class:
+    english: DRAGON
+- ids:
+  - - dex_national
+    - 118
+  base_stats:
+    hp: 45
+    attack: 67
+    defense: 60
+    speed: 63
+    special: 50
+  base_yield_exp: 111
+  catch_rate: 225
+  name:
+    english: GOLDEEN
+  pokedex_description:
+    english: When it is time for them to lay eggs, they can be seen swimming up rivers
+      and falls in large groups.
+  species_class:
+    english: GOLDFISH
+- ids:
+  - - dex_national
+    - 119
+  base_stats:
+    hp: 80
+    attack: 92
+    defense: 65
+    speed: 68
+    special: 80
+  base_yield_exp: 170
+  catch_rate: 60
+  name:
+    english: SEAKING
+  pokedex_description:
+    english: It is the male's job to make a nest by carving out boulders in a stream
+      using the horn on its head.
+  species_class:
+    english: GOLDFISH
+- ids:
+  - - dex_national
+    - 120
+  base_stats:
+    hp: 30
+    attack: 45
+    defense: 55
+    speed: 85
+    special: 70
+  base_yield_exp: 106
+  catch_rate: 225
+  name:
+    english: STARYU
+  pokedex_description:
+    english: As long as the center section is unharmed, it can grow back fully even
+      if it is chopped to bits.
+  species_class:
+    english: STARSHAPE
+- ids:
+  - - dex_national
+    - 121
+  base_stats:
+    hp: 60
+    attack: 75
+    defense: 85
+    speed: 115
+    special: 100
+  base_yield_exp: 207
+  catch_rate: 60
+  name:
+    english: STARMIE
+  pokedex_description:
+    english: The center section is named the core. People think it is communicating
+      when it glows in 7 colors.
+  species_class:
+    english: MYSTERIOUS
+- ids:
+  - - dex_national
+    - 122
+  base_stats:
+    hp: 40
+    attack: 45
+    defense: 65
+    speed: 90
+    special: 100
+  base_yield_exp: 136
+  catch_rate: 45
+  name:
+    english: MR.MIME
+  pokedex_description:
+    english: Always practices its pantomime act. It makes enemies believe something
+      exists that really doesn't.
+  species_class:
+    english: BARRIER
+- ids:
+  - - dex_national
+    - 123
+  base_stats:
+    hp: 70
+    attack: 110
+    defense: 80
+    speed: 105
+    special: 55
+  base_yield_exp: 187
+  catch_rate: 45
+  name:
+    english: SCYTHER
+  pokedex_description:
+    english: Leaps out of tall grass and slices prey with its scythes. The movement
+      looks like that of a ninja.
+  species_class:
+    english: MANTIS
+- ids:
+  - - dex_national
+    - 124
+  base_stats:
+    hp: 65
+    attack: 50
+    defense: 35
+    speed: 95
+    special: 95
+  base_yield_exp: 137
+  catch_rate: 45
+  name:
+    english: JYNX
+  pokedex_description:
+    english: Appears to move to a rhythm of its own, as if it were dancing. It wiggles
+      its hips as it walks.
+  species_class:
+    english: HUMANSHAPE
+- ids:
+  - - dex_national
+    - 125
+  base_stats:
+    hp: 65
+    attack: 83
+    defense: 57
+    speed: 105
+    special: 85
+  base_yield_exp: 156
+  catch_rate: 45
+  name:
+    english: ELECTABUZZ
+  pokedex_description:
+    english: If a major power outage occurs, it is certain that this POKÉMON has eaten
+      electricity at a power plant.
+  species_class:
+    english: ELECTRIC
+- ids:
+  - - dex_national
+    - 126
+  base_stats:
+    hp: 65
+    attack: 95
+    defense: 57
+    speed: 93
+    special: 85
+  base_yield_exp: 167
+  catch_rate: 45
+  name:
+    english: MAGMAR
+  pokedex_description:
+    english: Born in an active volcano. Its body is always cloaked in flames, so it
+      looks like a big ball of fire.
+  species_class:
+    english: SPITFIRE
+- ids:
+  - - dex_national
+    - 127
+  base_stats:
+    hp: 65
+    attack: 125
+    defense: 100
+    speed: 85
+    special: 55
+  base_yield_exp: 200
+  catch_rate: 45
+  name:
+    english: PINSIR
+  pokedex_description:
+    english: Grips its prey in its pincers and squeezes hard! It can't move if it's
+      cold, so it lives in warm places.
+  species_class:
+    english: STAGBEETLE
+- ids:
+  - - dex_national
+    - 128
+  base_stats:
+    hp: 75
+    attack: 100
+    defense: 95
+    speed: 110
+    special: 70
+  base_yield_exp: 211
+  catch_rate: 45
+  name:
+    english: TAUROS
+  pokedex_description:
+    english: A rowdy POKÉMON with a lot of stamina. Once running, it won't stop until
+      it hits something.
+  species_class:
+    english: WILD BULL
+- ids:
+  - - dex_national
+    - 129
+  base_stats:
+    hp: 20
+    attack: 10
+    defense: 55
+    speed: 80
+    special: 20
+  base_yield_exp: 20
+  catch_rate: 255
+  name:
+    english: MAGIKARP
+  pokedex_description:
+    english: Famous for being very unreliable. It can be found swimming in seas, lakes,
+      rivers and shallow puddles.
+  species_class:
+    english: FISH
+- ids:
+  - - dex_national
+    - 130
+  base_stats:
+    hp: 95
+    attack: 125
+    defense: 79
+    speed: 81
+    special: 100
+  base_yield_exp: 214
+  catch_rate: 45
+  name:
+    english: GYARADOS
+  pokedex_description:
+    english: Brutally vicious and enormously destructive. Known for totally destroying
+      cities in ancient times.
+  species_class:
+    english: ATROCIOUS
+- ids:
+  - - dex_national
+    - 131
+  base_stats:
+    hp: 130
+    attack: 85
+    defense: 80
+    speed: 60
+    special: 95
+  base_yield_exp: 219
+  catch_rate: 45
+  name:
+    english: LAPRAS
+  pokedex_description:
+    english: A gentle soul that can read the minds of people. It can ferry people
+      across the sea on its back.
+  species_class:
+    english: TRANSPORT
+- ids:
+  - - dex_national
+    - 132
+  base_stats:
+    hp: 48
+    attack: 48
+    defense: 48
+    speed: 48
+    special: 48
+  base_yield_exp: 61
+  catch_rate: 35
+  name:
+    english: DITTO
+  pokedex_description:
+    english: When it spots an enemy, its body transfigures into an almost perfect
+      copy of its opponent.
+  species_class:
+    english: TRANSFORM
+- ids:
+  - - dex_national
+    - 133
+  base_stats:
+    hp: 55
+    attack: 55
+    defense: 50
+    speed: 55
+    special: 65
+  base_yield_exp: 92
+  catch_rate: 45
+  name:
+    english: EEVEE
+  pokedex_description:
+    english: Its genetic code is unstable, so it could evolve in a variety of ways.
+      There are only a few alive.
+  species_class:
+    english: EVOLUTION
+- ids:
+  - - dex_national
+    - 134
+  base_stats:
+    hp: 130
+    attack: 65
+    defense: 60
+    speed: 65
+    special: 110
+  base_yield_exp: 196
+  catch_rate: 45
+  name:
+    english: VAPOREON
+  pokedex_description:
+    english: Its cell structure is similar to water molecules. It will melt away and
+      become invisible in water.
+  species_class:
+    english: BUBBLE JET
+- ids:
+  - - dex_national
+    - 135
+  base_stats:
+    hp: 65
+    attack: 65
+    defense: 60
+    speed: 130
+    special: 110
+  base_yield_exp: 197
+  catch_rate: 45
+  name:
+    english: JOLTEON
+  pokedex_description:
+    english: A sensitive POKÉMON that easily becomes sad or angry. Every time its
+      mood changes, it charges power.
+  species_class:
+    english: LIGHTNING
+- ids:
+  - - dex_national
+    - 136
+  base_stats:
+    hp: 65
+    attack: 130
+    defense: 60
+    speed: 65
+    special: 110
+  base_yield_exp: 198
+  catch_rate: 45
+  name:
+    english: FLAREON
+  pokedex_description:
+    english: It has a flame chamber inside its body. It inhales, then blows out fire
+      that is over 3,000F degrees.
+  species_class:
+    english: FLAME
+- ids:
+  - - dex_national
+    - 137
+  base_stats:
+    hp: 65
+    attack: 60
+    defense: 70
+    speed: 40
+    special: 75
+  base_yield_exp: 130
+  catch_rate: 45
+  name:
+    english: PORYGON
+  pokedex_description:
+    english: The only POKÉMON people anticipate can fly into space. None has managed
+      the feat yet, however.
+  species_class:
+    english: VIRTUAL
+- ids:
+  - - dex_national
+    - 138
+  base_stats:
+    hp: 35
+    attack: 40
+    defense: 100
+    speed: 35
+    special: 90
+  base_yield_exp: 120
+  catch_rate: 45
+  name:
+    english: OMANYTE
+  pokedex_description:
+    english: An ancient POKÉMON that was recovered from a fossil. It swims by cleverly
+      twisting its 10 tentacles about.
+  species_class:
+    english: SPIRAL
+- ids:
+  - - dex_national
+    - 139
+  base_stats:
+    hp: 70
+    attack: 60
+    defense: 125
+    speed: 55
+    special: 115
+  base_yield_exp: 199
+  catch_rate: 45
+  name:
+    english: OMASTAR
+  pokedex_description:
+    english: Sharp beaks ring its mouth. Its shell was too big for it to move freely,
+      so it became extinct.
+  species_class:
+    english: SPIRAL
+- ids:
+  - - dex_national
+    - 140
+  base_stats:
+    hp: 30
+    attack: 80
+    defense: 90
+    speed: 55
+    special: 45
+  base_yield_exp: 119
+  catch_rate: 45
+  name:
+    english: KABUTO
+  pokedex_description:
+    english: A POKÉMON that was recovered from a fossil. It uses the eyes on its back
+      while hiding on the sea floor.
+  species_class:
+    english: SHELLFISH
+- ids:
+  - - dex_national
+    - 141
+  base_stats:
+    hp: 60
+    attack: 115
+    defense: 105
+    speed: 80
+    special: 70
+  base_yield_exp: 201
+  catch_rate: 45
+  name:
+    english: KABUTOPS
+  pokedex_description:
+    english: A slim and fast swimmer. It slices its prey with its sharp sickles and
+      drinks the body fluids.
+  species_class:
+    english: SHELLFISH
+- ids:
+  - - dex_national
+    - 142
+  base_stats:
+    hp: 80
+    attack: 105
+    defense: 65
+    speed: 130
+    special: 60
+  base_yield_exp: 202
+  catch_rate: 45
+  name:
+    english: AERODACTYL
+  pokedex_description:
+    english: A savage POKÉMON that died out in ancient times. It was resurrected using
+      DNA taken from amber.
+  species_class:
+    english: FOSSIL
+- ids:
+  - - dex_national
+    - 143
+  base_stats:
+    hp: 160
+    attack: 110
+    defense: 65
+    speed: 30
+    special: 65
+  base_yield_exp: 154
+  catch_rate: 25
+  name:
+    english: SNORLAX
+  pokedex_description:
+    english: Will eat anything, even if the food happens to be a little moldy. It
+      never gets an upset stomach.
+  species_class:
+    english: SLEEPING
+- ids:
+  - - dex_national
+    - 144
+  base_stats:
+    hp: 90
+    attack: 85
+    defense: 100
+    speed: 85
+    special: 125
+  base_yield_exp: 215
+  catch_rate: 3
+  name:
+    english: ARTICUNO
+  pokedex_description:
+    english: A legendary bird POKÉMON. It freezes water that is contained in winter
+      air and makes it snow.
+  species_class:
+    english: FREEZE
+- ids:
+  - - dex_national
+    - 145
+  base_stats:
+    hp: 90
+    attack: 90
+    defense: 85
+    speed: 100
+    special: 125
+  base_yield_exp: 216
+  catch_rate: 3
+  name:
+    english: ZAPDOS
+  pokedex_description:
+    english: This legendary bird POKÉMON is said to appear when the sky turns dark
+      and lightning showers down.
+  species_class:
+    english: ELECTRIC
+- ids:
+  - - dex_national
+    - 146
+  base_stats:
+    hp: 90
+    attack: 100
+    defense: 90
+    speed: 90
+    special: 125
+  base_yield_exp: 217
+  catch_rate: 3
+  name:
+    english: MOLTRES
+  pokedex_description:
+    english: A legendary bird POKÉMON. As it flaps its flaming wings, even the night
+      sky will turn red.
+  species_class:
+    english: FLAME
+- ids:
+  - - dex_national
+    - 147
+  base_stats:
+    hp: 41
+    attack: 64
+    defense: 45
+    speed: 50
+    special: 50
+  base_yield_exp: 67
+  catch_rate: 45
+  name:
+    english: DRATINI
+  pokedex_description:
+    english: The existence of this mythical POKÉMON was only recently confirmed by
+      a fisherman who caught one.
+  species_class:
+    english: DRAGON
+- ids:
+  - - dex_national
+    - 148
+  base_stats:
+    hp: 61
+    attack: 84
+    defense: 65
+    speed: 70
+    special: 70
+  base_yield_exp: 144
+  catch_rate: 27
+  name:
+    english: DRAGONAIR
+  pokedex_description:
+    english: According to a witness, its body was surrounded by a strange aura that
+      gave it a mystical look.
+  species_class:
+    english: DRAGON
+- ids:
+  - - dex_national
+    - 149
+  base_stats:
+    hp: 91
+    attack: 134
+    defense: 95
+    speed: 80
+    special: 100
+  base_yield_exp: 218
+  catch_rate: 9
+  name:
+    english: DRAGONITE
+  pokedex_description:
+    english: It is said that this POKÉMON lives somewhere in the sea and that it flies.
+      However, it is only a rumor.
+  species_class:
+    english: DRAGON
+- ids:
+  - - dex_national
+    - 150
+  base_stats:
+    hp: 106
+    attack: 110
+    defense: 90
+    speed: 130
+    special: 154
+  base_yield_exp: 220
+  catch_rate: 3
+  name:
+    english: MEWTWO
+  pokedex_description:
+    english: Its DNA is almost the same as MEW's. However, its size and disposition
+      are vastly different.
+  species_class:
+    english: GENETIC
+- ids:
+  - - dex_national
+    - 151
+  base_stats:
+    hp: 100
+    attack: 100
+    defense: 100
+    speed: 100
+    special: 100
+  base_yield_exp: 64
+  catch_rate: 45
+  name:
+    english: MEW
+  pokedex_description:
+    english: When viewed through a microscope, this POKÉMON's short, fine, delicate
+      hair can be seen.
+  species_class:
+    english: NEW SPECIE
