@@ -1,0 +1,75 @@
+- ids:
+  - - id
+    - 0
+  name:
+    spanish: NORMAL
+- ids:
+  - - id
+    - 1
+  name:
+    spanish: LUCHA
+- ids:
+  - - id
+    - 2
+  name:
+    spanish: VOLADOR
+- ids:
+  - - id
+    - 3
+  name:
+    spanish: VENENO
+- ids:
+  - - id
+    - 4
+  name:
+    spanish: TIERRA
+- ids:
+  - - id
+    - 5
+  name:
+    spanish: ROCA
+- ids:
+  - - id
+    - 7
+  name:
+    spanish: BICHO
+- ids:
+  - - id
+    - 8
+  name:
+    spanish: FANTASMA
+- ids:
+  - - id
+    - 20
+  name:
+    spanish: FUEGO
+- ids:
+  - - id
+    - 21
+  name:
+    spanish: AGUA
+- ids:
+  - - id
+    - 22
+  name:
+    spanish: PLANTA
+- ids:
+  - - id
+    - 23
+  name:
+    spanish: ELÉCTRIC
+- ids:
+  - - id
+    - 24
+  name:
+    spanish: PSÍQUICO
+- ids:
+  - - id
+    - 25
+  name:
+    spanish: HIELO
+- ids:
+  - - id
+    - 26
+  name:
+    spanish: DRAGÓN

@@ -9,6 +9,15 @@
     special: 65
   base_yield_exp: 64
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: BULBASAUR
     spanish: BULBASAUR
@@ -31,6 +40,15 @@
     special: 80
   base_yield_exp: 141
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: IVYSAUR
     spanish: IVYSAUR
@@ -53,6 +71,15 @@
     special: 100
   base_yield_exp: 208
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VENUSAUR
     spanish: VENUSAUR
@@ -74,6 +101,11 @@
     special: 50
   base_yield_exp: 65
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: CHARMANDER
     spanish: CHARMANDER
@@ -96,6 +128,11 @@
     special: 65
   base_yield_exp: 142
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: CHARMELEON
     spanish: CHARMELEON
@@ -118,6 +155,15 @@
     special: 85
   base_yield_exp: 209
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: CHARIZARD
     spanish: CHARIZARD
@@ -140,6 +186,11 @@
     special: 50
   base_yield_exp: 66
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SQUIRTLE
     spanish: SQUIRTLE
@@ -162,6 +213,11 @@
     special: 65
   base_yield_exp: 143
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: WARTORTLE
     spanish: WARTORTLE
@@ -183,6 +239,11 @@
     special: 85
   base_yield_exp: 210
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: BLASTOISE
     spanish: BLASTOISE
@@ -205,6 +266,11 @@
     special: 20
   base_yield_exp: 53
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
   name:
     english: CATERPIE
     spanish: CATERPIE
@@ -226,6 +292,11 @@
     special: 25
   base_yield_exp: 72
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
   name:
     english: METAPOD
     spanish: METAPOD
@@ -248,6 +319,15 @@
     special: 80
   base_yield_exp: 160
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: BUTTERFREE
     spanish: BUTTERFREE
@@ -270,6 +350,15 @@
     special: 20
   base_yield_exp: 52
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: WEEDLE
     spanish: WEEDLE
@@ -292,6 +381,15 @@
     special: 25
   base_yield_exp: 71
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: KAKUNA
     spanish: KAKUNA
@@ -314,6 +412,15 @@
     special: 45
   base_yield_exp: 159
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: BEEDRILL
     spanish: BEEDRILL
@@ -336,6 +443,15 @@
     special: 35
   base_yield_exp: 55
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: PIDGEY
     spanish: PIDGEY
@@ -358,6 +474,15 @@
     special: 50
   base_yield_exp: 113
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: PIDGEOTTO
     spanish: PIDGEOTTO
@@ -380,6 +505,15 @@
     special: 70
   base_yield_exp: 172
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: PIDGEOT
     spanish: PIDGEOT
@@ -402,6 +536,11 @@
     special: 25
   base_yield_exp: 57
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: RATTATA
     spanish: RATTATA
@@ -424,6 +563,11 @@
     special: 50
   base_yield_exp: 116
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: RATICATE
     spanish: RATICATE
@@ -446,6 +590,15 @@
     special: 31
   base_yield_exp: 58
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: SPEAROW
     spanish: SPEAROW
@@ -468,6 +621,15 @@
     special: 61
   base_yield_exp: 162
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: FEAROW
     spanish: FEAROW
@@ -490,6 +652,11 @@
     special: 40
   base_yield_exp: 62
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: EKANS
     spanish: EKANS
@@ -512,6 +679,11 @@
     special: 65
   base_yield_exp: 147
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: ARBOK
     spanish: ARBOK
@@ -534,6 +706,11 @@
     special: 50
   base_yield_exp: 82
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: PIKACHU
     spanish: PIKACHU
@@ -556,6 +733,11 @@
     special: 90
   base_yield_exp: 122
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: RAICHU
     spanish: RAICHU
@@ -578,6 +760,11 @@
     special: 30
   base_yield_exp: 93
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: SANDSHREW
     spanish: SANDSHREW
@@ -600,6 +787,11 @@
     special: 55
   base_yield_exp: 163
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: SANDSLASH
     spanish: SANDSLASH
@@ -622,6 +814,11 @@
     special: 40
   base_yield_exp: 59
   catch_rate: 235
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORAN♀
     spanish: NIDORAN♀
@@ -644,6 +841,11 @@
     special: 55
   base_yield_exp: 117
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORINA
     spanish: NIDORINA
@@ -666,6 +868,15 @@
     special: 75
   base_yield_exp: 194
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: NIDOQUEEN
     spanish: NIDOQUEEN
@@ -688,6 +899,11 @@
     special: 40
   base_yield_exp: 60
   catch_rate: 235
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORAN♂
     spanish: NIDORAN♂
@@ -710,6 +926,11 @@
     special: 55
   base_yield_exp: 118
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORINO
     spanish: NIDORINO
@@ -732,6 +953,15 @@
     special: 75
   base_yield_exp: 195
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: NIDOKING
     spanish: NIDOKING
@@ -754,6 +984,11 @@
     special: 60
   base_yield_exp: 68
   catch_rate: 150
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: CLEFAIRY
     spanish: CLEFAIRY
@@ -776,6 +1011,11 @@
     special: 85
   base_yield_exp: 129
   catch_rate: 25
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: CLEFABLE
     spanish: CLEFABLE
@@ -798,6 +1038,11 @@
     special: 65
   base_yield_exp: 63
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: VULPIX
     spanish: VULPIX
@@ -820,6 +1065,11 @@
     special: 100
   base_yield_exp: 178
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: NINETALES
     spanish: NINETALES
@@ -842,6 +1092,11 @@
     special: 25
   base_yield_exp: 76
   catch_rate: 170
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: JIGGLYPUFF
     spanish: JIGGLYPUFF
@@ -864,6 +1119,11 @@
     special: 50
   base_yield_exp: 109
   catch_rate: 50
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: WIGGLYTUFF
     spanish: WIGGLYTUFF
@@ -886,6 +1146,15 @@
     special: 40
   base_yield_exp: 54
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: ZUBAT
     spanish: ZUBAT
@@ -908,6 +1177,15 @@
     special: 75
   base_yield_exp: 171
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: GOLBAT
     spanish: GOLBAT
@@ -930,6 +1208,15 @@
     special: 75
   base_yield_exp: 78
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: ODDISH
     spanish: ODDISH
@@ -952,6 +1239,15 @@
     special: 85
   base_yield_exp: 132
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GLOOM
     spanish: GLOOM
@@ -974,6 +1270,15 @@
     special: 100
   base_yield_exp: 184
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VILEPLUME
     spanish: VILEPLUME
@@ -996,6 +1301,15 @@
     special: 55
   base_yield_exp: 70
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 22
   name:
     english: PARAS
     spanish: PARAS
@@ -1018,6 +1332,15 @@
     special: 80
   base_yield_exp: 128
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 22
   name:
     english: PARASECT
     spanish: PARASECT
@@ -1039,6 +1362,15 @@
     special: 40
   base_yield_exp: 75
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VENONAT
     spanish: VENONAT
@@ -1061,6 +1393,15 @@
     special: 90
   base_yield_exp: 138
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VENOMOTH
     spanish: VENOMOTH
@@ -1083,6 +1424,11 @@
     special: 45
   base_yield_exp: 81
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: DIGLETT
     spanish: DIGLETT
@@ -1105,6 +1451,11 @@
     special: 70
   base_yield_exp: 153
   catch_rate: 50
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: DUGTRIO
     spanish: DUGTRIO
@@ -1127,6 +1478,11 @@
     special: 40
   base_yield_exp: 69
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: MEOWTH
     spanish: MEOWTH
@@ -1149,6 +1505,11 @@
     special: 65
   base_yield_exp: 148
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: PERSIAN
     spanish: PERSIAN
@@ -1171,6 +1532,11 @@
     special: 50
   base_yield_exp: 80
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: PSYDUCK
     spanish: PSYDUCK
@@ -1193,6 +1559,11 @@
     special: 80
   base_yield_exp: 174
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: GOLDUCK
     spanish: GOLDUCK
@@ -1215,6 +1586,11 @@
     special: 35
   base_yield_exp: 74
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MANKEY
     spanish: MANKEY
@@ -1237,6 +1613,11 @@
     special: 60
   base_yield_exp: 149
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: PRIMEAPE
     spanish: PRIMEAPE
@@ -1259,6 +1640,11 @@
     special: 50
   base_yield_exp: 91
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: GROWLITHE
     spanish: GROWLITHE
@@ -1281,6 +1667,11 @@
     special: 80
   base_yield_exp: 213
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: ARCANINE
     spanish: ARCANINE
@@ -1303,6 +1694,11 @@
     special: 40
   base_yield_exp: 77
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: POLIWAG
     spanish: POLIWAG
@@ -1325,6 +1721,11 @@
     special: 50
   base_yield_exp: 131
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: POLIWHIRL
     spanish: POLIWHIRL
@@ -1347,6 +1748,15 @@
     special: 70
   base_yield_exp: 185
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: POLIWRATH
     spanish: POLIWRATH
@@ -1369,6 +1779,11 @@
     special: 105
   base_yield_exp: 73
   catch_rate: 200
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: ABRA
     spanish: ABRA
@@ -1391,6 +1806,11 @@
     special: 120
   base_yield_exp: 145
   catch_rate: 100
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: KADABRA
     spanish: KADABRA
@@ -1413,6 +1833,11 @@
     special: 135
   base_yield_exp: 186
   catch_rate: 50
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: ALAKAZAM
     spanish: ALAKAZAM
@@ -1435,6 +1860,11 @@
     special: 35
   base_yield_exp: 88
   catch_rate: 180
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MACHOP
     spanish: MACHOP
@@ -1457,6 +1887,11 @@
     special: 50
   base_yield_exp: 146
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MACHOKE
     spanish: MACHOKE
@@ -1479,6 +1914,11 @@
     special: 65
   base_yield_exp: 193
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MACHAMP
     spanish: MACHAMP
@@ -1501,6 +1941,15 @@
     special: 70
   base_yield_exp: 84
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: BELLSPROUT
     spanish: BELLSPROUT
@@ -1523,6 +1972,15 @@
     special: 85
   base_yield_exp: 151
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: WEEPINBELL
     spanish: WEEPINBELL
@@ -1545,6 +2003,15 @@
     special: 100
   base_yield_exp: 191
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VICTREEBEL
     spanish: VICTREEBEL
@@ -1567,6 +2034,15 @@
     special: 100
   base_yield_exp: 105
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: TENTACOOL
     spanish: TENTACOOL
@@ -1589,6 +2065,15 @@
     special: 120
   base_yield_exp: 205
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: TENTACRUEL
     spanish: TENTACRUEL
@@ -1611,6 +2096,15 @@
     special: 30
   base_yield_exp: 86
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: GEODUDE
     spanish: GEODUDE
@@ -1633,6 +2127,15 @@
     special: 45
   base_yield_exp: 134
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: GRAVELER
     spanish: GRAVELER
@@ -1655,6 +2158,15 @@
     special: 55
   base_yield_exp: 177
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: GOLEM
     spanish: GOLEM
@@ -1677,6 +2189,11 @@
     special: 65
   base_yield_exp: 152
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: PONYTA
     spanish: PONYTA
@@ -1699,6 +2216,11 @@
     special: 80
   base_yield_exp: 192
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: RAPIDASH
     spanish: RAPIDASH
@@ -1721,6 +2243,15 @@
     special: 40
   base_yield_exp: 99
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: SLOWPOKE
     spanish: SLOWPOKE
@@ -1743,6 +2274,15 @@
     special: 80
   base_yield_exp: 164
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: SLOWBRO
     spanish: SLOWBRO
@@ -1765,6 +2305,11 @@
     special: 95
   base_yield_exp: 89
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: MAGNEMITE
     spanish: MAGNEMITE
@@ -1787,6 +2332,11 @@
     special: 120
   base_yield_exp: 161
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: MAGNETON
     spanish: MAGNETON
@@ -1809,6 +2359,15 @@
     special: 58
   base_yield_exp: 94
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: FARFETCH'D
     spanish: FARFETCH'D
@@ -1831,6 +2390,15 @@
     special: 35
   base_yield_exp: 96
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: DODUO
     spanish: DODUO
@@ -1853,6 +2421,15 @@
     special: 60
   base_yield_exp: 158
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: DODRIO
     spanish: DODRIO
@@ -1875,6 +2452,11 @@
     special: 70
   base_yield_exp: 100
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SEEL
     spanish: SEEL
@@ -1897,6 +2479,15 @@
     special: 95
   base_yield_exp: 176
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 25
   name:
     english: DEWGONG
     spanish: DEWGONG
@@ -1919,6 +2510,11 @@
     special: 40
   base_yield_exp: 90
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GRIMER
     spanish: GRIMER
@@ -1941,6 +2537,11 @@
     special: 65
   base_yield_exp: 157
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: MUK
     spanish: MUK
@@ -1963,6 +2564,11 @@
     special: 45
   base_yield_exp: 97
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SHELLDER
     spanish: SHELLDER
@@ -1985,6 +2591,15 @@
     special: 85
   base_yield_exp: 203
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 25
   name:
     english: CLOYSTER
     spanish: CLOYSTER
@@ -2007,6 +2622,15 @@
     special: 100
   base_yield_exp: 95
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 8
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GASTLY
     spanish: GASTLY
@@ -2029,6 +2653,15 @@
     special: 115
   base_yield_exp: 126
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 8
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: HAUNTER
     spanish: HAUNTER
@@ -2051,6 +2684,15 @@
     special: 130
   base_yield_exp: 190
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 8
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GENGAR
     spanish: GENGAR
@@ -2073,6 +2715,15 @@
     special: 30
   base_yield_exp: 108
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: ONIX
     spanish: ONIX
@@ -2095,6 +2746,11 @@
     special: 90
   base_yield_exp: 102
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: DROWZEE
     spanish: DROWZEE
@@ -2117,6 +2773,11 @@
     special: 115
   base_yield_exp: 165
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: HYPNO
     spanish: HYPNO
@@ -2139,6 +2800,11 @@
     special: 25
   base_yield_exp: 115
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KRABBY
     spanish: KRABBY
@@ -2161,6 +2827,11 @@
     special: 50
   base_yield_exp: 206
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KINGLER
     spanish: KINGLER
@@ -2183,6 +2854,11 @@
     special: 55
   base_yield_exp: 103
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: VOLTORB
     spanish: VOLTORB
@@ -2205,6 +2881,11 @@
     special: 80
   base_yield_exp: 150
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: ELECTRODE
     spanish: ELECTRODE
@@ -2227,6 +2908,15 @@
     special: 60
   base_yield_exp: 98
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: EXEGGCUTE
     spanish: EXEGGCUTE
@@ -2249,6 +2939,15 @@
     special: 125
   base_yield_exp: 212
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: EXEGGUTOR
     spanish: EXEGGUTOR
@@ -2271,6 +2970,11 @@
     special: 40
   base_yield_exp: 87
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: CUBONE
     spanish: CUBONE
@@ -2293,6 +2997,11 @@
     special: 50
   base_yield_exp: 124
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: MAROWAK
     spanish: MAROWAK
@@ -2315,6 +3024,11 @@
     special: 35
   base_yield_exp: 139
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: HITMONLEE
     spanish: HITMONLEE
@@ -2337,6 +3051,11 @@
     special: 35
   base_yield_exp: 140
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: HITMONCHAN
     spanish: HITMONCHAN
@@ -2359,6 +3078,11 @@
     special: 60
   base_yield_exp: 127
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: LICKITUNG
     spanish: LICKITUNG
@@ -2381,6 +3105,11 @@
     special: 60
   base_yield_exp: 114
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: KOFFING
     spanish: KOFFING
@@ -2403,6 +3132,11 @@
     special: 85
   base_yield_exp: 173
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: WEEZING
     spanish: WEEZING
@@ -2425,6 +3159,15 @@
     special: 30
   base_yield_exp: 135
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
+  - !<reference>
+    - types
+    - id
+    - 5
   name:
     english: RHYHORN
     spanish: RHYHORN
@@ -2447,6 +3190,15 @@
     special: 45
   base_yield_exp: 204
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
+  - !<reference>
+    - types
+    - id
+    - 5
   name:
     english: RHYDON
     spanish: RHYDON
@@ -2469,6 +3221,11 @@
     special: 105
   base_yield_exp: 255
   catch_rate: 30
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: CHANSEY
     spanish: CHANSEY
@@ -2491,6 +3248,11 @@
     special: 100
   base_yield_exp: 166
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
   name:
     english: TANGELA
     spanish: TANGELA
@@ -2513,6 +3275,11 @@
     special: 40
   base_yield_exp: 175
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: KANGASKHAN
     spanish: KANGASKHAN
@@ -2535,6 +3302,11 @@
     special: 70
   base_yield_exp: 83
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: HORSEA
     spanish: HORSEA
@@ -2557,6 +3329,11 @@
     special: 95
   base_yield_exp: 155
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SEADRA
     spanish: SEADRA
@@ -2579,6 +3356,11 @@
     special: 50
   base_yield_exp: 111
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: GOLDEEN
     spanish: GOLDEEN
@@ -2601,6 +3383,11 @@
     special: 80
   base_yield_exp: 170
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SEAKING
     spanish: SEAKING
@@ -2623,6 +3410,11 @@
     special: 70
   base_yield_exp: 106
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: STARYU
     spanish: STARYU
@@ -2645,6 +3437,15 @@
     special: 100
   base_yield_exp: 207
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: STARMIE
     spanish: STARMIE
@@ -2667,6 +3468,11 @@
     special: 100
   base_yield_exp: 136
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: MR.MIME
     spanish: MR.MIME
@@ -2689,6 +3495,15 @@
     special: 55
   base_yield_exp: 187
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: SCYTHER
     spanish: SCYTHER
@@ -2711,6 +3526,15 @@
     special: 95
   base_yield_exp: 137
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 25
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: JYNX
     spanish: JYNX
@@ -2733,6 +3557,11 @@
     special: 85
   base_yield_exp: 156
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: ELECTABUZZ
     spanish: ELECTABUZZ
@@ -2755,6 +3584,11 @@
     special: 85
   base_yield_exp: 167
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: MAGMAR
     spanish: MAGMAR
@@ -2777,6 +3611,11 @@
     special: 55
   base_yield_exp: 200
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
   name:
     english: PINSIR
     spanish: PINSIR
@@ -2799,6 +3638,11 @@
     special: 70
   base_yield_exp: 211
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: TAUROS
     spanish: TAUROS
@@ -2821,6 +3665,11 @@
     special: 20
   base_yield_exp: 20
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: MAGIKARP
     spanish: MAGIKARP
@@ -2843,6 +3692,15 @@
     special: 100
   base_yield_exp: 214
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: GYARADOS
     spanish: GYARADOS
@@ -2865,6 +3723,15 @@
     special: 95
   base_yield_exp: 219
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 25
   name:
     english: LAPRAS
     spanish: LAPRAS
@@ -2887,6 +3754,11 @@
     special: 48
   base_yield_exp: 61
   catch_rate: 35
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: DITTO
     spanish: DITTO
@@ -2909,6 +3781,11 @@
     special: 65
   base_yield_exp: 92
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: EEVEE
     spanish: EEVEE
@@ -2931,6 +3808,11 @@
     special: 110
   base_yield_exp: 196
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: VAPOREON
     spanish: VAPOREON
@@ -2953,6 +3835,11 @@
     special: 110
   base_yield_exp: 197
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: JOLTEON
     spanish: JOLTEON
@@ -2975,6 +3862,11 @@
     special: 110
   base_yield_exp: 198
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: FLAREON
     spanish: FLAREON
@@ -2997,6 +3889,11 @@
     special: 75
   base_yield_exp: 130
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: PORYGON
     spanish: PORYGON
@@ -3019,6 +3916,15 @@
     special: 90
   base_yield_exp: 120
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: OMANYTE
     spanish: OMANYTE
@@ -3041,6 +3947,15 @@
     special: 115
   base_yield_exp: 199
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: OMASTAR
     spanish: OMASTAR
@@ -3063,6 +3978,15 @@
     special: 45
   base_yield_exp: 119
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KABUTO
     spanish: KABUTO
@@ -3085,6 +4009,15 @@
     special: 70
   base_yield_exp: 201
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KABUTOPS
     spanish: KABUTOPS
@@ -3107,6 +4040,15 @@
     special: 60
   base_yield_exp: 202
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: AERODACTYL
     spanish: AERODACTYL
@@ -3129,6 +4071,11 @@
     special: 65
   base_yield_exp: 154
   catch_rate: 25
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: SNORLAX
     spanish: SNORLAX
@@ -3151,6 +4098,15 @@
     special: 125
   base_yield_exp: 215
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 25
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: ARTICUNO
     spanish: ARTICUNO
@@ -3173,6 +4129,15 @@
     special: 125
   base_yield_exp: 216
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: ZAPDOS
     spanish: ZAPDOS
@@ -3195,6 +4160,15 @@
     special: 125
   base_yield_exp: 217
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: MOLTRES
     spanish: MOLTRES
@@ -3217,6 +4191,11 @@
     special: 50
   base_yield_exp: 67
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 26
   name:
     english: DRATINI
     spanish: DRATINI
@@ -3239,6 +4218,11 @@
     special: 70
   base_yield_exp: 144
   catch_rate: 27
+  types:
+  - !<reference>
+    - types
+    - id
+    - 26
   name:
     english: DRAGONAIR
     spanish: DRAGONAIR
@@ -3261,6 +4245,15 @@
     special: 100
   base_yield_exp: 218
   catch_rate: 9
+  types:
+  - !<reference>
+    - types
+    - id
+    - 26
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: DRAGONITE
     spanish: DRAGONITE
@@ -3283,6 +4276,11 @@
     special: 154
   base_yield_exp: 220
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: MEWTWO
     spanish: MEWTWO
@@ -3305,6 +4303,11 @@
     special: 100
   base_yield_exp: 64
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: MEW
     spanish: MEW

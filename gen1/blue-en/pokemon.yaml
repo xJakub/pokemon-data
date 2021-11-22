@@ -9,6 +9,15 @@
     special: 65
   base_yield_exp: 64
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: BULBASAUR
   pokedex_description:
@@ -27,6 +36,15 @@
     special: 80
   base_yield_exp: 141
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: IVYSAUR
   pokedex_description:
@@ -45,6 +63,15 @@
     special: 100
   base_yield_exp: 208
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VENUSAUR
   pokedex_description:
@@ -63,6 +90,11 @@
     special: 50
   base_yield_exp: 65
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: CHARMANDER
   pokedex_description:
@@ -81,6 +113,11 @@
     special: 65
   base_yield_exp: 142
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: CHARMELEON
   pokedex_description:
@@ -99,6 +136,15 @@
     special: 85
   base_yield_exp: 209
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: CHARIZARD
   pokedex_description:
@@ -117,6 +163,11 @@
     special: 50
   base_yield_exp: 66
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SQUIRTLE
   pokedex_description:
@@ -135,6 +186,11 @@
     special: 65
   base_yield_exp: 143
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: WARTORTLE
   pokedex_description:
@@ -153,6 +209,11 @@
     special: 85
   base_yield_exp: 210
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: BLASTOISE
   pokedex_description:
@@ -171,6 +232,11 @@
     special: 20
   base_yield_exp: 53
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
   name:
     english: CATERPIE
   pokedex_description:
@@ -189,6 +255,11 @@
     special: 25
   base_yield_exp: 72
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
   name:
     english: METAPOD
   pokedex_description:
@@ -207,6 +278,15 @@
     special: 80
   base_yield_exp: 160
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: BUTTERFREE
   pokedex_description:
@@ -225,6 +305,15 @@
     special: 20
   base_yield_exp: 52
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: WEEDLE
   pokedex_description:
@@ -243,6 +332,15 @@
     special: 25
   base_yield_exp: 71
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: KAKUNA
   pokedex_description:
@@ -261,6 +359,15 @@
     special: 45
   base_yield_exp: 159
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: BEEDRILL
   pokedex_description:
@@ -279,6 +386,15 @@
     special: 35
   base_yield_exp: 55
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: PIDGEY
   pokedex_description:
@@ -297,6 +413,15 @@
     special: 50
   base_yield_exp: 113
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: PIDGEOTTO
   pokedex_description:
@@ -315,6 +440,15 @@
     special: 70
   base_yield_exp: 172
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: PIDGEOT
   pokedex_description:
@@ -333,6 +467,11 @@
     special: 25
   base_yield_exp: 57
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: RATTATA
   pokedex_description:
@@ -351,6 +490,11 @@
     special: 50
   base_yield_exp: 116
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: RATICATE
   pokedex_description:
@@ -369,6 +513,15 @@
     special: 31
   base_yield_exp: 58
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: SPEAROW
   pokedex_description:
@@ -387,6 +540,15 @@
     special: 61
   base_yield_exp: 162
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: FEAROW
   pokedex_description:
@@ -405,6 +567,11 @@
     special: 40
   base_yield_exp: 62
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: EKANS
   pokedex_description:
@@ -423,6 +590,11 @@
     special: 65
   base_yield_exp: 147
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: ARBOK
   pokedex_description:
@@ -441,6 +613,11 @@
     special: 50
   base_yield_exp: 82
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: PIKACHU
   pokedex_description:
@@ -459,6 +636,11 @@
     special: 90
   base_yield_exp: 122
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: RAICHU
   pokedex_description:
@@ -477,6 +659,11 @@
     special: 30
   base_yield_exp: 93
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: SANDSHREW
   pokedex_description:
@@ -495,6 +682,11 @@
     special: 55
   base_yield_exp: 163
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: SANDSLASH
   pokedex_description:
@@ -513,6 +705,11 @@
     special: 40
   base_yield_exp: 59
   catch_rate: 235
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORAN♀
   pokedex_description:
@@ -531,6 +728,11 @@
     special: 55
   base_yield_exp: 117
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORINA
   pokedex_description:
@@ -549,6 +751,15 @@
     special: 75
   base_yield_exp: 194
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: NIDOQUEEN
   pokedex_description:
@@ -567,6 +778,11 @@
     special: 40
   base_yield_exp: 60
   catch_rate: 235
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORAN♂
   pokedex_description:
@@ -585,6 +801,11 @@
     special: 55
   base_yield_exp: 118
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: NIDORINO
   pokedex_description:
@@ -603,6 +824,15 @@
     special: 75
   base_yield_exp: 195
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: NIDOKING
   pokedex_description:
@@ -621,6 +851,11 @@
     special: 60
   base_yield_exp: 68
   catch_rate: 150
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: CLEFAIRY
   pokedex_description:
@@ -639,6 +874,11 @@
     special: 85
   base_yield_exp: 129
   catch_rate: 25
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: CLEFABLE
   pokedex_description:
@@ -657,6 +897,11 @@
     special: 65
   base_yield_exp: 63
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: VULPIX
   pokedex_description:
@@ -675,6 +920,11 @@
     special: 100
   base_yield_exp: 178
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: NINETALES
   pokedex_description:
@@ -693,6 +943,11 @@
     special: 25
   base_yield_exp: 76
   catch_rate: 170
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: JIGGLYPUFF
   pokedex_description:
@@ -711,6 +966,11 @@
     special: 50
   base_yield_exp: 109
   catch_rate: 50
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: WIGGLYTUFF
   pokedex_description:
@@ -729,6 +989,15 @@
     special: 40
   base_yield_exp: 54
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: ZUBAT
   pokedex_description:
@@ -747,6 +1016,15 @@
     special: 75
   base_yield_exp: 171
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: GOLBAT
   pokedex_description:
@@ -765,6 +1043,15 @@
     special: 75
   base_yield_exp: 78
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: ODDISH
   pokedex_description:
@@ -783,6 +1070,15 @@
     special: 85
   base_yield_exp: 132
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GLOOM
   pokedex_description:
@@ -801,6 +1097,15 @@
     special: 100
   base_yield_exp: 184
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VILEPLUME
   pokedex_description:
@@ -819,6 +1124,15 @@
     special: 55
   base_yield_exp: 70
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 22
   name:
     english: PARAS
   pokedex_description:
@@ -837,6 +1151,15 @@
     special: 80
   base_yield_exp: 128
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 22
   name:
     english: PARASECT
   pokedex_description:
@@ -855,6 +1178,15 @@
     special: 40
   base_yield_exp: 75
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VENONAT
   pokedex_description:
@@ -873,6 +1205,15 @@
     special: 90
   base_yield_exp: 138
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VENOMOTH
   pokedex_description:
@@ -891,6 +1232,11 @@
     special: 45
   base_yield_exp: 81
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: DIGLETT
   pokedex_description:
@@ -909,6 +1255,11 @@
     special: 70
   base_yield_exp: 153
   catch_rate: 50
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: DUGTRIO
   pokedex_description:
@@ -927,6 +1278,11 @@
     special: 40
   base_yield_exp: 69
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: MEOWTH
   pokedex_description:
@@ -945,6 +1301,11 @@
     special: 65
   base_yield_exp: 148
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: PERSIAN
   pokedex_description:
@@ -963,6 +1324,11 @@
     special: 50
   base_yield_exp: 80
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: PSYDUCK
   pokedex_description:
@@ -981,6 +1347,11 @@
     special: 80
   base_yield_exp: 174
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: GOLDUCK
   pokedex_description:
@@ -999,6 +1370,11 @@
     special: 35
   base_yield_exp: 74
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MANKEY
   pokedex_description:
@@ -1017,6 +1393,11 @@
     special: 60
   base_yield_exp: 149
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: PRIMEAPE
   pokedex_description:
@@ -1035,6 +1416,11 @@
     special: 50
   base_yield_exp: 91
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: GROWLITHE
   pokedex_description:
@@ -1053,6 +1439,11 @@
     special: 80
   base_yield_exp: 213
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: ARCANINE
   pokedex_description:
@@ -1071,6 +1462,11 @@
     special: 40
   base_yield_exp: 77
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: POLIWAG
   pokedex_description:
@@ -1089,6 +1485,11 @@
     special: 50
   base_yield_exp: 131
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: POLIWHIRL
   pokedex_description:
@@ -1107,6 +1508,15 @@
     special: 70
   base_yield_exp: 185
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: POLIWRATH
   pokedex_description:
@@ -1125,6 +1535,11 @@
     special: 105
   base_yield_exp: 73
   catch_rate: 200
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: ABRA
   pokedex_description:
@@ -1143,6 +1558,11 @@
     special: 120
   base_yield_exp: 145
   catch_rate: 100
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: KADABRA
   pokedex_description:
@@ -1161,6 +1581,11 @@
     special: 135
   base_yield_exp: 186
   catch_rate: 50
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: ALAKAZAM
   pokedex_description:
@@ -1179,6 +1604,11 @@
     special: 35
   base_yield_exp: 88
   catch_rate: 180
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MACHOP
   pokedex_description:
@@ -1197,6 +1627,11 @@
     special: 50
   base_yield_exp: 146
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MACHOKE
   pokedex_description:
@@ -1215,6 +1650,11 @@
     special: 65
   base_yield_exp: 193
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: MACHAMP
   pokedex_description:
@@ -1233,6 +1673,15 @@
     special: 70
   base_yield_exp: 84
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: BELLSPROUT
   pokedex_description:
@@ -1251,6 +1700,15 @@
     special: 85
   base_yield_exp: 151
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: WEEPINBELL
   pokedex_description:
@@ -1269,6 +1727,15 @@
     special: 100
   base_yield_exp: 191
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: VICTREEBEL
   pokedex_description:
@@ -1287,6 +1754,15 @@
     special: 100
   base_yield_exp: 105
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: TENTACOOL
   pokedex_description:
@@ -1305,6 +1781,15 @@
     special: 120
   base_yield_exp: 205
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: TENTACRUEL
   pokedex_description:
@@ -1323,6 +1808,15 @@
     special: 30
   base_yield_exp: 86
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: GEODUDE
   pokedex_description:
@@ -1341,6 +1835,15 @@
     special: 45
   base_yield_exp: 134
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: GRAVELER
   pokedex_description:
@@ -1359,6 +1862,15 @@
     special: 55
   base_yield_exp: 177
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: GOLEM
   pokedex_description:
@@ -1377,6 +1889,11 @@
     special: 65
   base_yield_exp: 152
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: PONYTA
   pokedex_description:
@@ -1395,6 +1912,11 @@
     special: 80
   base_yield_exp: 192
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: RAPIDASH
   pokedex_description:
@@ -1413,6 +1935,15 @@
     special: 40
   base_yield_exp: 99
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: SLOWPOKE
   pokedex_description:
@@ -1431,6 +1962,15 @@
     special: 80
   base_yield_exp: 164
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: SLOWBRO
   pokedex_description:
@@ -1449,6 +1989,11 @@
     special: 95
   base_yield_exp: 89
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: MAGNEMITE
   pokedex_description:
@@ -1467,6 +2012,11 @@
     special: 120
   base_yield_exp: 161
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: MAGNETON
   pokedex_description:
@@ -1485,6 +2035,15 @@
     special: 58
   base_yield_exp: 94
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: FARFETCH'D
   pokedex_description:
@@ -1503,6 +2062,15 @@
     special: 35
   base_yield_exp: 96
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: DODUO
   pokedex_description:
@@ -1521,6 +2089,15 @@
     special: 60
   base_yield_exp: 158
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: DODRIO
   pokedex_description:
@@ -1539,6 +2116,11 @@
     special: 70
   base_yield_exp: 100
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SEEL
   pokedex_description:
@@ -1557,6 +2139,15 @@
     special: 95
   base_yield_exp: 176
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 25
   name:
     english: DEWGONG
   pokedex_description:
@@ -1575,6 +2166,11 @@
     special: 40
   base_yield_exp: 90
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GRIMER
   pokedex_description:
@@ -1593,6 +2189,11 @@
     special: 65
   base_yield_exp: 157
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: MUK
   pokedex_description:
@@ -1611,6 +2212,11 @@
     special: 45
   base_yield_exp: 97
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SHELLDER
   pokedex_description:
@@ -1629,6 +2235,15 @@
     special: 85
   base_yield_exp: 203
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 25
   name:
     english: CLOYSTER
   pokedex_description:
@@ -1647,6 +2262,15 @@
     special: 100
   base_yield_exp: 95
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 8
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GASTLY
   pokedex_description:
@@ -1665,6 +2289,15 @@
     special: 115
   base_yield_exp: 126
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 8
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: HAUNTER
   pokedex_description:
@@ -1683,6 +2316,15 @@
     special: 130
   base_yield_exp: 190
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 8
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: GENGAR
   pokedex_description:
@@ -1701,6 +2343,15 @@
     special: 30
   base_yield_exp: 108
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: ONIX
   pokedex_description:
@@ -1719,6 +2370,11 @@
     special: 90
   base_yield_exp: 102
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: DROWZEE
   pokedex_description:
@@ -1737,6 +2393,11 @@
     special: 115
   base_yield_exp: 165
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: HYPNO
   pokedex_description:
@@ -1755,6 +2416,11 @@
     special: 25
   base_yield_exp: 115
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KRABBY
   pokedex_description:
@@ -1773,6 +2439,11 @@
     special: 50
   base_yield_exp: 206
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KINGLER
   pokedex_description:
@@ -1791,6 +2462,11 @@
     special: 55
   base_yield_exp: 103
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: VOLTORB
   pokedex_description:
@@ -1809,6 +2485,11 @@
     special: 80
   base_yield_exp: 150
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: ELECTRODE
   pokedex_description:
@@ -1827,6 +2508,15 @@
     special: 60
   base_yield_exp: 98
   catch_rate: 90
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: EXEGGCUTE
   pokedex_description:
@@ -1845,6 +2535,15 @@
     special: 125
   base_yield_exp: 212
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: EXEGGUTOR
   pokedex_description:
@@ -1863,6 +2562,11 @@
     special: 40
   base_yield_exp: 87
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: CUBONE
   pokedex_description:
@@ -1881,6 +2585,11 @@
     special: 50
   base_yield_exp: 124
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
   name:
     english: MAROWAK
   pokedex_description:
@@ -1899,6 +2608,11 @@
     special: 35
   base_yield_exp: 139
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: HITMONLEE
   pokedex_description:
@@ -1917,6 +2631,11 @@
     special: 35
   base_yield_exp: 140
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 1
   name:
     english: HITMONCHAN
   pokedex_description:
@@ -1935,6 +2654,11 @@
     special: 60
   base_yield_exp: 127
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: LICKITUNG
   pokedex_description:
@@ -1953,6 +2677,11 @@
     special: 60
   base_yield_exp: 114
   catch_rate: 190
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: KOFFING
   pokedex_description:
@@ -1971,6 +2700,11 @@
     special: 85
   base_yield_exp: 173
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 3
   name:
     english: WEEZING
   pokedex_description:
@@ -1989,6 +2723,15 @@
     special: 30
   base_yield_exp: 135
   catch_rate: 120
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
+  - !<reference>
+    - types
+    - id
+    - 5
   name:
     english: RHYHORN
   pokedex_description:
@@ -2007,6 +2750,15 @@
     special: 45
   base_yield_exp: 204
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 4
+  - !<reference>
+    - types
+    - id
+    - 5
   name:
     english: RHYDON
   pokedex_description:
@@ -2025,6 +2777,11 @@
     special: 105
   base_yield_exp: 255
   catch_rate: 30
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: CHANSEY
   pokedex_description:
@@ -2043,6 +2800,11 @@
     special: 100
   base_yield_exp: 166
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 22
   name:
     english: TANGELA
   pokedex_description:
@@ -2061,6 +2823,11 @@
     special: 40
   base_yield_exp: 175
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: KANGASKHAN
   pokedex_description:
@@ -2079,6 +2846,11 @@
     special: 70
   base_yield_exp: 83
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: HORSEA
   pokedex_description:
@@ -2097,6 +2869,11 @@
     special: 95
   base_yield_exp: 155
   catch_rate: 75
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SEADRA
   pokedex_description:
@@ -2115,6 +2892,11 @@
     special: 50
   base_yield_exp: 111
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: GOLDEEN
   pokedex_description:
@@ -2133,6 +2915,11 @@
     special: 80
   base_yield_exp: 170
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: SEAKING
   pokedex_description:
@@ -2151,6 +2938,11 @@
     special: 70
   base_yield_exp: 106
   catch_rate: 225
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: STARYU
   pokedex_description:
@@ -2169,6 +2961,15 @@
     special: 100
   base_yield_exp: 207
   catch_rate: 60
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: STARMIE
   pokedex_description:
@@ -2187,6 +2988,11 @@
     special: 100
   base_yield_exp: 136
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: MR.MIME
   pokedex_description:
@@ -2205,6 +3011,15 @@
     special: 55
   base_yield_exp: 187
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: SCYTHER
   pokedex_description:
@@ -2223,6 +3038,15 @@
     special: 95
   base_yield_exp: 137
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 25
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: JYNX
   pokedex_description:
@@ -2241,6 +3065,11 @@
     special: 85
   base_yield_exp: 156
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: ELECTABUZZ
   pokedex_description:
@@ -2259,6 +3088,11 @@
     special: 85
   base_yield_exp: 167
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: MAGMAR
   pokedex_description:
@@ -2277,6 +3111,11 @@
     special: 55
   base_yield_exp: 200
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 7
   name:
     english: PINSIR
   pokedex_description:
@@ -2295,6 +3134,11 @@
     special: 70
   base_yield_exp: 211
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: TAUROS
   pokedex_description:
@@ -2313,6 +3157,11 @@
     special: 20
   base_yield_exp: 20
   catch_rate: 255
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: MAGIKARP
   pokedex_description:
@@ -2331,6 +3180,15 @@
     special: 100
   base_yield_exp: 214
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: GYARADOS
   pokedex_description:
@@ -2349,6 +3207,15 @@
     special: 95
   base_yield_exp: 219
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
+  - !<reference>
+    - types
+    - id
+    - 25
   name:
     english: LAPRAS
   pokedex_description:
@@ -2367,6 +3234,11 @@
     special: 48
   base_yield_exp: 61
   catch_rate: 35
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: DITTO
   pokedex_description:
@@ -2385,6 +3257,11 @@
     special: 65
   base_yield_exp: 92
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: EEVEE
   pokedex_description:
@@ -2403,6 +3280,11 @@
     special: 110
   base_yield_exp: 196
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: VAPOREON
   pokedex_description:
@@ -2421,6 +3303,11 @@
     special: 110
   base_yield_exp: 197
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
   name:
     english: JOLTEON
   pokedex_description:
@@ -2439,6 +3326,11 @@
     special: 110
   base_yield_exp: 198
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
   name:
     english: FLAREON
   pokedex_description:
@@ -2457,6 +3349,11 @@
     special: 75
   base_yield_exp: 130
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: PORYGON
   pokedex_description:
@@ -2475,6 +3372,15 @@
     special: 90
   base_yield_exp: 120
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: OMANYTE
   pokedex_description:
@@ -2493,6 +3399,15 @@
     special: 115
   base_yield_exp: 199
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: OMASTAR
   pokedex_description:
@@ -2511,6 +3426,15 @@
     special: 45
   base_yield_exp: 119
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KABUTO
   pokedex_description:
@@ -2529,6 +3453,15 @@
     special: 70
   base_yield_exp: 201
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 21
   name:
     english: KABUTOPS
   pokedex_description:
@@ -2547,6 +3480,15 @@
     special: 60
   base_yield_exp: 202
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 5
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: AERODACTYL
   pokedex_description:
@@ -2565,6 +3507,11 @@
     special: 65
   base_yield_exp: 154
   catch_rate: 25
+  types:
+  - !<reference>
+    - types
+    - id
+    - 0
   name:
     english: SNORLAX
   pokedex_description:
@@ -2583,6 +3530,15 @@
     special: 125
   base_yield_exp: 215
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 25
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: ARTICUNO
   pokedex_description:
@@ -2601,6 +3557,15 @@
     special: 125
   base_yield_exp: 216
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 23
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: ZAPDOS
   pokedex_description:
@@ -2619,6 +3584,15 @@
     special: 125
   base_yield_exp: 217
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 20
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: MOLTRES
   pokedex_description:
@@ -2637,6 +3611,11 @@
     special: 50
   base_yield_exp: 67
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 26
   name:
     english: DRATINI
   pokedex_description:
@@ -2655,6 +3634,11 @@
     special: 70
   base_yield_exp: 144
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 26
   name:
     english: DRAGONAIR
   pokedex_description:
@@ -2673,6 +3657,15 @@
     special: 100
   base_yield_exp: 218
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 26
+  - !<reference>
+    - types
+    - id
+    - 2
   name:
     english: DRAGONITE
   pokedex_description:
@@ -2691,6 +3684,11 @@
     special: 154
   base_yield_exp: 220
   catch_rate: 3
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: MEWTWO
   pokedex_description:
@@ -2709,6 +3707,11 @@
     special: 100
   base_yield_exp: 64
   catch_rate: 45
+  types:
+  - !<reference>
+    - types
+    - id
+    - 24
   name:
     english: MEW
   pokedex_description:

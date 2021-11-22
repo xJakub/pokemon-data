@@ -1,0 +1,75 @@
+- ids:
+  - - id
+    - 0
+  name:
+    english: NORMAL
+- ids:
+  - - id
+    - 1
+  name:
+    english: FIGHTING
+- ids:
+  - - id
+    - 2
+  name:
+    english: FLYING
+- ids:
+  - - id
+    - 3
+  name:
+    english: POISON
+- ids:
+  - - id
+    - 4
+  name:
+    english: GROUND
+- ids:
+  - - id
+    - 5
+  name:
+    english: ROCK
+- ids:
+  - - id
+    - 7
+  name:
+    english: BUG
+- ids:
+  - - id
+    - 8
+  name:
+    english: GHOST
+- ids:
+  - - id
+    - 20
+  name:
+    english: FIRE
+- ids:
+  - - id
+    - 21
+  name:
+    english: WATER
+- ids:
+  - - id
+    - 22
+  name:
+    english: GRASS
+- ids:
+  - - id
+    - 23
+  name:
+    english: ELECTRIC
+- ids:
+  - - id
+    - 24
+  name:
+    english: PSYCHIC
+- ids:
+  - - id
+    - 25
+  name:
+    english: ICE
+- ids:
+  - - id
+    - 26
+  name:
+    english: DRAGON
