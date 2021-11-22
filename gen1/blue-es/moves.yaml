@@ -1,0 +1,2244 @@
+- ids:
+  - - id
+    - 1
+  name:
+    spanish: DESTRUCTOR
+  power: 40
+  accuracy: 100
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 2
+  name:
+    spanish: GOLPE KARATE
+  power: 50
+  accuracy: 100
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 3
+  name:
+    spanish: DOBLEBOFETÓN
+  power: 15
+  accuracy: 85
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 4
+  name:
+    spanish: PUñO COMETA
+  power: 18
+  accuracy: 85
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 5
+  name:
+    spanish: MEGA PUñO
+  power: 80
+  accuracy: 85
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 6
+  name:
+    spanish: DíA DE PAGO
+  power: 40
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 7
+  name:
+    spanish: PUñO FUEGO
+  power: 75
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 20
+- ids:
+  - - id
+    - 8
+  name:
+    spanish: PUñO HIELO
+  power: 75
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 25
+- ids:
+  - - id
+    - 9
+  name:
+    spanish: PUñO-TRUENO
+  power: 75
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 23
+- ids:
+  - - id
+    - 10
+  name:
+    spanish: ARAñAZO
+  power: 40
+  accuracy: 100
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 11
+  name:
+    spanish: AGARRE
+  power: 55
+  accuracy: 100
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 12
+  name:
+    spanish: GUILLOTINA
+  accuracy: 30
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 13
+  name:
+    spanish: V. CORTANTE
+  power: 80
+  accuracy: 75
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 14
+  name:
+    spanish: DANZA-ESPADA
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 15
+  name:
+    spanish: CORTE
+  power: 50
+  accuracy: 95
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 16
+  name:
+    spanish: TORNADO
+  power: 40
+  accuracy: 100
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 17
+  name:
+    spanish: ATAQUE-ALA
+  power: 35
+  accuracy: 100
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 2
+- ids:
+  - - id
+    - 18
+  name:
+    spanish: REMOLINO
+  accuracy: 85
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 19
+  name:
+    spanish: VUELO
+  power: 70
+  accuracy: 95
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 2
+- ids:
+  - - id
+    - 20
+  name:
+    spanish: ATADURA
+  power: 15
+  accuracy: 75
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 21
+  name:
+    spanish: PORTAZO
+  power: 80
+  accuracy: 75
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 22
+  name:
+    spanish: LÁTIGO CEPA
+  power: 35
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 23
+  name:
+    spanish: PISOTÓN
+  power: 65
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 24
+  name:
+    spanish: DOBLE PATADA
+  power: 30
+  accuracy: 100
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 25
+  name:
+    spanish: MEGA PATADA
+  power: 120
+  accuracy: 75
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 26
+  name:
+    spanish: PATADA SALTO
+  power: 70
+  accuracy: 95
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 27
+  name:
+    spanish: PATADA GIRO
+  power: 60
+  accuracy: 85
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 28
+  name:
+    spanish: ATAQUE-ARENA
+  accuracy: 100
+  base_pp: 15
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 29
+  name:
+    spanish: GOLPE CABEZA
+  power: 70
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 30
+  name:
+    spanish: CORNADA
+  power: 65
+  accuracy: 100
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 31
+  name:
+    spanish: ATAQUE FURIA
+  power: 15
+  accuracy: 85
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 32
+  name:
+    spanish: PERFORADOR
+  accuracy: 30
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 33
+  name:
+    spanish: PLACAJE
+  power: 35
+  accuracy: 95
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 34
+  name:
+    spanish: GOLPE CUERPO
+  power: 85
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 35
+  name:
+    spanish: REPETICIÓN
+  power: 15
+  accuracy: 85
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 36
+  name:
+    spanish: DERRIBO
+  power: 90
+  accuracy: 85
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 37
+  name:
+    spanish: GOLPE
+  power: 90
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 38
+  name:
+    spanish: DOBLE FILO
+  power: 100
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 39
+  name:
+    spanish: LÁTIGO
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 40
+  name:
+    spanish: PICOTAZO VEN.
+  power: 15
+  accuracy: 100
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 41
+  name:
+    spanish: DOBLEATAQUE
+  power: 25
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 7
+- ids:
+  - - id
+    - 42
+  name:
+    spanish: PIN MISIL
+  power: 14
+  accuracy: 85
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 7
+- ids:
+  - - id
+    - 43
+  name:
+    spanish: MALICIOSO
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 44
+  name:
+    spanish: MORDISCO
+  power: 60
+  accuracy: 100
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 45
+  name:
+    spanish: GRUñIDO
+  accuracy: 100
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 46
+  name:
+    spanish: RUGIDO
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 47
+  name:
+    spanish: CANTO
+  accuracy: 55
+  base_pp: 15
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 48
+  name:
+    spanish: SUPERSÓNICO
+  accuracy: 55
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 49
+  name:
+    spanish: BOMBA SÓNICA
+  accuracy: 90
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 50
+  name:
+    spanish: ANULACIÓN
+  accuracy: 55
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 51
+  name:
+    spanish: ÁCIDO
+  power: 40
+  accuracy: 100
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 52
+  name:
+    spanish: ASCUAS
+  power: 40
+  accuracy: 100
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 20
+- ids:
+  - - id
+    - 53
+  name:
+    spanish: LANZALLAMAS
+  power: 95
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 20
+- ids:
+  - - id
+    - 54
+  name:
+    spanish: NEBLINA
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 25
+- ids:
+  - - id
+    - 55
+  name:
+    spanish: PISTOLA AGUA
+  power: 40
+  accuracy: 100
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 56
+  name:
+    spanish: HIDRO BOMBA
+  power: 120
+  accuracy: 80
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 57
+  name:
+    spanish: SURF
+  power: 95
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 58
+  name:
+    spanish: RAYO HIELO
+  power: 95
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 25
+- ids:
+  - - id
+    - 59
+  name:
+    spanish: VENTISCA
+  power: 120
+  accuracy: 90
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 25
+- ids:
+  - - id
+    - 60
+  name:
+    spanish: PSICO-RAYO
+  power: 65
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 61
+  name:
+    spanish: RAYO BURBUJA
+  power: 65
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 62
+  name:
+    spanish: RAYO AURORA
+  power: 65
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 25
+- ids:
+  - - id
+    - 63
+  name:
+    spanish: HÍPER RAYO
+  power: 150
+  accuracy: 90
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 64
+  name:
+    spanish: PICOTAZO
+  power: 35
+  accuracy: 100
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 2
+- ids:
+  - - id
+    - 65
+  name:
+    spanish: PICO TALADRO
+  power: 80
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 2
+- ids:
+  - - id
+    - 66
+  name:
+    spanish: SUMISIÓN
+  power: 80
+  accuracy: 80
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 67
+  name:
+    spanish: PATADA BAJA
+  power: 50
+  accuracy: 90
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 68
+  name:
+    spanish: CONTADOR
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 69
+  name:
+    spanish: MOV. SÍSMICO
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 70
+  name:
+    spanish: FUERZA
+  power: 80
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 71
+  name:
+    spanish: ABSORBER
+  power: 20
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 72
+  name:
+    spanish: MEGA AGOTAR
+  power: 40
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 73
+  name:
+    spanish: DRENADORAS
+  accuracy: 90
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 74
+  name:
+    spanish: DESARROLLO
+  accuracy: 100
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 75
+  name:
+    spanish: HOJA AFILADA
+  power: 55
+  accuracy: 95
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 76
+  name:
+    spanish: RAYO SOLAR
+  power: 120
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 77
+  name:
+    spanish: POLVO VENENO
+  accuracy: 75
+  base_pp: 35
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 78
+  name:
+    spanish: PARALIZADOR
+  accuracy: 75
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 79
+  name:
+    spanish: SOMNÍFERO
+  accuracy: 75
+  base_pp: 15
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 80
+  name:
+    spanish: DANZA PÉTALO
+  power: 70
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 81
+  name:
+    spanish: DISP. DEMORA
+  accuracy: 95
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 7
+- ids:
+  - - id
+    - 82
+  name:
+    spanish: FURIA DRAGÓN
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 26
+- ids:
+  - - id
+    - 83
+  name:
+    spanish: GIRO FUEGO
+  power: 15
+  accuracy: 70
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 20
+- ids:
+  - - id
+    - 84
+  name:
+    spanish: IMPACTRUENO
+  power: 40
+  accuracy: 100
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 23
+- ids:
+  - - id
+    - 85
+  name:
+    spanish: RAYO
+  power: 95
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 23
+- ids:
+  - - id
+    - 86
+  name:
+    spanish: ONDA TRUENO
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 23
+- ids:
+  - - id
+    - 87
+  name:
+    spanish: TRUENO
+  power: 120
+  accuracy: 70
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 23
+- ids:
+  - - id
+    - 88
+  name:
+    spanish: LANZA ROCAS
+  power: 50
+  accuracy: 65
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 5
+- ids:
+  - - id
+    - 89
+  name:
+    spanish: TERREMOTO
+  power: 100
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 4
+- ids:
+  - - id
+    - 90
+  name:
+    spanish: FISURA
+  accuracy: 30
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 4
+- ids:
+  - - id
+    - 91
+  name:
+    spanish: EXCAVAR
+  power: 100
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 4
+- ids:
+  - - id
+    - 92
+  name:
+    spanish: TÓXICO
+  accuracy: 85
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 93
+  name:
+    spanish: CONFUSIÓN
+  power: 50
+  accuracy: 100
+  base_pp: 25
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 94
+  name:
+    spanish: PSÍQUICO
+  power: 90
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 95
+  name:
+    spanish: HIPNOSIS
+  accuracy: 60
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 96
+  name:
+    spanish: MEDITACIÓN
+  accuracy: 100
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 97
+  name:
+    spanish: AGILIDAD
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 98
+  name:
+    spanish: ATA. RÁPIDO
+  power: 40
+  accuracy: 100
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 99
+  name:
+    spanish: FURIA
+  power: 20
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 100
+  name:
+    spanish: TELETRANSP.
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 101
+  name:
+    spanish: TINIEBLAS
+  accuracy: 100
+  base_pp: 15
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 8
+- ids:
+  - - id
+    - 102
+  name:
+    spanish: MIMÉTICO
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 103
+  name:
+    spanish: CHIRRIDO
+  accuracy: 85
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 104
+  name:
+    spanish: DOBLE EQUIPO
+  accuracy: 100
+  base_pp: 15
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 105
+  name:
+    spanish: RECUPERACIÓN
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 106
+  name:
+    spanish: FORTALEZA
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 107
+  name:
+    spanish: REDUCCIÓN
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 108
+  name:
+    spanish: PANTALLAHUMO
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 109
+  name:
+    spanish: RAYO CONFUSO
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 8
+- ids:
+  - - id
+    - 110
+  name:
+    spanish: REFUGIO
+  accuracy: 100
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 111
+  name:
+    spanish: RIZO DEFENSA
+  accuracy: 100
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 112
+  name:
+    spanish: BARRERA
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 113
+  name:
+    spanish: PANTALLA LUZ
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 114
+  name:
+    spanish: NIEBLA
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 25
+- ids:
+  - - id
+    - 115
+  name:
+    spanish: REFLEJO
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 116
+  name:
+    spanish: FOCO ENERGÍA
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 117
+  name:
+    spanish: VENGANZA
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 118
+  name:
+    spanish: METRÓNOMO
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 119
+  name:
+    spanish: MOV. ESPEJO
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 2
+- ids:
+  - - id
+    - 120
+  name:
+    spanish: AUTODESTRUC.
+  power: 130
+  accuracy: 100
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 121
+  name:
+    spanish: BOMBA HUEVO
+  power: 100
+  accuracy: 75
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 122
+  name:
+    spanish: LENG#194ETAZO
+  power: 20
+  accuracy: 100
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 8
+- ids:
+  - - id
+    - 123
+  name:
+    spanish: POLUCIÓN
+  power: 20
+  accuracy: 70
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 124
+  name:
+    spanish: RESIDUOS
+  power: 65
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 125
+  name:
+    spanish: HUESO PALO
+  power: 65
+  accuracy: 85
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 4
+- ids:
+  - - id
+    - 126
+  name:
+    spanish: LLAMARADA
+  power: 120
+  accuracy: 85
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 20
+- ids:
+  - - id
+    - 127
+  name:
+    spanish: CASCADA
+  power: 80
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 128
+  name:
+    spanish: TENAZA
+  power: 35
+  accuracy: 75
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 129
+  name:
+    spanish: RAPIDEZ
+  power: 60
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 130
+  name:
+    spanish: CABEZAZO
+  power: 100
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 131
+  name:
+    spanish: CLAVO CAñÓN
+  power: 20
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 132
+  name:
+    spanish: RESTRICCIÓN
+  power: 10
+  accuracy: 100
+  base_pp: 35
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 133
+  name:
+    spanish: AMNESIA
+  accuracy: 100
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 134
+  name:
+    spanish: KINÉTICO
+  accuracy: 80
+  base_pp: 15
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 135
+  name:
+    spanish: AMORTIGUADOR
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 136
+  name:
+    spanish: PATADA S.ALTA
+  power: 85
+  accuracy: 90
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 1
+- ids:
+  - - id
+    - 137
+  name:
+    spanish: DESLUMBRAR
+  accuracy: 75
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 138
+  name:
+    spanish: COME SUEñOS
+  power: 100
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 139
+  name:
+    spanish: GAS VENENOSO
+  accuracy: 55
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 140
+  name:
+    spanish: PRESA
+  power: 15
+  accuracy: 85
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 141
+  name:
+    spanish: CHUPA VIDAS
+  power: 20
+  accuracy: 100
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 7
+- ids:
+  - - id
+    - 142
+  name:
+    spanish: BESO AMOROSO
+  accuracy: 75
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 143
+  name:
+    spanish: ATAQUE AÉREO
+  power: 140
+  accuracy: 90
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 2
+- ids:
+  - - id
+    - 144
+  name:
+    spanish: TRANSFORM.
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 145
+  name:
+    spanish: BURBUJA
+  power: 20
+  accuracy: 100
+  base_pp: 30
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 146
+  name:
+    spanish: PUñO-MAREO
+  power: 70
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 147
+  name:
+    spanish: ESPORA
+  accuracy: 100
+  base_pp: 15
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 22
+- ids:
+  - - id
+    - 148
+  name:
+    spanish: DESTELLO
+  accuracy: 70
+  base_pp: 20
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 149
+  name:
+    spanish: PSICO-ONDA
+  accuracy: 80
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 150
+  name:
+    spanish: SALPICADURA
+  accuracy: 100
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 151
+  name:
+    spanish: ARMAD. ÁCIDA
+  accuracy: 100
+  base_pp: 40
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 3
+- ids:
+  - - id
+    - 152
+  name:
+    spanish: MARTILLAZO
+  power: 90
+  accuracy: 85
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 21
+- ids:
+  - - id
+    - 153
+  name:
+    spanish: EXPLOSIÓN
+  power: 170
+  accuracy: 100
+  base_pp: 5
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 154
+  name:
+    spanish: GOLPES FURIA
+  power: 18
+  accuracy: 80
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 155
+  name:
+    spanish: HUESOMERANG
+  power: 50
+  accuracy: 90
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 4
+- ids:
+  - - id
+    - 156
+  name:
+    spanish: DESCANSO
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 24
+- ids:
+  - - id
+    - 157
+  name:
+    spanish: AVALANCHA
+  power: 75
+  accuracy: 90
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 5
+- ids:
+  - - id
+    - 158
+  name:
+    spanish: HIP.COLMILLO
+  power: 80
+  accuracy: 90
+  base_pp: 15
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 159
+  name:
+    spanish: AFILAR
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 160
+  name:
+    spanish: CONVERSIÓN
+  accuracy: 100
+  base_pp: 30
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 161
+  name:
+    spanish: TRI-ATAQUE
+  power: 80
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 162
+  name:
+    spanish: SUPER DIENTE
+  accuracy: 90
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 163
+  name:
+    spanish: CUCHILLADA
+  power: 70
+  accuracy: 100
+  base_pp: 20
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 164
+  name:
+    spanish: SUSTITUTO
+  accuracy: 100
+  base_pp: 10
+  is_damaging: false
+  is_status: true
+  type: !<reference>
+  - types
+  - id
+  - 0
+- ids:
+  - - id
+    - 165
+  name:
+    spanish: COMBATE
+  power: 50
+  accuracy: 100
+  base_pp: 10
+  is_damaging: true
+  is_status: false
+  type: !<reference>
+  - types
+  - id
+  - 0
