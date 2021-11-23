@@ -26,7 +26,7 @@
   species_class:
     english: SEED
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 1
 - ids:
@@ -57,7 +57,7 @@
   species_class:
     english: SEED
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 2
 - ids:
@@ -88,7 +88,7 @@
   species_class:
     english: SEED
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 3
 - ids:
@@ -115,7 +115,7 @@
   species_class:
     english: LIZARD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 4
 - ids:
@@ -142,7 +142,7 @@
   species_class:
     english: FLAME
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 5
 - ids:
@@ -173,7 +173,7 @@
   species_class:
     english: FLAME
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 6
 - ids:
@@ -200,7 +200,7 @@
   species_class:
     english: TINYTURTLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 7
 - ids:
@@ -227,7 +227,7 @@
   species_class:
     english: TURTLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 8
 - ids:
@@ -254,7 +254,7 @@
   species_class:
     english: SHELLFISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 9
 - ids:
@@ -281,7 +281,7 @@
   species_class:
     english: WORM
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 10
 - ids:
@@ -308,7 +308,7 @@
   species_class:
     english: COCOON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 11
 - ids:
@@ -339,7 +339,7 @@
   species_class:
     english: BUTTERFLY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 12
 - ids:
@@ -370,7 +370,7 @@
   species_class:
     english: HAIRY BUG
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 13
 - ids:
@@ -401,7 +401,7 @@
   species_class:
     english: COCOON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 14
 - ids:
@@ -432,7 +432,7 @@
   species_class:
     english: POISON BEE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 15
 - ids:
@@ -463,7 +463,7 @@
   species_class:
     english: TINY BIRD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 16
 - ids:
@@ -494,7 +494,7 @@
   species_class:
     english: BIRD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 17
 - ids:
@@ -525,7 +525,7 @@
   species_class:
     english: BIRD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 18
 - ids:
@@ -552,7 +552,7 @@
   species_class:
     english: RAT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 19
 - ids:
@@ -579,7 +579,7 @@
   species_class:
     english: RAT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 20
 - ids:
@@ -610,7 +610,7 @@
   species_class:
     english: TINY BIRD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 21
 - ids:
@@ -641,7 +641,7 @@
   species_class:
     english: BEAK
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 22
 - ids:
@@ -668,7 +668,7 @@
   species_class:
     english: SNAKE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 23
 - ids:
@@ -695,7 +695,7 @@
   species_class:
     english: COBRA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 24
 - ids:
@@ -722,7 +722,7 @@
   species_class:
     english: MOUSE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 25
 - ids:
@@ -749,7 +749,7 @@
   species_class:
     english: MOUSE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 26
 - ids:
@@ -776,7 +776,7 @@
   species_class:
     english: MOUSE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 27
 - ids:
@@ -803,7 +803,7 @@
   species_class:
     english: MOUSE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 28
 - ids:
@@ -830,7 +830,7 @@
   species_class:
     english: POISON PIN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 29
 - ids:
@@ -857,7 +857,7 @@
   species_class:
     english: POISON PIN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 30
 - ids:
@@ -888,7 +888,7 @@
   species_class:
     english: DRILL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 31
 - ids:
@@ -915,7 +915,7 @@
   species_class:
     english: POISON PIN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 32
 - ids:
@@ -942,7 +942,7 @@
   species_class:
     english: POISON PIN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 33
 - ids:
@@ -973,7 +973,7 @@
   species_class:
     english: DRILL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 34
 - ids:
@@ -1000,7 +1000,7 @@
   species_class:
     english: FAIRY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 35
 - ids:
@@ -1027,7 +1027,7 @@
   species_class:
     english: FAIRY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 36
 - ids:
@@ -1054,7 +1054,7 @@
   species_class:
     english: FOX
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 37
 - ids:
@@ -1081,7 +1081,7 @@
   species_class:
     english: FOX
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 38
 - ids:
@@ -1108,7 +1108,7 @@
   species_class:
     english: BALLOON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 39
 - ids:
@@ -1135,7 +1135,7 @@
   species_class:
     english: BALLOON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 40
 - ids:
@@ -1166,7 +1166,7 @@
   species_class:
     english: BAT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 41
 - ids:
@@ -1197,7 +1197,7 @@
   species_class:
     english: BAT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 42
 - ids:
@@ -1228,7 +1228,7 @@
   species_class:
     english: WEED
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 43
 - ids:
@@ -1259,7 +1259,7 @@
   species_class:
     english: WEED
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 44
 - ids:
@@ -1290,7 +1290,7 @@
   species_class:
     english: FLOWER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 45
 - ids:
@@ -1321,7 +1321,7 @@
   species_class:
     english: MUSHROOM
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 46
 - ids:
@@ -1352,7 +1352,7 @@
   species_class:
     english: MUSHROOM
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 47
 - ids:
@@ -1383,7 +1383,7 @@
   species_class:
     english: INSECT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 48
 - ids:
@@ -1414,7 +1414,7 @@
   species_class:
     english: POISONMOTH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 49
 - ids:
@@ -1441,7 +1441,7 @@
   species_class:
     english: MOLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 50
 - ids:
@@ -1468,7 +1468,7 @@
   species_class:
     english: MOLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 51
 - ids:
@@ -1495,7 +1495,7 @@
   species_class:
     english: SCRATCHCAT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 52
 - ids:
@@ -1522,7 +1522,7 @@
   species_class:
     english: CLASSY CAT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 53
 - ids:
@@ -1549,7 +1549,7 @@
   species_class:
     english: DUCK
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 54
 - ids:
@@ -1576,7 +1576,7 @@
   species_class:
     english: DUCK
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 55
 - ids:
@@ -1603,7 +1603,7 @@
   species_class:
     english: PIG MONKEY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 56
 - ids:
@@ -1630,7 +1630,7 @@
   species_class:
     english: PIG MONKEY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 57
 - ids:
@@ -1657,7 +1657,7 @@
   species_class:
     english: PUPPY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 58
 - ids:
@@ -1684,7 +1684,7 @@
   species_class:
     english: LEGENDARY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 59
 - ids:
@@ -1711,7 +1711,7 @@
   species_class:
     english: TADPOLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 60
 - ids:
@@ -1738,7 +1738,7 @@
   species_class:
     english: TADPOLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 61
 - ids:
@@ -1769,7 +1769,7 @@
   species_class:
     english: TADPOLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 62
 - ids:
@@ -1796,7 +1796,7 @@
   species_class:
     english: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 63
 - ids:
@@ -1823,7 +1823,7 @@
   species_class:
     english: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 64
 - ids:
@@ -1850,7 +1850,7 @@
   species_class:
     english: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 65
 - ids:
@@ -1877,7 +1877,7 @@
   species_class:
     english: SUPERPOWER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 66
 - ids:
@@ -1904,7 +1904,7 @@
   species_class:
     english: SUPERPOWER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 67
 - ids:
@@ -1931,7 +1931,7 @@
   species_class:
     english: SUPERPOWER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 68
 - ids:
@@ -1962,7 +1962,7 @@
   species_class:
     english: FLOWER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 69
 - ids:
@@ -1993,7 +1993,7 @@
   species_class:
     english: FLYCATCHER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 70
 - ids:
@@ -2024,7 +2024,7 @@
   species_class:
     english: FLYCATCHER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 71
 - ids:
@@ -2055,7 +2055,7 @@
   species_class:
     english: JELLYFISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 72
 - ids:
@@ -2086,7 +2086,7 @@
   species_class:
     english: JELLYFISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 73
 - ids:
@@ -2117,7 +2117,7 @@
   species_class:
     english: ROCK
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 74
 - ids:
@@ -2148,7 +2148,7 @@
   species_class:
     english: ROCK
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 75
 - ids:
@@ -2179,7 +2179,7 @@
   species_class:
     english: MEGATON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 76
 - ids:
@@ -2206,7 +2206,7 @@
   species_class:
     english: FIRE HORSE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 77
 - ids:
@@ -2233,7 +2233,7 @@
   species_class:
     english: FIRE HORSE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 78
 - ids:
@@ -2264,7 +2264,7 @@
   species_class:
     english: DOPEY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 79
 - ids:
@@ -2295,7 +2295,7 @@
   species_class:
     english: HERMITCRAB
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 80
 - ids:
@@ -2322,7 +2322,7 @@
   species_class:
     english: MAGNET
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 81
 - ids:
@@ -2349,7 +2349,7 @@
   species_class:
     english: MAGNET
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 82
 - ids:
@@ -2380,7 +2380,7 @@
   species_class:
     english: WILD DUCK
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 83
 - ids:
@@ -2411,7 +2411,7 @@
   species_class:
     english: TWIN BIRD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 84
 - ids:
@@ -2442,7 +2442,7 @@
   species_class:
     english: TRIPLEBIRD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 85
 - ids:
@@ -2469,7 +2469,7 @@
   species_class:
     english: SEA LION
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 86
 - ids:
@@ -2500,7 +2500,7 @@
   species_class:
     english: SEA LION
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 87
 - ids:
@@ -2527,7 +2527,7 @@
   species_class:
     english: SLUDGE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 88
 - ids:
@@ -2554,7 +2554,7 @@
   species_class:
     english: SLUDGE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 89
 - ids:
@@ -2581,7 +2581,7 @@
   species_class:
     english: BIVALVE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 90
 - ids:
@@ -2612,7 +2612,7 @@
   species_class:
     english: BIVALVE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 91
 - ids:
@@ -2643,7 +2643,7 @@
   species_class:
     english: GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 92
 - ids:
@@ -2674,7 +2674,7 @@
   species_class:
     english: GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 93
 - ids:
@@ -2705,7 +2705,7 @@
   species_class:
     english: SHADOW
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 94
 - ids:
@@ -2736,7 +2736,7 @@
   species_class:
     english: ROCK SNAKE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 95
 - ids:
@@ -2763,7 +2763,7 @@
   species_class:
     english: HYPNOSIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 96
 - ids:
@@ -2790,7 +2790,7 @@
   species_class:
     english: HYPNOSIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 97
 - ids:
@@ -2817,7 +2817,7 @@
   species_class:
     english: RIVER CRAB
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 98
 - ids:
@@ -2844,7 +2844,7 @@
   species_class:
     english: PINCER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 99
 - ids:
@@ -2871,7 +2871,7 @@
   species_class:
     english: BALL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 100
 - ids:
@@ -2898,7 +2898,7 @@
   species_class:
     english: BALL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 101
 - ids:
@@ -2929,7 +2929,7 @@
   species_class:
     english: EGG
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 102
 - ids:
@@ -2960,7 +2960,7 @@
   species_class:
     english: COCONUT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 103
 - ids:
@@ -2987,7 +2987,7 @@
   species_class:
     english: LONELY
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 104
 - ids:
@@ -3014,7 +3014,7 @@
   species_class:
     english: BONEKEEPER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 105
 - ids:
@@ -3041,7 +3041,7 @@
   species_class:
     english: KICKING
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 106
 - ids:
@@ -3068,7 +3068,7 @@
   species_class:
     english: PUNCHING
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 107
 - ids:
@@ -3095,7 +3095,7 @@
   species_class:
     english: LICKING
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 108
 - ids:
@@ -3122,7 +3122,7 @@
   species_class:
     english: POISON GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 109
 - ids:
@@ -3149,7 +3149,7 @@
   species_class:
     english: POISON GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 110
 - ids:
@@ -3180,7 +3180,7 @@
   species_class:
     english: SPIKES
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 111
 - ids:
@@ -3211,7 +3211,7 @@
   species_class:
     english: DRILL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 112
 - ids:
@@ -3238,7 +3238,7 @@
   species_class:
     english: EGG
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 113
 - ids:
@@ -3265,7 +3265,7 @@
   species_class:
     english: VINE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 114
 - ids:
@@ -3292,7 +3292,7 @@
   species_class:
     english: PARENT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 115
 - ids:
@@ -3319,7 +3319,7 @@
   species_class:
     english: DRAGON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 116
 - ids:
@@ -3346,7 +3346,7 @@
   species_class:
     english: DRAGON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 117
 - ids:
@@ -3373,7 +3373,7 @@
   species_class:
     english: GOLDFISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 118
 - ids:
@@ -3400,7 +3400,7 @@
   species_class:
     english: GOLDFISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 119
 - ids:
@@ -3427,7 +3427,7 @@
   species_class:
     english: STARSHAPE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 120
 - ids:
@@ -3458,7 +3458,7 @@
   species_class:
     english: MYSTERIOUS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 121
 - ids:
@@ -3485,7 +3485,7 @@
   species_class:
     english: BARRIER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 122
 - ids:
@@ -3516,7 +3516,7 @@
   species_class:
     english: MANTIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 123
 - ids:
@@ -3547,7 +3547,7 @@
   species_class:
     english: HUMANSHAPE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 124
 - ids:
@@ -3574,7 +3574,7 @@
   species_class:
     english: ELECTRIC
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 125
 - ids:
@@ -3601,7 +3601,7 @@
   species_class:
     english: SPITFIRE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 126
 - ids:
@@ -3628,7 +3628,7 @@
   species_class:
     english: STAGBEETLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 127
 - ids:
@@ -3655,7 +3655,7 @@
   species_class:
     english: WILD BULL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 128
 - ids:
@@ -3682,7 +3682,7 @@
   species_class:
     english: FISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 129
 - ids:
@@ -3713,7 +3713,7 @@
   species_class:
     english: ATROCIOUS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 130
 - ids:
@@ -3744,7 +3744,7 @@
   species_class:
     english: TRANSPORT
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 131
 - ids:
@@ -3771,7 +3771,7 @@
   species_class:
     english: TRANSFORM
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 132
 - ids:
@@ -3798,7 +3798,7 @@
   species_class:
     english: EVOLUTION
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 133
 - ids:
@@ -3825,7 +3825,7 @@
   species_class:
     english: BUBBLE JET
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 134
 - ids:
@@ -3852,7 +3852,7 @@
   species_class:
     english: LIGHTNING
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 135
 - ids:
@@ -3879,7 +3879,7 @@
   species_class:
     english: FLAME
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 136
 - ids:
@@ -3906,7 +3906,7 @@
   species_class:
     english: VIRTUAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 137
 - ids:
@@ -3937,7 +3937,7 @@
   species_class:
     english: SPIRAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 138
 - ids:
@@ -3968,7 +3968,7 @@
   species_class:
     english: SPIRAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 139
 - ids:
@@ -3999,7 +3999,7 @@
   species_class:
     english: SHELLFISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 140
 - ids:
@@ -4030,7 +4030,7 @@
   species_class:
     english: SHELLFISH
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 141
 - ids:
@@ -4061,7 +4061,7 @@
   species_class:
     english: FOSSIL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 142
 - ids:
@@ -4088,7 +4088,7 @@
   species_class:
     english: SLEEPING
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 143
 - ids:
@@ -4119,7 +4119,7 @@
   species_class:
     english: FREEZE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 144
 - ids:
@@ -4150,7 +4150,7 @@
   species_class:
     english: ELECTRIC
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 145
 - ids:
@@ -4181,7 +4181,7 @@
   species_class:
     english: FLAME
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 146
 - ids:
@@ -4208,7 +4208,7 @@
   species_class:
     english: DRAGON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 147
 - ids:
@@ -4235,7 +4235,7 @@
   species_class:
     english: DRAGON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 148
 - ids:
@@ -4266,7 +4266,7 @@
   species_class:
     english: DRAGON
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 149
 - ids:
@@ -4293,7 +4293,7 @@
   species_class:
     english: GENETIC
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 150
 - ids:
@@ -4320,6 +4320,6 @@
   species_class:
     english: NEW SPECIE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 151

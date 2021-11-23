@@ -30,7 +30,7 @@
     english: SEED
     spanish: SEMILLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 1
 - ids:
@@ -65,7 +65,7 @@
     english: SEED
     spanish: SEMILLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 2
 - ids:
@@ -100,7 +100,7 @@
     english: SEED
     spanish: SEMILLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 3
 - ids:
@@ -131,7 +131,7 @@
     english: LIZARD
     spanish: LAGARTIJA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 4
 - ids:
@@ -162,7 +162,7 @@
     english: FLAME
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 5
 - ids:
@@ -197,7 +197,7 @@
     english: FLAME
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 6
 - ids:
@@ -228,7 +228,7 @@
     english: TINYTURTLE
     spanish: TORTUGUITA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 7
 - ids:
@@ -259,7 +259,7 @@
     english: TURTLE
     spanish: TORTUGA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 8
 - ids:
@@ -290,7 +290,7 @@
     english: SHELLFISH
     spanish: MARISCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 9
 - ids:
@@ -321,7 +321,7 @@
     english: WORM
     spanish: GUSANO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 10
 - ids:
@@ -352,7 +352,7 @@
     english: COCOON
     spanish: CAPULLO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 11
 - ids:
@@ -386,7 +386,7 @@
     english: BUTTERFLY
     spanish: MARIPOSA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 12
 - ids:
@@ -421,7 +421,7 @@
     english: HAIRY BUG
     spanish: ORUGA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 13
 - ids:
@@ -456,7 +456,7 @@
     english: COCOON
     spanish: CAPULLO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 14
 - ids:
@@ -491,7 +491,7 @@
     english: POISON BEE
     spanish: ABEJA VEN.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 15
 - ids:
@@ -526,7 +526,7 @@
     english: TINY BIRD
     spanish: PAJARITO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 16
 - ids:
@@ -561,7 +561,7 @@
     english: BIRD
     spanish: PÁJARO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 17
 - ids:
@@ -596,7 +596,7 @@
     english: BIRD
     spanish: PÁJARO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 18
 - ids:
@@ -627,7 +627,7 @@
     english: RAT
     spanish: RATA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 19
 - ids:
@@ -658,7 +658,7 @@
     english: RAT
     spanish: RATA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 20
 - ids:
@@ -693,7 +693,7 @@
     english: TINY BIRD
     spanish: PAJARITO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 21
 - ids:
@@ -728,7 +728,7 @@
     english: BEAK
     spanish: PICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 22
 - ids:
@@ -759,7 +759,7 @@
     english: SNAKE
     spanish: SERPIENTE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 23
 - ids:
@@ -790,7 +790,7 @@
     english: COBRA
     spanish: COBRA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 24
 - ids:
@@ -821,7 +821,7 @@
     english: MOUSE
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 25
 - ids:
@@ -852,7 +852,7 @@
     english: MOUSE
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 26
 - ids:
@@ -883,7 +883,7 @@
     english: MOUSE
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 27
 - ids:
@@ -914,7 +914,7 @@
     english: MOUSE
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 28
 - ids:
@@ -945,7 +945,7 @@
     english: POISON PIN
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 29
 - ids:
@@ -976,7 +976,7 @@
     english: POISON PIN
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 30
 - ids:
@@ -1011,7 +1011,7 @@
     english: DRILL
     spanish: TALADRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 31
 - ids:
@@ -1042,7 +1042,7 @@
     english: POISON PIN
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 32
 - ids:
@@ -1073,7 +1073,7 @@
     english: POISON PIN
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 33
 - ids:
@@ -1108,7 +1108,7 @@
     english: DRILL
     spanish: TALADRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 34
 - ids:
@@ -1139,7 +1139,7 @@
     english: FAIRY
     spanish: HADA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 35
 - ids:
@@ -1170,7 +1170,7 @@
     english: FAIRY
     spanish: HADA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 36
 - ids:
@@ -1201,7 +1201,7 @@
     english: FOX
     spanish: ZORRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 37
 - ids:
@@ -1232,7 +1232,7 @@
     english: FOX
     spanish: ZORRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 38
 - ids:
@@ -1263,7 +1263,7 @@
     english: BALLOON
     spanish: GLOBO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 39
 - ids:
@@ -1294,7 +1294,7 @@
     english: BALLOON
     spanish: GLOBO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 40
 - ids:
@@ -1329,7 +1329,7 @@
     english: BAT
     spanish: MURCIÉLAGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 41
 - ids:
@@ -1364,7 +1364,7 @@
     english: BAT
     spanish: MURCIÉLAGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 42
 - ids:
@@ -1399,7 +1399,7 @@
     english: WEED
     spanish: ALGAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 43
 - ids:
@@ -1434,7 +1434,7 @@
     english: WEED
     spanish: ALGAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 44
 - ids:
@@ -1469,7 +1469,7 @@
     english: FLOWER
     spanish: FLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 45
 - ids:
@@ -1504,7 +1504,7 @@
     english: MUSHROOM
     spanish: HONGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 46
 - ids:
@@ -1539,7 +1539,7 @@
     english: MUSHROOM
     spanish: HONGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 47
 - ids:
@@ -1574,7 +1574,7 @@
     english: INSECT
     spanish: INSECTO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 48
 - ids:
@@ -1609,7 +1609,7 @@
     english: POISONMOTH
     spanish: MOPA VEN.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 49
 - ids:
@@ -1640,7 +1640,7 @@
     english: MOLE
     spanish: TOPO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 50
 - ids:
@@ -1671,7 +1671,7 @@
     english: MOLE
     spanish: TOPO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 51
 - ids:
@@ -1702,7 +1702,7 @@
     english: SCRATCHCAT
     spanish: GATO ARAÑA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 52
 - ids:
@@ -1733,7 +1733,7 @@
     english: CLASSY CAT
     spanish: GATO FINO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 53
 - ids:
@@ -1764,7 +1764,7 @@
     english: DUCK
     spanish: PATO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 54
 - ids:
@@ -1795,7 +1795,7 @@
     english: DUCK
     spanish: PATO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 55
 - ids:
@@ -1826,7 +1826,7 @@
     english: PIG MONKEY
     spanish: MONO CERDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 56
 - ids:
@@ -1857,7 +1857,7 @@
     english: PIG MONKEY
     spanish: MONO CERDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 57
 - ids:
@@ -1888,7 +1888,7 @@
     english: PUPPY
     spanish: PERRITO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 58
 - ids:
@@ -1919,7 +1919,7 @@
     english: LEGENDARY
     spanish: LEGENDARIO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 59
 - ids:
@@ -1950,7 +1950,7 @@
     english: TADPOLE
     spanish: RENACUAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 60
 - ids:
@@ -1981,7 +1981,7 @@
     english: TADPOLE
     spanish: RENACUAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 61
 - ids:
@@ -2016,7 +2016,7 @@
     english: TADPOLE
     spanish: RENACUAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 62
 - ids:
@@ -2047,7 +2047,7 @@
     english: PSI
     spanish: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 63
 - ids:
@@ -2078,7 +2078,7 @@
     english: PSI
     spanish: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 64
 - ids:
@@ -2109,7 +2109,7 @@
     english: PSI
     spanish: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 65
 - ids:
@@ -2140,7 +2140,7 @@
     english: SUPERPOWER
     spanish: SUPERPODER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 66
 - ids:
@@ -2171,7 +2171,7 @@
     english: SUPERPOWER
     spanish: SUPERPODER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 67
 - ids:
@@ -2202,7 +2202,7 @@
     english: SUPERPOWER
     spanish: SUPERPODER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 68
 - ids:
@@ -2237,7 +2237,7 @@
     english: FLOWER
     spanish: FLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 69
 - ids:
@@ -2272,7 +2272,7 @@
     english: FLYCATCHER
     spanish: MATAMOSCAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 70
 - ids:
@@ -2307,7 +2307,7 @@
     english: FLYCATCHER
     spanish: MATAMOSCAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 71
 - ids:
@@ -2342,7 +2342,7 @@
     english: JELLYFISH
     spanish: MEDUSA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 72
 - ids:
@@ -2377,7 +2377,7 @@
     english: JELLYFISH
     spanish: MEDUSA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 73
 - ids:
@@ -2412,7 +2412,7 @@
     english: ROCK
     spanish: ROCA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 74
 - ids:
@@ -2447,7 +2447,7 @@
     english: ROCK
     spanish: ROCA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 75
 - ids:
@@ -2482,7 +2482,7 @@
     english: MEGATON
     spanish: MEGATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 76
 - ids:
@@ -2513,7 +2513,7 @@
     english: FIRE HORSE
     spanish: CABALLO F.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 77
 - ids:
@@ -2544,7 +2544,7 @@
     english: FIRE HORSE
     spanish: CABALLO F.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 78
 - ids:
@@ -2579,7 +2579,7 @@
     english: DOPEY
     spanish: ATONTADO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 79
 - ids:
@@ -2614,7 +2614,7 @@
     english: HERMITCRAB
     spanish: ERMITAÑO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 80
 - ids:
@@ -2645,7 +2645,7 @@
     english: MAGNET
     spanish: IMÁN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 81
 - ids:
@@ -2676,7 +2676,7 @@
     english: MAGNET
     spanish: IMÁN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 82
 - ids:
@@ -2711,7 +2711,7 @@
     english: WILD DUCK
     spanish: PATO SALV.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 83
 - ids:
@@ -2746,7 +2746,7 @@
     english: TWIN BIRD
     spanish: AVE GEMELA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 84
 - ids:
@@ -2781,7 +2781,7 @@
     english: TRIPLEBIRD
     spanish: AVE TRIPLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 85
 - ids:
@@ -2812,7 +2812,7 @@
     english: SEA LION
     spanish: LEÓN MAR.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 86
 - ids:
@@ -2847,7 +2847,7 @@
     english: SEA LION
     spanish: LEÓN MAR.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 87
 - ids:
@@ -2878,7 +2878,7 @@
     english: SLUDGE
     spanish: LODO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 88
 - ids:
@@ -2909,7 +2909,7 @@
     english: SLUDGE
     spanish: LODO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 89
 - ids:
@@ -2940,7 +2940,7 @@
     english: BIVALVE
     spanish: BIVALVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 90
 - ids:
@@ -2975,7 +2975,7 @@
     english: BIVALVE
     spanish: BIVALVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 91
 - ids:
@@ -3010,7 +3010,7 @@
     english: GAS
     spanish: GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 92
 - ids:
@@ -3045,7 +3045,7 @@
     english: GAS
     spanish: GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 93
 - ids:
@@ -3080,7 +3080,7 @@
     english: SHADOW
     spanish: SOMBRA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 94
 - ids:
@@ -3115,7 +3115,7 @@
     english: ROCK SNAKE
     spanish: SERP.ROCA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 95
 - ids:
@@ -3146,7 +3146,7 @@
     english: HYPNOSIS
     spanish: HIPNOSIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 96
 - ids:
@@ -3177,7 +3177,7 @@
     english: HYPNOSIS
     spanish: HIPNOSIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 97
 - ids:
@@ -3208,7 +3208,7 @@
     english: RIVER CRAB
     spanish: CANGREJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 98
 - ids:
@@ -3239,7 +3239,7 @@
     english: PINCER
     spanish: TENAZA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 99
 - ids:
@@ -3270,7 +3270,7 @@
     english: BALL
     spanish: BOLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 100
 - ids:
@@ -3301,7 +3301,7 @@
     english: BALL
     spanish: BOLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 101
 - ids:
@@ -3336,7 +3336,7 @@
     english: EGG
     spanish: HUEVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 102
 - ids:
@@ -3371,7 +3371,7 @@
     english: COCONUT
     spanish: COCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 103
 - ids:
@@ -3402,7 +3402,7 @@
     english: LONELY
     spanish: SOLITARIO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 104
 - ids:
@@ -3433,7 +3433,7 @@
     english: BONEKEEPER
     spanish: APILAHUESO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 105
 - ids:
@@ -3464,7 +3464,7 @@
     english: KICKING
     spanish: PATEANDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 106
 - ids:
@@ -3495,7 +3495,7 @@
     english: PUNCHING
     spanish: PEGANDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 107
 - ids:
@@ -3526,7 +3526,7 @@
     english: LICKING
     spanish: LAMIENDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 108
 - ids:
@@ -3557,7 +3557,7 @@
     english: POISON GAS
     spanish: GAS VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 109
 - ids:
@@ -3588,7 +3588,7 @@
     english: POISON GAS
     spanish: GAS VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 110
 - ids:
@@ -3623,7 +3623,7 @@
     english: SPIKES
     spanish: CLAVOS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 111
 - ids:
@@ -3658,7 +3658,7 @@
     english: DRILL
     spanish: TALADRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 112
 - ids:
@@ -3689,7 +3689,7 @@
     english: EGG
     spanish: HUEVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 113
 - ids:
@@ -3720,7 +3720,7 @@
     english: VINE
     spanish: ENREDADERA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 114
 - ids:
@@ -3751,7 +3751,7 @@
     english: PARENT
     spanish: PADRES
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 115
 - ids:
@@ -3782,7 +3782,7 @@
     english: DRAGON
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 116
 - ids:
@@ -3813,7 +3813,7 @@
     english: DRAGON
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 117
 - ids:
@@ -3844,7 +3844,7 @@
     english: GOLDFISH
     spanish: PEZ COLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 118
 - ids:
@@ -3875,7 +3875,7 @@
     english: GOLDFISH
     spanish: PEZ COLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 119
 - ids:
@@ -3906,7 +3906,7 @@
     english: STARSHAPE
     spanish: ESTRELLADA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 120
 - ids:
@@ -3941,7 +3941,7 @@
     english: MYSTERIOUS
     spanish: MISTERIOSO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 121
 - ids:
@@ -3972,7 +3972,7 @@
     english: BARRIER
     spanish: BARRERA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 122
 - ids:
@@ -4007,7 +4007,7 @@
     english: MANTIS
     spanish: MANTIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 123
 - ids:
@@ -4042,7 +4042,7 @@
     english: HUMANSHAPE
     spanish: F. HUMANA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 124
 - ids:
@@ -4073,7 +4073,7 @@
     english: ELECTRIC
     spanish: ELÉCTRICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 125
 - ids:
@@ -4104,7 +4104,7 @@
     english: SPITFIRE
     spanish: ESCUPFUEGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 126
 - ids:
@@ -4135,7 +4135,7 @@
     english: STAGBEETLE
     spanish: ESCARABAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 127
 - ids:
@@ -4166,7 +4166,7 @@
     english: WILD BULL
     spanish: TORO BRAVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 128
 - ids:
@@ -4197,7 +4197,7 @@
     english: FISH
     spanish: PEZ
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 129
 - ids:
@@ -4232,7 +4232,7 @@
     english: ATROCIOUS
     spanish: ATROCIDAD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 130
 - ids:
@@ -4267,7 +4267,7 @@
     english: TRANSPORT
     spanish: TRANSPORTE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 131
 - ids:
@@ -4298,7 +4298,7 @@
     english: TRANSFORM
     spanish: TRANSFORM.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 132
 - ids:
@@ -4329,7 +4329,7 @@
     english: EVOLUTION
     spanish: EVOLUCIÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 133
 - ids:
@@ -4360,7 +4360,7 @@
     english: BUBBLE JET
     spanish: BURBUJA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 134
 - ids:
@@ -4391,7 +4391,7 @@
     english: LIGHTNING
     spanish: RELÁMPAGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 135
 - ids:
@@ -4422,7 +4422,7 @@
     english: FLAME
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 136
 - ids:
@@ -4453,7 +4453,7 @@
     english: VIRTUAL
     spanish: VIRTUAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 137
 - ids:
@@ -4488,7 +4488,7 @@
     english: SPIRAL
     spanish: ESPIRAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 138
 - ids:
@@ -4523,7 +4523,7 @@
     english: SPIRAL
     spanish: ESPIRAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 139
 - ids:
@@ -4558,7 +4558,7 @@
     english: SHELLFISH
     spanish: MARISCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 140
 - ids:
@@ -4593,7 +4593,7 @@
     english: SHELLFISH
     spanish: MARISCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 141
 - ids:
@@ -4628,7 +4628,7 @@
     english: FOSSIL
     spanish: FÓSIL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 142
 - ids:
@@ -4659,7 +4659,7 @@
     english: SLEEPING
     spanish: DORMIR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 143
 - ids:
@@ -4694,7 +4694,7 @@
     english: FREEZE
     spanish: CONGELAR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 144
 - ids:
@@ -4729,7 +4729,7 @@
     english: ELECTRIC
     spanish: ELÉCTRICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 145
 - ids:
@@ -4764,7 +4764,7 @@
     english: FLAME
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 146
 - ids:
@@ -4795,7 +4795,7 @@
     english: DRAGON
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 147
 - ids:
@@ -4826,7 +4826,7 @@
     english: DRAGON
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 148
 - ids:
@@ -4861,7 +4861,7 @@
     english: DRAGON
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 149
 - ids:
@@ -4892,7 +4892,7 @@
     english: GENETIC
     spanish: GENÉTICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 150
 - ids:
@@ -4923,6 +4923,6 @@
     english: NEW SPECIE
     spanish: N.ESPECIE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 151

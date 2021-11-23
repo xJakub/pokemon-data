@@ -26,7 +26,7 @@
   species_class:
     spanish: SEMILLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 1
 - ids:
@@ -57,7 +57,7 @@
   species_class:
     spanish: SEMILLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 2
 - ids:
@@ -87,7 +87,7 @@
   species_class:
     spanish: SEMILLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 3
 - ids:
@@ -114,7 +114,7 @@
   species_class:
     spanish: LAGARTIJA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 4
 - ids:
@@ -141,7 +141,7 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 5
 - ids:
@@ -172,7 +172,7 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 6
 - ids:
@@ -199,7 +199,7 @@
   species_class:
     spanish: TORTUGUITA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 7
 - ids:
@@ -225,7 +225,7 @@
   species_class:
     spanish: TORTUGA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 8
 - ids:
@@ -252,7 +252,7 @@
   species_class:
     spanish: MARISCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 9
 - ids:
@@ -278,7 +278,7 @@
   species_class:
     spanish: GUSANO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 10
 - ids:
@@ -305,7 +305,7 @@
   species_class:
     spanish: CAPULLO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 11
 - ids:
@@ -336,7 +336,7 @@
   species_class:
     spanish: MARIPOSA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 12
 - ids:
@@ -367,7 +367,7 @@
   species_class:
     spanish: ORUGA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 13
 - ids:
@@ -398,7 +398,7 @@
   species_class:
     spanish: CAPULLO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 14
 - ids:
@@ -429,7 +429,7 @@
   species_class:
     spanish: ABEJA VEN.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 15
 - ids:
@@ -460,7 +460,7 @@
   species_class:
     spanish: PAJARITO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 16
 - ids:
@@ -491,7 +491,7 @@
   species_class:
     spanish: PÁJARO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 17
 - ids:
@@ -522,7 +522,7 @@
   species_class:
     spanish: PÁJARO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 18
 - ids:
@@ -549,7 +549,7 @@
   species_class:
     spanish: RATA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 19
 - ids:
@@ -576,7 +576,7 @@
   species_class:
     spanish: RATA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 20
 - ids:
@@ -607,7 +607,7 @@
   species_class:
     spanish: PAJARITO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 21
 - ids:
@@ -638,7 +638,7 @@
   species_class:
     spanish: PICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 22
 - ids:
@@ -665,7 +665,7 @@
   species_class:
     spanish: SERPIENTE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 23
 - ids:
@@ -692,7 +692,7 @@
   species_class:
     spanish: COBRA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 24
 - ids:
@@ -719,7 +719,7 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 25
 - ids:
@@ -746,7 +746,7 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 26
 - ids:
@@ -773,7 +773,7 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 27
 - ids:
@@ -800,7 +800,7 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 28
 - ids:
@@ -827,7 +827,7 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 29
 - ids:
@@ -854,7 +854,7 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 30
 - ids:
@@ -885,7 +885,7 @@
   species_class:
     spanish: TALADRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 31
 - ids:
@@ -912,7 +912,7 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 32
 - ids:
@@ -939,7 +939,7 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 33
 - ids:
@@ -970,7 +970,7 @@
   species_class:
     spanish: TALADRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 34
 - ids:
@@ -997,7 +997,7 @@
   species_class:
     spanish: HADA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 35
 - ids:
@@ -1024,7 +1024,7 @@
   species_class:
     spanish: HADA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 36
 - ids:
@@ -1051,7 +1051,7 @@
   species_class:
     spanish: ZORRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 37
 - ids:
@@ -1078,7 +1078,7 @@
   species_class:
     spanish: ZORRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 38
 - ids:
@@ -1105,7 +1105,7 @@
   species_class:
     spanish: GLOBO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 39
 - ids:
@@ -1132,7 +1132,7 @@
   species_class:
     spanish: GLOBO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 40
 - ids:
@@ -1163,7 +1163,7 @@
   species_class:
     spanish: MURCIÉLAGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 41
 - ids:
@@ -1194,7 +1194,7 @@
   species_class:
     spanish: MURCIÉLAGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 42
 - ids:
@@ -1225,7 +1225,7 @@
   species_class:
     spanish: ALGAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 43
 - ids:
@@ -1256,7 +1256,7 @@
   species_class:
     spanish: ALGAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 44
 - ids:
@@ -1287,7 +1287,7 @@
   species_class:
     spanish: FLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 45
 - ids:
@@ -1318,7 +1318,7 @@
   species_class:
     spanish: HONGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 46
 - ids:
@@ -1348,7 +1348,7 @@
   species_class:
     spanish: HONGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 47
 - ids:
@@ -1379,7 +1379,7 @@
   species_class:
     spanish: INSECTO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 48
 - ids:
@@ -1410,7 +1410,7 @@
   species_class:
     spanish: MOPA VEN.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 49
 - ids:
@@ -1437,7 +1437,7 @@
   species_class:
     spanish: TOPO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 50
 - ids:
@@ -1464,7 +1464,7 @@
   species_class:
     spanish: TOPO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 51
 - ids:
@@ -1491,7 +1491,7 @@
   species_class:
     spanish: GATO ARAÑA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 52
 - ids:
@@ -1518,7 +1518,7 @@
   species_class:
     spanish: GATO FINO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 53
 - ids:
@@ -1545,7 +1545,7 @@
   species_class:
     spanish: PATO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 54
 - ids:
@@ -1572,7 +1572,7 @@
   species_class:
     spanish: PATO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 55
 - ids:
@@ -1599,7 +1599,7 @@
   species_class:
     spanish: MONO CERDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 56
 - ids:
@@ -1626,7 +1626,7 @@
   species_class:
     spanish: MONO CERDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 57
 - ids:
@@ -1653,7 +1653,7 @@
   species_class:
     spanish: PERRITO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 58
 - ids:
@@ -1680,7 +1680,7 @@
   species_class:
     spanish: LEGENDARIO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 59
 - ids:
@@ -1707,7 +1707,7 @@
   species_class:
     spanish: RENACUAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 60
 - ids:
@@ -1734,7 +1734,7 @@
   species_class:
     spanish: RENACUAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 61
 - ids:
@@ -1765,7 +1765,7 @@
   species_class:
     spanish: RENACUAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 62
 - ids:
@@ -1792,7 +1792,7 @@
   species_class:
     spanish: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 63
 - ids:
@@ -1819,7 +1819,7 @@
   species_class:
     spanish: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 64
 - ids:
@@ -1846,7 +1846,7 @@
   species_class:
     spanish: PSI
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 65
 - ids:
@@ -1873,7 +1873,7 @@
   species_class:
     spanish: SUPERPODER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 66
 - ids:
@@ -1900,7 +1900,7 @@
   species_class:
     spanish: SUPERPODER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 67
 - ids:
@@ -1927,7 +1927,7 @@
   species_class:
     spanish: SUPERPODER
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 68
 - ids:
@@ -1958,7 +1958,7 @@
   species_class:
     spanish: FLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 69
 - ids:
@@ -1989,7 +1989,7 @@
   species_class:
     spanish: MATAMOSCAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 70
 - ids:
@@ -2020,7 +2020,7 @@
   species_class:
     spanish: MATAMOSCAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 71
 - ids:
@@ -2051,7 +2051,7 @@
   species_class:
     spanish: MEDUSA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 72
 - ids:
@@ -2082,7 +2082,7 @@
   species_class:
     spanish: MEDUSA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 73
 - ids:
@@ -2113,7 +2113,7 @@
   species_class:
     spanish: ROCA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 74
 - ids:
@@ -2144,7 +2144,7 @@
   species_class:
     spanish: ROCA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 75
 - ids:
@@ -2175,7 +2175,7 @@
   species_class:
     spanish: MEGATÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 76
 - ids:
@@ -2202,7 +2202,7 @@
   species_class:
     spanish: CABALLO F.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 77
 - ids:
@@ -2229,7 +2229,7 @@
   species_class:
     spanish: CABALLO F.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 78
 - ids:
@@ -2260,7 +2260,7 @@
   species_class:
     spanish: ATONTADO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 79
 - ids:
@@ -2291,7 +2291,7 @@
   species_class:
     spanish: ERMITAÑO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 80
 - ids:
@@ -2318,7 +2318,7 @@
   species_class:
     spanish: IMÁN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 81
 - ids:
@@ -2345,7 +2345,7 @@
   species_class:
     spanish: IMÁN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 82
 - ids:
@@ -2376,7 +2376,7 @@
   species_class:
     spanish: PATO SALV.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 83
 - ids:
@@ -2407,7 +2407,7 @@
   species_class:
     spanish: AVE GEMELA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 84
 - ids:
@@ -2438,7 +2438,7 @@
   species_class:
     spanish: AVE TRIPLE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 85
 - ids:
@@ -2465,7 +2465,7 @@
   species_class:
     spanish: LEÓN MAR.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 86
 - ids:
@@ -2496,7 +2496,7 @@
   species_class:
     spanish: LEÓN MAR.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 87
 - ids:
@@ -2523,7 +2523,7 @@
   species_class:
     spanish: LODO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 88
 - ids:
@@ -2550,7 +2550,7 @@
   species_class:
     spanish: LODO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 89
 - ids:
@@ -2577,7 +2577,7 @@
   species_class:
     spanish: BIVALVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 90
 - ids:
@@ -2608,7 +2608,7 @@
   species_class:
     spanish: BIVALVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 91
 - ids:
@@ -2639,7 +2639,7 @@
   species_class:
     spanish: GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 92
 - ids:
@@ -2670,7 +2670,7 @@
   species_class:
     spanish: GAS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 93
 - ids:
@@ -2701,7 +2701,7 @@
   species_class:
     spanish: SOMBRA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 94
 - ids:
@@ -2732,7 +2732,7 @@
   species_class:
     spanish: SERP.ROCA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 95
 - ids:
@@ -2759,7 +2759,7 @@
   species_class:
     spanish: HIPNOSIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 96
 - ids:
@@ -2786,7 +2786,7 @@
   species_class:
     spanish: HIPNOSIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 97
 - ids:
@@ -2813,7 +2813,7 @@
   species_class:
     spanish: CANGREJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 98
 - ids:
@@ -2840,7 +2840,7 @@
   species_class:
     spanish: TENAZA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 99
 - ids:
@@ -2867,7 +2867,7 @@
   species_class:
     spanish: BOLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 100
 - ids:
@@ -2894,7 +2894,7 @@
   species_class:
     spanish: BOLA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 101
 - ids:
@@ -2925,7 +2925,7 @@
   species_class:
     spanish: HUEVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 102
 - ids:
@@ -2956,7 +2956,7 @@
   species_class:
     spanish: COCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 103
 - ids:
@@ -2983,7 +2983,7 @@
   species_class:
     spanish: SOLITARIO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 104
 - ids:
@@ -3010,7 +3010,7 @@
   species_class:
     spanish: APILAHUESO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 105
 - ids:
@@ -3037,7 +3037,7 @@
   species_class:
     spanish: PATEANDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 106
 - ids:
@@ -3064,7 +3064,7 @@
   species_class:
     spanish: PEGANDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 107
 - ids:
@@ -3091,7 +3091,7 @@
   species_class:
     spanish: LAMIENDO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 108
 - ids:
@@ -3118,7 +3118,7 @@
   species_class:
     spanish: GAS VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 109
 - ids:
@@ -3145,7 +3145,7 @@
   species_class:
     spanish: GAS VENENO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 110
 - ids:
@@ -3176,7 +3176,7 @@
   species_class:
     spanish: CLAVOS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 111
 - ids:
@@ -3207,7 +3207,7 @@
   species_class:
     spanish: TALADRO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 112
 - ids:
@@ -3234,7 +3234,7 @@
   species_class:
     spanish: HUEVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 113
 - ids:
@@ -3261,7 +3261,7 @@
   species_class:
     spanish: ENREDADERA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 114
 - ids:
@@ -3288,7 +3288,7 @@
   species_class:
     spanish: PADRES
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 115
 - ids:
@@ -3315,7 +3315,7 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 116
 - ids:
@@ -3342,7 +3342,7 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 117
 - ids:
@@ -3369,7 +3369,7 @@
   species_class:
     spanish: PEZ COLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 118
 - ids:
@@ -3396,7 +3396,7 @@
   species_class:
     spanish: PEZ COLOR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 119
 - ids:
@@ -3423,7 +3423,7 @@
   species_class:
     spanish: ESTRELLADA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 120
 - ids:
@@ -3454,7 +3454,7 @@
   species_class:
     spanish: MISTERIOSO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 121
 - ids:
@@ -3481,7 +3481,7 @@
   species_class:
     spanish: BARRERA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 122
 - ids:
@@ -3512,7 +3512,7 @@
   species_class:
     spanish: MANTIS
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 123
 - ids:
@@ -3543,7 +3543,7 @@
   species_class:
     spanish: F. HUMANA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 124
 - ids:
@@ -3570,7 +3570,7 @@
   species_class:
     spanish: ELÉCTRICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 125
 - ids:
@@ -3597,7 +3597,7 @@
   species_class:
     spanish: ESCUPFUEGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 126
 - ids:
@@ -3624,7 +3624,7 @@
   species_class:
     spanish: ESCARABAJO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 127
 - ids:
@@ -3651,7 +3651,7 @@
   species_class:
     spanish: TORO BRAVO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 128
 - ids:
@@ -3678,7 +3678,7 @@
   species_class:
     spanish: PEZ
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 129
 - ids:
@@ -3709,7 +3709,7 @@
   species_class:
     spanish: ATROCIDAD
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 130
 - ids:
@@ -3740,7 +3740,7 @@
   species_class:
     spanish: TRANSPORTE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 131
 - ids:
@@ -3767,7 +3767,7 @@
   species_class:
     spanish: TRANSFORM.
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 132
 - ids:
@@ -3794,7 +3794,7 @@
   species_class:
     spanish: EVOLUCIÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 133
 - ids:
@@ -3821,7 +3821,7 @@
   species_class:
     spanish: BURBUJA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 134
 - ids:
@@ -3848,7 +3848,7 @@
   species_class:
     spanish: RELÁMPAGO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 135
 - ids:
@@ -3875,7 +3875,7 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 136
 - ids:
@@ -3902,7 +3902,7 @@
   species_class:
     spanish: VIRTUAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 137
 - ids:
@@ -3933,7 +3933,7 @@
   species_class:
     spanish: ESPIRAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 138
 - ids:
@@ -3964,7 +3964,7 @@
   species_class:
     spanish: ESPIRAL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 139
 - ids:
@@ -3995,7 +3995,7 @@
   species_class:
     spanish: MARISCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 140
 - ids:
@@ -4026,7 +4026,7 @@
   species_class:
     spanish: MARISCO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 141
 - ids:
@@ -4057,7 +4057,7 @@
   species_class:
     spanish: FÓSIL
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 142
 - ids:
@@ -4084,7 +4084,7 @@
   species_class:
     spanish: DORMIR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 143
 - ids:
@@ -4115,7 +4115,7 @@
   species_class:
     spanish: CONGELAR
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 144
 - ids:
@@ -4146,7 +4146,7 @@
   species_class:
     spanish: ELÉCTRICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 145
 - ids:
@@ -4177,7 +4177,7 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 146
 - ids:
@@ -4204,7 +4204,7 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 147
 - ids:
@@ -4231,7 +4231,7 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 148
 - ids:
@@ -4262,7 +4262,7 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 149
 - ids:
@@ -4289,7 +4289,7 @@
   species_class:
     spanish: GENÉTICO
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 150
 - ids:
@@ -4316,6 +4316,6 @@
   species_class:
     spanish: N.ESPECIE
   learnset: !<reference>
-  - learnset
+  - learnsets
   - id
   - 151
