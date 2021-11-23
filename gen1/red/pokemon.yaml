@@ -29,6 +29,10 @@
   species_class:
     english: SEED
     spanish: SEMILLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 1
 - ids:
   - - dex_national
     - 2
@@ -60,6 +64,10 @@
   species_class:
     english: SEED
     spanish: SEMILLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 2
 - ids:
   - - dex_national
     - 3
@@ -91,6 +99,10 @@
   species_class:
     english: SEED
     spanish: SEMILLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 3
 - ids:
   - - dex_national
     - 4
@@ -118,6 +130,10 @@
   species_class:
     english: LIZARD
     spanish: LAGARTIJA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 4
 - ids:
   - - dex_national
     - 5
@@ -145,6 +161,10 @@
   species_class:
     english: FLAME
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 5
 - ids:
   - - dex_national
     - 6
@@ -176,6 +196,10 @@
   species_class:
     english: FLAME
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 6
 - ids:
   - - dex_national
     - 7
@@ -203,6 +227,10 @@
   species_class:
     english: TINYTURTLE
     spanish: TORTUGUITA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 7
 - ids:
   - - dex_national
     - 8
@@ -230,6 +258,10 @@
   species_class:
     english: TURTLE
     spanish: TORTUGA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 8
 - ids:
   - - dex_national
     - 9
@@ -257,6 +289,10 @@
   species_class:
     english: SHELLFISH
     spanish: MARISCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 9
 - ids:
   - - dex_national
     - 10
@@ -284,6 +320,10 @@
   species_class:
     english: WORM
     spanish: GUSANO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 10
 - ids:
   - - dex_national
     - 11
@@ -311,6 +351,10 @@
   species_class:
     english: COCOON
     spanish: CAPULLO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 11
 - ids:
   - - dex_national
     - 12
@@ -341,6 +385,10 @@
   species_class:
     english: BUTTERFLY
     spanish: MARIPOSA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 12
 - ids:
   - - dex_national
     - 13
@@ -372,6 +420,10 @@
   species_class:
     english: HAIRY BUG
     spanish: ORUGA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 13
 - ids:
   - - dex_national
     - 14
@@ -403,6 +455,10 @@
   species_class:
     english: COCOON
     spanish: CAPULLO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 14
 - ids:
   - - dex_national
     - 15
@@ -434,6 +490,10 @@
   species_class:
     english: POISON BEE
     spanish: ABEJA VEN.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 15
 - ids:
   - - dex_national
     - 16
@@ -465,6 +525,10 @@
   species_class:
     english: TINY BIRD
     spanish: PAJARITO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 16
 - ids:
   - - dex_national
     - 17
@@ -496,6 +560,10 @@
   species_class:
     english: BIRD
     spanish: PÁJARO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 17
 - ids:
   - - dex_national
     - 18
@@ -527,6 +595,10 @@
   species_class:
     english: BIRD
     spanish: PÁJARO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 18
 - ids:
   - - dex_national
     - 19
@@ -554,6 +626,10 @@
   species_class:
     english: RAT
     spanish: RATA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 19
 - ids:
   - - dex_national
     - 20
@@ -581,6 +657,10 @@
   species_class:
     english: RAT
     spanish: RATA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 20
 - ids:
   - - dex_national
     - 21
@@ -612,6 +692,10 @@
   species_class:
     english: TINY BIRD
     spanish: PAJARITO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 21
 - ids:
   - - dex_national
     - 22
@@ -643,6 +727,10 @@
   species_class:
     english: BEAK
     spanish: PICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 22
 - ids:
   - - dex_national
     - 23
@@ -670,6 +758,10 @@
   species_class:
     english: SNAKE
     spanish: SERPIENTE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 23
 - ids:
   - - dex_national
     - 24
@@ -697,6 +789,10 @@
   species_class:
     english: COBRA
     spanish: COBRA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 24
 - ids:
   - - dex_national
     - 25
@@ -724,6 +820,10 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 25
 - ids:
   - - dex_national
     - 26
@@ -751,6 +851,10 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 26
 - ids:
   - - dex_national
     - 27
@@ -778,6 +882,10 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 27
 - ids:
   - - dex_national
     - 28
@@ -805,6 +913,10 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 28
 - ids:
   - - dex_national
     - 29
@@ -832,6 +944,10 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 29
 - ids:
   - - dex_national
     - 30
@@ -859,6 +975,10 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 30
 - ids:
   - - dex_national
     - 31
@@ -890,6 +1010,10 @@
   species_class:
     english: DRILL
     spanish: TALADRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 31
 - ids:
   - - dex_national
     - 32
@@ -917,6 +1041,10 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 32
 - ids:
   - - dex_national
     - 33
@@ -944,6 +1072,10 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 33
 - ids:
   - - dex_national
     - 34
@@ -975,6 +1107,10 @@
   species_class:
     english: DRILL
     spanish: TALADRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 34
 - ids:
   - - dex_national
     - 35
@@ -1002,6 +1138,10 @@
   species_class:
     english: FAIRY
     spanish: HADA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 35
 - ids:
   - - dex_national
     - 36
@@ -1029,6 +1169,10 @@
   species_class:
     english: FAIRY
     spanish: HADA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 36
 - ids:
   - - dex_national
     - 37
@@ -1056,6 +1200,10 @@
   species_class:
     english: FOX
     spanish: ZORRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 37
 - ids:
   - - dex_national
     - 38
@@ -1083,6 +1231,10 @@
   species_class:
     english: FOX
     spanish: ZORRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 38
 - ids:
   - - dex_national
     - 39
@@ -1110,6 +1262,10 @@
   species_class:
     english: BALLOON
     spanish: GLOBO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 39
 - ids:
   - - dex_national
     - 40
@@ -1137,6 +1293,10 @@
   species_class:
     english: BALLOON
     spanish: GLOBO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 40
 - ids:
   - - dex_national
     - 41
@@ -1168,6 +1328,10 @@
   species_class:
     english: BAT
     spanish: MURCIÉLAGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 41
 - ids:
   - - dex_national
     - 42
@@ -1199,6 +1363,10 @@
   species_class:
     english: BAT
     spanish: MURCIÉLAGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 42
 - ids:
   - - dex_national
     - 43
@@ -1230,6 +1398,10 @@
   species_class:
     english: WEED
     spanish: ALGAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 43
 - ids:
   - - dex_national
     - 44
@@ -1261,6 +1433,10 @@
   species_class:
     english: WEED
     spanish: ALGAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 44
 - ids:
   - - dex_national
     - 45
@@ -1292,6 +1468,10 @@
   species_class:
     english: FLOWER
     spanish: FLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 45
 - ids:
   - - dex_national
     - 46
@@ -1323,6 +1503,10 @@
   species_class:
     english: MUSHROOM
     spanish: HONGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 46
 - ids:
   - - dex_national
     - 47
@@ -1354,6 +1538,10 @@
   species_class:
     english: MUSHROOM
     spanish: HONGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 47
 - ids:
   - - dex_national
     - 48
@@ -1385,6 +1573,10 @@
   species_class:
     english: INSECT
     spanish: INSECTO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 48
 - ids:
   - - dex_national
     - 49
@@ -1416,6 +1608,10 @@
   species_class:
     english: POISONMOTH
     spanish: MOPA VEN.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 49
 - ids:
   - - dex_national
     - 50
@@ -1443,6 +1639,10 @@
   species_class:
     english: MOLE
     spanish: TOPO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 50
 - ids:
   - - dex_national
     - 51
@@ -1470,6 +1670,10 @@
   species_class:
     english: MOLE
     spanish: TOPO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 51
 - ids:
   - - dex_national
     - 52
@@ -1497,6 +1701,10 @@
   species_class:
     english: SCRATCHCAT
     spanish: GATO ARAÑA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 52
 - ids:
   - - dex_national
     - 53
@@ -1524,6 +1732,10 @@
   species_class:
     english: CLASSY CAT
     spanish: GATO FINO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 53
 - ids:
   - - dex_national
     - 54
@@ -1551,6 +1763,10 @@
   species_class:
     english: DUCK
     spanish: PATO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 54
 - ids:
   - - dex_national
     - 55
@@ -1578,6 +1794,10 @@
   species_class:
     english: DUCK
     spanish: PATO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 55
 - ids:
   - - dex_national
     - 56
@@ -1605,6 +1825,10 @@
   species_class:
     english: PIG MONKEY
     spanish: MONO CERDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 56
 - ids:
   - - dex_national
     - 57
@@ -1632,6 +1856,10 @@
   species_class:
     english: PIG MONKEY
     spanish: MONO CERDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 57
 - ids:
   - - dex_national
     - 58
@@ -1659,6 +1887,10 @@
   species_class:
     english: PUPPY
     spanish: PERRITO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 58
 - ids:
   - - dex_national
     - 59
@@ -1686,6 +1918,10 @@
   species_class:
     english: LEGENDARY
     spanish: LEGENDARIO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 59
 - ids:
   - - dex_national
     - 60
@@ -1713,6 +1949,10 @@
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 60
 - ids:
   - - dex_national
     - 61
@@ -1740,6 +1980,10 @@
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 61
 - ids:
   - - dex_national
     - 62
@@ -1771,6 +2015,10 @@
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 62
 - ids:
   - - dex_national
     - 63
@@ -1798,6 +2046,10 @@
   species_class:
     english: PSI
     spanish: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 63
 - ids:
   - - dex_national
     - 64
@@ -1825,6 +2077,10 @@
   species_class:
     english: PSI
     spanish: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 64
 - ids:
   - - dex_national
     - 65
@@ -1852,6 +2108,10 @@
   species_class:
     english: PSI
     spanish: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 65
 - ids:
   - - dex_national
     - 66
@@ -1879,6 +2139,10 @@
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 66
 - ids:
   - - dex_national
     - 67
@@ -1906,6 +2170,10 @@
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 67
 - ids:
   - - dex_national
     - 68
@@ -1933,6 +2201,10 @@
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 68
 - ids:
   - - dex_national
     - 69
@@ -1964,6 +2236,10 @@
   species_class:
     english: FLOWER
     spanish: FLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 69
 - ids:
   - - dex_national
     - 70
@@ -1995,6 +2271,10 @@
   species_class:
     english: FLYCATCHER
     spanish: MATAMOSCAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 70
 - ids:
   - - dex_national
     - 71
@@ -2026,6 +2306,10 @@
   species_class:
     english: FLYCATCHER
     spanish: MATAMOSCAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 71
 - ids:
   - - dex_national
     - 72
@@ -2057,6 +2341,10 @@
   species_class:
     english: JELLYFISH
     spanish: MEDUSA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 72
 - ids:
   - - dex_national
     - 73
@@ -2088,6 +2376,10 @@
   species_class:
     english: JELLYFISH
     spanish: MEDUSA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 73
 - ids:
   - - dex_national
     - 74
@@ -2119,6 +2411,10 @@
   species_class:
     english: ROCK
     spanish: ROCA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 74
 - ids:
   - - dex_national
     - 75
@@ -2150,6 +2446,10 @@
   species_class:
     english: ROCK
     spanish: ROCA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 75
 - ids:
   - - dex_national
     - 76
@@ -2181,6 +2481,10 @@
   species_class:
     english: MEGATON
     spanish: MEGATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 76
 - ids:
   - - dex_national
     - 77
@@ -2208,6 +2512,10 @@
   species_class:
     english: FIRE HORSE
     spanish: CABALLO F.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 77
 - ids:
   - - dex_national
     - 78
@@ -2235,6 +2543,10 @@
   species_class:
     english: FIRE HORSE
     spanish: CABALLO F.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 78
 - ids:
   - - dex_national
     - 79
@@ -2266,6 +2578,10 @@
   species_class:
     english: DOPEY
     spanish: ATONTADO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 79
 - ids:
   - - dex_national
     - 80
@@ -2297,6 +2613,10 @@
   species_class:
     english: HERMITCRAB
     spanish: ERMITAÑO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 80
 - ids:
   - - dex_national
     - 81
@@ -2324,6 +2644,10 @@
   species_class:
     english: MAGNET
     spanish: IMÁN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 81
 - ids:
   - - dex_national
     - 82
@@ -2351,6 +2675,10 @@
   species_class:
     english: MAGNET
     spanish: IMÁN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 82
 - ids:
   - - dex_national
     - 83
@@ -2382,6 +2710,10 @@
   species_class:
     english: WILD DUCK
     spanish: PATO SALV.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 83
 - ids:
   - - dex_national
     - 84
@@ -2413,6 +2745,10 @@
   species_class:
     english: TWIN BIRD
     spanish: AVE GEMELA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 84
 - ids:
   - - dex_national
     - 85
@@ -2444,6 +2780,10 @@
   species_class:
     english: TRIPLEBIRD
     spanish: AVE TRIPLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 85
 - ids:
   - - dex_national
     - 86
@@ -2471,6 +2811,10 @@
   species_class:
     english: SEA LION
     spanish: LEÓN MAR.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 86
 - ids:
   - - dex_national
     - 87
@@ -2502,6 +2846,10 @@
   species_class:
     english: SEA LION
     spanish: LEÓN MAR.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 87
 - ids:
   - - dex_national
     - 88
@@ -2529,6 +2877,10 @@
   species_class:
     english: SLUDGE
     spanish: LODO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 88
 - ids:
   - - dex_national
     - 89
@@ -2556,6 +2908,10 @@
   species_class:
     english: SLUDGE
     spanish: LODO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 89
 - ids:
   - - dex_national
     - 90
@@ -2583,6 +2939,10 @@
   species_class:
     english: BIVALVE
     spanish: BIVALVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 90
 - ids:
   - - dex_national
     - 91
@@ -2614,6 +2974,10 @@
   species_class:
     english: BIVALVE
     spanish: BIVALVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 91
 - ids:
   - - dex_national
     - 92
@@ -2645,6 +3009,10 @@
   species_class:
     english: GAS
     spanish: GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 92
 - ids:
   - - dex_national
     - 93
@@ -2676,6 +3044,10 @@
   species_class:
     english: GAS
     spanish: GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 93
 - ids:
   - - dex_national
     - 94
@@ -2707,6 +3079,10 @@
   species_class:
     english: SHADOW
     spanish: SOMBRA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 94
 - ids:
   - - dex_national
     - 95
@@ -2738,6 +3114,10 @@
   species_class:
     english: ROCK SNAKE
     spanish: SERP.ROCA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 95
 - ids:
   - - dex_national
     - 96
@@ -2765,6 +3145,10 @@
   species_class:
     english: HYPNOSIS
     spanish: HIPNOSIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 96
 - ids:
   - - dex_national
     - 97
@@ -2792,6 +3176,10 @@
   species_class:
     english: HYPNOSIS
     spanish: HIPNOSIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 97
 - ids:
   - - dex_national
     - 98
@@ -2819,6 +3207,10 @@
   species_class:
     english: RIVER CRAB
     spanish: CANGREJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 98
 - ids:
   - - dex_national
     - 99
@@ -2846,6 +3238,10 @@
   species_class:
     english: PINCER
     spanish: TENAZA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 99
 - ids:
   - - dex_national
     - 100
@@ -2873,6 +3269,10 @@
   species_class:
     english: BALL
     spanish: BOLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 100
 - ids:
   - - dex_national
     - 101
@@ -2900,6 +3300,10 @@
   species_class:
     english: BALL
     spanish: BOLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 101
 - ids:
   - - dex_national
     - 102
@@ -2931,6 +3335,10 @@
   species_class:
     english: EGG
     spanish: HUEVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 102
 - ids:
   - - dex_national
     - 103
@@ -2962,6 +3370,10 @@
   species_class:
     english: COCONUT
     spanish: COCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 103
 - ids:
   - - dex_national
     - 104
@@ -2989,6 +3401,10 @@
   species_class:
     english: LONELY
     spanish: SOLITARIO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 104
 - ids:
   - - dex_national
     - 105
@@ -3016,6 +3432,10 @@
   species_class:
     english: BONEKEEPER
     spanish: APILAHUESO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 105
 - ids:
   - - dex_national
     - 106
@@ -3043,6 +3463,10 @@
   species_class:
     english: KICKING
     spanish: PATEANDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 106
 - ids:
   - - dex_national
     - 107
@@ -3070,6 +3494,10 @@
   species_class:
     english: PUNCHING
     spanish: PEGANDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 107
 - ids:
   - - dex_national
     - 108
@@ -3097,6 +3525,10 @@
   species_class:
     english: LICKING
     spanish: LAMIENDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 108
 - ids:
   - - dex_national
     - 109
@@ -3124,6 +3556,10 @@
   species_class:
     english: POISON GAS
     spanish: GAS VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 109
 - ids:
   - - dex_national
     - 110
@@ -3151,6 +3587,10 @@
   species_class:
     english: POISON GAS
     spanish: GAS VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 110
 - ids:
   - - dex_national
     - 111
@@ -3182,6 +3622,10 @@
   species_class:
     english: SPIKES
     spanish: CLAVOS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 111
 - ids:
   - - dex_national
     - 112
@@ -3213,6 +3657,10 @@
   species_class:
     english: DRILL
     spanish: TALADRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 112
 - ids:
   - - dex_national
     - 113
@@ -3240,6 +3688,10 @@
   species_class:
     english: EGG
     spanish: HUEVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 113
 - ids:
   - - dex_national
     - 114
@@ -3267,6 +3719,10 @@
   species_class:
     english: VINE
     spanish: ENREDADERA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 114
 - ids:
   - - dex_national
     - 115
@@ -3294,6 +3750,10 @@
   species_class:
     english: PARENT
     spanish: PADRES
+  learnset: !<reference>
+  - learnset
+  - id
+  - 115
 - ids:
   - - dex_national
     - 116
@@ -3321,6 +3781,10 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 116
 - ids:
   - - dex_national
     - 117
@@ -3348,6 +3812,10 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 117
 - ids:
   - - dex_national
     - 118
@@ -3375,6 +3843,10 @@
   species_class:
     english: GOLDFISH
     spanish: PEZ COLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 118
 - ids:
   - - dex_national
     - 119
@@ -3402,6 +3874,10 @@
   species_class:
     english: GOLDFISH
     spanish: PEZ COLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 119
 - ids:
   - - dex_national
     - 120
@@ -3429,6 +3905,10 @@
   species_class:
     english: STARSHAPE
     spanish: ESTRELLADA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 120
 - ids:
   - - dex_national
     - 121
@@ -3460,6 +3940,10 @@
   species_class:
     english: MYSTERIOUS
     spanish: MISTERIOSO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 121
 - ids:
   - - dex_national
     - 122
@@ -3487,6 +3971,10 @@
   species_class:
     english: BARRIER
     spanish: BARRERA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 122
 - ids:
   - - dex_national
     - 123
@@ -3518,6 +4006,10 @@
   species_class:
     english: MANTIS
     spanish: MANTIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 123
 - ids:
   - - dex_national
     - 124
@@ -3549,6 +4041,10 @@
   species_class:
     english: HUMANSHAPE
     spanish: F. HUMANA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 124
 - ids:
   - - dex_national
     - 125
@@ -3576,6 +4072,10 @@
   species_class:
     english: ELECTRIC
     spanish: ELÉCTRICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 125
 - ids:
   - - dex_national
     - 126
@@ -3603,6 +4103,10 @@
   species_class:
     english: SPITFIRE
     spanish: ESCUPFUEGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 126
 - ids:
   - - dex_national
     - 127
@@ -3630,6 +4134,10 @@
   species_class:
     english: STAGBEETLE
     spanish: ESCARABAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 127
 - ids:
   - - dex_national
     - 128
@@ -3657,6 +4165,10 @@
   species_class:
     english: WILD BULL
     spanish: TORO BRAVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 128
 - ids:
   - - dex_national
     - 129
@@ -3684,6 +4196,10 @@
   species_class:
     english: FISH
     spanish: PEZ
+  learnset: !<reference>
+  - learnset
+  - id
+  - 129
 - ids:
   - - dex_national
     - 130
@@ -3715,6 +4231,10 @@
   species_class:
     english: ATROCIOUS
     spanish: ATROCIDAD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 130
 - ids:
   - - dex_national
     - 131
@@ -3746,6 +4266,10 @@
   species_class:
     english: TRANSPORT
     spanish: TRANSPORTE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 131
 - ids:
   - - dex_national
     - 132
@@ -3773,6 +4297,10 @@
   species_class:
     english: TRANSFORM
     spanish: TRANSFORM.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 132
 - ids:
   - - dex_national
     - 133
@@ -3800,6 +4328,10 @@
   species_class:
     english: EVOLUTION
     spanish: EVOLUCIÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 133
 - ids:
   - - dex_national
     - 134
@@ -3827,6 +4359,10 @@
   species_class:
     english: BUBBLE JET
     spanish: BURBUJA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 134
 - ids:
   - - dex_national
     - 135
@@ -3854,6 +4390,10 @@
   species_class:
     english: LIGHTNING
     spanish: RELÁMPAGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 135
 - ids:
   - - dex_national
     - 136
@@ -3881,6 +4421,10 @@
   species_class:
     english: FLAME
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 136
 - ids:
   - - dex_national
     - 137
@@ -3908,6 +4452,10 @@
   species_class:
     english: VIRTUAL
     spanish: VIRTUAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 137
 - ids:
   - - dex_national
     - 138
@@ -3939,6 +4487,10 @@
   species_class:
     english: SPIRAL
     spanish: ESPIRAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 138
 - ids:
   - - dex_national
     - 139
@@ -3970,6 +4522,10 @@
   species_class:
     english: SPIRAL
     spanish: ESPIRAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 139
 - ids:
   - - dex_national
     - 140
@@ -4001,6 +4557,10 @@
   species_class:
     english: SHELLFISH
     spanish: MARISCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 140
 - ids:
   - - dex_national
     - 141
@@ -4032,6 +4592,10 @@
   species_class:
     english: SHELLFISH
     spanish: MARISCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 141
 - ids:
   - - dex_national
     - 142
@@ -4063,6 +4627,10 @@
   species_class:
     english: FOSSIL
     spanish: FÓSIL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 142
 - ids:
   - - dex_national
     - 143
@@ -4090,6 +4658,10 @@
   species_class:
     english: SLEEPING
     spanish: DORMIR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 143
 - ids:
   - - dex_national
     - 144
@@ -4121,6 +4693,10 @@
   species_class:
     english: FREEZE
     spanish: CONGELAR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 144
 - ids:
   - - dex_national
     - 145
@@ -4152,6 +4728,10 @@
   species_class:
     english: ELECTRIC
     spanish: ELÉCTRICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 145
 - ids:
   - - dex_national
     - 146
@@ -4183,6 +4763,10 @@
   species_class:
     english: FLAME
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 146
 - ids:
   - - dex_national
     - 147
@@ -4210,6 +4794,10 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 147
 - ids:
   - - dex_national
     - 148
@@ -4237,6 +4825,10 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 148
 - ids:
   - - dex_national
     - 149
@@ -4268,6 +4860,10 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 149
 - ids:
   - - dex_national
     - 150
@@ -4295,6 +4891,10 @@
   species_class:
     english: GENETIC
     spanish: GENÉTICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 150
 - ids:
   - - dex_national
     - 151
@@ -4322,3 +4922,7 @@
   species_class:
     english: NEW SPECIE
     spanish: N.ESPECIE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 151

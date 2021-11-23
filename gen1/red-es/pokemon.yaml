@@ -25,6 +25,10 @@
       y crece con este POKÉMON
   species_class:
     spanish: SEMILLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 1
 - ids:
   - - dex_national
     - 2
@@ -52,6 +56,10 @@
       sus patas traseras
   species_class:
     spanish: SEMILLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 2
 - ids:
   - - dex_national
     - 3
@@ -79,6 +87,10 @@
       en busca de la luz solar
   species_class:
     spanish: SEMILLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 3
 - ids:
   - - dex_national
     - 4
@@ -102,6 +114,10 @@
       la punta de su cola
   species_class:
     spanish: LAGARTIJA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 4
 - ids:
   - - dex_national
     - 5
@@ -125,6 +141,10 @@
       altos
   species_class:
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 5
 - ids:
   - - dex_national
     - 6
@@ -152,6 +172,10 @@
       sin querer
   species_class:
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 6
 - ids:
   - - dex_national
     - 7
@@ -175,6 +199,10 @@
       espuma por la boca
   species_class:
     spanish: TORTUGUITA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 7
 - ids:
   - - dex_national
     - 8
@@ -198,6 +226,10 @@
       sus orejas para nivelarse
   species_class:
     spanish: TORTUGA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 8
 - ids:
   - - dex_national
     - 9
@@ -221,6 +253,10 @@
       para rápidos placajes
   species_class:
     spanish: MARISCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 9
 - ids:
   - - dex_national
     - 10
@@ -244,6 +280,10 @@
       incansable por muros y cuestas
   species_class:
     spanish: GUSANO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 10
 - ids:
   - - dex_national
     - 11
@@ -267,6 +307,10 @@
       expuesto su frágil cuerpo
   species_class:
     spanish: CAPULLO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 11
 - ids:
   - - dex_national
     - 12
@@ -293,6 +337,10 @@
     spanish: En combate, aletea a gran velocidad para lanzar al aire sus tóxicos polvillos
   species_class:
     spanish: MARIPOSA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 12
 - ids:
   - - dex_national
     - 13
@@ -320,6 +368,10 @@
       en la cabeza
   species_class:
     spanish: ORUGA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 13
 - ids:
   - - dex_national
     - 14
@@ -347,6 +399,10 @@
       para protegerse
   species_class:
     spanish: CAPULLO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 14
 - ids:
   - - dex_national
     - 15
@@ -374,6 +430,10 @@
       cola y  patas delanteras
   species_class:
     spanish: ABEJA VEN.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 15
 - ids:
   - - dex_national
     - 16
@@ -401,6 +461,10 @@
       la gravilla
   species_class:
     spanish: PAJARITO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 16
 - ids:
   - - dex_national
     - 17
@@ -428,6 +492,10 @@
       a todo intruso
   species_class:
     spanish: PÁJARO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 17
 - ids:
   - - dex_national
     - 18
@@ -455,6 +523,10 @@
       presas como el MAGIKARP
   species_class:
     spanish: PÁJARO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 18
 - ids:
   - - dex_national
     - 19
@@ -478,6 +550,10 @@
       en muchos sitios
   species_class:
     spanish: RATA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 19
 - ids:
   - - dex_national
     - 20
@@ -501,6 +577,10 @@
       más despacio
   species_class:
     spanish: RATA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 20
 - ids:
   - - dex_national
     - 21
@@ -528,6 +608,10 @@
       mantenerse en el aire
   species_class:
     spanish: PAJARITO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 21
 - ids:
   - - dex_national
     - 22
@@ -555,6 +639,10 @@
       aterrizar para descansar
   species_class:
     spanish: PICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 22
 - ids:
   - - dex_national
     - 23
@@ -578,6 +666,10 @@
       y SPEAROW
   species_class:
     spanish: SERPIENTE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 23
 - ids:
   - - dex_national
     - 24
@@ -601,6 +693,10 @@
       área a otra
   species_class:
     spanish: COBRA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 24
 - ids:
   - - dex_national
     - 25
@@ -624,6 +720,10 @@
       tormentas
   species_class:
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 25
 - ids:
   - - dex_national
     - 26
@@ -647,6 +747,10 @@
       voltaje
   species_class:
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 26
 - ids:
   - - dex_national
     - 27
@@ -670,6 +774,10 @@
       para cazar su comida
   species_class:
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 27
 - ids:
   - - dex_national
     - 28
@@ -693,6 +801,10 @@
       rodar para atacar o escapar
   species_class:
     spanish: RATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 28
 - ids:
   - - dex_national
     - 29
@@ -716,6 +828,10 @@
       pequeños cuernos
   species_class:
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 29
 - ids:
   - - dex_national
     - 30
@@ -739,6 +855,10 @@
       arañar y morder
   species_class:
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 30
 - ids:
   - - dex_national
     - 31
@@ -766,6 +886,10 @@
       potentes movimientos
   species_class:
     spanish: TALADRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 31
 - ids:
   - - dex_national
     - 32
@@ -789,6 +913,10 @@
       más fuerte su veneno
   species_class:
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 32
 - ids:
   - - dex_national
     - 33
@@ -812,6 +940,10 @@
       segrega un potente veneno
   species_class:
     spanish: PIN VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 33
 - ids:
   - - dex_national
     - 34
@@ -839,6 +971,10 @@
       le rompe los huesos
   species_class:
     spanish: TALADRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 34
 - ids:
   - - dex_national
     - 35
@@ -862,6 +998,10 @@
       en ciertas áreas
   species_class:
     spanish: HADA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 35
 - ids:
   - - dex_national
     - 36
@@ -885,6 +1025,10 @@
       cuanto siente que viene gente
   species_class:
     spanish: HADA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 36
 - ids:
   - - dex_national
     - 37
@@ -908,6 +1052,10 @@
       desde la punta
   species_class:
     spanish: ZORRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 37
 - ids:
   - - dex_national
     - 38
@@ -931,6 +1079,10 @@
       años de maldición
   species_class:
     spanish: ZORRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 38
 - ids:
   - - dex_national
     - 39
@@ -954,6 +1106,10 @@
       a sus enemigos
   species_class:
     spanish: GLOBO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 39
 - ids:
   - - dex_national
     - 40
@@ -977,6 +1133,10 @@
       enormemente
   species_class:
     spanish: GLOBO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 40
 - ids:
   - - dex_national
     - 41
@@ -1004,6 +1164,10 @@
       y acercarse a los objetivos
   species_class:
     spanish: MURCIÉLAGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 41
 - ids:
   - - dex_national
     - 42
@@ -1031,6 +1195,10 @@
       que ya no pueda volar
   species_class:
     spanish: MURCIÉLAGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 42
 - ids:
   - - dex_national
     - 43
@@ -1058,6 +1226,10 @@
       sus semillas
   species_class:
     spanish: ALGAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 43
 - ids:
   - - dex_national
     - 44
@@ -1085,6 +1257,10 @@
       atraer a sus presas
   species_class:
     spanish: ALGAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 44
 - ids:
   - - dex_national
     - 45
@@ -1112,6 +1288,10 @@
       mantenerla
   species_class:
     spanish: FLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 45
 - ids:
   - - dex_national
     - 46
@@ -1139,6 +1319,10 @@
       a sus expensas
   species_class:
     spanish: HONGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 46
 - ids:
   - - dex_national
     - 47
@@ -1166,6 +1350,10 @@
       los sitios húmedos
   species_class:
     spanish: HONGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 47
 - ids:
   - - dex_national
     - 48
@@ -1193,6 +1381,10 @@
       la luz por la noche
   species_class:
     spanish: INSECTO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 48
 - ids:
   - - dex_national
     - 49
@@ -1220,6 +1412,10 @@
       veneno que lleve
   species_class:
     spanish: MOPA VEN.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 49
 - ids:
   - - dex_national
     - 50
@@ -1243,6 +1439,10 @@
       aparece en la superficie
   species_class:
     spanish: TOPO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 50
 - ids:
   - - dex_national
     - 51
@@ -1266,6 +1466,10 @@
       del suelo
   species_class:
     spanish: TOPO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 51
 - ids:
   - - dex_national
     - 52
@@ -1289,6 +1493,10 @@
       monedas perdidas
   species_class:
     spanish: GATO ARAÑA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 52
 - ids:
   - - dex_national
     - 53
@@ -1312,6 +1520,10 @@
       por su voluble maldad
   species_class:
     spanish: GATO FINO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 53
 - ids:
   - - dex_national
     - 54
@@ -1335,6 +1547,10 @@
       psicoquinéticos
   species_class:
     spanish: PATO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 54
 - ids:
   - - dex_national
     - 55
@@ -1358,6 +1574,10 @@
       monstruo japonés, Kappa
   species_class:
     spanish: PATO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 55
 - ids:
   - - dex_national
     - 56
@@ -1381,6 +1601,10 @@
       apenas un segundo
   species_class:
     spanish: MONO CERDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 56
 - ids:
   - - dex_national
     - 57
@@ -1404,6 +1628,10 @@
       que la atrape
   species_class:
     spanish: MONO CERDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 57
 - ids:
   - - dex_national
     - 58
@@ -1427,6 +1655,10 @@
       de su espacio
   species_class:
     spanish: PERRITO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 58
 - ids:
   - - dex_national
     - 59
@@ -1450,6 +1682,10 @@
       como si tuviera alas
   species_class:
     spanish: LEGENDARIO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 59
 - ids:
   - - dex_national
     - 60
@@ -1473,6 +1709,10 @@
       a estar de pie
   species_class:
     spanish: RENACUAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 60
 - ids:
   - - dex_national
     - 61
@@ -1496,6 +1736,10 @@
       su cuerpo baboso
   species_class:
     spanish: RENACUAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 61
 - ids:
   - - dex_national
     - 62
@@ -1523,6 +1767,10 @@
       nadador humano
   species_class:
     spanish: RENACUAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 62
 - ids:
   - - dex_national
     - 63
@@ -1546,6 +1794,10 @@
       a un lugar seguro
   species_class:
     spanish: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 63
 - ids:
   - - dex_national
     - 64
@@ -1569,6 +1821,10 @@
       que se acerca
   species_class:
     spanish: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 64
 - ids:
   - - dex_national
     - 65
@@ -1592,6 +1848,10 @@
       de 5000
   species_class:
     spanish: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 65
 - ids:
   - - dex_national
     - 66
@@ -1615,6 +1875,10 @@
       ser aún más fuerte
   species_class:
     spanish: SUPERPODER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 66
 - ids:
   - - dex_national
     - 67
@@ -1638,6 +1902,10 @@
       controlar sus movimientos
   species_class:
     spanish: SUPERPODER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 67
 - ids:
   - - dex_national
     - 68
@@ -1661,6 +1929,10 @@
       al lejano horizonte
   species_class:
     spanish: SUPERPODER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 68
 - ids:
   - - dex_national
     - 69
@@ -1688,6 +1960,10 @@
       humedad
   species_class:
     spanish: FLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 69
 - ids:
   - - dex_national
     - 70
@@ -1715,6 +1991,10 @@
       su ÁCIDO
   species_class:
     spanish: MATAMOSCAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 70
 - ids:
   - - dex_national
     - 71
@@ -1742,6 +2022,10 @@
       ha podido verificarlo
   species_class:
     spanish: MATAMOSCAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 71
 - ids:
   - - dex_national
     - 72
@@ -1769,6 +2053,10 @@
       será su punzante ácido
   species_class:
     spanish: MEDUSA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 72
 - ids:
   - - dex_national
     - 73
@@ -1796,6 +2084,10 @@
       a su presa
   species_class:
     spanish: MEDUSA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 73
 - ids:
   - - dex_national
     - 74
@@ -1823,6 +2115,10 @@
       con ellos o los pisa
   species_class:
     spanish: ROCA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 74
 - ids:
   - - dex_national
     - 75
@@ -1850,6 +2146,10 @@
       o cambiar de dirección
   species_class:
     spanish: ROCA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 75
 - ids:
   - - dex_national
     - 76
@@ -1877,6 +2177,10 @@
       sufrir daños
   species_class:
     spanish: MEGATÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 76
 - ids:
   - - dex_national
     - 77
@@ -1900,6 +2204,10 @@
       cosa en poco tiempo
   species_class:
     spanish: CABALLO F.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 77
 - ids:
   - - dex_national
     - 78
@@ -1923,6 +2231,10 @@
       esperando ganarle
   species_class:
     spanish: CABALLO F.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 78
 - ids:
   - - dex_national
     - 79
@@ -1950,6 +2262,10 @@
       atacado
   species_class:
     spanish: ATONTADO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 79
 - ids:
   - - dex_national
     - 80
@@ -1977,6 +2293,10 @@
       del anfitrión
   species_class:
     spanish: ERMITAÑO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 80
 - ids:
   - - dex_national
     - 81
@@ -2000,6 +2320,10 @@
       ONDATRUENO y parecidos
   species_class:
     spanish: IMÁN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 81
 - ids:
   - - dex_national
     - 82
@@ -2023,6 +2347,10 @@
       manchas solares
   species_class:
     spanish: IMÁN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 82
 - ids:
   - - dex_national
     - 83
@@ -2050,6 +2378,10 @@
       una espada
   species_class:
     spanish: PATO SALV.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 83
 - ids:
   - - dex_national
     - 84
@@ -2077,6 +2409,10 @@
       enormes huellas
   species_class:
     spanish: AVE GEMELA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 84
 - ids:
   - - dex_national
     - 85
@@ -2104,6 +2440,10 @@
       la otra sigue despierta
   species_class:
     spanish: AVE TRIPLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 85
 - ids:
   - - dex_national
     - 86
@@ -2127,6 +2467,10 @@
       el hielo
   species_class:
     spanish: LEÓN MAR.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 86
 - ids:
   - - dex_national
     - 87
@@ -2154,6 +2498,10 @@
       aguas muy frías
   species_class:
     spanish: LEÓN MAR.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 87
 - ids:
   - - dex_national
     - 88
@@ -2177,6 +2525,10 @@
       por las fábricas
   species_class:
     spanish: LODO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 88
 - ids:
   - - dex_national
     - 89
@@ -2200,6 +2552,10 @@
       son venenosas
   species_class:
     spanish: LODO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 89
 - ids:
   - - dex_national
     - 90
@@ -2223,6 +2579,10 @@
       es vulnerable
   species_class:
     spanish: BIVALVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 90
 - ids:
   - - dex_national
     - 91
@@ -2250,6 +2610,10 @@
       han sido vistas
   species_class:
     spanish: BIVALVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 91
 - ids:
   - - dex_national
     - 92
@@ -2277,6 +2641,10 @@
       previo aviso
   species_class:
     spanish: GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 92
 - ids:
   - - dex_national
     - 93
@@ -2304,6 +2672,10 @@
       otra dimensión
   species_class:
     spanish: GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 93
 - ids:
   - - dex_national
     - 94
@@ -2331,6 +2703,10 @@
       y burlarse de sus miedos
   species_class:
     spanish: SOMBRA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 94
 - ids:
   - - dex_national
     - 95
@@ -2358,6 +2734,10 @@
       a un diamante negro
   species_class:
     spanish: SERP.ROCA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 95
 - ids:
   - - dex_national
     - 96
@@ -2381,6 +2761,10 @@
       si come pesadillas
   species_class:
     spanish: HIPNOSIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 96
 - ids:
   - - dex_national
     - 97
@@ -2404,6 +2788,10 @@
       y la CONFUSIÓN
   species_class:
     spanish: HIPNOSIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 97
 - ids:
   - - dex_national
     - 98
@@ -2427,6 +2815,10 @@
       camina lateralmente
   species_class:
     spanish: CANGREJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 98
 - ids:
   - - dex_national
     - 99
@@ -2450,6 +2842,10 @@
       hace poco manejable
   species_class:
     spanish: TENAZA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 99
 - ids:
   - - dex_national
     - 100
@@ -2473,6 +2869,10 @@
       con una POKÉ BALL
   species_class:
     spanish: BOLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 100
 - ids:
   - - dex_national
     - 101
@@ -2496,6 +2896,10 @@
       más mínima provocación
   species_class:
     spanish: BOLA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 101
 - ids:
   - - dex_national
     - 102
@@ -2523,6 +2927,10 @@
       todos juntos
   species_class:
     spanish: HUEVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 102
 - ids:
   - - dex_national
     - 103
@@ -2550,6 +2958,10 @@
       como un EXEGGCUTE
   species_class:
     spanish: COCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 103
 - ids:
   - - dex_national
     - 104
@@ -2573,6 +2985,10 @@
       a este POKÉMON
   species_class:
     spanish: SOLITARIO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 104
 - ids:
   - - dex_national
     - 105
@@ -2596,6 +3012,10 @@
       dejándolos KO
   species_class:
     spanish: APILAHUESO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 105
 - ids:
   - - dex_national
     - 106
@@ -2619,6 +3039,10 @@
       extra-largas
   species_class:
     spanish: PATEANDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 106
 - ids:
   - - dex_national
     - 107
@@ -2642,6 +3066,10 @@
       de ver
   species_class:
     spanish: PEGANDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 107
 - ids:
   - - dex_national
     - 108
@@ -2665,6 +3093,10 @@
       éstos se estremecen
   species_class:
     spanish: LAMIENDO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 108
 - ids:
   - - dex_national
     - 109
@@ -2688,6 +3120,10 @@
       sin previo aviso
   species_class:
     spanish: GAS VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 109
 - ids:
   - - dex_national
     - 110
@@ -2711,6 +3147,10 @@
       en un WEEZING
   species_class:
     spanish: GAS VENENO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 110
 - ids:
   - - dex_national
     - 111
@@ -2738,6 +3178,10 @@
       gran fuerza
   species_class:
     spanish: CLAVOS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 111
 - ids:
   - - dex_national
     - 112
@@ -2765,6 +3209,10 @@
       grados de temperatura
   species_class:
     spanish: TALADRO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 112
 - ids:
   - - dex_national
     - 113
@@ -2788,6 +3236,10 @@
       que lo atrapan
   species_class:
     spanish: HUEVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 113
 - ids:
   - - dex_national
     - 114
@@ -2811,6 +3263,10 @@
       mueven cuando camina
   species_class:
     spanish: ENREDADERA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 114
 - ids:
   - - dex_national
     - 115
@@ -2834,6 +3290,10 @@
       los tres años
   species_class:
     spanish: PADRES
+  learnset: !<reference>
+  - learnset
+  - id
+  - 115
 - ids:
   - - dex_national
     - 116
@@ -2857,6 +3317,10 @@
       del agua
   species_class:
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 116
 - ids:
   - - dex_national
     - 117
@@ -2880,6 +3344,10 @@
       su robusta cola
   species_class:
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 117
 - ids:
   - - dex_national
     - 118
@@ -2903,6 +3371,10 @@
       Reina del Agua
   species_class:
     spanish: PEZ COLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 118
 - ids:
   - - dex_national
     - 119
@@ -2926,6 +3398,10 @@
       por ríos y arroyos
   species_class:
     spanish: PEZ COLOR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 119
 - ids:
   - - dex_national
     - 120
@@ -2949,6 +3425,10 @@
       que pierda luchando
   species_class:
     spanish: ESTRELLADA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 120
 - ids:
   - - dex_national
     - 121
@@ -2976,6 +3456,10 @@
       como gema por algunos
   species_class:
     spanish: MISTERIOSO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 121
 - ids:
   - - dex_national
     - 122
@@ -2999,6 +3483,10 @@
       manos
   species_class:
     spanish: BARRERA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 122
 - ids:
   - - dex_national
     - 123
@@ -3026,6 +3514,10 @@
       hay más de uno
   species_class:
     spanish: MANTIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 123
 - ids:
   - - dex_national
     - 124
@@ -3053,6 +3545,10 @@
       baile con él al unísono
   species_class:
     spanish: F. HUMANA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 124
 - ids:
   - - dex_national
     - 125
@@ -3076,6 +3572,10 @@
       grandes apagones
   species_class:
     spanish: ELÉCTRICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 125
 - ids:
   - - dex_national
     - 126
@@ -3099,6 +3599,10 @@
       las llamas
   species_class:
     spanish: ESCUPFUEGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 126
 - ids:
   - - dex_national
     - 127
@@ -3122,6 +3626,10 @@
       y le arrojará lejos
   species_class:
     spanish: ESCARABAJO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 127
 - ids:
   - - dex_national
     - 128
@@ -3145,6 +3653,10 @@
       colas
   species_class:
     spanish: TORO BRAVO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 128
 - ids:
   - - dex_national
     - 129
@@ -3168,6 +3680,10 @@
       hoy en día
   species_class:
     spanish: PEZ
+  learnset: !<reference>
+  - learnset
+  - id
+  - 129
 - ids:
   - - dex_national
     - 130
@@ -3195,6 +3711,10 @@
       enteras de un ataque
   species_class:
     spanish: ATROCIDAD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 130
 - ids:
   - - dex_national
     - 131
@@ -3222,6 +3742,10 @@
       la gente por el agua
   species_class:
     spanish: TRANSPORTE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 131
 - ids:
   - - dex_national
     - 132
@@ -3245,6 +3769,10 @@
       réplica de éste
   species_class:
     spanish: TRANSFORM.
+  learnset: !<reference>
+  - learnset
+  - id
+  - 132
 - ids:
   - - dex_national
     - 133
@@ -3268,6 +3796,10 @@
       de los elementos-ROCA
   species_class:
     spanish: EVOLUCIÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 133
 - ids:
   - - dex_national
     - 134
@@ -3291,6 +3823,10 @@
       a la de una sirena
   species_class:
     spanish: BURBUJA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 134
 - ids:
   - - dex_national
     - 135
@@ -3314,6 +3850,10 @@
       de potencia
   species_class:
     spanish: RELÁMPAGO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 135
 - ids:
   - - dex_national
     - 136
@@ -3337,6 +3877,10 @@
       a más de 1600 grados
   species_class:
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 136
 - ids:
   - - dex_national
     - 137
@@ -3360,6 +3904,10 @@
       ciberespacio
   species_class:
     spanish: VIRTUAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 137
 - ids:
   - - dex_national
     - 138
@@ -3387,6 +3935,10 @@
       de los fósiles
   species_class:
     spanish: ESPIRAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 138
 - ids:
   - - dex_national
     - 139
@@ -3414,6 +3966,10 @@
       atrapar a sus presas
   species_class:
     spanish: ESPIRAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 139
 - ids:
   - - dex_national
     - 140
@@ -3441,6 +3997,10 @@
       el fondo oceánico
   species_class:
     spanish: MARISCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 140
 - ids:
   - - dex_national
     - 141
@@ -3468,6 +4028,10 @@
       y absorbe sus fluidos
   species_class:
     spanish: MARISCO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 141
 - ids:
   - - dex_national
     - 142
@@ -3495,6 +4059,10 @@
       del enemigo
   species_class:
     spanish: FÓSIL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 142
 - ids:
   - - dex_national
     - 143
@@ -3518,6 +4086,10 @@
       vez más perezoso
   species_class:
     spanish: DORMIR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 143
 - ids:
   - - dex_national
     - 144
@@ -3545,6 +4117,10 @@
       en las heladas montañas
   species_class:
     spanish: CONGELAR
+  learnset: !<reference>
+  - learnset
+  - id
+  - 144
 - ids:
   - - dex_national
     - 145
@@ -3572,6 +4148,10 @@
       enormes rayos brillantes
   species_class:
     spanish: ELÉCTRICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 145
 - ids:
   - - dex_national
     - 146
@@ -3599,6 +4179,10 @@
       brillantes llamas
   species_class:
     spanish: LLAMA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 146
 - ids:
   - - dex_national
     - 147
@@ -3622,6 +4206,10 @@
       una colonia submarina
   species_class:
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 147
 - ids:
   - - dex_national
     - 148
@@ -3645,6 +4233,10 @@
       la climatología
   species_class:
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 148
 - ids:
   - - dex_national
     - 149
@@ -3672,6 +4264,10 @@
       como los humanos
   species_class:
     spanish: DRAGÓN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 149
 - ids:
   - - dex_national
     - 150
@@ -3695,6 +4291,10 @@
       genética
   species_class:
     spanish: GENÉTICO
+  learnset: !<reference>
+  - learnset
+  - id
+  - 150
 - ids:
   - - dex_national
     - 151
@@ -3718,3 +4318,7 @@
       unos pocos lo han visto
   species_class:
     spanish: N.ESPECIE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 151

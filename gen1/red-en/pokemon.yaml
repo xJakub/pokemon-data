@@ -25,6 +25,10 @@
       grows with this POKÉMON.
   species_class:
     english: SEED
+  learnset: !<reference>
+  - learnset
+  - id
+  - 1
 - ids:
   - - dex_national
     - 2
@@ -52,6 +56,10 @@
       to stand on its hind legs.
   species_class:
     english: SEED
+  learnset: !<reference>
+  - learnset
+  - id
+  - 2
 - ids:
   - - dex_national
     - 3
@@ -79,6 +87,10 @@
       to seek sunlight.
   species_class:
     english: SEED
+  learnset: !<reference>
+  - learnset
+  - id
+  - 3
 - ids:
   - - dex_national
     - 4
@@ -102,6 +114,10 @@
       the tip of its tail.
   species_class:
     english: LIZARD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 4
 - ids:
   - - dex_national
     - 5
@@ -125,6 +141,10 @@
       high levels.
   species_class:
     english: FLAME
+  learnset: !<reference>
+  - learnset
+  - id
+  - 5
 - ids:
   - - dex_national
     - 6
@@ -152,6 +172,10 @@
       fires unintentionally.
   species_class:
     english: FLAME
+  learnset: !<reference>
+  - learnset
+  - id
+  - 6
 - ids:
   - - dex_national
     - 7
@@ -175,6 +199,10 @@
       foam from its mouth.
   species_class:
     english: TINYTURTLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 7
 - ids:
   - - dex_national
     - 8
@@ -198,6 +226,10 @@
       its ears to maintain balance.
   species_class:
     english: TURTLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 8
 - ids:
   - - dex_national
     - 9
@@ -221,6 +253,10 @@
       for high speed tackles.
   species_class:
     english: SHELLFISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 9
 - ids:
   - - dex_national
     - 10
@@ -244,6 +280,10 @@
       climb slopes and walls.
   species_class:
     english: WORM
+  learnset: !<reference>
+  - learnset
+  - id
+  - 10
 - ids:
   - - dex_national
     - 11
@@ -267,6 +307,10 @@
       its weak and tender body.
   species_class:
     english: COCOON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 11
 - ids:
   - - dex_national
     - 12
@@ -294,6 +338,10 @@
       into the air.
   species_class:
     english: BUTTERFLY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 12
 - ids:
   - - dex_national
     - 13
@@ -321,6 +369,10 @@
       on its head.
   species_class:
     english: HAIRY BUG
+  learnset: !<reference>
+  - learnset
+  - id
+  - 13
 - ids:
   - - dex_national
     - 14
@@ -348,6 +400,10 @@
       protect itself from predators.
   species_class:
     english: COCOON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 14
 - ids:
   - - dex_national
     - 15
@@ -375,6 +431,10 @@
       its forelegs and tail.
   species_class:
     english: POISON BEE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 15
 - ids:
   - - dex_national
     - 16
@@ -402,6 +462,10 @@
       to kick up blinding sand.
   species_class:
     english: TINY BIRD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 16
 - ids:
   - - dex_national
     - 17
@@ -429,6 +493,10 @@
       fiercely peck at any intruder.
   species_class:
     english: BIRD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 17
 - ids:
   - - dex_national
     - 18
@@ -456,6 +524,10 @@
       unwary prey such as MAGIKARP.
   species_class:
     english: BIRD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 18
 - ids:
   - - dex_national
     - 19
@@ -479,6 +551,10 @@
       sight in many places.
   species_class:
     english: RAT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 19
 - ids:
   - - dex_national
     - 20
@@ -502,6 +578,10 @@
       if they are cut off.
   species_class:
     english: RAT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 20
 - ids:
   - - dex_national
     - 21
@@ -529,6 +609,10 @@
       to stay airborne.
   species_class:
     english: TINY BIRD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 21
 - ids:
   - - dex_national
     - 22
@@ -556,6 +640,10 @@
       to land for rest.
   species_class:
     english: BEAK
+  learnset: !<reference>
+  - learnset
+  - id
+  - 22
 - ids:
   - - dex_national
     - 23
@@ -579,6 +667,10 @@
       and SPEAROW, whole.
   species_class:
     english: SNAKE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 23
 - ids:
   - - dex_national
     - 24
@@ -602,6 +694,10 @@
       from area to area.
   species_class:
     english: COBRA
+  learnset: !<reference>
+  - learnset
+  - id
+  - 24
 - ids:
   - - dex_national
     - 25
@@ -625,6 +721,10 @@
       cause lightning storms.
   species_class:
     english: MOUSE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 25
 - ids:
   - - dex_national
     - 26
@@ -648,6 +748,10 @@
       voltage power.
   species_class:
     english: MOUSE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 26
 - ids:
   - - dex_national
     - 27
@@ -671,6 +775,10 @@
       to hunt for food.
   species_class:
     english: MOUSE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 27
 - ids:
   - - dex_national
     - 28
@@ -694,6 +802,10 @@
       up to attack or escape.
   species_class:
     english: MOUSE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 28
 - ids:
   - - dex_national
     - 29
@@ -717,6 +829,10 @@
       female has smaller horns.
   species_class:
     english: POISON PIN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 29
 - ids:
   - - dex_national
     - 30
@@ -740,6 +856,10 @@
       and biting.
   species_class:
     english: POISON PIN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 30
 - ids:
   - - dex_national
     - 31
@@ -767,6 +887,10 @@
       execute powerful moves.
   species_class:
     english: DRILL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 31
 - ids:
   - - dex_national
     - 32
@@ -790,6 +914,10 @@
       its secreted venom.
   species_class:
     english: POISON PIN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 32
 - ids:
   - - dex_national
     - 33
@@ -813,6 +941,10 @@
       a powerful venom.
   species_class:
     english: POISON PIN
+  learnset: !<reference>
+  - learnset
+  - id
+  - 33
 - ids:
   - - dex_national
     - 34
@@ -840,6 +972,10 @@
       prey's bones.
   species_class:
     english: DRILL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 34
 - ids:
   - - dex_national
     - 35
@@ -863,6 +999,10 @@
       in certain areas.
   species_class:
     english: FAIRY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 35
 - ids:
   - - dex_national
     - 36
@@ -886,6 +1026,10 @@
       it senses people.
   species_class:
     english: FAIRY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 36
 - ids:
   - - dex_national
     - 37
@@ -909,6 +1053,10 @@
       tip as it grows older.
   species_class:
     english: FOX
+  learnset: !<reference>
+  - learnset
+  - id
+  - 37
 - ids:
   - - dex_national
     - 38
@@ -932,6 +1080,10 @@
       in a 1000-year curse.
   species_class:
     english: FOX
+  learnset: !<reference>
+  - learnset
+  - id
+  - 38
 - ids:
   - - dex_national
     - 39
@@ -955,6 +1107,10 @@
       that lulls its enemies to sleep.
   species_class:
     english: BALLOON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 39
 - ids:
   - - dex_national
     - 40
@@ -978,6 +1134,10 @@
       itself to an enormous size.
   species_class:
     english: BALLOON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 40
 - ids:
   - - dex_national
     - 41
@@ -1005,6 +1165,10 @@
       and approach targets.
   species_class:
     english: BAT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 41
 - ids:
   - - dex_national
     - 42
@@ -1032,6 +1196,10 @@
       if it gets too heavy to fly.
   species_class:
     english: BAT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 42
 - ids:
   - - dex_national
     - 43
@@ -1059,6 +1227,10 @@
       wanders around sowing its seeds.
   species_class:
     english: WEED
+  learnset: !<reference>
+  - learnset
+  - id
+  - 43
 - ids:
   - - dex_national
     - 44
@@ -1086,6 +1258,10 @@
       is used to attract prey.
   species_class:
     english: WEED
+  learnset: !<reference>
+  - learnset
+  - id
+  - 44
 - ids:
   - - dex_national
     - 45
@@ -1113,6 +1289,10 @@
       is heavy and hard to hold up.
   species_class:
     english: FLOWER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 45
 - ids:
   - - dex_national
     - 46
@@ -1140,6 +1320,10 @@
       nutrients from the bug host.
   species_class:
     english: MUSHROOM
+  learnset: !<reference>
+  - learnset
+  - id
+  - 46
 - ids:
   - - dex_national
     - 47
@@ -1167,6 +1351,10 @@
       host bug. Prefers damp places.
   species_class:
     english: MUSHROOM
+  learnset: !<reference>
+  - learnset
+  - id
+  - 47
 - ids:
   - - dex_national
     - 48
@@ -1194,6 +1382,10 @@
       by light at night.
   species_class:
     english: INSECT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 48
 - ids:
   - - dex_national
     - 49
@@ -1221,6 +1413,10 @@
       kinds of poison it has.
   species_class:
     english: POISONMOTH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 49
 - ids:
   - - dex_national
     - 50
@@ -1244,6 +1440,10 @@
       appears above ground.
   species_class:
     english: MOLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 50
 - ids:
   - - dex_national
     - 51
@@ -1267,6 +1467,10 @@
       60 miles underground.
   species_class:
     english: MOLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 51
 - ids:
   - - dex_national
     - 52
@@ -1290,6 +1494,10 @@
       for dropped loose change.
   species_class:
     english: SCRATCHCAT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 52
 - ids:
   - - dex_national
     - 53
@@ -1313,6 +1521,10 @@
       of its fickle meanness.
   species_class:
     english: CLASSY CAT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 53
 - ids:
   - - dex_national
     - 54
@@ -1336,6 +1548,10 @@
       use psychokinetic powers.
   species_class:
     english: DUCK
+  learnset: !<reference>
+  - learnset
+  - id
+  - 54
 - ids:
   - - dex_national
     - 55
@@ -1359,6 +1575,10 @@
       for the Japanese monster, Kappa.
   species_class:
     english: DUCK
+  learnset: !<reference>
+  - learnset
+  - id
+  - 55
 - ids:
   - - dex_national
     - 56
@@ -1382,6 +1602,10 @@
       away the next instant.
   species_class:
     english: PIG MONKEY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 56
 - ids:
   - - dex_national
     - 57
@@ -1405,6 +1629,10 @@
       quarry until it is caught.
   species_class:
     english: PIG MONKEY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 57
 - ids:
   - - dex_national
     - 58
@@ -1428,6 +1656,10 @@
       from its space.
   species_class:
     english: PUPPY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 58
 - ids:
   - - dex_national
     - 59
@@ -1451,6 +1683,10 @@
       agilely as if on wings.
   species_class:
     english: LEGENDARY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 59
 - ids:
   - - dex_national
     - 60
@@ -1474,6 +1710,10 @@
       than trying to stand.
   species_class:
     english: TADPOLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 60
 - ids:
   - - dex_national
     - 61
@@ -1497,6 +1737,10 @@
       keep its body slimy.
   species_class:
     english: TADPOLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 61
 - ids:
   - - dex_national
     - 62
@@ -1524,6 +1768,10 @@
       the best human swimmers.
   species_class:
     english: TADPOLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 62
 - ids:
   - - dex_national
     - 63
@@ -1547,6 +1795,10 @@
       TELEPORT to safety.
   species_class:
     english: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 63
 - ids:
   - - dex_national
     - 64
@@ -1570,6 +1822,10 @@
       by being close by.
   species_class:
     english: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 64
 - ids:
   - - dex_national
     - 65
@@ -1593,6 +1849,10 @@
       is said to be 5,000.
   species_class:
     english: PSI
+  learnset: !<reference>
+  - learnset
+  - id
+  - 65
 - ids:
   - - dex_national
     - 66
@@ -1616,6 +1876,10 @@
       become even stronger.
   species_class:
     english: SUPERPOWER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 66
 - ids:
   - - dex_national
     - 67
@@ -1639,6 +1903,10 @@
       able to regulate its motions.
   species_class:
     english: SUPERPOWER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 67
 - ids:
   - - dex_national
     - 68
@@ -1662,6 +1930,10 @@
       victim clear over the horizon.
   species_class:
     english: SUPERPOWER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 68
 - ids:
   - - dex_national
     - 69
@@ -1689,6 +1961,10 @@
       to soak up needed moisture.
   species_class:
     english: FLOWER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 69
 - ids:
   - - dex_national
     - 70
@@ -1716,6 +1992,10 @@
       with a spray of ACID.
   species_class:
     english: FLYCATCHER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 70
 - ids:
   - - dex_national
     - 71
@@ -1743,6 +2023,10 @@
       returned from there.
   species_class:
     english: FLYCATCHER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 71
 - ids:
   - - dex_national
     - 72
@@ -1770,6 +2054,10 @@
       by its stinging acid.
   species_class:
     english: JELLYFISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 72
 - ids:
   - - dex_national
     - 73
@@ -1797,6 +2085,10 @@
       ensnare and immobilize prey.
   species_class:
     english: JELLYFISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 73
 - ids:
   - - dex_national
     - 74
@@ -1824,6 +2116,10 @@
       step or trip on them.
   species_class:
     english: ROCK
+  learnset: !<reference>
+  - learnset
+  - id
+  - 74
 - ids:
   - - dex_national
     - 75
@@ -1851,6 +2147,10 @@
       or changing its direction.
   species_class:
     english: ROCK
+  learnset: !<reference>
+  - learnset
+  - id
+  - 75
 - ids:
   - - dex_national
     - 76
@@ -1878,6 +2178,10 @@
       blasts without damage.
   species_class:
     english: MEGATON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 76
 - ids:
   - - dex_national
     - 77
@@ -1901,6 +2205,10 @@
       completely flat in little time.
   species_class:
     english: FIRE HORSE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 77
 - ids:
   - - dex_national
     - 78
@@ -1924,6 +2232,10 @@
       the hopes of racing it.
   species_class:
     english: FIRE HORSE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 78
 - ids:
   - - dex_national
     - 79
@@ -1951,6 +2263,10 @@
       under attack.
   species_class:
     english: DOPEY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 79
 - ids:
   - - dex_national
     - 80
@@ -1978,6 +2294,10 @@
       the host's left over scraps.
   species_class:
     english: HERMITCRAB
+  learnset: !<reference>
+  - learnset
+  - id
+  - 80
 - ids:
   - - dex_national
     - 81
@@ -2001,6 +2321,10 @@
       THUNDER WAVE and similar moves.
   species_class:
     english: MAGNET
+  learnset: !<reference>
+  - learnset
+  - id
+  - 81
 - ids:
   - - dex_national
     - 82
@@ -2024,6 +2348,10 @@
       when sunspots flare up.
   species_class:
     english: MAGNET
+  learnset: !<reference>
+  - learnset
+  - id
+  - 82
 - ids:
   - - dex_national
     - 83
@@ -2051,6 +2379,10 @@
       a metal sword.
   species_class:
     english: WILD DUCK
+  learnset: !<reference>
+  - learnset
+  - id
+  - 83
 - ids:
   - - dex_national
     - 84
@@ -2078,6 +2410,10 @@
       giant footprints.
   species_class:
     english: TWIN BIRD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 84
 - ids:
   - - dex_national
     - 85
@@ -2105,6 +2441,10 @@
       one head stays awake.
   species_class:
     english: TRIPLEBIRD
+  learnset: !<reference>
+  - learnset
+  - id
+  - 85
 - ids:
   - - dex_national
     - 86
@@ -2128,6 +2468,10 @@
       through thick ice.
   species_class:
     english: SEA LION
+  learnset: !<reference>
+  - learnset
+  - id
+  - 86
 - ids:
   - - dex_national
     - 87
@@ -2155,6 +2499,10 @@
       intensely cold waters.
   species_class:
     english: SEA LION
+  learnset: !<reference>
+  - learnset
+  - id
+  - 87
 - ids:
   - - dex_national
     - 88
@@ -2178,6 +2526,10 @@
       pumped out of factories.
   species_class:
     english: SLUDGE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 88
 - ids:
   - - dex_national
     - 89
@@ -2201,6 +2553,10 @@
       footprints contain poison.
   species_class:
     english: SLUDGE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 89
 - ids:
   - - dex_national
     - 90
@@ -2224,6 +2580,10 @@
       its shell is open.
   species_class:
     english: BIVALVE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 90
 - ids:
   - - dex_national
     - 91
@@ -2251,6 +2611,10 @@
       never been seen.
   species_class:
     english: BIVALVE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 91
 - ids:
   - - dex_national
     - 92
@@ -2278,6 +2642,10 @@
       to sleep without notice.
   species_class:
     english: GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 92
 - ids:
   - - dex_national
     - 93
@@ -2305,6 +2673,10 @@
       from an- other dimension.
   species_class:
     english: GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 93
 - ids:
   - - dex_national
     - 94
@@ -2332,6 +2704,10 @@
       and laugh at their fright.
   species_class:
     english: SHADOW
+  learnset: !<reference>
+  - learnset
+  - id
+  - 94
 - ids:
   - - dex_national
     - 95
@@ -2359,6 +2735,10 @@
       to a diamond, but colored black.
   species_class:
     english: ROCK SNAKE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 95
 - ids:
   - - dex_national
     - 96
@@ -2382,6 +2762,10 @@
       from eating bad dreams.
   species_class:
     english: HYPNOSIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 96
 - ids:
   - - dex_national
     - 97
@@ -2405,6 +2789,10 @@
       as HYPNOSIS and CONFUSION.
   species_class:
     english: HYPNOSIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 97
 - ids:
   - - dex_national
     - 98
@@ -2428,6 +2816,10 @@
       when walking sideways.
   species_class:
     english: RIVER CRAB
+  learnset: !<reference>
+  - learnset
+  - id
+  - 98
 - ids:
   - - dex_national
     - 99
@@ -2451,6 +2843,10 @@
       makes it unwieldy to use.
   species_class:
     english: PINCER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 99
 - ids:
   - - dex_national
     - 100
@@ -2474,6 +2870,10 @@
       have zapped many people.
   species_class:
     english: BALL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 100
 - ids:
   - - dex_national
     - 101
@@ -2497,6 +2897,10 @@
       with little or no provocation.
   species_class:
     english: BALL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 101
 - ids:
   - - dex_national
     - 102
@@ -2524,6 +2928,10 @@
       in swarms.
   species_class:
     english: EGG
+  learnset: !<reference>
+  - learnset
+  - id
+  - 102
 - ids:
   - - dex_national
     - 103
@@ -2551,6 +2959,10 @@
       and continue on as an EXEGGCUTE.
   species_class:
     english: COCONUT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 103
 - ids:
   - - dex_national
     - 104
@@ -2574,6 +2986,10 @@
       POKÉMON's real face.
   species_class:
     english: LONELY
+  learnset: !<reference>
+  - learnset
+  - id
+  - 104
 - ids:
   - - dex_national
     - 105
@@ -2597,6 +3013,10 @@
       a boomerang to KO targets.
   species_class:
     english: BONEKEEPER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 105
 - ids:
   - - dex_national
     - 106
@@ -2620,6 +3040,10 @@
       extra long, loping strides.
   species_class:
     english: KICKING
+  learnset: !<reference>
+  - learnset
+  - id
+  - 106
 - ids:
   - - dex_national
     - 107
@@ -2643,6 +3067,10 @@
       that are impossible to see.
   species_class:
     english: PUNCHING
+  learnset: !<reference>
+  - learnset
+  - id
+  - 107
 - ids:
   - - dex_national
     - 108
@@ -2666,6 +3094,10 @@
       when it licks enemies.
   species_class:
     english: LICKING
+  learnset: !<reference>
+  - learnset
+  - id
+  - 108
 - ids:
   - - dex_national
     - 109
@@ -2689,6 +3121,10 @@
       to exploding without warning.
   species_class:
     english: POISON GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 109
 - ids:
   - - dex_national
     - 110
@@ -2712,6 +3148,10 @@
       over many years.
   species_class:
     english: POISON GAS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 110
 - ids:
   - - dex_national
     - 111
@@ -2739,6 +3179,10 @@
       knock a trailer flying.
   species_class:
     english: SPIKES
+  learnset: !<reference>
+  - learnset
+  - id
+  - 111
 - ids:
   - - dex_national
     - 112
@@ -2766,6 +3210,10 @@
       of 3,600 degrees.
   species_class:
     english: DRILL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 112
 - ids:
   - - dex_national
     - 113
@@ -2789,6 +3237,10 @@
       manage to get it.
   species_class:
     english: EGG
+  learnset: !<reference>
+  - learnset
+  - id
+  - 113
 - ids:
   - - dex_national
     - 114
@@ -2812,6 +3264,10 @@
       Its vines shake as it walks.
   species_class:
     english: VINE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 114
 - ids:
   - - dex_national
     - 115
@@ -2835,6 +3291,10 @@
       it is 3 years old.
   species_class:
     english: PARENT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 115
 - ids:
   - - dex_national
     - 116
@@ -2858,6 +3318,10 @@
       surface of the water.
   species_class:
     english: DRAGON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 116
 - ids:
   - - dex_national
     - 117
@@ -2881,6 +3345,10 @@
       fins and stout tail.
   species_class:
     english: DRAGON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 117
 - ids:
   - - dex_national
     - 118
@@ -2904,6 +3372,10 @@
       of the Water Queen.
   species_class:
     english: GOLDFISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 118
 - ids:
   - - dex_national
     - 119
@@ -2927,6 +3399,10 @@
       up rivers and creeks.
   species_class:
     english: GOLDFISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 119
 - ids:
   - - dex_national
     - 120
@@ -2950,6 +3426,10 @@
       loses in battle.
   species_class:
     english: STARSHAPE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 120
 - ids:
   - - dex_national
     - 121
@@ -2977,6 +3457,10 @@
       value the core as a gem.
   species_class:
     english: MYSTERIOUS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 121
 - ids:
   - - dex_national
     - 122
@@ -3000,6 +3484,10 @@
       its broad hands.
   species_class:
     english: BARRIER
+  learnset: !<reference>
+  - learnset
+  - id
+  - 122
 - ids:
   - - dex_national
     - 123
@@ -3027,6 +3515,10 @@
       is more than one.
   species_class:
     english: MANTIS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 123
 - ids:
   - - dex_national
     - 124
@@ -3054,6 +3546,10 @@
       in unison with it.
   species_class:
     english: HUMANSHAPE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 124
 - ids:
   - - dex_national
     - 125
@@ -3077,6 +3573,10 @@
       blackouts in cities.
   species_class:
     english: ELECTRIC
+  learnset: !<reference>
+  - learnset
+  - id
+  - 125
 - ids:
   - - dex_national
     - 126
@@ -3100,6 +3600,10 @@
       among flames.
   species_class:
     english: SPITFIRE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 126
 - ids:
   - - dex_national
     - 127
@@ -3123,6 +3627,10 @@
       and toss it hard.
   species_class:
     english: STAGBEETLE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 127
 - ids:
   - - dex_national
     - 128
@@ -3146,6 +3654,10 @@
       with its long tails.
   species_class:
     english: WILD BULL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 128
 - ids:
   - - dex_national
     - 129
@@ -3169,6 +3681,10 @@
       descendants that exist today.
   species_class:
     english: FISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 129
 - ids:
   - - dex_national
     - 130
@@ -3196,6 +3712,10 @@
       entire cities in a rage.
   species_class:
     english: ATROCIOUS
+  learnset: !<reference>
+  - learnset
+  - id
+  - 130
 - ids:
   - - dex_national
     - 131
@@ -3223,6 +3743,10 @@
       people across the water.
   species_class:
     english: TRANSPORT
+  learnset: !<reference>
+  - learnset
+  - id
+  - 131
 - ids:
   - - dex_national
     - 132
@@ -3246,6 +3770,10 @@
       into a duplicate of the enemy.
   species_class:
     english: TRANSFORM
+  learnset: !<reference>
+  - learnset
+  - id
+  - 132
 - ids:
   - - dex_national
     - 133
@@ -3269,6 +3797,10 @@
       from element STONEs.
   species_class:
     english: EVOLUTION
+  learnset: !<reference>
+  - learnset
+  - id
+  - 133
 - ids:
   - - dex_national
     - 134
@@ -3292,6 +3824,10 @@
       mistaken for a mermaid's.
   species_class:
     english: BUBBLE JET
+  learnset: !<reference>
+  - learnset
+  - id
+  - 134
 - ids:
   - - dex_national
     - 135
@@ -3315,6 +3851,10 @@
       lightning bolts.
   species_class:
     english: LIGHTNING
+  learnset: !<reference>
+  - learnset
+  - id
+  - 135
 - ids:
   - - dex_national
     - 136
@@ -3338,6 +3878,10 @@
       over 1600 degrees.
   species_class:
     english: FLAME
+  learnset: !<reference>
+  - learnset
+  - id
+  - 136
 - ids:
   - - dex_national
     - 137
@@ -3361,6 +3905,10 @@
       freely in cyberspace.
   species_class:
     english: VIRTUAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 137
 - ids:
   - - dex_national
     - 138
@@ -3388,6 +3936,10 @@
       from fossils.
   species_class:
     english: SPIRAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 138
 - ids:
   - - dex_national
     - 139
@@ -3415,6 +3967,10 @@
       to catch prey.
   species_class:
     english: SPIRAL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 139
 - ids:
   - - dex_national
     - 140
@@ -3442,6 +3998,10 @@
       ocean floor eons ago.
   species_class:
     english: SHELLFISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 140
 - ids:
   - - dex_national
     - 141
@@ -3469,6 +4029,10 @@
       and drains the body fluids.
   species_class:
     english: SHELLFISH
+  learnset: !<reference>
+  - learnset
+  - id
+  - 141
 - ids:
   - - dex_national
     - 142
@@ -3496,6 +4060,10 @@
       its serrated saw-like fangs.
   species_class:
     english: FOSSIL
+  learnset: !<reference>
+  - learnset
+  - id
+  - 142
 - ids:
   - - dex_national
     - 143
@@ -3519,6 +4087,10 @@
       steadily more slothful.
   species_class:
     english: SLEEPING
+  learnset: !<reference>
+  - learnset
+  - id
+  - 143
 - ids:
   - - dex_national
     - 144
@@ -3546,6 +4118,10 @@
       are lost in icy mountains.
   species_class:
     english: FREEZE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 144
 - ids:
   - - dex_national
     - 145
@@ -3573,6 +4149,10 @@
       enormous lightning bolts.
   species_class:
     english: ELECTRIC
+  learnset: !<reference>
+  - learnset
+  - id
+  - 145
 - ids:
   - - dex_national
     - 146
@@ -3600,6 +4180,10 @@
       a dazzling flash of flames.
   species_class:
     english: FLAME
+  learnset: !<reference>
+  - learnset
+  - id
+  - 146
 - ids:
   - - dex_national
     - 147
@@ -3623,6 +4207,10 @@
       was found living underwater.
   species_class:
     english: DRAGON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 147
 - ids:
   - - dex_national
     - 148
@@ -3646,6 +4234,10 @@
       climate conditions.
   species_class:
     english: DRAGON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 148
 - ids:
   - - dex_national
     - 149
@@ -3673,6 +4265,10 @@
       match that of humans.
   species_class:
     english: DRAGON
+  learnset: !<reference>
+  - learnset
+  - id
+  - 149
 - ids:
   - - dex_national
     - 150
@@ -3696,6 +4292,10 @@
       DNA engineering experiments.
   species_class:
     english: GENETIC
+  learnset: !<reference>
+  - learnset
+  - id
+  - 150
 - ids:
   - - dex_national
     - 151
@@ -3719,3 +4319,7 @@
       few people have seen it worldwide.
   species_class:
     english: NEW SPECIE
+  learnset: !<reference>
+  - learnset
+  - id
+  - 151
