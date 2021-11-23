@@ -1,6 +1,5 @@
 - ids:
-  - - dex_national
-    - 1
+  - dex_national:1
   base_stats:
     hp: 45
     attack: 49
@@ -10,14 +9,8 @@
   base_yield_exp: 64
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: BULBASAUR
     spanish: BULBASAUR
@@ -29,13 +22,9 @@
   species_class:
     english: SEED
     spanish: SEMILLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 1
+  learnset: !<reference> learnsets/id:1
 - ids:
-  - - dex_national
-    - 2
+  - dex_national:2
   base_stats:
     hp: 60
     attack: 62
@@ -45,14 +34,8 @@
   base_yield_exp: 141
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: IVYSAUR
     spanish: IVYSAUR
@@ -64,13 +47,9 @@
   species_class:
     english: SEED
     spanish: SEMILLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 2
+  learnset: !<reference> learnsets/id:2
 - ids:
-  - - dex_national
-    - 3
+  - dex_national:3
   base_stats:
     hp: 80
     attack: 82
@@ -80,14 +59,8 @@
   base_yield_exp: 208
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: VENUSAUR
     spanish: VENUSAUR
@@ -99,13 +72,9 @@
   species_class:
     english: SEED
     spanish: SEMILLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 3
+  learnset: !<reference> learnsets/id:3
 - ids:
-  - - dex_national
-    - 4
+  - dex_national:4
   base_stats:
     hp: 39
     attack: 52
@@ -115,10 +84,7 @@
   base_yield_exp: 65
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: CHARMANDER
     spanish: CHARMANDER
@@ -130,13 +96,9 @@
   species_class:
     english: LIZARD
     spanish: LAGARTIJA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 4
+  learnset: !<reference> learnsets/id:4
 - ids:
-  - - dex_national
-    - 5
+  - dex_national:5
   base_stats:
     hp: 58
     attack: 64
@@ -146,10 +108,7 @@
   base_yield_exp: 142
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: CHARMELEON
     spanish: CHARMELEON
@@ -161,13 +120,9 @@
   species_class:
     english: FLAME
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 5
+  learnset: !<reference> learnsets/id:5
 - ids:
-  - - dex_national
-    - 6
+  - dex_national:6
   base_stats:
     hp: 78
     attack: 84
@@ -177,14 +132,8 @@
   base_yield_exp: 209
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:20
+  - !<reference> types/id:2
   name:
     english: CHARIZARD
     spanish: CHARIZARD
@@ -196,13 +145,9 @@
   species_class:
     english: FLAME
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 6
+  learnset: !<reference> learnsets/id:6
 - ids:
-  - - dex_national
-    - 7
+  - dex_national:7
   base_stats:
     hp: 44
     attack: 48
@@ -212,10 +157,7 @@
   base_yield_exp: 66
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: SQUIRTLE
     spanish: SQUIRTLE
@@ -227,13 +169,9 @@
   species_class:
     english: TINYTURTLE
     spanish: TORTUGUITA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 7
+  learnset: !<reference> learnsets/id:7
 - ids:
-  - - dex_national
-    - 8
+  - dex_national:8
   base_stats:
     hp: 59
     attack: 63
@@ -243,10 +181,7 @@
   base_yield_exp: 143
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: WARTORTLE
     spanish: WARTORTLE
@@ -258,13 +193,9 @@
   species_class:
     english: TURTLE
     spanish: TORTUGA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 8
+  learnset: !<reference> learnsets/id:8
 - ids:
-  - - dex_national
-    - 9
+  - dex_national:9
   base_stats:
     hp: 79
     attack: 83
@@ -274,10 +205,7 @@
   base_yield_exp: 210
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: BLASTOISE
     spanish: BLASTOISE
@@ -289,13 +217,9 @@
   species_class:
     english: SHELLFISH
     spanish: MARISCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 9
+  learnset: !<reference> learnsets/id:9
 - ids:
-  - - dex_national
-    - 10
+  - dex_national:10
   base_stats:
     hp: 45
     attack: 30
@@ -305,10 +229,7 @@
   base_yield_exp: 53
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
+  - !<reference> types/id:7
   name:
     english: CATERPIE
     spanish: CATERPIE
@@ -320,13 +241,9 @@
   species_class:
     english: WORM
     spanish: GUSANO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 10
+  learnset: !<reference> learnsets/id:10
 - ids:
-  - - dex_national
-    - 11
+  - dex_national:11
   base_stats:
     hp: 50
     attack: 20
@@ -336,10 +253,7 @@
   base_yield_exp: 72
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
+  - !<reference> types/id:7
   name:
     english: METAPOD
     spanish: METAPOD
@@ -351,13 +265,9 @@
   species_class:
     english: COCOON
     spanish: CAPULLO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 11
+  learnset: !<reference> learnsets/id:11
 - ids:
-  - - dex_national
-    - 12
+  - dex_national:12
   base_stats:
     hp: 60
     attack: 45
@@ -367,14 +277,8 @@
   base_yield_exp: 160
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:7
+  - !<reference> types/id:2
   name:
     english: BUTTERFREE
     spanish: BUTTERFREE
@@ -385,13 +289,9 @@
   species_class:
     english: BUTTERFLY
     spanish: MARIPOSA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 12
+  learnset: !<reference> learnsets/id:12
 - ids:
-  - - dex_national
-    - 13
+  - dex_national:13
   base_stats:
     hp: 40
     attack: 35
@@ -401,14 +301,8 @@
   base_yield_exp: 52
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     english: WEEDLE
     spanish: WEEDLE
@@ -420,13 +314,9 @@
   species_class:
     english: HAIRY BUG
     spanish: ORUGA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 13
+  learnset: !<reference> learnsets/id:13
 - ids:
-  - - dex_national
-    - 14
+  - dex_national:14
   base_stats:
     hp: 45
     attack: 25
@@ -436,14 +326,8 @@
   base_yield_exp: 71
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     english: KAKUNA
     spanish: KAKUNA
@@ -455,13 +339,9 @@
   species_class:
     english: COCOON
     spanish: CAPULLO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 14
+  learnset: !<reference> learnsets/id:14
 - ids:
-  - - dex_national
-    - 15
+  - dex_national:15
   base_stats:
     hp: 65
     attack: 80
@@ -471,14 +351,8 @@
   base_yield_exp: 159
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     english: BEEDRILL
     spanish: BEEDRILL
@@ -490,13 +364,9 @@
   species_class:
     english: POISON BEE
     spanish: ABEJA VEN.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 15
+  learnset: !<reference> learnsets/id:15
 - ids:
-  - - dex_national
-    - 16
+  - dex_national:16
   base_stats:
     hp: 40
     attack: 45
@@ -506,14 +376,8 @@
   base_yield_exp: 55
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: PIDGEY
     spanish: PIDGEY
@@ -525,13 +389,9 @@
   species_class:
     english: TINY BIRD
     spanish: PAJARITO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 16
+  learnset: !<reference> learnsets/id:16
 - ids:
-  - - dex_national
-    - 17
+  - dex_national:17
   base_stats:
     hp: 63
     attack: 60
@@ -541,14 +401,8 @@
   base_yield_exp: 113
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: PIDGEOTTO
     spanish: PIDGEOTTO
@@ -560,13 +414,9 @@
   species_class:
     english: BIRD
     spanish: PÁJARO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 17
+  learnset: !<reference> learnsets/id:17
 - ids:
-  - - dex_national
-    - 18
+  - dex_national:18
   base_stats:
     hp: 83
     attack: 80
@@ -576,14 +426,8 @@
   base_yield_exp: 172
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: PIDGEOT
     spanish: PIDGEOT
@@ -595,13 +439,9 @@
   species_class:
     english: BIRD
     spanish: PÁJARO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 18
+  learnset: !<reference> learnsets/id:18
 - ids:
-  - - dex_national
-    - 19
+  - dex_national:19
   base_stats:
     hp: 30
     attack: 56
@@ -611,10 +451,7 @@
   base_yield_exp: 57
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: RATTATA
     spanish: RATTATA
@@ -626,13 +463,9 @@
   species_class:
     english: RAT
     spanish: RATA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 19
+  learnset: !<reference> learnsets/id:19
 - ids:
-  - - dex_national
-    - 20
+  - dex_national:20
   base_stats:
     hp: 55
     attack: 81
@@ -642,10 +475,7 @@
   base_yield_exp: 116
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: RATICATE
     spanish: RATICATE
@@ -657,13 +487,9 @@
   species_class:
     english: RAT
     spanish: RATA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 20
+  learnset: !<reference> learnsets/id:20
 - ids:
-  - - dex_national
-    - 21
+  - dex_national:21
   base_stats:
     hp: 40
     attack: 60
@@ -673,14 +499,8 @@
   base_yield_exp: 58
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: SPEAROW
     spanish: SPEAROW
@@ -692,13 +512,9 @@
   species_class:
     english: TINY BIRD
     spanish: PAJARITO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 21
+  learnset: !<reference> learnsets/id:21
 - ids:
-  - - dex_national
-    - 22
+  - dex_national:22
   base_stats:
     hp: 65
     attack: 90
@@ -708,14 +524,8 @@
   base_yield_exp: 162
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: FEAROW
     spanish: FEAROW
@@ -727,13 +537,9 @@
   species_class:
     english: BEAK
     spanish: PICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 22
+  learnset: !<reference> learnsets/id:22
 - ids:
-  - - dex_national
-    - 23
+  - dex_national:23
   base_stats:
     hp: 35
     attack: 60
@@ -743,10 +549,7 @@
   base_yield_exp: 62
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: EKANS
     spanish: EKANS
@@ -758,13 +561,9 @@
   species_class:
     english: SNAKE
     spanish: SERPIENTE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 23
+  learnset: !<reference> learnsets/id:23
 - ids:
-  - - dex_national
-    - 24
+  - dex_national:24
   base_stats:
     hp: 60
     attack: 85
@@ -774,10 +573,7 @@
   base_yield_exp: 147
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: ARBOK
     spanish: ARBOK
@@ -789,13 +585,9 @@
   species_class:
     english: COBRA
     spanish: COBRA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 24
+  learnset: !<reference> learnsets/id:24
 - ids:
-  - - dex_national
-    - 25
+  - dex_national:25
   base_stats:
     hp: 35
     attack: 55
@@ -805,10 +597,7 @@
   base_yield_exp: 82
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: PIKACHU
     spanish: PIKACHU
@@ -820,13 +609,9 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 25
+  learnset: !<reference> learnsets/id:25
 - ids:
-  - - dex_national
-    - 26
+  - dex_national:26
   base_stats:
     hp: 60
     attack: 90
@@ -836,10 +621,7 @@
   base_yield_exp: 122
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: RAICHU
     spanish: RAICHU
@@ -851,13 +633,9 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 26
+  learnset: !<reference> learnsets/id:26
 - ids:
-  - - dex_national
-    - 27
+  - dex_national:27
   base_stats:
     hp: 50
     attack: 75
@@ -867,10 +645,7 @@
   base_yield_exp: 93
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     english: SANDSHREW
     spanish: SANDSHREW
@@ -882,13 +657,9 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 27
+  learnset: !<reference> learnsets/id:27
 - ids:
-  - - dex_national
-    - 28
+  - dex_national:28
   base_stats:
     hp: 75
     attack: 100
@@ -898,10 +669,7 @@
   base_yield_exp: 163
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     english: SANDSLASH
     spanish: SANDSLASH
@@ -913,13 +681,9 @@
   species_class:
     english: MOUSE
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 28
+  learnset: !<reference> learnsets/id:28
 - ids:
-  - - dex_national
-    - 29
+  - dex_national:29
   base_stats:
     hp: 55
     attack: 47
@@ -929,10 +693,7 @@
   base_yield_exp: 59
   catch_rate: 235
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: NIDORAN♀
     spanish: NIDORAN♀
@@ -944,13 +705,9 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 29
+  learnset: !<reference> learnsets/id:29
 - ids:
-  - - dex_national
-    - 30
+  - dex_national:30
   base_stats:
     hp: 70
     attack: 62
@@ -960,10 +717,7 @@
   base_yield_exp: 117
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: NIDORINA
     spanish: NIDORINA
@@ -975,13 +729,9 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 30
+  learnset: !<reference> learnsets/id:30
 - ids:
-  - - dex_national
-    - 31
+  - dex_national:31
   base_stats:
     hp: 90
     attack: 82
@@ -991,14 +741,8 @@
   base_yield_exp: 194
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:3
+  - !<reference> types/id:4
   name:
     english: NIDOQUEEN
     spanish: NIDOQUEEN
@@ -1010,13 +754,9 @@
   species_class:
     english: DRILL
     spanish: TALADRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 31
+  learnset: !<reference> learnsets/id:31
 - ids:
-  - - dex_national
-    - 32
+  - dex_national:32
   base_stats:
     hp: 46
     attack: 57
@@ -1026,10 +766,7 @@
   base_yield_exp: 60
   catch_rate: 235
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: NIDORAN♂
     spanish: NIDORAN♂
@@ -1041,13 +778,9 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 32
+  learnset: !<reference> learnsets/id:32
 - ids:
-  - - dex_national
-    - 33
+  - dex_national:33
   base_stats:
     hp: 61
     attack: 72
@@ -1057,10 +790,7 @@
   base_yield_exp: 118
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: NIDORINO
     spanish: NIDORINO
@@ -1072,13 +802,9 @@
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 33
+  learnset: !<reference> learnsets/id:33
 - ids:
-  - - dex_national
-    - 34
+  - dex_national:34
   base_stats:
     hp: 81
     attack: 92
@@ -1088,14 +814,8 @@
   base_yield_exp: 195
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:3
+  - !<reference> types/id:4
   name:
     english: NIDOKING
     spanish: NIDOKING
@@ -1107,13 +827,9 @@
   species_class:
     english: DRILL
     spanish: TALADRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 34
+  learnset: !<reference> learnsets/id:34
 - ids:
-  - - dex_national
-    - 35
+  - dex_national:35
   base_stats:
     hp: 70
     attack: 45
@@ -1123,10 +839,7 @@
   base_yield_exp: 68
   catch_rate: 150
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: CLEFAIRY
     spanish: CLEFAIRY
@@ -1138,13 +851,9 @@
   species_class:
     english: FAIRY
     spanish: HADA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 35
+  learnset: !<reference> learnsets/id:35
 - ids:
-  - - dex_national
-    - 36
+  - dex_national:36
   base_stats:
     hp: 95
     attack: 70
@@ -1154,10 +863,7 @@
   base_yield_exp: 129
   catch_rate: 25
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: CLEFABLE
     spanish: CLEFABLE
@@ -1169,13 +875,9 @@
   species_class:
     english: FAIRY
     spanish: HADA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 36
+  learnset: !<reference> learnsets/id:36
 - ids:
-  - - dex_national
-    - 37
+  - dex_national:37
   base_stats:
     hp: 38
     attack: 41
@@ -1185,10 +887,7 @@
   base_yield_exp: 63
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: VULPIX
     spanish: VULPIX
@@ -1200,13 +899,9 @@
   species_class:
     english: FOX
     spanish: ZORRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 37
+  learnset: !<reference> learnsets/id:37
 - ids:
-  - - dex_national
-    - 38
+  - dex_national:38
   base_stats:
     hp: 73
     attack: 76
@@ -1216,10 +911,7 @@
   base_yield_exp: 178
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: NINETALES
     spanish: NINETALES
@@ -1231,13 +923,9 @@
   species_class:
     english: FOX
     spanish: ZORRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 38
+  learnset: !<reference> learnsets/id:38
 - ids:
-  - - dex_national
-    - 39
+  - dex_national:39
   base_stats:
     hp: 115
     attack: 45
@@ -1247,10 +935,7 @@
   base_yield_exp: 76
   catch_rate: 170
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: JIGGLYPUFF
     spanish: JIGGLYPUFF
@@ -1262,13 +947,9 @@
   species_class:
     english: BALLOON
     spanish: GLOBO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 39
+  learnset: !<reference> learnsets/id:39
 - ids:
-  - - dex_national
-    - 40
+  - dex_national:40
   base_stats:
     hp: 140
     attack: 70
@@ -1278,10 +959,7 @@
   base_yield_exp: 109
   catch_rate: 50
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: WIGGLYTUFF
     spanish: WIGGLYTUFF
@@ -1293,13 +971,9 @@
   species_class:
     english: BALLOON
     spanish: GLOBO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 40
+  learnset: !<reference> learnsets/id:40
 - ids:
-  - - dex_national
-    - 41
+  - dex_national:41
   base_stats:
     hp: 40
     attack: 45
@@ -1309,14 +983,8 @@
   base_yield_exp: 54
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:3
+  - !<reference> types/id:2
   name:
     english: ZUBAT
     spanish: ZUBAT
@@ -1328,13 +996,9 @@
   species_class:
     english: BAT
     spanish: MURCIÉLAGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 41
+  learnset: !<reference> learnsets/id:41
 - ids:
-  - - dex_national
-    - 42
+  - dex_national:42
   base_stats:
     hp: 75
     attack: 80
@@ -1344,14 +1008,8 @@
   base_yield_exp: 171
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:3
+  - !<reference> types/id:2
   name:
     english: GOLBAT
     spanish: GOLBAT
@@ -1363,13 +1021,9 @@
   species_class:
     english: BAT
     spanish: MURCIÉLAGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 42
+  learnset: !<reference> learnsets/id:42
 - ids:
-  - - dex_national
-    - 43
+  - dex_national:43
   base_stats:
     hp: 45
     attack: 50
@@ -1379,14 +1033,8 @@
   base_yield_exp: 78
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: ODDISH
     spanish: ODDISH
@@ -1398,13 +1046,9 @@
   species_class:
     english: WEED
     spanish: ALGAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 43
+  learnset: !<reference> learnsets/id:43
 - ids:
-  - - dex_national
-    - 44
+  - dex_national:44
   base_stats:
     hp: 60
     attack: 65
@@ -1414,14 +1058,8 @@
   base_yield_exp: 132
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: GLOOM
     spanish: GLOOM
@@ -1433,13 +1071,9 @@
   species_class:
     english: WEED
     spanish: ALGAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 44
+  learnset: !<reference> learnsets/id:44
 - ids:
-  - - dex_national
-    - 45
+  - dex_national:45
   base_stats:
     hp: 75
     attack: 80
@@ -1449,14 +1083,8 @@
   base_yield_exp: 184
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: VILEPLUME
     spanish: VILEPLUME
@@ -1468,13 +1096,9 @@
   species_class:
     english: FLOWER
     spanish: FLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 45
+  learnset: !<reference> learnsets/id:45
 - ids:
-  - - dex_national
-    - 46
+  - dex_national:46
   base_stats:
     hp: 35
     attack: 70
@@ -1484,14 +1108,8 @@
   base_yield_exp: 70
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 22
+  - !<reference> types/id:7
+  - !<reference> types/id:22
   name:
     english: PARAS
     spanish: PARAS
@@ -1503,13 +1121,9 @@
   species_class:
     english: MUSHROOM
     spanish: HONGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 46
+  learnset: !<reference> learnsets/id:46
 - ids:
-  - - dex_national
-    - 47
+  - dex_national:47
   base_stats:
     hp: 60
     attack: 95
@@ -1519,14 +1133,8 @@
   base_yield_exp: 128
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 22
+  - !<reference> types/id:7
+  - !<reference> types/id:22
   name:
     english: PARASECT
     spanish: PARASECT
@@ -1538,13 +1146,9 @@
   species_class:
     english: MUSHROOM
     spanish: HONGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 47
+  learnset: !<reference> learnsets/id:47
 - ids:
-  - - dex_national
-    - 48
+  - dex_national:48
   base_stats:
     hp: 60
     attack: 55
@@ -1554,14 +1158,8 @@
   base_yield_exp: 75
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     english: VENONAT
     spanish: VENONAT
@@ -1573,13 +1171,9 @@
   species_class:
     english: INSECT
     spanish: INSECTO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 48
+  learnset: !<reference> learnsets/id:48
 - ids:
-  - - dex_national
-    - 49
+  - dex_national:49
   base_stats:
     hp: 70
     attack: 65
@@ -1589,14 +1183,8 @@
   base_yield_exp: 138
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     english: VENOMOTH
     spanish: VENOMOTH
@@ -1608,13 +1196,9 @@
   species_class:
     english: POISONMOTH
     spanish: MOPA VEN.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 49
+  learnset: !<reference> learnsets/id:49
 - ids:
-  - - dex_national
-    - 50
+  - dex_national:50
   base_stats:
     hp: 10
     attack: 55
@@ -1624,10 +1208,7 @@
   base_yield_exp: 81
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     english: DIGLETT
     spanish: DIGLETT
@@ -1639,13 +1220,9 @@
   species_class:
     english: MOLE
     spanish: TOPO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 50
+  learnset: !<reference> learnsets/id:50
 - ids:
-  - - dex_national
-    - 51
+  - dex_national:51
   base_stats:
     hp: 35
     attack: 80
@@ -1655,10 +1232,7 @@
   base_yield_exp: 153
   catch_rate: 50
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     english: DUGTRIO
     spanish: DUGTRIO
@@ -1670,13 +1244,9 @@
   species_class:
     english: MOLE
     spanish: TOPO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 51
+  learnset: !<reference> learnsets/id:51
 - ids:
-  - - dex_national
-    - 52
+  - dex_national:52
   base_stats:
     hp: 40
     attack: 45
@@ -1686,10 +1256,7 @@
   base_yield_exp: 69
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: MEOWTH
     spanish: MEOWTH
@@ -1701,13 +1268,9 @@
   species_class:
     english: SCRATCHCAT
     spanish: GATO ARAÑA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 52
+  learnset: !<reference> learnsets/id:52
 - ids:
-  - - dex_national
-    - 53
+  - dex_national:53
   base_stats:
     hp: 65
     attack: 70
@@ -1717,10 +1280,7 @@
   base_yield_exp: 148
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: PERSIAN
     spanish: PERSIAN
@@ -1732,13 +1292,9 @@
   species_class:
     english: CLASSY CAT
     spanish: GATO FINO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 53
+  learnset: !<reference> learnsets/id:53
 - ids:
-  - - dex_national
-    - 54
+  - dex_national:54
   base_stats:
     hp: 50
     attack: 52
@@ -1748,10 +1304,7 @@
   base_yield_exp: 80
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: PSYDUCK
     spanish: PSYDUCK
@@ -1763,13 +1316,9 @@
   species_class:
     english: DUCK
     spanish: PATO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 54
+  learnset: !<reference> learnsets/id:54
 - ids:
-  - - dex_national
-    - 55
+  - dex_national:55
   base_stats:
     hp: 80
     attack: 82
@@ -1779,10 +1328,7 @@
   base_yield_exp: 174
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: GOLDUCK
     spanish: GOLDUCK
@@ -1794,13 +1340,9 @@
   species_class:
     english: DUCK
     spanish: PATO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 55
+  learnset: !<reference> learnsets/id:55
 - ids:
-  - - dex_national
-    - 56
+  - dex_national:56
   base_stats:
     hp: 40
     attack: 80
@@ -1810,10 +1352,7 @@
   base_yield_exp: 74
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     english: MANKEY
     spanish: MANKEY
@@ -1825,13 +1364,9 @@
   species_class:
     english: PIG MONKEY
     spanish: MONO CERDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 56
+  learnset: !<reference> learnsets/id:56
 - ids:
-  - - dex_national
-    - 57
+  - dex_national:57
   base_stats:
     hp: 65
     attack: 105
@@ -1841,10 +1376,7 @@
   base_yield_exp: 149
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     english: PRIMEAPE
     spanish: PRIMEAPE
@@ -1856,13 +1388,9 @@
   species_class:
     english: PIG MONKEY
     spanish: MONO CERDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 57
+  learnset: !<reference> learnsets/id:57
 - ids:
-  - - dex_national
-    - 58
+  - dex_national:58
   base_stats:
     hp: 55
     attack: 70
@@ -1872,10 +1400,7 @@
   base_yield_exp: 91
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: GROWLITHE
     spanish: GROWLITHE
@@ -1887,13 +1412,9 @@
   species_class:
     english: PUPPY
     spanish: PERRITO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 58
+  learnset: !<reference> learnsets/id:58
 - ids:
-  - - dex_national
-    - 59
+  - dex_national:59
   base_stats:
     hp: 90
     attack: 110
@@ -1903,10 +1424,7 @@
   base_yield_exp: 213
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: ARCANINE
     spanish: ARCANINE
@@ -1918,13 +1436,9 @@
   species_class:
     english: LEGENDARY
     spanish: LEGENDARIO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 59
+  learnset: !<reference> learnsets/id:59
 - ids:
-  - - dex_national
-    - 60
+  - dex_national:60
   base_stats:
     hp: 40
     attack: 50
@@ -1934,10 +1448,7 @@
   base_yield_exp: 77
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: POLIWAG
     spanish: POLIWAG
@@ -1949,13 +1460,9 @@
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 60
+  learnset: !<reference> learnsets/id:60
 - ids:
-  - - dex_national
-    - 61
+  - dex_national:61
   base_stats:
     hp: 65
     attack: 65
@@ -1965,10 +1472,7 @@
   base_yield_exp: 131
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: POLIWHIRL
     spanish: POLIWHIRL
@@ -1980,13 +1484,9 @@
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 61
+  learnset: !<reference> learnsets/id:61
 - ids:
-  - - dex_national
-    - 62
+  - dex_national:62
   base_stats:
     hp: 90
     attack: 85
@@ -1996,14 +1496,8 @@
   base_yield_exp: 185
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:21
+  - !<reference> types/id:1
   name:
     english: POLIWRATH
     spanish: POLIWRATH
@@ -2015,13 +1509,9 @@
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 62
+  learnset: !<reference> learnsets/id:62
 - ids:
-  - - dex_national
-    - 63
+  - dex_national:63
   base_stats:
     hp: 25
     attack: 20
@@ -2031,10 +1521,7 @@
   base_yield_exp: 73
   catch_rate: 200
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: ABRA
     spanish: ABRA
@@ -2046,13 +1533,9 @@
   species_class:
     english: PSI
     spanish: PSI
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 63
+  learnset: !<reference> learnsets/id:63
 - ids:
-  - - dex_national
-    - 64
+  - dex_national:64
   base_stats:
     hp: 40
     attack: 35
@@ -2062,10 +1545,7 @@
   base_yield_exp: 145
   catch_rate: 100
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: KADABRA
     spanish: KADABRA
@@ -2077,13 +1557,9 @@
   species_class:
     english: PSI
     spanish: PSI
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 64
+  learnset: !<reference> learnsets/id:64
 - ids:
-  - - dex_national
-    - 65
+  - dex_national:65
   base_stats:
     hp: 55
     attack: 50
@@ -2093,10 +1569,7 @@
   base_yield_exp: 186
   catch_rate: 50
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: ALAKAZAM
     spanish: ALAKAZAM
@@ -2108,13 +1581,9 @@
   species_class:
     english: PSI
     spanish: PSI
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 65
+  learnset: !<reference> learnsets/id:65
 - ids:
-  - - dex_national
-    - 66
+  - dex_national:66
   base_stats:
     hp: 70
     attack: 80
@@ -2124,10 +1593,7 @@
   base_yield_exp: 88
   catch_rate: 180
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     english: MACHOP
     spanish: MACHOP
@@ -2139,13 +1605,9 @@
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 66
+  learnset: !<reference> learnsets/id:66
 - ids:
-  - - dex_national
-    - 67
+  - dex_national:67
   base_stats:
     hp: 80
     attack: 100
@@ -2155,10 +1617,7 @@
   base_yield_exp: 146
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     english: MACHOKE
     spanish: MACHOKE
@@ -2170,13 +1629,9 @@
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 67
+  learnset: !<reference> learnsets/id:67
 - ids:
-  - - dex_national
-    - 68
+  - dex_national:68
   base_stats:
     hp: 90
     attack: 130
@@ -2186,10 +1641,7 @@
   base_yield_exp: 193
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     english: MACHAMP
     spanish: MACHAMP
@@ -2201,13 +1653,9 @@
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 68
+  learnset: !<reference> learnsets/id:68
 - ids:
-  - - dex_national
-    - 69
+  - dex_national:69
   base_stats:
     hp: 50
     attack: 75
@@ -2217,14 +1665,8 @@
   base_yield_exp: 84
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: BELLSPROUT
     spanish: BELLSPROUT
@@ -2236,13 +1678,9 @@
   species_class:
     english: FLOWER
     spanish: FLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 69
+  learnset: !<reference> learnsets/id:69
 - ids:
-  - - dex_national
-    - 70
+  - dex_national:70
   base_stats:
     hp: 65
     attack: 90
@@ -2252,14 +1690,8 @@
   base_yield_exp: 151
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: WEEPINBELL
     spanish: WEEPINBELL
@@ -2271,13 +1703,9 @@
   species_class:
     english: FLYCATCHER
     spanish: MATAMOSCAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 70
+  learnset: !<reference> learnsets/id:70
 - ids:
-  - - dex_national
-    - 71
+  - dex_national:71
   base_stats:
     hp: 80
     attack: 105
@@ -2287,14 +1715,8 @@
   base_yield_exp: 191
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     english: VICTREEBEL
     spanish: VICTREEBEL
@@ -2306,13 +1728,9 @@
   species_class:
     english: FLYCATCHER
     spanish: MATAMOSCAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 71
+  learnset: !<reference> learnsets/id:71
 - ids:
-  - - dex_national
-    - 72
+  - dex_national:72
   base_stats:
     hp: 40
     attack: 40
@@ -2322,14 +1740,8 @@
   base_yield_exp: 105
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:21
+  - !<reference> types/id:3
   name:
     english: TENTACOOL
     spanish: TENTACOOL
@@ -2341,13 +1753,9 @@
   species_class:
     english: JELLYFISH
     spanish: MEDUSA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 72
+  learnset: !<reference> learnsets/id:72
 - ids:
-  - - dex_national
-    - 73
+  - dex_national:73
   base_stats:
     hp: 80
     attack: 70
@@ -2357,14 +1765,8 @@
   base_yield_exp: 205
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:21
+  - !<reference> types/id:3
   name:
     english: TENTACRUEL
     spanish: TENTACRUEL
@@ -2376,13 +1778,9 @@
   species_class:
     english: JELLYFISH
     spanish: MEDUSA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 73
+  learnset: !<reference> learnsets/id:73
 - ids:
-  - - dex_national
-    - 74
+  - dex_national:74
   base_stats:
     hp: 40
     attack: 80
@@ -2392,14 +1790,8 @@
   base_yield_exp: 86
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     english: GEODUDE
     spanish: GEODUDE
@@ -2411,13 +1803,9 @@
   species_class:
     english: ROCK
     spanish: ROCA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 74
+  learnset: !<reference> learnsets/id:74
 - ids:
-  - - dex_national
-    - 75
+  - dex_national:75
   base_stats:
     hp: 55
     attack: 95
@@ -2427,14 +1815,8 @@
   base_yield_exp: 134
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     english: GRAVELER
     spanish: GRAVELER
@@ -2446,13 +1828,9 @@
   species_class:
     english: ROCK
     spanish: ROCA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 75
+  learnset: !<reference> learnsets/id:75
 - ids:
-  - - dex_national
-    - 76
+  - dex_national:76
   base_stats:
     hp: 80
     attack: 110
@@ -2462,14 +1840,8 @@
   base_yield_exp: 177
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     english: GOLEM
     spanish: GOLEM
@@ -2481,13 +1853,9 @@
   species_class:
     english: MEGATON
     spanish: MEGATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 76
+  learnset: !<reference> learnsets/id:76
 - ids:
-  - - dex_national
-    - 77
+  - dex_national:77
   base_stats:
     hp: 50
     attack: 85
@@ -2497,10 +1865,7 @@
   base_yield_exp: 152
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: PONYTA
     spanish: PONYTA
@@ -2512,13 +1877,9 @@
   species_class:
     english: FIRE HORSE
     spanish: CABALLO F.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 77
+  learnset: !<reference> learnsets/id:77
 - ids:
-  - - dex_national
-    - 78
+  - dex_national:78
   base_stats:
     hp: 65
     attack: 100
@@ -2528,10 +1889,7 @@
   base_yield_exp: 192
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: RAPIDASH
     spanish: RAPIDASH
@@ -2543,13 +1901,9 @@
   species_class:
     english: FIRE HORSE
     spanish: CABALLO F.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 78
+  learnset: !<reference> learnsets/id:78
 - ids:
-  - - dex_national
-    - 79
+  - dex_national:79
   base_stats:
     hp: 90
     attack: 65
@@ -2559,14 +1913,8 @@
   base_yield_exp: 99
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:21
+  - !<reference> types/id:24
   name:
     english: SLOWPOKE
     spanish: SLOWPOKE
@@ -2578,13 +1926,9 @@
   species_class:
     english: DOPEY
     spanish: ATONTADO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 79
+  learnset: !<reference> learnsets/id:79
 - ids:
-  - - dex_national
-    - 80
+  - dex_national:80
   base_stats:
     hp: 95
     attack: 75
@@ -2594,14 +1938,8 @@
   base_yield_exp: 164
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:21
+  - !<reference> types/id:24
   name:
     english: SLOWBRO
     spanish: SLOWBRO
@@ -2613,13 +1951,9 @@
   species_class:
     english: HERMITCRAB
     spanish: ERMITAÑO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 80
+  learnset: !<reference> learnsets/id:80
 - ids:
-  - - dex_national
-    - 81
+  - dex_national:81
   base_stats:
     hp: 25
     attack: 35
@@ -2629,10 +1963,7 @@
   base_yield_exp: 89
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: MAGNEMITE
     spanish: MAGNEMITE
@@ -2644,13 +1975,9 @@
   species_class:
     english: MAGNET
     spanish: IMÁN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 81
+  learnset: !<reference> learnsets/id:81
 - ids:
-  - - dex_national
-    - 82
+  - dex_national:82
   base_stats:
     hp: 50
     attack: 60
@@ -2660,10 +1987,7 @@
   base_yield_exp: 161
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: MAGNETON
     spanish: MAGNETON
@@ -2675,13 +1999,9 @@
   species_class:
     english: MAGNET
     spanish: IMÁN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 82
+  learnset: !<reference> learnsets/id:82
 - ids:
-  - - dex_national
-    - 83
+  - dex_national:83
   base_stats:
     hp: 52
     attack: 65
@@ -2691,14 +2011,8 @@
   base_yield_exp: 94
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: FARFETCH'D
     spanish: FARFETCH'D
@@ -2710,13 +2024,9 @@
   species_class:
     english: WILD DUCK
     spanish: PATO SALV.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 83
+  learnset: !<reference> learnsets/id:83
 - ids:
-  - - dex_national
-    - 84
+  - dex_national:84
   base_stats:
     hp: 35
     attack: 85
@@ -2726,14 +2036,8 @@
   base_yield_exp: 96
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: DODUO
     spanish: DODUO
@@ -2745,13 +2049,9 @@
   species_class:
     english: TWIN BIRD
     spanish: AVE GEMELA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 84
+  learnset: !<reference> learnsets/id:84
 - ids:
-  - - dex_national
-    - 85
+  - dex_national:85
   base_stats:
     hp: 60
     attack: 110
@@ -2761,14 +2061,8 @@
   base_yield_exp: 158
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     english: DODRIO
     spanish: DODRIO
@@ -2780,13 +2074,9 @@
   species_class:
     english: TRIPLEBIRD
     spanish: AVE TRIPLE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 85
+  learnset: !<reference> learnsets/id:85
 - ids:
-  - - dex_national
-    - 86
+  - dex_national:86
   base_stats:
     hp: 65
     attack: 45
@@ -2796,10 +2086,7 @@
   base_yield_exp: 100
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: SEEL
     spanish: SEEL
@@ -2811,13 +2098,9 @@
   species_class:
     english: SEA LION
     spanish: LEÓN MAR.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 86
+  learnset: !<reference> learnsets/id:86
 - ids:
-  - - dex_national
-    - 87
+  - dex_national:87
   base_stats:
     hp: 90
     attack: 70
@@ -2827,14 +2110,8 @@
   base_yield_exp: 176
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 25
+  - !<reference> types/id:21
+  - !<reference> types/id:25
   name:
     english: DEWGONG
     spanish: DEWGONG
@@ -2846,13 +2123,9 @@
   species_class:
     english: SEA LION
     spanish: LEÓN MAR.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 87
+  learnset: !<reference> learnsets/id:87
 - ids:
-  - - dex_national
-    - 88
+  - dex_national:88
   base_stats:
     hp: 80
     attack: 80
@@ -2862,10 +2135,7 @@
   base_yield_exp: 90
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: GRIMER
     spanish: GRIMER
@@ -2877,13 +2147,9 @@
   species_class:
     english: SLUDGE
     spanish: LODO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 88
+  learnset: !<reference> learnsets/id:88
 - ids:
-  - - dex_national
-    - 89
+  - dex_national:89
   base_stats:
     hp: 105
     attack: 105
@@ -2893,10 +2159,7 @@
   base_yield_exp: 157
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: MUK
     spanish: MUK
@@ -2908,13 +2171,9 @@
   species_class:
     english: SLUDGE
     spanish: LODO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 89
+  learnset: !<reference> learnsets/id:89
 - ids:
-  - - dex_national
-    - 90
+  - dex_national:90
   base_stats:
     hp: 30
     attack: 65
@@ -2924,10 +2183,7 @@
   base_yield_exp: 97
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: SHELLDER
     spanish: SHELLDER
@@ -2939,13 +2195,9 @@
   species_class:
     english: BIVALVE
     spanish: BIVALVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 90
+  learnset: !<reference> learnsets/id:90
 - ids:
-  - - dex_national
-    - 91
+  - dex_national:91
   base_stats:
     hp: 50
     attack: 95
@@ -2955,14 +2207,8 @@
   base_yield_exp: 203
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 25
+  - !<reference> types/id:21
+  - !<reference> types/id:25
   name:
     english: CLOYSTER
     spanish: CLOYSTER
@@ -2974,13 +2220,9 @@
   species_class:
     english: BIVALVE
     spanish: BIVALVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 91
+  learnset: !<reference> learnsets/id:91
 - ids:
-  - - dex_national
-    - 92
+  - dex_national:92
   base_stats:
     hp: 30
     attack: 35
@@ -2990,14 +2232,8 @@
   base_yield_exp: 95
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 8
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:8
+  - !<reference> types/id:3
   name:
     english: GASTLY
     spanish: GASTLY
@@ -3009,13 +2245,9 @@
   species_class:
     english: GAS
     spanish: GAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 92
+  learnset: !<reference> learnsets/id:92
 - ids:
-  - - dex_national
-    - 93
+  - dex_national:93
   base_stats:
     hp: 45
     attack: 50
@@ -3025,14 +2257,8 @@
   base_yield_exp: 126
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 8
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:8
+  - !<reference> types/id:3
   name:
     english: HAUNTER
     spanish: HAUNTER
@@ -3044,13 +2270,9 @@
   species_class:
     english: GAS
     spanish: GAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 93
+  learnset: !<reference> learnsets/id:93
 - ids:
-  - - dex_national
-    - 94
+  - dex_national:94
   base_stats:
     hp: 60
     attack: 65
@@ -3060,14 +2282,8 @@
   base_yield_exp: 190
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 8
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:8
+  - !<reference> types/id:3
   name:
     english: GENGAR
     spanish: GENGAR
@@ -3079,13 +2295,9 @@
   species_class:
     english: SHADOW
     spanish: SOMBRA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 94
+  learnset: !<reference> learnsets/id:94
 - ids:
-  - - dex_national
-    - 95
+  - dex_national:95
   base_stats:
     hp: 35
     attack: 45
@@ -3095,14 +2307,8 @@
   base_yield_exp: 108
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     english: ONIX
     spanish: ONIX
@@ -3114,13 +2320,9 @@
   species_class:
     english: ROCK SNAKE
     spanish: SERP.ROCA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 95
+  learnset: !<reference> learnsets/id:95
 - ids:
-  - - dex_national
-    - 96
+  - dex_national:96
   base_stats:
     hp: 60
     attack: 48
@@ -3130,10 +2332,7 @@
   base_yield_exp: 102
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: DROWZEE
     spanish: DROWZEE
@@ -3145,13 +2344,9 @@
   species_class:
     english: HYPNOSIS
     spanish: HIPNOSIS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 96
+  learnset: !<reference> learnsets/id:96
 - ids:
-  - - dex_national
-    - 97
+  - dex_national:97
   base_stats:
     hp: 85
     attack: 73
@@ -3161,10 +2356,7 @@
   base_yield_exp: 165
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: HYPNO
     spanish: HYPNO
@@ -3176,13 +2368,9 @@
   species_class:
     english: HYPNOSIS
     spanish: HIPNOSIS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 97
+  learnset: !<reference> learnsets/id:97
 - ids:
-  - - dex_national
-    - 98
+  - dex_national:98
   base_stats:
     hp: 30
     attack: 105
@@ -3192,10 +2380,7 @@
   base_yield_exp: 115
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: KRABBY
     spanish: KRABBY
@@ -3207,13 +2392,9 @@
   species_class:
     english: RIVER CRAB
     spanish: CANGREJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 98
+  learnset: !<reference> learnsets/id:98
 - ids:
-  - - dex_national
-    - 99
+  - dex_national:99
   base_stats:
     hp: 55
     attack: 130
@@ -3223,10 +2404,7 @@
   base_yield_exp: 206
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: KINGLER
     spanish: KINGLER
@@ -3238,13 +2416,9 @@
   species_class:
     english: PINCER
     spanish: TENAZA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 99
+  learnset: !<reference> learnsets/id:99
 - ids:
-  - - dex_national
-    - 100
+  - dex_national:100
   base_stats:
     hp: 40
     attack: 30
@@ -3254,10 +2428,7 @@
   base_yield_exp: 103
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: VOLTORB
     spanish: VOLTORB
@@ -3269,13 +2440,9 @@
   species_class:
     english: BALL
     spanish: BOLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 100
+  learnset: !<reference> learnsets/id:100
 - ids:
-  - - dex_national
-    - 101
+  - dex_national:101
   base_stats:
     hp: 60
     attack: 50
@@ -3285,10 +2452,7 @@
   base_yield_exp: 150
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: ELECTRODE
     spanish: ELECTRODE
@@ -3300,13 +2464,9 @@
   species_class:
     english: BALL
     spanish: BOLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 101
+  learnset: !<reference> learnsets/id:101
 - ids:
-  - - dex_national
-    - 102
+  - dex_national:102
   base_stats:
     hp: 60
     attack: 40
@@ -3316,14 +2476,8 @@
   base_yield_exp: 98
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:22
+  - !<reference> types/id:24
   name:
     english: EXEGGCUTE
     spanish: EXEGGCUTE
@@ -3335,13 +2489,9 @@
   species_class:
     english: EGG
     spanish: HUEVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 102
+  learnset: !<reference> learnsets/id:102
 - ids:
-  - - dex_national
-    - 103
+  - dex_national:103
   base_stats:
     hp: 95
     attack: 95
@@ -3351,14 +2501,8 @@
   base_yield_exp: 212
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:22
+  - !<reference> types/id:24
   name:
     english: EXEGGUTOR
     spanish: EXEGGUTOR
@@ -3370,13 +2514,9 @@
   species_class:
     english: COCONUT
     spanish: COCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 103
+  learnset: !<reference> learnsets/id:103
 - ids:
-  - - dex_national
-    - 104
+  - dex_national:104
   base_stats:
     hp: 50
     attack: 50
@@ -3386,10 +2526,7 @@
   base_yield_exp: 87
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     english: CUBONE
     spanish: CUBONE
@@ -3401,13 +2538,9 @@
   species_class:
     english: LONELY
     spanish: SOLITARIO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 104
+  learnset: !<reference> learnsets/id:104
 - ids:
-  - - dex_national
-    - 105
+  - dex_national:105
   base_stats:
     hp: 60
     attack: 80
@@ -3417,10 +2550,7 @@
   base_yield_exp: 124
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     english: MAROWAK
     spanish: MAROWAK
@@ -3432,13 +2562,9 @@
   species_class:
     english: BONEKEEPER
     spanish: APILAHUESO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 105
+  learnset: !<reference> learnsets/id:105
 - ids:
-  - - dex_national
-    - 106
+  - dex_national:106
   base_stats:
     hp: 50
     attack: 120
@@ -3448,10 +2574,7 @@
   base_yield_exp: 139
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     english: HITMONLEE
     spanish: HITMONLEE
@@ -3463,13 +2586,9 @@
   species_class:
     english: KICKING
     spanish: PATEANDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 106
+  learnset: !<reference> learnsets/id:106
 - ids:
-  - - dex_national
-    - 107
+  - dex_national:107
   base_stats:
     hp: 50
     attack: 105
@@ -3479,10 +2598,7 @@
   base_yield_exp: 140
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     english: HITMONCHAN
     spanish: HITMONCHAN
@@ -3494,13 +2610,9 @@
   species_class:
     english: PUNCHING
     spanish: PEGANDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 107
+  learnset: !<reference> learnsets/id:107
 - ids:
-  - - dex_national
-    - 108
+  - dex_national:108
   base_stats:
     hp: 90
     attack: 55
@@ -3510,10 +2622,7 @@
   base_yield_exp: 127
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: LICKITUNG
     spanish: LICKITUNG
@@ -3525,13 +2634,9 @@
   species_class:
     english: LICKING
     spanish: LAMIENDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 108
+  learnset: !<reference> learnsets/id:108
 - ids:
-  - - dex_national
-    - 109
+  - dex_national:109
   base_stats:
     hp: 40
     attack: 65
@@ -3541,10 +2646,7 @@
   base_yield_exp: 114
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: KOFFING
     spanish: KOFFING
@@ -3556,13 +2658,9 @@
   species_class:
     english: POISON GAS
     spanish: GAS VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 109
+  learnset: !<reference> learnsets/id:109
 - ids:
-  - - dex_national
-    - 110
+  - dex_national:110
   base_stats:
     hp: 65
     attack: 90
@@ -3572,10 +2670,7 @@
   base_yield_exp: 173
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     english: WEEZING
     spanish: WEEZING
@@ -3587,13 +2682,9 @@
   species_class:
     english: POISON GAS
     spanish: GAS VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 110
+  learnset: !<reference> learnsets/id:110
 - ids:
-  - - dex_national
-    - 111
+  - dex_national:111
   base_stats:
     hp: 80
     attack: 85
@@ -3603,14 +2694,8 @@
   base_yield_exp: 135
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
-  - !<reference>
-    - types
-    - id
-    - 5
+  - !<reference> types/id:4
+  - !<reference> types/id:5
   name:
     english: RHYHORN
     spanish: RHYHORN
@@ -3622,13 +2707,9 @@
   species_class:
     english: SPIKES
     spanish: CLAVOS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 111
+  learnset: !<reference> learnsets/id:111
 - ids:
-  - - dex_national
-    - 112
+  - dex_national:112
   base_stats:
     hp: 105
     attack: 130
@@ -3638,14 +2719,8 @@
   base_yield_exp: 204
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
-  - !<reference>
-    - types
-    - id
-    - 5
+  - !<reference> types/id:4
+  - !<reference> types/id:5
   name:
     english: RHYDON
     spanish: RHYDON
@@ -3657,13 +2732,9 @@
   species_class:
     english: DRILL
     spanish: TALADRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 112
+  learnset: !<reference> learnsets/id:112
 - ids:
-  - - dex_national
-    - 113
+  - dex_national:113
   base_stats:
     hp: 250
     attack: 5
@@ -3673,10 +2744,7 @@
   base_yield_exp: 255
   catch_rate: 30
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: CHANSEY
     spanish: CHANSEY
@@ -3688,13 +2756,9 @@
   species_class:
     english: EGG
     spanish: HUEVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 113
+  learnset: !<reference> learnsets/id:113
 - ids:
-  - - dex_national
-    - 114
+  - dex_national:114
   base_stats:
     hp: 65
     attack: 55
@@ -3704,10 +2768,7 @@
   base_yield_exp: 166
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
+  - !<reference> types/id:22
   name:
     english: TANGELA
     spanish: TANGELA
@@ -3719,13 +2780,9 @@
   species_class:
     english: VINE
     spanish: ENREDADERA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 114
+  learnset: !<reference> learnsets/id:114
 - ids:
-  - - dex_national
-    - 115
+  - dex_national:115
   base_stats:
     hp: 105
     attack: 95
@@ -3735,10 +2792,7 @@
   base_yield_exp: 175
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: KANGASKHAN
     spanish: KANGASKHAN
@@ -3750,13 +2804,9 @@
   species_class:
     english: PARENT
     spanish: PADRES
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 115
+  learnset: !<reference> learnsets/id:115
 - ids:
-  - - dex_national
-    - 116
+  - dex_national:116
   base_stats:
     hp: 30
     attack: 40
@@ -3766,10 +2816,7 @@
   base_yield_exp: 83
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: HORSEA
     spanish: HORSEA
@@ -3781,13 +2828,9 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 116
+  learnset: !<reference> learnsets/id:116
 - ids:
-  - - dex_national
-    - 117
+  - dex_national:117
   base_stats:
     hp: 55
     attack: 65
@@ -3797,10 +2840,7 @@
   base_yield_exp: 155
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: SEADRA
     spanish: SEADRA
@@ -3812,13 +2852,9 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 117
+  learnset: !<reference> learnsets/id:117
 - ids:
-  - - dex_national
-    - 118
+  - dex_national:118
   base_stats:
     hp: 45
     attack: 67
@@ -3828,10 +2864,7 @@
   base_yield_exp: 111
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: GOLDEEN
     spanish: GOLDEEN
@@ -3843,13 +2876,9 @@
   species_class:
     english: GOLDFISH
     spanish: PEZ COLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 118
+  learnset: !<reference> learnsets/id:118
 - ids:
-  - - dex_national
-    - 119
+  - dex_national:119
   base_stats:
     hp: 80
     attack: 92
@@ -3859,10 +2888,7 @@
   base_yield_exp: 170
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: SEAKING
     spanish: SEAKING
@@ -3874,13 +2900,9 @@
   species_class:
     english: GOLDFISH
     spanish: PEZ COLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 119
+  learnset: !<reference> learnsets/id:119
 - ids:
-  - - dex_national
-    - 120
+  - dex_national:120
   base_stats:
     hp: 30
     attack: 45
@@ -3890,10 +2912,7 @@
   base_yield_exp: 106
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: STARYU
     spanish: STARYU
@@ -3905,13 +2924,9 @@
   species_class:
     english: STARSHAPE
     spanish: ESTRELLADA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 120
+  learnset: !<reference> learnsets/id:120
 - ids:
-  - - dex_national
-    - 121
+  - dex_national:121
   base_stats:
     hp: 60
     attack: 75
@@ -3921,14 +2936,8 @@
   base_yield_exp: 207
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:21
+  - !<reference> types/id:24
   name:
     english: STARMIE
     spanish: STARMIE
@@ -3940,13 +2949,9 @@
   species_class:
     english: MYSTERIOUS
     spanish: MISTERIOSO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 121
+  learnset: !<reference> learnsets/id:121
 - ids:
-  - - dex_national
-    - 122
+  - dex_national:122
   base_stats:
     hp: 40
     attack: 45
@@ -3956,10 +2961,7 @@
   base_yield_exp: 136
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: MR.MIME
     spanish: MR.MIME
@@ -3971,13 +2973,9 @@
   species_class:
     english: BARRIER
     spanish: BARRERA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 122
+  learnset: !<reference> learnsets/id:122
 - ids:
-  - - dex_national
-    - 123
+  - dex_national:123
   base_stats:
     hp: 70
     attack: 110
@@ -3987,14 +2985,8 @@
   base_yield_exp: 187
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:7
+  - !<reference> types/id:2
   name:
     english: SCYTHER
     spanish: SCYTHER
@@ -4006,13 +2998,9 @@
   species_class:
     english: MANTIS
     spanish: MANTIS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 123
+  learnset: !<reference> learnsets/id:123
 - ids:
-  - - dex_national
-    - 124
+  - dex_national:124
   base_stats:
     hp: 65
     attack: 50
@@ -4022,14 +3010,8 @@
   base_yield_exp: 137
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 25
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:25
+  - !<reference> types/id:24
   name:
     english: JYNX
     spanish: JYNX
@@ -4041,13 +3023,9 @@
   species_class:
     english: HUMANSHAPE
     spanish: F. HUMANA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 124
+  learnset: !<reference> learnsets/id:124
 - ids:
-  - - dex_national
-    - 125
+  - dex_national:125
   base_stats:
     hp: 65
     attack: 83
@@ -4057,10 +3035,7 @@
   base_yield_exp: 156
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: ELECTABUZZ
     spanish: ELECTABUZZ
@@ -4072,13 +3047,9 @@
   species_class:
     english: ELECTRIC
     spanish: ELÉCTRICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 125
+  learnset: !<reference> learnsets/id:125
 - ids:
-  - - dex_national
-    - 126
+  - dex_national:126
   base_stats:
     hp: 65
     attack: 95
@@ -4088,10 +3059,7 @@
   base_yield_exp: 167
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: MAGMAR
     spanish: MAGMAR
@@ -4103,13 +3071,9 @@
   species_class:
     english: SPITFIRE
     spanish: ESCUPFUEGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 126
+  learnset: !<reference> learnsets/id:126
 - ids:
-  - - dex_national
-    - 127
+  - dex_national:127
   base_stats:
     hp: 65
     attack: 125
@@ -4119,10 +3083,7 @@
   base_yield_exp: 200
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
+  - !<reference> types/id:7
   name:
     english: PINSIR
     spanish: PINSIR
@@ -4134,13 +3095,9 @@
   species_class:
     english: STAGBEETLE
     spanish: ESCARABAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 127
+  learnset: !<reference> learnsets/id:127
 - ids:
-  - - dex_national
-    - 128
+  - dex_national:128
   base_stats:
     hp: 75
     attack: 100
@@ -4150,10 +3107,7 @@
   base_yield_exp: 211
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: TAUROS
     spanish: TAUROS
@@ -4165,13 +3119,9 @@
   species_class:
     english: WILD BULL
     spanish: TORO BRAVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 128
+  learnset: !<reference> learnsets/id:128
 - ids:
-  - - dex_national
-    - 129
+  - dex_national:129
   base_stats:
     hp: 20
     attack: 10
@@ -4181,10 +3131,7 @@
   base_yield_exp: 20
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: MAGIKARP
     spanish: MAGIKARP
@@ -4196,13 +3143,9 @@
   species_class:
     english: FISH
     spanish: PEZ
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 129
+  learnset: !<reference> learnsets/id:129
 - ids:
-  - - dex_national
-    - 130
+  - dex_national:130
   base_stats:
     hp: 95
     attack: 125
@@ -4212,14 +3155,8 @@
   base_yield_exp: 214
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:21
+  - !<reference> types/id:2
   name:
     english: GYARADOS
     spanish: GYARADOS
@@ -4231,13 +3168,9 @@
   species_class:
     english: ATROCIOUS
     spanish: ATROCIDAD
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 130
+  learnset: !<reference> learnsets/id:130
 - ids:
-  - - dex_national
-    - 131
+  - dex_national:131
   base_stats:
     hp: 130
     attack: 85
@@ -4247,14 +3180,8 @@
   base_yield_exp: 219
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 25
+  - !<reference> types/id:21
+  - !<reference> types/id:25
   name:
     english: LAPRAS
     spanish: LAPRAS
@@ -4266,13 +3193,9 @@
   species_class:
     english: TRANSPORT
     spanish: TRANSPORTE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 131
+  learnset: !<reference> learnsets/id:131
 - ids:
-  - - dex_national
-    - 132
+  - dex_national:132
   base_stats:
     hp: 48
     attack: 48
@@ -4282,10 +3205,7 @@
   base_yield_exp: 61
   catch_rate: 35
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: DITTO
     spanish: DITTO
@@ -4297,13 +3217,9 @@
   species_class:
     english: TRANSFORM
     spanish: TRANSFORM.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 132
+  learnset: !<reference> learnsets/id:132
 - ids:
-  - - dex_national
-    - 133
+  - dex_national:133
   base_stats:
     hp: 55
     attack: 55
@@ -4313,10 +3229,7 @@
   base_yield_exp: 92
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: EEVEE
     spanish: EEVEE
@@ -4328,13 +3241,9 @@
   species_class:
     english: EVOLUTION
     spanish: EVOLUCIÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 133
+  learnset: !<reference> learnsets/id:133
 - ids:
-  - - dex_national
-    - 134
+  - dex_national:134
   base_stats:
     hp: 130
     attack: 65
@@ -4344,10 +3253,7 @@
   base_yield_exp: 196
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     english: VAPOREON
     spanish: VAPOREON
@@ -4359,13 +3265,9 @@
   species_class:
     english: BUBBLE JET
     spanish: BURBUJA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 134
+  learnset: !<reference> learnsets/id:134
 - ids:
-  - - dex_national
-    - 135
+  - dex_national:135
   base_stats:
     hp: 65
     attack: 65
@@ -4375,10 +3277,7 @@
   base_yield_exp: 197
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     english: JOLTEON
     spanish: JOLTEON
@@ -4390,13 +3289,9 @@
   species_class:
     english: LIGHTNING
     spanish: RELÁMPAGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 135
+  learnset: !<reference> learnsets/id:135
 - ids:
-  - - dex_national
-    - 136
+  - dex_national:136
   base_stats:
     hp: 65
     attack: 130
@@ -4406,10 +3301,7 @@
   base_yield_exp: 198
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     english: FLAREON
     spanish: FLAREON
@@ -4421,13 +3313,9 @@
   species_class:
     english: FLAME
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 136
+  learnset: !<reference> learnsets/id:136
 - ids:
-  - - dex_national
-    - 137
+  - dex_national:137
   base_stats:
     hp: 65
     attack: 60
@@ -4437,10 +3325,7 @@
   base_yield_exp: 130
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: PORYGON
     spanish: PORYGON
@@ -4452,13 +3337,9 @@
   species_class:
     english: VIRTUAL
     spanish: VIRTUAL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 137
+  learnset: !<reference> learnsets/id:137
 - ids:
-  - - dex_national
-    - 138
+  - dex_national:138
   base_stats:
     hp: 35
     attack: 40
@@ -4468,14 +3349,8 @@
   base_yield_exp: 120
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     english: OMANYTE
     spanish: OMANYTE
@@ -4487,13 +3362,9 @@
   species_class:
     english: SPIRAL
     spanish: ESPIRAL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 138
+  learnset: !<reference> learnsets/id:138
 - ids:
-  - - dex_national
-    - 139
+  - dex_national:139
   base_stats:
     hp: 70
     attack: 60
@@ -4503,14 +3374,8 @@
   base_yield_exp: 199
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     english: OMASTAR
     spanish: OMASTAR
@@ -4522,13 +3387,9 @@
   species_class:
     english: SPIRAL
     spanish: ESPIRAL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 139
+  learnset: !<reference> learnsets/id:139
 - ids:
-  - - dex_national
-    - 140
+  - dex_national:140
   base_stats:
     hp: 30
     attack: 80
@@ -4538,14 +3399,8 @@
   base_yield_exp: 119
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     english: KABUTO
     spanish: KABUTO
@@ -4557,13 +3412,9 @@
   species_class:
     english: SHELLFISH
     spanish: MARISCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 140
+  learnset: !<reference> learnsets/id:140
 - ids:
-  - - dex_national
-    - 141
+  - dex_national:141
   base_stats:
     hp: 60
     attack: 115
@@ -4573,14 +3424,8 @@
   base_yield_exp: 201
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     english: KABUTOPS
     spanish: KABUTOPS
@@ -4592,13 +3437,9 @@
   species_class:
     english: SHELLFISH
     spanish: MARISCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 141
+  learnset: !<reference> learnsets/id:141
 - ids:
-  - - dex_national
-    - 142
+  - dex_national:142
   base_stats:
     hp: 80
     attack: 105
@@ -4608,14 +3449,8 @@
   base_yield_exp: 202
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:5
+  - !<reference> types/id:2
   name:
     english: AERODACTYL
     spanish: AERODACTYL
@@ -4627,13 +3462,9 @@
   species_class:
     english: FOSSIL
     spanish: FÓSIL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 142
+  learnset: !<reference> learnsets/id:142
 - ids:
-  - - dex_national
-    - 143
+  - dex_national:143
   base_stats:
     hp: 160
     attack: 110
@@ -4643,10 +3474,7 @@
   base_yield_exp: 154
   catch_rate: 25
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     english: SNORLAX
     spanish: SNORLAX
@@ -4658,13 +3486,9 @@
   species_class:
     english: SLEEPING
     spanish: DORMIR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 143
+  learnset: !<reference> learnsets/id:143
 - ids:
-  - - dex_national
-    - 144
+  - dex_national:144
   base_stats:
     hp: 90
     attack: 85
@@ -4674,14 +3498,8 @@
   base_yield_exp: 215
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 25
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:25
+  - !<reference> types/id:2
   name:
     english: ARTICUNO
     spanish: ARTICUNO
@@ -4693,13 +3511,9 @@
   species_class:
     english: FREEZE
     spanish: CONGELAR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 144
+  learnset: !<reference> learnsets/id:144
 - ids:
-  - - dex_national
-    - 145
+  - dex_national:145
   base_stats:
     hp: 90
     attack: 90
@@ -4709,14 +3523,8 @@
   base_yield_exp: 216
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:23
+  - !<reference> types/id:2
   name:
     english: ZAPDOS
     spanish: ZAPDOS
@@ -4728,13 +3536,9 @@
   species_class:
     english: ELECTRIC
     spanish: ELÉCTRICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 145
+  learnset: !<reference> learnsets/id:145
 - ids:
-  - - dex_national
-    - 146
+  - dex_national:146
   base_stats:
     hp: 90
     attack: 100
@@ -4744,14 +3548,8 @@
   base_yield_exp: 217
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:20
+  - !<reference> types/id:2
   name:
     english: MOLTRES
     spanish: MOLTRES
@@ -4763,13 +3561,9 @@
   species_class:
     english: FLAME
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 146
+  learnset: !<reference> learnsets/id:146
 - ids:
-  - - dex_national
-    - 147
+  - dex_national:147
   base_stats:
     hp: 41
     attack: 64
@@ -4779,10 +3573,7 @@
   base_yield_exp: 67
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 26
+  - !<reference> types/id:26
   name:
     english: DRATINI
     spanish: DRATINI
@@ -4794,13 +3585,9 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 147
+  learnset: !<reference> learnsets/id:147
 - ids:
-  - - dex_national
-    - 148
+  - dex_national:148
   base_stats:
     hp: 61
     attack: 84
@@ -4810,10 +3597,7 @@
   base_yield_exp: 144
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 26
+  - !<reference> types/id:26
   name:
     english: DRAGONAIR
     spanish: DRAGONAIR
@@ -4825,13 +3609,9 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 148
+  learnset: !<reference> learnsets/id:148
 - ids:
-  - - dex_national
-    - 149
+  - dex_national:149
   base_stats:
     hp: 91
     attack: 134
@@ -4841,14 +3621,8 @@
   base_yield_exp: 218
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 26
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:26
+  - !<reference> types/id:2
   name:
     english: DRAGONITE
     spanish: DRAGONITE
@@ -4860,13 +3634,9 @@
   species_class:
     english: DRAGON
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 149
+  learnset: !<reference> learnsets/id:149
 - ids:
-  - - dex_national
-    - 150
+  - dex_national:150
   base_stats:
     hp: 106
     attack: 110
@@ -4876,10 +3646,7 @@
   base_yield_exp: 220
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: MEWTWO
     spanish: MEWTWO
@@ -4891,13 +3658,9 @@
   species_class:
     english: GENETIC
     spanish: GENÉTICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 150
+  learnset: !<reference> learnsets/id:150
 - ids:
-  - - dex_national
-    - 151
+  - dex_national:151
   base_stats:
     hp: 100
     attack: 100
@@ -4907,10 +3670,7 @@
   base_yield_exp: 64
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     english: MEW
     spanish: MEW
@@ -4922,7 +3682,4 @@
   species_class:
     english: NEW SPECIE
     spanish: N.ESPECIE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 151
+  learnset: !<reference> learnsets/id:151

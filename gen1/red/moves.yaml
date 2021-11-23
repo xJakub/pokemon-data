@@ -1,6 +1,5 @@
 - ids:
-  - - id
-    - 1
+  - id:1
   name:
     english: POUND
     spanish: DESTRUCTOR
@@ -9,13 +8,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 2
+  - id:2
   name:
     english: KARATE CHOP
     spanish: GOLPE KARATE
@@ -24,13 +19,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 3
+  - id:3
   name:
     english: DOUBLESLAP
     spanish: DOBLEBOFETÓN
@@ -39,13 +30,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 4
+  - id:4
   name:
     english: COMET PUNCH
     spanish: PUñO COMETA
@@ -54,13 +41,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 5
+  - id:5
   name:
     english: MEGA PUNCH
     spanish: MEGA PUñO
@@ -69,13 +52,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 6
+  - id:6
   name:
     english: PAY DAY
     spanish: DíA DE PAGO
@@ -84,13 +63,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 7
+  - id:7
   name:
     english: FIRE PUNCH
     spanish: PUñO FUEGO
@@ -99,13 +74,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 8
+  - id:8
   name:
     english: ICE PUNCH
     spanish: PUñO HIELO
@@ -114,13 +85,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 9
+  - id:9
   name:
     english: THUNDERPUNCH
     spanish: PUñO-TRUENO
@@ -129,13 +96,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 10
+  - id:10
   name:
     english: SCRATCH
     spanish: ARAñAZO
@@ -144,13 +107,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 11
+  - id:11
   name:
     english: VICEGRIP
     spanish: AGARRE
@@ -159,13 +118,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 12
+  - id:12
   name:
     english: GUILLOTINE
     spanish: GUILLOTINA
@@ -173,13 +128,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 13
+  - id:13
   name:
     english: RAZOR WIND
     spanish: V. CORTANTE
@@ -188,13 +139,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 14
+  - id:14
   name:
     english: SWORDS DANCE
     spanish: DANZA-ESPADA
@@ -202,13 +149,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 15
+  - id:15
   name:
     english: CUT
     spanish: CORTE
@@ -217,13 +160,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 16
+  - id:16
   name:
     english: GUST
     spanish: TORNADO
@@ -232,13 +171,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 17
+  - id:17
   name:
     english: WING ATTACK
     spanish: ATAQUE-ALA
@@ -247,13 +182,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 18
+  - id:18
   name:
     english: WHIRLWIND
     spanish: REMOLINO
@@ -261,13 +192,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 19
+  - id:19
   name:
     english: FLY
     spanish: VUELO
@@ -276,13 +203,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 20
+  - id:20
   name:
     english: BIND
     spanish: ATADURA
@@ -291,13 +214,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 21
+  - id:21
   name:
     english: SLAM
     spanish: PORTAZO
@@ -306,13 +225,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 22
+  - id:22
   name:
     english: VINE WHIP
     spanish: LÁTIGO CEPA
@@ -321,13 +236,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 23
+  - id:23
   name:
     english: STOMP
     spanish: PISOTÓN
@@ -336,13 +247,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 24
+  - id:24
   name:
     english: DOUBLE KICK
     spanish: DOBLE PATADA
@@ -351,13 +258,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 25
+  - id:25
   name:
     english: MEGA KICK
     spanish: MEGA PATADA
@@ -366,13 +269,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 26
+  - id:26
   name:
     english: JUMP KICK
     spanish: PATADA SALTO
@@ -381,13 +280,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 27
+  - id:27
   name:
     english: ROLLING KICK
     spanish: PATADA GIRO
@@ -396,13 +291,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 28
+  - id:28
   name:
     english: SAND-ATTACK
     spanish: ATAQUE-ARENA
@@ -410,13 +301,9 @@
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 29
+  - id:29
   name:
     english: HEADBUTT
     spanish: GOLPE CABEZA
@@ -425,13 +312,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 30
+  - id:30
   name:
     english: HORN ATTACK
     spanish: CORNADA
@@ -440,13 +323,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 31
+  - id:31
   name:
     english: FURY ATTACK
     spanish: ATAQUE FURIA
@@ -455,13 +334,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 32
+  - id:32
   name:
     english: HORN DRILL
     spanish: PERFORADOR
@@ -469,13 +344,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 33
+  - id:33
   name:
     english: TACKLE
     spanish: PLACAJE
@@ -484,13 +355,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 34
+  - id:34
   name:
     english: BODY SLAM
     spanish: GOLPE CUERPO
@@ -499,13 +366,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 35
+  - id:35
   name:
     english: WRAP
     spanish: REPETICIÓN
@@ -514,13 +377,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 36
+  - id:36
   name:
     english: TAKE DOWN
     spanish: DERRIBO
@@ -529,13 +388,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 37
+  - id:37
   name:
     english: THRASH
     spanish: GOLPE
@@ -544,13 +399,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 38
+  - id:38
   name:
     english: DOUBLE-EDGE
     spanish: DOBLE FILO
@@ -559,13 +410,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 39
+  - id:39
   name:
     english: TAIL WHIP
     spanish: LÁTIGO
@@ -573,13 +420,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 40
+  - id:40
   name:
     english: POISON STING
     spanish: PICOTAZO VEN.
@@ -588,13 +431,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 41
+  - id:41
   name:
     english: TWINEEDLE
     spanish: DOBLEATAQUE
@@ -603,13 +442,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 42
+  - id:42
   name:
     english: PIN MISSILE
     spanish: PIN MISIL
@@ -618,13 +453,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 43
+  - id:43
   name:
     english: LEER
     spanish: MALICIOSO
@@ -632,13 +463,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 44
+  - id:44
   name:
     english: BITE
     spanish: MORDISCO
@@ -647,13 +474,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 45
+  - id:45
   name:
     english: GROWL
     spanish: GRUñIDO
@@ -661,13 +484,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 46
+  - id:46
   name:
     english: ROAR
     spanish: RUGIDO
@@ -675,13 +494,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 47
+  - id:47
   name:
     english: SING
     spanish: CANTO
@@ -689,13 +504,9 @@
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 48
+  - id:48
   name:
     english: SUPERSONIC
     spanish: SUPERSÓNICO
@@ -703,13 +514,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 49
+  - id:49
   name:
     english: SONICBOOM
     spanish: BOMBA SÓNICA
@@ -717,13 +524,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 50
+  - id:50
   name:
     english: DISABLE
     spanish: ANULACIÓN
@@ -731,13 +534,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 51
+  - id:51
   name:
     english: ACID
     spanish: ÁCIDO
@@ -746,13 +545,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 52
+  - id:52
   name:
     english: EMBER
     spanish: ASCUAS
@@ -761,13 +556,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 53
+  - id:53
   name:
     english: FLAMETHROWER
     spanish: LANZALLAMAS
@@ -776,13 +567,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 54
+  - id:54
   name:
     english: MIST
     spanish: NEBLINA
@@ -790,13 +577,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 55
+  - id:55
   name:
     english: WATER GUN
     spanish: PISTOLA AGUA
@@ -805,13 +588,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 56
+  - id:56
   name:
     english: HYDRO PUMP
     spanish: HIDRO BOMBA
@@ -820,13 +599,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 57
+  - id:57
   name:
     english: SURF
     spanish: SURF
@@ -835,13 +610,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 58
+  - id:58
   name:
     english: ICE BEAM
     spanish: RAYO HIELO
@@ -850,13 +621,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 59
+  - id:59
   name:
     english: BLIZZARD
     spanish: VENTISCA
@@ -865,13 +632,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 60
+  - id:60
   name:
     english: PSYBEAM
     spanish: PSICO-RAYO
@@ -880,13 +643,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 61
+  - id:61
   name:
     english: BUBBLEBEAM
     spanish: RAYO BURBUJA
@@ -895,13 +654,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 62
+  - id:62
   name:
     english: AURORA BEAM
     spanish: RAYO AURORA
@@ -910,13 +665,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 63
+  - id:63
   name:
     english: HYPER BEAM
     spanish: HÍPER RAYO
@@ -925,13 +676,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 64
+  - id:64
   name:
     english: PECK
     spanish: PICOTAZO
@@ -940,13 +687,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 65
+  - id:65
   name:
     english: DRILL PECK
     spanish: PICO TALADRO
@@ -955,13 +698,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 66
+  - id:66
   name:
     english: SUBMISSION
     spanish: SUMISIÓN
@@ -970,13 +709,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 67
+  - id:67
   name:
     english: LOW KICK
     spanish: PATADA BAJA
@@ -985,13 +720,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 68
+  - id:68
   name:
     english: COUNTER
     spanish: CONTADOR
@@ -999,13 +730,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 69
+  - id:69
   name:
     english: SEISMIC TOSS
     spanish: MOV. SÍSMICO
@@ -1013,13 +740,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 70
+  - id:70
   name:
     english: STRENGTH
     spanish: FUERZA
@@ -1028,13 +751,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 71
+  - id:71
   name:
     english: ABSORB
     spanish: ABSORBER
@@ -1043,13 +762,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 72
+  - id:72
   name:
     english: MEGA DRAIN
     spanish: MEGA AGOTAR
@@ -1058,13 +773,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 73
+  - id:73
   name:
     english: LEECH SEED
     spanish: DRENADORAS
@@ -1072,13 +783,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 74
+  - id:74
   name:
     english: GROWTH
     spanish: DESARROLLO
@@ -1086,13 +793,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 75
+  - id:75
   name:
     english: RAZOR LEAF
     spanish: HOJA AFILADA
@@ -1101,13 +804,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 76
+  - id:76
   name:
     english: SOLARBEAM
     spanish: RAYO SOLAR
@@ -1116,13 +815,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 77
+  - id:77
   name:
     english: POISONPOWDER
     spanish: POLVO VENENO
@@ -1130,13 +825,9 @@
   base_pp: 35
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 78
+  - id:78
   name:
     english: STUN SPORE
     spanish: PARALIZADOR
@@ -1144,13 +835,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 79
+  - id:79
   name:
     english: SLEEP POWDER
     spanish: SOMNÍFERO
@@ -1158,13 +845,9 @@
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 80
+  - id:80
   name:
     english: PETAL DANCE
     spanish: DANZA PÉTALO
@@ -1173,13 +856,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 81
+  - id:81
   name:
     english: STRING SHOT
     spanish: DISP. DEMORA
@@ -1187,13 +866,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 82
+  - id:82
   name:
     english: DRAGON RAGE
     spanish: FURIA DRAGÓN
@@ -1201,13 +876,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 26
+  type: !<reference> types/id:26
 - ids:
-  - - id
-    - 83
+  - id:83
   name:
     english: FIRE SPIN
     spanish: GIRO FUEGO
@@ -1216,13 +887,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 84
+  - id:84
   name:
     english: THUNDERSHOCK
     spanish: IMPACTRUENO
@@ -1231,13 +898,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 85
+  - id:85
   name:
     english: THUNDERBOLT
     spanish: RAYO
@@ -1246,13 +909,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 86
+  - id:86
   name:
     english: THUNDER WAVE
     spanish: ONDA TRUENO
@@ -1260,13 +919,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 87
+  - id:87
   name:
     english: THUNDER
     spanish: TRUENO
@@ -1275,13 +930,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 88
+  - id:88
   name:
     english: ROCK THROW
     spanish: LANZA ROCAS
@@ -1290,13 +941,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 5
+  type: !<reference> types/id:5
 - ids:
-  - - id
-    - 89
+  - id:89
   name:
     english: EARTHQUAKE
     spanish: TERREMOTO
@@ -1305,13 +952,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 90
+  - id:90
   name:
     english: FISSURE
     spanish: FISURA
@@ -1319,13 +962,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 91
+  - id:91
   name:
     english: DIG
     spanish: EXCAVAR
@@ -1334,13 +973,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 92
+  - id:92
   name:
     english: TOXIC
     spanish: TÓXICO
@@ -1348,13 +983,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 93
+  - id:93
   name:
     english: CONFUSION
     spanish: CONFUSIÓN
@@ -1363,13 +994,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 94
+  - id:94
   name:
     english: PSYCHIC
     spanish: PSÍQUICO
@@ -1378,13 +1005,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 95
+  - id:95
   name:
     english: HYPNOSIS
     spanish: HIPNOSIS
@@ -1392,13 +1015,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 96
+  - id:96
   name:
     english: MEDITATE
     spanish: MEDITACIÓN
@@ -1406,13 +1025,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 97
+  - id:97
   name:
     english: AGILITY
     spanish: AGILIDAD
@@ -1420,13 +1035,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 98
+  - id:98
   name:
     english: QUICK ATTACK
     spanish: ATA. RÁPIDO
@@ -1435,13 +1046,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 99
+  - id:99
   name:
     english: RAGE
     spanish: FURIA
@@ -1450,13 +1057,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 100
+  - id:100
   name:
     english: TELEPORT
     spanish: TELETRANSP.
@@ -1464,13 +1067,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 101
+  - id:101
   name:
     english: NIGHT SHADE
     spanish: TINIEBLAS
@@ -1478,13 +1077,9 @@
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 8
+  type: !<reference> types/id:8
 - ids:
-  - - id
-    - 102
+  - id:102
   name:
     english: MIMIC
     spanish: MIMÉTICO
@@ -1492,13 +1087,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 103
+  - id:103
   name:
     english: SCREECH
     spanish: CHIRRIDO
@@ -1506,13 +1097,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 104
+  - id:104
   name:
     english: DOUBLE TEAM
     spanish: DOBLE EQUIPO
@@ -1520,13 +1107,9 @@
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 105
+  - id:105
   name:
     english: RECOVER
     spanish: RECUPERACIÓN
@@ -1534,13 +1117,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 106
+  - id:106
   name:
     english: HARDEN
     spanish: FORTALEZA
@@ -1548,13 +1127,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 107
+  - id:107
   name:
     english: MINIMIZE
     spanish: REDUCCIÓN
@@ -1562,13 +1137,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 108
+  - id:108
   name:
     english: SMOKESCREEN
     spanish: PANTALLAHUMO
@@ -1576,13 +1147,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 109
+  - id:109
   name:
     english: CONFUSE RAY
     spanish: RAYO CONFUSO
@@ -1590,13 +1157,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 8
+  type: !<reference> types/id:8
 - ids:
-  - - id
-    - 110
+  - id:110
   name:
     english: WITHDRAW
     spanish: REFUGIO
@@ -1604,13 +1167,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 111
+  - id:111
   name:
     english: DEFENSE CURL
     spanish: RIZO DEFENSA
@@ -1618,13 +1177,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 112
+  - id:112
   name:
     english: BARRIER
     spanish: BARRERA
@@ -1632,13 +1187,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 113
+  - id:113
   name:
     english: LIGHT SCREEN
     spanish: PANTALLA LUZ
@@ -1646,13 +1197,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 114
+  - id:114
   name:
     english: HAZE
     spanish: NIEBLA
@@ -1660,13 +1207,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 115
+  - id:115
   name:
     english: REFLECT
     spanish: REFLEJO
@@ -1674,13 +1217,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 116
+  - id:116
   name:
     english: FOCUS ENERGY
     spanish: FOCO ENERGÍA
@@ -1688,13 +1227,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 117
+  - id:117
   name:
     english: BIDE
     spanish: VENGANZA
@@ -1702,13 +1237,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 118
+  - id:118
   name:
     english: METRONOME
     spanish: METRÓNOMO
@@ -1716,13 +1247,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 119
+  - id:119
   name:
     english: MIRROR MOVE
     spanish: MOV. ESPEJO
@@ -1730,13 +1257,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 120
+  - id:120
   name:
     english: SELFDESTRUCT
     spanish: AUTODESTRUC.
@@ -1745,13 +1268,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 121
+  - id:121
   name:
     english: EGG BOMB
     spanish: BOMBA HUEVO
@@ -1760,13 +1279,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 122
+  - id:122
   name:
     english: LICK
     spanish: LENG#194ETAZO
@@ -1775,13 +1290,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 8
+  type: !<reference> types/id:8
 - ids:
-  - - id
-    - 123
+  - id:123
   name:
     english: SMOG
     spanish: POLUCIÓN
@@ -1790,13 +1301,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 124
+  - id:124
   name:
     english: SLUDGE
     spanish: RESIDUOS
@@ -1805,13 +1312,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 125
+  - id:125
   name:
     english: BONE CLUB
     spanish: HUESO PALO
@@ -1820,13 +1323,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 126
+  - id:126
   name:
     english: FIRE BLAST
     spanish: LLAMARADA
@@ -1835,13 +1334,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 127
+  - id:127
   name:
     english: WATERFALL
     spanish: CASCADA
@@ -1850,13 +1345,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 128
+  - id:128
   name:
     english: CLAMP
     spanish: TENAZA
@@ -1865,13 +1356,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 129
+  - id:129
   name:
     english: SWIFT
     spanish: RAPIDEZ
@@ -1880,13 +1367,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 130
+  - id:130
   name:
     english: SKULL BASH
     spanish: CABEZAZO
@@ -1895,13 +1378,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 131
+  - id:131
   name:
     english: SPIKE CANNON
     spanish: CLAVO CAñÓN
@@ -1910,13 +1389,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 132
+  - id:132
   name:
     english: CONSTRICT
     spanish: RESTRICCIÓN
@@ -1925,13 +1400,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 133
+  - id:133
   name:
     english: AMNESIA
     spanish: AMNESIA
@@ -1939,13 +1410,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 134
+  - id:134
   name:
     english: KINESIS
     spanish: KINÉTICO
@@ -1953,13 +1420,9 @@
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 135
+  - id:135
   name:
     english: SOFTBOILED
     spanish: AMORTIGUADOR
@@ -1967,13 +1430,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 136
+  - id:136
   name:
     english: HI JUMP KICK
     spanish: PATADA S.ALTA
@@ -1982,13 +1441,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 137
+  - id:137
   name:
     english: GLARE
     spanish: DESLUMBRAR
@@ -1996,13 +1451,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 138
+  - id:138
   name:
     english: DREAM EATER
     spanish: COME SUEñOS
@@ -2011,13 +1462,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 139
+  - id:139
   name:
     english: POISON GAS
     spanish: GAS VENENOSO
@@ -2025,13 +1472,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 140
+  - id:140
   name:
     english: BARRAGE
     spanish: PRESA
@@ -2040,13 +1483,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 141
+  - id:141
   name:
     english: LEECH LIFE
     spanish: CHUPA VIDAS
@@ -2055,13 +1494,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 142
+  - id:142
   name:
     english: LOVELY KISS
     spanish: BESO AMOROSO
@@ -2069,13 +1504,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 143
+  - id:143
   name:
     english: SKY ATTACK
     spanish: ATAQUE AÉREO
@@ -2084,13 +1515,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 144
+  - id:144
   name:
     english: TRANSFORM
     spanish: TRANSFORM.
@@ -2098,13 +1525,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 145
+  - id:145
   name:
     english: BUBBLE
     spanish: BURBUJA
@@ -2113,13 +1536,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 146
+  - id:146
   name:
     english: DIZZY PUNCH
     spanish: PUñO-MAREO
@@ -2128,13 +1547,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 147
+  - id:147
   name:
     english: SPORE
     spanish: ESPORA
@@ -2142,13 +1557,9 @@
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 148
+  - id:148
   name:
     english: FLASH
     spanish: DESTELLO
@@ -2156,13 +1567,9 @@
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 149
+  - id:149
   name:
     english: PSYWAVE
     spanish: PSICO-ONDA
@@ -2170,13 +1577,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 150
+  - id:150
   name:
     english: SPLASH
     spanish: SALPICADURA
@@ -2184,13 +1587,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 151
+  - id:151
   name:
     english: ACID ARMOR
     spanish: ARMAD. ÁCIDA
@@ -2198,13 +1597,9 @@
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 152
+  - id:152
   name:
     english: CRABHAMMER
     spanish: MARTILLAZO
@@ -2213,13 +1608,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 153
+  - id:153
   name:
     english: EXPLOSION
     spanish: EXPLOSIÓN
@@ -2228,13 +1619,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 154
+  - id:154
   name:
     english: FURY SWIPES
     spanish: GOLPES FURIA
@@ -2243,13 +1630,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 155
+  - id:155
   name:
     english: BONEMERANG
     spanish: HUESOMERANG
@@ -2258,13 +1641,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 156
+  - id:156
   name:
     english: REST
     spanish: DESCANSO
@@ -2272,13 +1651,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 157
+  - id:157
   name:
     english: ROCK SLIDE
     spanish: AVALANCHA
@@ -2287,13 +1662,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 5
+  type: !<reference> types/id:5
 - ids:
-  - - id
-    - 158
+  - id:158
   name:
     english: HYPER FANG
     spanish: HIP.COLMILLO
@@ -2302,13 +1673,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 159
+  - id:159
   name:
     english: SHARPEN
     spanish: AFILAR
@@ -2316,13 +1683,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 160
+  - id:160
   name:
     english: CONVERSION
     spanish: CONVERSIÓN
@@ -2330,13 +1693,9 @@
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 161
+  - id:161
   name:
     english: TRI ATTACK
     spanish: TRI-ATAQUE
@@ -2345,13 +1704,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 162
+  - id:162
   name:
     english: SUPER FANG
     spanish: SUPER DIENTE
@@ -2359,13 +1714,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 163
+  - id:163
   name:
     english: SLASH
     spanish: CUCHILLADA
@@ -2374,13 +1725,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 164
+  - id:164
   name:
     english: SUBSTITUTE
     spanish: SUSTITUTO
@@ -2388,13 +1735,9 @@
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 165
+  - id:165
   name:
     english: STRUGGLE
     spanish: COMBATE
@@ -2403,7 +1746,4 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0

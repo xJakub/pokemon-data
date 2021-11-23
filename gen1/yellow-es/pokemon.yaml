@@ -1,6 +1,5 @@
 - ids:
-  - - dex_national
-    - 1
+  - dex_national:1
   base_stats:
     hp: 45
     attack: 49
@@ -10,14 +9,8 @@
   base_yield_exp: 64
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: BULBASAUR
   pokedex_description:
@@ -25,13 +18,9 @@
       bulbo de su espalda
   species_class:
     spanish: SEMILLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 1
+  learnset: !<reference> learnsets/id:1
 - ids:
-  - - dex_national
-    - 2
+  - dex_national:2
   base_stats:
     hp: 60
     attack: 62
@@ -41,14 +30,8 @@
   base_yield_exp: 141
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: IVYSAUR
   pokedex_description:
@@ -56,13 +39,9 @@
       florece
   species_class:
     spanish: SEMILLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 2
+  learnset: !<reference> learnsets/id:2
 - ids:
-  - - dex_national
-    - 3
+  - dex_national:3
   base_stats:
     hp: 80
     attack: 82
@@ -72,27 +51,17 @@
   base_yield_exp: 208
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: VENUSAUR
   pokedex_description:
     spanish: La flor de su espalda recoge los rayos del Sol. Los transforma en energía
   species_class:
     spanish: SEMILLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 3
+  learnset: !<reference> learnsets/id:3
 - ids:
-  - - dex_national
-    - 4
+  - dex_national:4
   base_stats:
     hp: 39
     attack: 52
@@ -102,10 +71,7 @@
   base_yield_exp: 65
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: CHARMANDER
   pokedex_description:
@@ -113,13 +79,9 @@
       lugares silenciosos
   species_class:
     spanish: LAGARTIJA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 4
+  learnset: !<reference> learnsets/id:4
 - ids:
-  - - dex_national
-    - 5
+  - dex_national:5
   base_stats:
     hp: 58
     attack: 64
@@ -129,10 +91,7 @@
   base_yield_exp: 142
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: CHARMELEON
   pokedex_description:
@@ -140,13 +99,9 @@
       blanco-azuladas
   species_class:
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 5
+  learnset: !<reference> learnsets/id:5
 - ids:
-  - - dex_national
-    - 6
+  - dex_national:6
   base_stats:
     hp: 78
     attack: 84
@@ -156,14 +111,8 @@
   base_yield_exp: 209
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:20
+  - !<reference> types/id:2
   name:
     spanish: CHARIZARD
   pokedex_description:
@@ -171,13 +120,9 @@
       cola brilla más intensamente
   species_class:
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 6
+  learnset: !<reference> learnsets/id:6
 - ids:
-  - - dex_national
-    - 7
+  - dex_national:7
   base_stats:
     hp: 44
     attack: 48
@@ -187,10 +132,7 @@
   base_yield_exp: 66
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: SQUIRTLE
   pokedex_description:
@@ -198,13 +140,9 @@
       siente en peligro
   species_class:
     spanish: TORTUGUITA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 7
+  learnset: !<reference> learnsets/id:7
 - ids:
-  - - dex_national
-    - 8
+  - dex_national:8
   base_stats:
     hp: 59
     attack: 63
@@ -214,23 +152,16 @@
   base_yield_exp: 143
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: WARTORTLE
   pokedex_description:
     spanish: Si es golpeado, esconderá su cabeza. Aun así, su cola puede seguir golpeando
   species_class:
     spanish: TORTUGA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 8
+  learnset: !<reference> learnsets/id:8
 - ids:
-  - - dex_national
-    - 9
+  - dex_national:9
   base_stats:
     hp: 79
     attack: 83
@@ -240,10 +171,7 @@
   base_yield_exp: 210
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: BLASTOISE
   pokedex_description:
@@ -251,13 +179,9 @@
       una manga de bombero
   species_class:
     spanish: MARISCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 9
+  learnset: !<reference> learnsets/id:9
 - ids:
-  - - dex_national
-    - 10
+  - dex_national:10
   base_stats:
     hp: 45
     attack: 30
@@ -267,23 +191,16 @@
   base_yield_exp: 53
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
+  - !<reference> types/id:7
   name:
     spanish: CATERPIE
   pokedex_description:
     spanish: Si tocas los receptores de su cabeza, soltará un terrible olor para protegerse
   species_class:
     spanish: GUSANO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 10
+  learnset: !<reference> learnsets/id:10
 - ids:
-  - - dex_national
-    - 11
+  - dex_national:11
   base_stats:
     hp: 50
     attack: 20
@@ -293,10 +210,7 @@
   base_yield_exp: 72
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
+  - !<reference> types/id:7
   name:
     spanish: METAPOD
   pokedex_description:
@@ -304,13 +218,9 @@
       afectarle
   species_class:
     spanish: CAPULLO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 11
+  learnset: !<reference> learnsets/id:11
 - ids:
-  - - dex_national
-    - 12
+  - dex_national:12
   base_stats:
     hp: 60
     attack: 45
@@ -320,14 +230,8 @@
   base_yield_exp: 160
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:7
+  - !<reference> types/id:2
   name:
     spanish: BUTTERFREE
   pokedex_description:
@@ -335,13 +239,9 @@
       volar bajo la lluvia
   species_class:
     spanish: MARIPOSA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 12
+  learnset: !<reference> learnsets/id:12
 - ids:
-  - - dex_national
-    - 13
+  - dex_national:13
   base_stats:
     hp: 40
     attack: 35
@@ -351,14 +251,8 @@
   base_yield_exp: 52
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     spanish: WEEDLE
   pokedex_description:
@@ -366,13 +260,9 @@
       y arbustos mientras come
   species_class:
     spanish: ORUGA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 13
+  learnset: !<reference> learnsets/id:13
 - ids:
-  - - dex_national
-    - 14
+  - dex_national:14
   base_stats:
     hp: 45
     attack: 25
@@ -382,14 +272,8 @@
   base_yield_exp: 71
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     spanish: KAKUNA
   pokedex_description:
@@ -397,13 +281,9 @@
       con su aguijón
   species_class:
     spanish: CAPULLO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 14
+  learnset: !<reference> learnsets/id:14
 - ids:
-  - - dex_national
-    - 15
+  - dex_national:15
   base_stats:
     hp: 65
     attack: 80
@@ -413,14 +293,8 @@
   base_yield_exp: 159
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     spanish: BEEDRILL
   pokedex_description:
@@ -428,13 +302,9 @@
       enemigos repetidas veces
   species_class:
     spanish: ABEJA VEN.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 15
+  learnset: !<reference> learnsets/id:15
 - ids:
-  - - dex_national
-    - 16
+  - dex_national:16
   base_stats:
     hp: 40
     attack: 45
@@ -444,14 +314,8 @@
   base_yield_exp: 55
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: PIDGEY
   pokedex_description:
@@ -459,13 +323,9 @@
       el ataque
   species_class:
     spanish: PAJARITO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 16
+  learnset: !<reference> learnsets/id:16
 - ids:
-  - - dex_national
-    - 17
+  - dex_national:17
   base_stats:
     hp: 63
     attack: 60
@@ -475,14 +335,8 @@
   base_yield_exp: 113
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: PIDGEOTTO
   pokedex_description:
@@ -490,13 +344,9 @@
       en busca de presas
   species_class:
     spanish: PÁJARO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 17
+  learnset: !<reference> learnsets/id:17
 - ids:
-  - - dex_national
-    - 18
+  - dex_national:18
   base_stats:
     hp: 83
     attack: 80
@@ -506,14 +356,8 @@
   base_yield_exp: 172
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: PIDGEOT
   pokedex_description:
@@ -521,13 +365,9 @@
       peligrosas
   species_class:
     spanish: PÁJARO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 18
+  learnset: !<reference> learnsets/id:18
 - ids:
-  - - dex_national
-    - 19
+  - dex_national:19
   base_stats:
     hp: 30
     attack: 56
@@ -537,10 +377,7 @@
   base_yield_exp: 57
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: RATTATA
   pokedex_description:
@@ -548,13 +385,9 @@
       40 más en la zona
   species_class:
     spanish: RATA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 19
+  learnset: !<reference> learnsets/id:19
 - ids:
-  - - dex_national
-    - 20
+  - dex_national:20
   base_stats:
     hp: 55
     attack: 81
@@ -564,10 +397,7 @@
   base_yield_exp: 116
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: RATICATE
   pokedex_description:
@@ -575,13 +405,9 @@
       ríos en busca de presa
   species_class:
     spanish: RATA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 20
+  learnset: !<reference> learnsets/id:20
 - ids:
-  - - dex_national
-    - 21
+  - dex_national:21
   base_stats:
     hp: 40
     attack: 60
@@ -591,14 +417,8 @@
   base_yield_exp: 58
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: SPEAROW
   pokedex_description:
@@ -606,13 +426,9 @@
       protegerse
   species_class:
     spanish: PAJARITO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 21
+  learnset: !<reference> learnsets/id:21
 - ids:
-  - - dex_national
-    - 22
+  - dex_national:22
   base_stats:
     hp: 65
     attack: 90
@@ -622,14 +438,8 @@
   base_yield_exp: 162
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: FEAROW
   pokedex_description:
@@ -637,13 +447,9 @@
       lejos inmediatamente
   species_class:
     spanish: PICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 22
+  learnset: !<reference> learnsets/id:22
 - ids:
-  - - dex_national
-    - 23
+  - dex_national:23
   base_stats:
     hp: 35
     attack: 60
@@ -653,10 +459,7 @@
   base_yield_exp: 62
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: EKANS
   pokedex_description:
@@ -664,13 +467,9 @@
       ramas de los árboles
   species_class:
     spanish: SERPIENTE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 23
+  learnset: !<reference> learnsets/id:23
 - ids:
-  - - dex_national
-    - 24
+  - dex_national:24
   base_stats:
     hp: 60
     attack: 85
@@ -680,10 +479,7 @@
   base_yield_exp: 147
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: ARBOK
   pokedex_description:
@@ -691,13 +487,9 @@
       han sido confirmadas
   species_class:
     spanish: COBRA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 24
+  learnset: !<reference> learnsets/id:24
 - ids:
-  - - dex_national
-    - 25
+  - dex_national:25
   base_stats:
     hp: 35
     attack: 55
@@ -707,10 +499,7 @@
   base_yield_exp: 82
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: PIKACHU
   pokedex_description:
@@ -718,13 +507,9 @@
       morderte
   species_class:
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 25
+  learnset: !<reference> learnsets/id:25
 - ids:
-  - - dex_national
-    - 26
+  - dex_national:26
   base_stats:
     hp: 60
     attack: 90
@@ -734,10 +519,7 @@
   base_yield_exp: 122
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: RAICHU
   pokedex_description:
@@ -745,13 +527,9 @@
       brilla en la oscuridad
   species_class:
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 26
+  learnset: !<reference> learnsets/id:26
 - ids:
-  - - dex_national
-    - 27
+  - dex_national:27
   base_stats:
     hp: 50
     attack: 75
@@ -761,10 +539,7 @@
   base_yield_exp: 93
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     spanish: SANDSHREW
   pokedex_description:
@@ -772,13 +547,9 @@
       cubierta con un fino rocío
   species_class:
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 27
+  learnset: !<reference> learnsets/id:27
 - ids:
-  - - dex_national
-    - 28
+  - dex_national:28
   base_stats:
     hp: 75
     attack: 100
@@ -788,10 +559,7 @@
   base_yield_exp: 163
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     spanish: SANDSLASH
   pokedex_description:
@@ -799,13 +567,9 @@
       crecerán en un solo día
   species_class:
     spanish: RATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 28
+  learnset: !<reference> learnsets/id:28
 - ids:
-  - - dex_national
-    - 29
+  - dex_national:29
   base_stats:
     hp: 55
     attack: 47
@@ -815,10 +579,7 @@
   base_yield_exp: 59
   catch_rate: 235
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: NIDORAN♀
   pokedex_description:
@@ -826,13 +587,9 @@
       segregan veneno
   species_class:
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 29
+  learnset: !<reference> learnsets/id:29
 - ids:
-  - - dex_national
-    - 30
+  - dex_national:30
   base_stats:
     hp: 70
     attack: 62
@@ -842,10 +599,7 @@
   base_yield_exp: 117
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: NIDORINA
   pokedex_description:
@@ -853,13 +607,9 @@
       está relajado
   species_class:
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 30
+  learnset: !<reference> learnsets/id:30
 - ids:
-  - - dex_national
-    - 31
+  - dex_national:31
   base_stats:
     hp: 90
     attack: 82
@@ -869,14 +619,8 @@
   base_yield_exp: 194
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:3
+  - !<reference> types/id:4
   name:
     spanish: NIDOQUEEN
   pokedex_description:
@@ -884,13 +628,9 @@
       cíclicamente
   species_class:
     spanish: TALADRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 31
+  learnset: !<reference> learnsets/id:31
 - ids:
-  - - dex_national
-    - 32
+  - dex_national:32
   base_stats:
     hp: 46
     attack: 57
@@ -900,10 +640,7 @@
   base_yield_exp: 60
   catch_rate: 235
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: NIDORAN♂
   pokedex_description:
@@ -911,13 +648,9 @@
       con su venenoso cuerno
   species_class:
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 32
+  learnset: !<reference> learnsets/id:32
 - ids:
-  - - dex_national
-    - 33
+  - dex_national:33
   base_stats:
     hp: 61
     attack: 72
@@ -927,10 +660,7 @@
   base_yield_exp: 118
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: NIDORINO
   pokedex_description:
@@ -938,13 +668,9 @@
       soltarán su tóxica carga
   species_class:
     spanish: PIN VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 33
+  learnset: !<reference> learnsets/id:33
 - ids:
-  - - dex_national
-    - 34
+  - dex_national:34
   base_stats:
     hp: 81
     attack: 92
@@ -954,14 +680,8 @@
   base_yield_exp: 195
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:3
+  - !<reference> types/id:4
   name:
     spanish: NIDOKING
   pokedex_description:
@@ -969,13 +689,9 @@
       como el diamante
   species_class:
     spanish: TALADRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 34
+  learnset: !<reference> learnsets/id:34
 - ids:
-  - - dex_national
-    - 35
+  - dex_national:35
   base_stats:
     hp: 70
     attack: 45
@@ -985,10 +701,7 @@
   base_yield_exp: 68
   catch_rate: 150
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: CLEFAIRY
   pokedex_description:
@@ -996,13 +709,9 @@
       ya que no son muy comunes
   species_class:
     spanish: HADA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 35
+  learnset: !<reference> learnsets/id:35
 - ids:
-  - - dex_national
-    - 36
+  - dex_national:36
   base_stats:
     hp: 95
     attack: 70
@@ -1012,10 +721,7 @@
   base_yield_exp: 129
   catch_rate: 25
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: CLEFABLE
   pokedex_description:
@@ -1023,13 +729,9 @@
       vista por los humanos
   species_class:
     spanish: HADA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 36
+  learnset: !<reference> learnsets/id:36
 - ids:
-  - - dex_national
-    - 37
+  - dex_national:37
   base_stats:
     hp: 38
     attack: 41
@@ -1039,10 +741,7 @@
   base_yield_exp: 63
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: VULPIX
   pokedex_description:
@@ -1050,13 +749,9 @@
       nuevas colas
   species_class:
     spanish: ZORRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 37
+  learnset: !<reference> learnsets/id:37
 - ids:
-  - - dex_national
-    - 38
+  - dex_national:38
   base_stats:
     hp: 73
     attack: 76
@@ -1066,10 +761,7 @@
   base_yield_exp: 178
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: NINETALES
   pokedex_description:
@@ -1077,13 +769,9 @@
       de 9 nobles santos
   species_class:
     spanish: ZORRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 38
+  learnset: !<reference> learnsets/id:38
 - ids:
-  - - dex_national
-    - 39
+  - dex_national:39
   base_stats:
     hp: 115
     attack: 45
@@ -1093,10 +781,7 @@
   base_yield_exp: 76
   catch_rate: 170
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: JIGGLYPUFF
   pokedex_description:
@@ -1104,13 +789,9 @@
       para dormirlo
   species_class:
     spanish: GLOBO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 39
+  learnset: !<reference> learnsets/id:39
 - ids:
-  - - dex_national
-    - 40
+  - dex_national:40
   base_stats:
     hp: 140
     attack: 70
@@ -1120,10 +801,7 @@
   base_yield_exp: 109
   catch_rate: 50
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: WIGGLYTUFF
   pokedex_description:
@@ -1131,13 +809,9 @@
       sin límite
   species_class:
     spanish: GLOBO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 40
+  learnset: !<reference> learnsets/id:40
 - ids:
-  - - dex_national
-    - 41
+  - dex_national:41
   base_stats:
     hp: 40
     attack: 45
@@ -1147,14 +821,8 @@
   base_yield_exp: 54
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:3
+  - !<reference> types/id:2
   name:
     spanish: ZUBAT
   pokedex_description:
@@ -1162,13 +830,9 @@
       evitar obstáculos
   species_class:
     spanish: MURCIÉLAGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 41
+  learnset: !<reference> learnsets/id:41
 - ids:
-  - - dex_national
-    - 42
+  - dex_national:42
   base_stats:
     hp: 75
     attack: 80
@@ -1178,14 +842,8 @@
   base_yield_exp: 171
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:3
+  - !<reference> types/id:2
   name:
     spanish: GOLBAT
   pokedex_description:
@@ -1193,13 +851,9 @@
       chupar sangre
   species_class:
     spanish: MURCIÉLAGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 42
+  learnset: !<reference> learnsets/id:42
 - ids:
-  - - dex_national
-    - 43
+  - dex_national:43
   base_stats:
     hp: 45
     attack: 50
@@ -1209,14 +863,8 @@
   base_yield_exp: 78
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: ODDISH
   pokedex_description:
@@ -1224,13 +872,9 @@
       gritará
   species_class:
     spanish: ALGAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 43
+  learnset: !<reference> learnsets/id:43
 - ids:
-  - - dex_national
-    - 44
+  - dex_national:44
   base_stats:
     hp: 60
     attack: 65
@@ -1240,14 +884,8 @@
   base_yield_exp: 132
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: GLOOM
   pokedex_description:
@@ -1255,13 +893,9 @@
       su fétido olor
   species_class:
     spanish: ALGAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 44
+  learnset: !<reference> learnsets/id:44
 - ids:
-  - - dex_national
-    - 45
+  - dex_national:45
   base_stats:
     hp: 75
     attack: 80
@@ -1271,14 +905,8 @@
   base_yield_exp: 184
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: VILEPLUME
   pokedex_description:
@@ -1286,13 +914,9 @@
       que emite es agudo
   species_class:
     spanish: FLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 45
+  learnset: !<reference> learnsets/id:45
 - ids:
-  - - dex_national
-    - 46
+  - dex_national:46
   base_stats:
     hp: 35
     attack: 70
@@ -1302,14 +926,8 @@
   base_yield_exp: 70
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 22
+  - !<reference> types/id:7
+  - !<reference> types/id:22
   name:
     spanish: PARAS
   pokedex_description:
@@ -1317,13 +935,9 @@
       absorben sus energías
   species_class:
     spanish: HONGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 46
+  learnset: !<reference> learnsets/id:46
 - ids:
-  - - dex_national
-    - 47
+  - dex_national:47
   base_stats:
     hp: 60
     attack: 95
@@ -1333,27 +947,17 @@
   base_yield_exp: 128
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 22
+  - !<reference> types/id:7
+  - !<reference> types/id:22
   name:
     spanish: PARASECT
   pokedex_description:
     spanish: El parásito absorbe la energía con las setas de la espalda, que lo controlan
   species_class:
     spanish: HONGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 47
+  learnset: !<reference> learnsets/id:47
 - ids:
-  - - dex_national
-    - 48
+  - dex_national:48
   base_stats:
     hp: 60
     attack: 55
@@ -1363,14 +967,8 @@
   base_yield_exp: 75
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     spanish: VENONAT
   pokedex_description:
@@ -1378,13 +976,9 @@
       de pequeños ojos
   species_class:
     spanish: INSECTO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 48
+  learnset: !<reference> learnsets/id:48
 - ids:
-  - - dex_national
-    - 49
+  - dex_national:49
   base_stats:
     hp: 70
     attack: 65
@@ -1394,14 +988,8 @@
   base_yield_exp: 138
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:7
+  - !<reference> types/id:3
   name:
     spanish: VENOMOTH
   pokedex_description:
@@ -1409,13 +997,9 @@
       desprende al contacto
   species_class:
     spanish: MOPA VEN.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 49
+  learnset: !<reference> learnsets/id:49
 - ids:
-  - - dex_national
-    - 50
+  - dex_national:50
   base_stats:
     hp: 10
     attack: 55
@@ -1425,10 +1009,7 @@
   base_yield_exp: 81
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     spanish: DIGLETT
   pokedex_description:
@@ -1436,13 +1017,9 @@
       en cuevas
   species_class:
     spanish: TOPO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 50
+  learnset: !<reference> learnsets/id:50
 - ids:
-  - - dex_national
-    - 51
+  - dex_national:51
   base_stats:
     hp: 35
     attack: 80
@@ -1452,10 +1029,7 @@
   base_yield_exp: 153
   catch_rate: 50
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     spanish: DUGTRIO
   pokedex_description:
@@ -1463,13 +1037,9 @@
       de un terremoto
   species_class:
     spanish: TOPO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 51
+  learnset: !<reference> learnsets/id:51
 - ids:
-  - - dex_national
-    - 52
+  - dex_national:52
   base_stats:
     hp: 40
     attack: 45
@@ -1479,10 +1049,7 @@
   base_yield_exp: 69
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: MEOWTH
   pokedex_description:
@@ -1490,13 +1057,9 @@
       brillantes
   species_class:
     spanish: GATO ARAÑA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 52
+  learnset: !<reference> learnsets/id:52
 - ids:
-  - - dex_national
-    - 53
+  - dex_national:53
   base_stats:
     hp: 65
     attack: 70
@@ -1506,10 +1069,7 @@
   base_yield_exp: 148
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: PERSIAN
   pokedex_description:
@@ -1517,13 +1077,9 @@
       una reina
   species_class:
     spanish: GATO FINO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 53
+  learnset: !<reference> learnsets/id:53
 - ids:
-  - - dex_national
-    - 54
+  - dex_national:54
   base_stats:
     hp: 50
     attack: 52
@@ -1533,10 +1089,7 @@
   base_yield_exp: 80
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: PSYDUCK
   pokedex_description:
@@ -1544,13 +1097,9 @@
       cuándo los usará
   species_class:
     spanish: PATO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 54
+  learnset: !<reference> learnsets/id:54
 - ids:
-  - - dex_national
-    - 55
+  - dex_national:55
   base_stats:
     hp: 80
     attack: 82
@@ -1560,10 +1109,7 @@
   base_yield_exp: 174
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: GOLDUCK
   pokedex_description:
@@ -1571,13 +1117,9 @@
       nadar en los lagos
   species_class:
     spanish: PATO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 55
+  learnset: !<reference> learnsets/id:55
 - ids:
-  - - dex_national
-    - 56
+  - dex_national:56
   base_stats:
     hp: 40
     attack: 80
@@ -1587,10 +1129,7 @@
   base_yield_exp: 74
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     spanish: MANKEY
   pokedex_description:
@@ -1598,13 +1137,9 @@
       en atacar a todos
   species_class:
     spanish: MONO CERDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 56
+  learnset: !<reference> learnsets/id:56
 - ids:
-  - - dex_national
-    - 57
+  - dex_national:57
   base_stats:
     hp: 65
     attack: 105
@@ -1614,10 +1149,7 @@
   base_yield_exp: 149
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     spanish: PRIMEAPE
   pokedex_description:
@@ -1625,13 +1157,9 @@
       difícil
   species_class:
     spanish: MONO CERDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 57
+  learnset: !<reference> learnsets/id:57
 - ids:
-  - - dex_national
-    - 58
+  - dex_national:58
   base_stats:
     hp: 55
     attack: 70
@@ -1641,10 +1169,7 @@
   base_yield_exp: 91
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: GROWLITHE
   pokedex_description:
@@ -1652,13 +1177,9 @@
       su territorio
   species_class:
     spanish: PERRITO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 58
+  learnset: !<reference> learnsets/id:58
 - ids:
-  - - dex_national
-    - 59
+  - dex_national:59
   base_stats:
     hp: 90
     attack: 110
@@ -1668,10 +1189,7 @@
   base_yield_exp: 213
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: ARCANINE
   pokedex_description:
@@ -1679,13 +1197,9 @@
       exhibe al correr
   species_class:
     spanish: LEGENDARIO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 59
+  learnset: !<reference> learnsets/id:59
 - ids:
-  - - dex_national
-    - 60
+  - dex_national:60
   base_stats:
     hp: 40
     attack: 50
@@ -1695,10 +1209,7 @@
   base_yield_exp: 77
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: POLIWAG
   pokedex_description:
@@ -1706,13 +1217,9 @@
       nadar a correr
   species_class:
     spanish: RENACUAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 60
+  learnset: !<reference> learnsets/id:60
 - ids:
-  - - dex_national
-    - 61
+  - dex_national:61
   base_stats:
     hp: 65
     attack: 65
@@ -1722,10 +1229,7 @@
   base_yield_exp: 131
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: POLIWHIRL
   pokedex_description:
@@ -1733,13 +1237,9 @@
       para escapar entonces
   species_class:
     spanish: RENACUAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 61
+  learnset: !<reference> learnsets/id:61
 - ids:
-  - - dex_national
-    - 62
+  - dex_national:62
   base_stats:
     hp: 90
     attack: 85
@@ -1749,14 +1249,8 @@
   base_yield_exp: 185
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:21
+  - !<reference> types/id:1
   name:
     spanish: POLIWRATH
   pokedex_description:
@@ -1764,13 +1258,9 @@
       incluso a un campeón
   species_class:
     spanish: RENACUAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 62
+  learnset: !<reference> learnsets/id:62
 - ids:
-  - - dex_national
-    - 63
+  - dex_national:63
   base_stats:
     hp: 25
     attack: 20
@@ -1780,10 +1270,7 @@
   base_yield_exp: 73
   catch_rate: 200
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: ABRA
   pokedex_description:
@@ -1791,13 +1278,9 @@
       seguro, aun durmiendo
   species_class:
     spanish: PSI
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 63
+  learnset: !<reference> learnsets/id:63
 - ids:
-  - - dex_national
-    - 64
+  - dex_national:64
   base_stats:
     hp: 40
     attack: 35
@@ -1807,10 +1290,7 @@
   base_yield_exp: 145
   catch_rate: 100
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: KADABRA
   pokedex_description:
@@ -1818,13 +1298,9 @@
       vayan al revés
   species_class:
     spanish: PSI
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 64
+  learnset: !<reference> learnsets/id:64
 - ids:
-  - - dex_national
-    - 65
+  - dex_national:65
   base_stats:
     hp: 55
     attack: 50
@@ -1834,10 +1310,7 @@
   base_yield_exp: 186
   catch_rate: 50
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: ALAKAZAM
   pokedex_description:
@@ -1845,13 +1318,9 @@
       muy listo
   species_class:
     spanish: PSI
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 65
+  learnset: !<reference> learnsets/id:65
 - ids:
-  - - dex_national
-    - 66
+  - dex_national:66
   base_stats:
     hp: 70
     attack: 80
@@ -1861,10 +1330,7 @@
   base_yield_exp: 88
   catch_rate: 180
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     spanish: MACHOP
   pokedex_description:
@@ -1872,13 +1338,9 @@
       lo hace muy duro
   species_class:
     spanish: SUPERPODER
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 66
+  learnset: !<reference> learnsets/id:66
 - ids:
-  - - dex_national
-    - 67
+  - dex_national:67
   base_stats:
     hp: 80
     attack: 100
@@ -1888,10 +1350,7 @@
   base_yield_exp: 146
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     spanish: MACHOKE
   pokedex_description:
@@ -1899,13 +1358,9 @@
       POKÉMON sería imparable
   species_class:
     spanish: SUPERPODER
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 67
+  learnset: !<reference> learnsets/id:67
 - ids:
-  - - dex_national
-    - 68
+  - dex_national:68
   base_stats:
     hp: 90
     attack: 130
@@ -1915,10 +1370,7 @@
   base_yield_exp: 193
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     spanish: MACHAMP
   pokedex_description:
@@ -1926,13 +1378,9 @@
       puede ser terrible
   species_class:
     spanish: SUPERPODER
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 68
+  learnset: !<reference> learnsets/id:68
 - ids:
-  - - dex_national
-    - 69
+  - dex_national:69
   base_stats:
     hp: 50
     attack: 75
@@ -1942,14 +1390,8 @@
   base_yield_exp: 84
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: BELLSPROUT
   pokedex_description:
@@ -1957,13 +1399,9 @@
       sus ramas para devorarlos
   species_class:
     spanish: FLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 69
+  learnset: !<reference> learnsets/id:69
 - ids:
-  - - dex_national
-    - 70
+  - dex_national:70
   base_stats:
     hp: 65
     attack: 90
@@ -1973,14 +1411,8 @@
   base_yield_exp: 151
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: WEEPINBELL
   pokedex_description:
@@ -1988,13 +1420,9 @@
       se derrite en fuertes ácidos
   species_class:
     spanish: MATAMOSCAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 70
+  learnset: !<reference> learnsets/id:70
 - ids:
-  - - dex_national
-    - 71
+  - dex_national:71
   base_stats:
     hp: 80
     attack: 105
@@ -2004,14 +1432,8 @@
   base_yield_exp: 191
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:22
+  - !<reference> types/id:3
   name:
     spanish: VICTREEBEL
   pokedex_description:
@@ -2019,13 +1441,9 @@
       perderá hasta sus huesos
   species_class:
     spanish: MATAMOSCAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 71
+  learnset: !<reference> learnsets/id:71
 - ids:
-  - - dex_national
-    - 72
+  - dex_national:72
   base_stats:
     hp: 40
     attack: 40
@@ -2035,14 +1453,8 @@
   base_yield_exp: 105
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:21
+  - !<reference> types/id:3
   name:
     spanish: TENTACOOL
   pokedex_description:
@@ -2050,13 +1462,9 @@
       lanzarlo otra vez al mar revivirá
   species_class:
     spanish: MEDUSA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 72
+  learnset: !<reference> learnsets/id:72
 - ids:
-  - - dex_national
-    - 73
+  - dex_national:73
   base_stats:
     hp: 80
     attack: 70
@@ -2066,14 +1474,8 @@
   base_yield_exp: 205
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:21
+  - !<reference> types/id:3
   name:
     spanish: TENTACRUEL
   pokedex_description:
@@ -2081,13 +1483,9 @@
       con su poderoso veneno
   species_class:
     spanish: MEDUSA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 73
+  learnset: !<reference> learnsets/id:73
 - ids:
-  - - dex_national
-    - 74
+  - dex_national:74
   base_stats:
     hp: 40
     attack: 80
@@ -2097,14 +1495,8 @@
   base_yield_exp: 86
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     spanish: GEODUDE
   pokedex_description:
@@ -2112,13 +1504,9 @@
       uno, se enfadará
   species_class:
     spanish: ROCA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 74
+  learnset: !<reference> learnsets/id:74
 - ids:
-  - - dex_national
-    - 75
+  - dex_national:75
   base_stats:
     hp: 55
     attack: 95
@@ -2128,14 +1516,8 @@
   base_yield_exp: 134
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     spanish: GRAVELER
   pokedex_description:
@@ -2143,13 +1525,9 @@
       ¡Los arrolla!
   species_class:
     spanish: ROCA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 75
+  learnset: !<reference> learnsets/id:75
 - ids:
-  - - dex_national
-    - 76
+  - dex_national:76
   base_stats:
     hp: 80
     attack: 110
@@ -2159,14 +1537,8 @@
   base_yield_exp: 177
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     spanish: GOLEM
   pokedex_description:
@@ -2174,13 +1546,9 @@
       ocurre, se esconderá
   species_class:
     spanish: MEGATÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 76
+  learnset: !<reference> learnsets/id:76
 - ids:
-  - - dex_national
-    - 77
+  - dex_national:77
   base_stats:
     hp: 50
     attack: 85
@@ -2190,10 +1558,7 @@
   base_yield_exp: 152
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: PONYTA
   pokedex_description:
@@ -2201,13 +1566,9 @@
       el impacto
   species_class:
     spanish: CABALLO F.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 77
+  learnset: !<reference> learnsets/id:77
 - ids:
-  - - dex_national
-    - 78
+  - dex_national:78
   base_stats:
     hp: 65
     attack: 100
@@ -2217,10 +1578,7 @@
   base_yield_exp: 192
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: RAPIDASH
   pokedex_description:
@@ -2228,13 +1586,9 @@
       a toda velocidad
   species_class:
     spanish: CABALLO F.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 78
+  learnset: !<reference> learnsets/id:78
 - ids:
-  - - dex_national
-    - 79
+  - dex_national:79
   base_stats:
     hp: 90
     attack: 65
@@ -2244,14 +1598,8 @@
   base_yield_exp: 99
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:21
+  - !<reference> types/id:24
   name:
     spanish: SLOWPOKE
   pokedex_description:
@@ -2259,13 +1607,9 @@
       ni del tiempo ni de lo que ocurra
   species_class:
     spanish: ATONTADO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 79
+  learnset: !<reference> learnsets/id:79
 - ids:
-  - - dex_national
-    - 80
+  - dex_national:80
   base_stats:
     hp: 95
     attack: 75
@@ -2275,14 +1619,8 @@
   base_yield_exp: 164
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:21
+  - !<reference> types/id:24
   name:
     spanish: SLOWBRO
   pokedex_description:
@@ -2290,13 +1628,9 @@
       ser un SLOWPOKE otra vez
   species_class:
     spanish: ERMITAÑO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 80
+  learnset: !<reference> learnsets/id:80
 - ids:
-  - - dex_national
-    - 81
+  - dex_national:81
   base_stats:
     hp: 25
     attack: 35
@@ -2306,10 +1640,7 @@
   base_yield_exp: 89
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: MAGNEMITE
   pokedex_description:
@@ -2317,13 +1648,9 @@
       a ondas electromagnéticas
   species_class:
     spanish: IMÁN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 81
+  learnset: !<reference> learnsets/id:81
 - ids:
-  - - dex_national
-    - 82
+  - dex_national:82
   base_stats:
     hp: 50
     attack: 60
@@ -2333,10 +1660,7 @@
   base_yield_exp: 161
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: MAGNETON
   pokedex_description:
@@ -2344,13 +1668,9 @@
       centígrados
   species_class:
     spanish: IMÁN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 82
+  learnset: !<reference> learnsets/id:82
 - ids:
-  - - dex_national
-    - 83
+  - dex_national:83
   base_stats:
     hp: 52
     attack: 65
@@ -2360,14 +1680,8 @@
   base_yield_exp: 94
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: FARFETCH'D
   pokedex_description:
@@ -2375,13 +1689,9 @@
       se están extinguiendo
   species_class:
     spanish: PATO SALV.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 83
+  learnset: !<reference> learnsets/id:83
 - ids:
-  - - dex_national
-    - 84
+  - dex_national:84
   base_stats:
     hp: 35
     attack: 85
@@ -2391,14 +1701,8 @@
   base_yield_exp: 96
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: DODUO
   pokedex_description:
@@ -2406,13 +1710,9 @@
       correr a gran velocidad
   species_class:
     spanish: AVE GEMELA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 84
+  learnset: !<reference> learnsets/id:84
 - ids:
-  - - dex_national
-    - 85
+  - dex_national:85
   base_stats:
     hp: 60
     attack: 110
@@ -2422,14 +1722,8 @@
   base_yield_exp: 158
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:0
+  - !<reference> types/id:2
   name:
     spanish: DODRIO
   pokedex_description:
@@ -2437,13 +1731,9 @@
       Es capaz de correr a 40 KPH'
   species_class:
     spanish: AVE TRIPLE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 85
+  learnset: !<reference> learnsets/id:85
 - ids:
-  - - dex_national
-    - 86
+  - dex_national:86
   base_stats:
     hp: 65
     attack: 45
@@ -2453,10 +1743,7 @@
   base_yield_exp: 100
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: SEEL
   pokedex_description:
@@ -2464,13 +1751,9 @@
       sea cual sea la temperatura
   species_class:
     spanish: LEÓN MAR.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 86
+  learnset: !<reference> learnsets/id:86
 - ids:
-  - - dex_national
-    - 87
+  - dex_national:87
   base_stats:
     hp: 90
     attack: 70
@@ -2480,14 +1763,8 @@
   base_yield_exp: 176
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 25
+  - !<reference> types/id:21
+  - !<reference> types/id:25
   name:
     spanish: DEWGONG
   pokedex_description:
@@ -2495,13 +1772,9 @@
       en aguas heladas
   species_class:
     spanish: LEÓN MAR.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 87
+  learnset: !<reference> learnsets/id:87
 - ids:
-  - - dex_national
-    - 88
+  - dex_national:88
   base_stats:
     hp: 80
     attack: 80
@@ -2511,10 +1784,7 @@
   base_yield_exp: 90
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: GRIMER
   pokedex_description:
@@ -2522,13 +1792,9 @@
       crece la hierba!
   species_class:
     spanish: LODO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 88
+  learnset: !<reference> learnsets/id:88
 - ids:
-  - - dex_national
-    - 89
+  - dex_national:89
   base_stats:
     hp: 105
     attack: 105
@@ -2538,10 +1804,7 @@
   base_yield_exp: 157
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: MUK
   pokedex_description:
@@ -2549,13 +1812,9 @@
       ni él mismo se huele
   species_class:
     spanish: LODO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 89
+  learnset: !<reference> learnsets/id:89
 - ids:
-  - - dex_national
-    - 90
+  - dex_national:90
   base_stats:
     hp: 30
     attack: 65
@@ -2565,10 +1824,7 @@
   base_yield_exp: 97
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: SHELLDER
   pokedex_description:
@@ -2576,13 +1832,9 @@
       cuando está abierta
   species_class:
     spanish: BIVALVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 90
+  learnset: !<reference> learnsets/id:90
 - ids:
-  - - dex_national
-    - 91
+  - dex_national:91
   base_stats:
     hp: 50
     attack: 95
@@ -2592,14 +1844,8 @@
   base_yield_exp: 203
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 25
+  - !<reference> types/id:21
+  - !<reference> types/id:25
   name:
     spanish: CLOYSTER
   pokedex_description:
@@ -2607,13 +1853,9 @@
       También lanza espinas
   species_class:
     spanish: BIVALVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 91
+  learnset: !<reference> learnsets/id:91
 - ids:
-  - - dex_national
-    - 92
+  - dex_national:92
   base_stats:
     hp: 30
     attack: 35
@@ -2623,14 +1865,8 @@
   base_yield_exp: 95
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 8
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:8
+  - !<reference> types/id:3
   name:
     spanish: GASTLY
   pokedex_description:
@@ -2638,13 +1874,9 @@
       que está hecho de gas
   species_class:
     spanish: GAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 92
+  learnset: !<reference> learnsets/id:92
 - ids:
-  - - dex_national
-    - 93
+  - dex_national:93
   base_stats:
     hp: 45
     attack: 50
@@ -2654,14 +1886,8 @@
   base_yield_exp: 126
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 8
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:8
+  - !<reference> types/id:3
   name:
     spanish: HAUNTER
   pokedex_description:
@@ -2669,13 +1895,9 @@
       que la víctima fallece
   species_class:
     spanish: GAS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 93
+  learnset: !<reference> learnsets/id:93
 - ids:
-  - - dex_national
-    - 94
+  - dex_national:94
   base_stats:
     hp: 60
     attack: 65
@@ -2685,14 +1907,8 @@
   base_yield_exp: 190
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 8
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:8
+  - !<reference> types/id:3
   name:
     spanish: GENGAR
   pokedex_description:
@@ -2700,13 +1916,9 @@
       echarte un hechizo
   species_class:
     spanish: SOMBRA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 94
+  learnset: !<reference> learnsets/id:94
 - ids:
-  - - dex_national
-    - 95
+  - dex_national:95
   base_stats:
     hp: 35
     attack: 45
@@ -2716,14 +1928,8 @@
   base_yield_exp: 108
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:5
+  - !<reference> types/id:4
   name:
     spanish: ONIX
   pokedex_description:
@@ -2731,13 +1937,9 @@
       por los DIGLETT
   species_class:
     spanish: SERP.ROCA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 95
+  learnset: !<reference> learnsets/id:95
 - ids:
-  - - dex_national
-    - 96
+  - dex_national:96
   base_stats:
     hp: 60
     attack: 48
@@ -2747,10 +1949,7 @@
   base_yield_exp: 102
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: DROWZEE
   pokedex_description:
@@ -2758,13 +1957,9 @@
       sueños que se haya comido antes
   species_class:
     spanish: HIPNOSIS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 96
+  learnset: !<reference> learnsets/id:96
 - ids:
-  - - dex_national
-    - 97
+  - dex_national:97
   base_stats:
     hp: 85
     attack: 73
@@ -2774,10 +1969,7 @@
   base_yield_exp: 165
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: HYPNO
   pokedex_description:
@@ -2785,13 +1977,9 @@
       hipnotizar con su péndulo
   species_class:
     spanish: HIPNOSIS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 97
+  learnset: !<reference> learnsets/id:97
 - ids:
-  - - dex_national
-    - 98
+  - dex_national:98
   base_stats:
     hp: 30
     attack: 105
@@ -2801,10 +1989,7 @@
   base_yield_exp: 115
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: KRABBY
   pokedex_description:
@@ -2812,13 +1997,9 @@
       combate, pero crecerán rápido
   species_class:
     spanish: CANGREJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 98
+  learnset: !<reference> learnsets/id:98
 - ids:
-  - - dex_national
-    - 99
+  - dex_national:99
   base_stats:
     hp: 55
     attack: 130
@@ -2828,10 +2009,7 @@
   base_yield_exp: 206
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: KINGLER
   pokedex_description:
@@ -2839,13 +2017,9 @@
       todos modos, pesa demasiado
   species_class:
     spanish: TENAZA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 99
+  learnset: !<reference> learnsets/id:99
 - ids:
-  - - dex_national
-    - 100
+  - dex_national:100
   base_stats:
     hp: 40
     attack: 30
@@ -2855,10 +2029,7 @@
   base_yield_exp: 103
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: VOLTORB
   pokedex_description:
@@ -2866,13 +2037,9 @@
       autodestruirá
   species_class:
     spanish: BOLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 100
+  learnset: !<reference> learnsets/id:100
 - ids:
-  - - dex_national
-    - 101
+  - dex_national:101
   base_stats:
     hp: 60
     attack: 50
@@ -2882,10 +2049,7 @@
   base_yield_exp: 150
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: ELECTRODE
   pokedex_description:
@@ -2893,13 +2057,9 @@
       una gran explosión
   species_class:
     spanish: BOLA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 101
+  learnset: !<reference> learnsets/id:101
 - ids:
-  - - dex_national
-    - 102
+  - dex_national:102
   base_stats:
     hp: 60
     attack: 40
@@ -2909,14 +2069,8 @@
   base_yield_exp: 98
   catch_rate: 90
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:22
+  - !<reference> types/id:24
   name:
     spanish: EXEGGCUTE
   pokedex_description:
@@ -2924,13 +2078,9 @@
       para equilibrarse
   species_class:
     spanish: HUEVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 102
+  learnset: !<reference> learnsets/id:102
 - ids:
-  - - dex_national
-    - 103
+  - dex_national:103
   base_stats:
     hp: 95
     attack: 95
@@ -2940,14 +2090,8 @@
   base_yield_exp: 212
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:22
+  - !<reference> types/id:24
   name:
     spanish: EXEGGUTOR
   pokedex_description:
@@ -2955,13 +2099,9 @@
       hace lo que quiere
   species_class:
     spanish: COCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 103
+  learnset: !<reference> learnsets/id:103
 - ids:
-  - - dex_national
-    - 104
+  - dex_national:104
   base_stats:
     hp: 50
     attack: 50
@@ -2971,10 +2111,7 @@
   base_yield_exp: 87
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     spanish: CUBONE
   pokedex_description:
@@ -2982,13 +2119,9 @@
       una triste melodía
   species_class:
     spanish: SOLITARIO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 104
+  learnset: !<reference> learnsets/id:104
 - ids:
-  - - dex_national
-    - 105
+  - dex_national:105
   base_stats:
     hp: 60
     attack: 80
@@ -2998,10 +2131,7 @@
   base_yield_exp: 124
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
+  - !<reference> types/id:4
   name:
     spanish: MAROWAK
   pokedex_description:
@@ -3009,13 +2139,9 @@
       de POKÉMON
   species_class:
     spanish: APILAHUESO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 105
+  learnset: !<reference> learnsets/id:105
 - ids:
-  - - dex_national
-    - 106
+  - dex_national:106
   base_stats:
     hp: 50
     attack: 120
@@ -3025,10 +2151,7 @@
   base_yield_exp: 139
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     spanish: HITMONLEE
   pokedex_description:
@@ -3036,13 +2159,9 @@
       como el diamante
   species_class:
     spanish: PATEANDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 106
+  learnset: !<reference> learnsets/id:106
 - ids:
-  - - dex_national
-    - 107
+  - dex_national:107
   base_stats:
     hp: 50
     attack: 105
@@ -3052,10 +2171,7 @@
   base_yield_exp: 140
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 1
+  - !<reference> types/id:1
   name:
     spanish: HITMONCHAN
   pokedex_description:
@@ -3063,13 +2179,9 @@
       hormigón como si nada
   species_class:
     spanish: PEGANDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 107
+  learnset: !<reference> learnsets/id:107
 - ids:
-  - - dex_national
-    - 108
+  - dex_national:108
   base_stats:
     hp: 90
     attack: 55
@@ -3079,10 +2191,7 @@
   base_yield_exp: 127
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: LICKITUNG
   pokedex_description:
@@ -3090,13 +2199,9 @@
       causar parálisis
   species_class:
     spanish: LAMIENDO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 108
+  learnset: !<reference> learnsets/id:108
 - ids:
-  - - dex_national
-    - 109
+  - dex_national:109
   base_stats:
     hp: 40
     attack: 65
@@ -3106,10 +2211,7 @@
   base_yield_exp: 114
   catch_rate: 190
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: KOFFING
   pokedex_description:
@@ -3117,13 +2219,9 @@
       interno se expande
   species_class:
     spanish: GAS VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 109
+  learnset: !<reference> learnsets/id:109
 - ids:
-  - - dex_national
-    - 110
+  - dex_national:110
   base_stats:
     hp: 65
     attack: 90
@@ -3133,10 +2231,7 @@
   base_yield_exp: 173
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 3
+  - !<reference> types/id:3
   name:
     spanish: WEEZING
   pokedex_description:
@@ -3144,13 +2239,9 @@
       existe en la basura
   species_class:
     spanish: GAS VENENO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 110
+  learnset: !<reference> learnsets/id:110
 - ids:
-  - - dex_national
-    - 111
+  - dex_national:111
   base_stats:
     hp: 80
     attack: 85
@@ -3160,14 +2251,8 @@
   base_yield_exp: 135
   catch_rate: 120
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
-  - !<reference>
-    - types
-    - id
-    - 5
+  - !<reference> types/id:4
+  - !<reference> types/id:5
   name:
     spanish: RHYHORN
   pokedex_description:
@@ -3175,13 +2260,9 @@
       hasta que cae dormido
   species_class:
     spanish: CLAVOS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 111
+  learnset: !<reference> learnsets/id:111
 - ids:
-  - - dex_national
-    - 112
+  - dex_national:112
   base_stats:
     hp: 105
     attack: 130
@@ -3191,14 +2272,8 @@
   base_yield_exp: 204
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 4
-  - !<reference>
-    - types
-    - id
-    - 5
+  - !<reference> types/id:4
+  - !<reference> types/id:5
   name:
     spanish: RHYDON
   pokedex_description:
@@ -3206,13 +2281,9 @@
       capaz de aguantar lava hirviendo
   species_class:
     spanish: TALADRO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 112
+  learnset: !<reference> learnsets/id:112
 - ids:
-  - - dex_national
-    - 113
+  - dex_national:113
   base_stats:
     hp: 250
     attack: 5
@@ -3222,10 +2293,7 @@
   base_yield_exp: 255
   catch_rate: 30
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: CHANSEY
   pokedex_description:
@@ -3233,13 +2301,9 @@
       POKÉMON herido
   species_class:
     spanish: HUEVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 113
+  learnset: !<reference> learnsets/id:113
 - ids:
-  - - dex_national
-    - 114
+  - dex_national:114
   base_stats:
     hp: 65
     attack: 55
@@ -3249,10 +2313,7 @@
   base_yield_exp: 166
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 22
+  - !<reference> types/id:22
   name:
     spanish: TANGELA
   pokedex_description:
@@ -3260,13 +2321,9 @@
       dejan de crecer
   species_class:
     spanish: ENREDADERA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 114
+  learnset: !<reference> learnsets/id:114
 - ids:
-  - - dex_national
-    - 115
+  - dex_national:115
   base_stats:
     hp: 105
     attack: 95
@@ -3276,10 +2333,7 @@
   base_yield_exp: 175
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: KANGASKHAN
   pokedex_description:
@@ -3287,13 +2341,9 @@
       protegerla
   species_class:
     spanish: PADRES
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 115
+  learnset: !<reference> learnsets/id:115
 - ids:
-  - - dex_national
-    - 116
+  - dex_national:116
   base_stats:
     hp: 30
     attack: 40
@@ -3303,10 +2353,7 @@
   base_yield_exp: 83
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: HORSEA
   pokedex_description:
@@ -3314,13 +2361,9 @@
       tinta especial, por su boca
   species_class:
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 116
+  learnset: !<reference> learnsets/id:116
 - ids:
-  - - dex_national
-    - 117
+  - dex_national:117
   base_stats:
     hp: 55
     attack: 65
@@ -3330,10 +2373,7 @@
   base_yield_exp: 155
   catch_rate: 75
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: SEADRA
   pokedex_description:
@@ -3341,13 +2381,9 @@
       mientras duerme
   species_class:
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 117
+  learnset: !<reference> learnsets/id:117
 - ids:
-  - - dex_national
-    - 118
+  - dex_national:118
   base_stats:
     hp: 45
     attack: 67
@@ -3357,10 +2393,7 @@
   base_yield_exp: 111
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: GOLDEEN
   pokedex_description:
@@ -3368,13 +2401,9 @@
       en grandes grupos
   species_class:
     spanish: PEZ COLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 118
+  learnset: !<reference> learnsets/id:118
 - ids:
-  - - dex_national
-    - 119
+  - dex_national:119
   base_stats:
     hp: 80
     attack: 92
@@ -3384,10 +2413,7 @@
   base_yield_exp: 170
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: SEAKING
   pokedex_description:
@@ -3395,13 +2421,9 @@
       de su cabeza
   species_class:
     spanish: PEZ COLOR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 119
+  learnset: !<reference> learnsets/id:119
 - ids:
-  - - dex_national
-    - 120
+  - dex_national:120
   base_stats:
     hp: 30
     attack: 45
@@ -3411,10 +2433,7 @@
   base_yield_exp: 106
   catch_rate: 225
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: STARYU
   pokedex_description:
@@ -3422,13 +2441,9 @@
       haya sido destrozado
   species_class:
     spanish: ESTRELLADA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 120
+  learnset: !<reference> learnsets/id:120
 - ids:
-  - - dex_national
-    - 121
+  - dex_national:121
   base_stats:
     hp: 60
     attack: 75
@@ -3438,14 +2453,8 @@
   base_yield_exp: 207
   catch_rate: 60
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:21
+  - !<reference> types/id:24
   name:
     spanish: STARMIE
   pokedex_description:
@@ -3453,13 +2462,9 @@
       mediante colores
   species_class:
     spanish: MISTERIOSO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 121
+  learnset: !<reference> learnsets/id:121
 - ids:
-  - - dex_national
-    - 122
+  - dex_national:122
   base_stats:
     hp: 40
     attack: 45
@@ -3469,10 +2474,7 @@
   base_yield_exp: 136
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: MR.MIME
   pokedex_description:
@@ -3480,13 +2482,9 @@
       algo que no es real
   species_class:
     spanish: BARRERA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 122
+  learnset: !<reference> learnsets/id:122
 - ids:
-  - - dex_national
-    - 123
+  - dex_national:123
   base_stats:
     hp: 70
     attack: 110
@@ -3496,14 +2494,8 @@
   base_yield_exp: 187
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:7
+  - !<reference> types/id:2
   name:
     spanish: SCYTHER
   pokedex_description:
@@ -3511,13 +2503,9 @@
       Se mueve como un ninja
   species_class:
     spanish: MANTIS
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 123
+  learnset: !<reference> learnsets/id:123
 - ids:
-  - - dex_national
-    - 124
+  - dex_national:124
   base_stats:
     hp: 65
     attack: 50
@@ -3527,14 +2515,8 @@
   base_yield_exp: 137
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 25
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:25
+  - !<reference> types/id:24
   name:
     spanish: JYNX
   pokedex_description:
@@ -3542,13 +2524,9 @@
       Menea mucho sus caderas
   species_class:
     spanish: F. HUMANA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 124
+  learnset: !<reference> learnsets/id:124
 - ids:
-  - - dex_national
-    - 125
+  - dex_national:125
   base_stats:
     hp: 65
     attack: 83
@@ -3558,10 +2536,7 @@
   base_yield_exp: 156
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: ELECTABUZZ
   pokedex_description:
@@ -3569,13 +2544,9 @@
       la energía
   species_class:
     spanish: ELÉCTRICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 125
+  learnset: !<reference> learnsets/id:125
 - ids:
-  - - dex_national
-    - 126
+  - dex_national:126
   base_stats:
     hp: 65
     attack: 95
@@ -3585,10 +2556,7 @@
   base_yield_exp: 167
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: MAGMAR
   pokedex_description:
@@ -3596,13 +2564,9 @@
       que están en llamas
   species_class:
     spanish: ESCUPFUEGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 126
+  learnset: !<reference> learnsets/id:126
 - ids:
-  - - dex_national
-    - 127
+  - dex_national:127
   base_stats:
     hp: 65
     attack: 125
@@ -3612,10 +2576,7 @@
   base_yield_exp: 200
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 7
+  - !<reference> types/id:7
   name:
     spanish: PINSIR
   pokedex_description:
@@ -3623,13 +2584,9 @@
       si hace mucho frío
   species_class:
     spanish: ESCARABAJO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 127
+  learnset: !<reference> learnsets/id:127
 - ids:
-  - - dex_national
-    - 128
+  - dex_national:128
   base_stats:
     hp: 75
     attack: 100
@@ -3639,10 +2596,7 @@
   base_yield_exp: 211
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: TAUROS
   pokedex_description:
@@ -3650,13 +2604,9 @@
       que choca con algo
   species_class:
     spanish: TORO BRAVO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 128
+  learnset: !<reference> learnsets/id:128
 - ids:
-  - - dex_national
-    - 129
+  - dex_national:129
   base_stats:
     hp: 20
     attack: 10
@@ -3666,10 +2616,7 @@
   base_yield_exp: 20
   catch_rate: 255
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: MAGIKARP
   pokedex_description:
@@ -3677,13 +2624,9 @@
       ríos y charcos
   species_class:
     spanish: PEZ
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 129
+  learnset: !<reference> learnsets/id:129
 - ids:
-  - - dex_national
-    - 130
+  - dex_national:130
   base_stats:
     hp: 95
     attack: 125
@@ -3693,14 +2636,8 @@
   base_yield_exp: 214
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:21
+  - !<reference> types/id:2
   name:
     spanish: GYARADOS
   pokedex_description:
@@ -3708,13 +2645,9 @@
       por destruir ciudades
   species_class:
     spanish: ATROCIDAD
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 130
+  learnset: !<reference> learnsets/id:130
 - ids:
-  - - dex_national
-    - 131
+  - dex_national:131
   base_stats:
     hp: 130
     attack: 85
@@ -3724,14 +2657,8 @@
   base_yield_exp: 219
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
-  - !<reference>
-    - types
-    - id
-    - 25
+  - !<reference> types/id:21
+  - !<reference> types/id:25
   name:
     spanish: LAPRAS
   pokedex_description:
@@ -3739,13 +2666,9 @@
       a través del mar
   species_class:
     spanish: TRANSPORTE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 131
+  learnset: !<reference> learnsets/id:131
 - ids:
-  - - dex_national
-    - 132
+  - dex_national:132
   base_stats:
     hp: 48
     attack: 48
@@ -3755,10 +2678,7 @@
   base_yield_exp: 61
   catch_rate: 35
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: DITTO
   pokedex_description:
@@ -3766,13 +2686,9 @@
       del mismo
   species_class:
     spanish: TRANSFORM.
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 132
+  learnset: !<reference> learnsets/id:132
 - ids:
-  - - dex_national
-    - 133
+  - dex_national:133
   base_stats:
     hp: 55
     attack: 55
@@ -3782,10 +2698,7 @@
   base_yield_exp: 92
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: EEVEE
   pokedex_description:
@@ -3793,13 +2706,9 @@
       de POKÉMON
   species_class:
     spanish: EVOLUCIÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 133
+  learnset: !<reference> learnsets/id:133
 - ids:
-  - - dex_national
-    - 134
+  - dex_national:134
   base_stats:
     hp: 130
     attack: 65
@@ -3809,10 +2718,7 @@
   base_yield_exp: 196
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:21
   name:
     spanish: VAPOREON
   pokedex_description:
@@ -3820,13 +2726,9 @@
       cuando está en el agua
   species_class:
     spanish: BURBUJA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 134
+  learnset: !<reference> learnsets/id:134
 - ids:
-  - - dex_national
-    - 135
+  - dex_national:135
   base_stats:
     hp: 65
     attack: 65
@@ -3836,10 +2738,7 @@
   base_yield_exp: 197
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
+  - !<reference> types/id:23
   name:
     spanish: JOLTEON
   pokedex_description:
@@ -3847,13 +2746,9 @@
       lo que le da energía
   species_class:
     spanish: RELÁMPAGO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 135
+  learnset: !<reference> learnsets/id:135
 - ids:
-  - - dex_national
-    - 136
+  - dex_national:136
   base_stats:
     hp: 65
     attack: 130
@@ -3863,10 +2758,7 @@
   base_yield_exp: 198
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
+  - !<reference> types/id:20
   name:
     spanish: FLAREON
   pokedex_description:
@@ -3874,13 +2766,9 @@
       éste está a 3.000#214 Celsius
   species_class:
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 136
+  learnset: !<reference> learnsets/id:136
 - ids:
-  - - dex_national
-    - 137
+  - dex_national:137
   base_stats:
     hp: 65
     attack: 60
@@ -3890,10 +2778,7 @@
   base_yield_exp: 130
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: PORYGON
   pokedex_description:
@@ -3901,13 +2786,9 @@
       Aún no lo ha logrado
   species_class:
     spanish: VIRTUAL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 137
+  learnset: !<reference> learnsets/id:137
 - ids:
-  - - dex_national
-    - 138
+  - dex_national:138
   base_stats:
     hp: 35
     attack: 40
@@ -3917,14 +2798,8 @@
   base_yield_exp: 120
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     spanish: OMANYTE
   pokedex_description:
@@ -3932,13 +2807,9 @@
       movimiento de sus 10 tentáculos'
   species_class:
     spanish: ESPIRAL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 138
+  learnset: !<reference> learnsets/id:138
 - ids:
-  - - dex_national
-    - 139
+  - dex_national:139
   base_stats:
     hp: 70
     attack: 60
@@ -3948,14 +2819,8 @@
   base_yield_exp: 199
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     spanish: OMASTAR
   pokedex_description:
@@ -3963,13 +2828,9 @@
       que se mueva libremente
   species_class:
     spanish: ESPIRAL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 139
+  learnset: !<reference> learnsets/id:139
 - ids:
-  - - dex_national
-    - 140
+  - dex_national:140
   base_stats:
     hp: 30
     attack: 80
@@ -3979,14 +2840,8 @@
   base_yield_exp: 119
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     spanish: KABUTO
   pokedex_description:
@@ -3994,13 +2849,9 @@
       al ocultarse en el lecho marino
   species_class:
     spanish: MARISCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 140
+  learnset: !<reference> learnsets/id:140
 - ids:
-  - - dex_national
-    - 141
+  - dex_national:141
   base_stats:
     hp: 60
     attack: 115
@@ -4010,14 +2861,8 @@
   base_yield_exp: 201
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 21
+  - !<reference> types/id:5
+  - !<reference> types/id:21
   name:
     spanish: KABUTOPS
   pokedex_description:
@@ -4025,13 +2870,9 @@
       sus fluidos vitales
   species_class:
     spanish: MARISCO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 141
+  learnset: !<reference> learnsets/id:141
 - ids:
-  - - dex_national
-    - 142
+  - dex_national:142
   base_stats:
     hp: 80
     attack: 105
@@ -4041,14 +2882,8 @@
   base_yield_exp: 202
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 5
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:5
+  - !<reference> types/id:2
   name:
     spanish: AERODACTYL
   pokedex_description:
@@ -4056,13 +2891,9 @@
       tomado de un ámbar
   species_class:
     spanish: FÓSIL
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 142
+  learnset: !<reference> learnsets/id:142
 - ids:
-  - - dex_national
-    - 143
+  - dex_national:143
   base_stats:
     hp: 160
     attack: 110
@@ -4072,10 +2903,7 @@
   base_yield_exp: 154
   catch_rate: 25
   types:
-  - !<reference>
-    - types
-    - id
-    - 0
+  - !<reference> types/id:0
   name:
     spanish: SNORLAX
   pokedex_description:
@@ -4083,13 +2911,9 @@
       se llena
   species_class:
     spanish: DORMIR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 143
+  learnset: !<reference> learnsets/id:143
 - ids:
-  - - dex_national
-    - 144
+  - dex_national:144
   base_stats:
     hp: 90
     attack: 85
@@ -4099,14 +2923,8 @@
   base_yield_exp: 215
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 25
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:25
+  - !<reference> types/id:2
   name:
     spanish: ARTICUNO
   pokedex_description:
@@ -4114,13 +2932,9 @@
       para generar nieve
   species_class:
     spanish: CONGELAR
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 144
+  learnset: !<reference> learnsets/id:144
 - ids:
-  - - dex_national
-    - 145
+  - dex_national:145
   base_stats:
     hp: 90
     attack: 90
@@ -4130,14 +2944,8 @@
   base_yield_exp: 216
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 23
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:23
+  - !<reference> types/id:2
   name:
     spanish: ZAPDOS
   pokedex_description:
@@ -4145,13 +2953,9 @@
       oscuro y caen rayos
   species_class:
     spanish: ELÉCTRICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 145
+  learnset: !<reference> learnsets/id:145
 - ids:
-  - - dex_national
-    - 146
+  - dex_national:146
   base_stats:
     hp: 90
     attack: 100
@@ -4161,14 +2965,8 @@
   base_yield_exp: 217
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 20
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:20
+  - !<reference> types/id:2
   name:
     spanish: MOLTRES
   pokedex_description:
@@ -4176,13 +2974,9 @@
       noche se torna roja
   species_class:
     spanish: LLAMA
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 146
+  learnset: !<reference> learnsets/id:146
 - ids:
-  - - dex_national
-    - 147
+  - dex_national:147
   base_stats:
     hp: 41
     attack: 64
@@ -4192,10 +2986,7 @@
   base_yield_exp: 67
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 26
+  - !<reference> types/id:26
   name:
     spanish: DRATINI
   pokedex_description:
@@ -4203,13 +2994,9 @@
       pescador que cogió uno
   species_class:
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 147
+  learnset: !<reference> learnsets/id:147
 - ids:
-  - - dex_national
-    - 148
+  - dex_national:148
   base_stats:
     hp: 61
     attack: 84
@@ -4219,10 +3006,7 @@
   base_yield_exp: 144
   catch_rate: 27
   types:
-  - !<reference>
-    - types
-    - id
-    - 26
+  - !<reference> types/id:26
   name:
     spanish: DRAGONAIR
   pokedex_description:
@@ -4230,13 +3014,9 @@
       un misterioso y místico aspecto
   species_class:
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 148
+  learnset: !<reference> learnsets/id:148
 - ids:
-  - - dex_national
-    - 149
+  - dex_national:149
   base_stats:
     hp: 91
     attack: 134
@@ -4246,14 +3026,8 @@
   base_yield_exp: 218
   catch_rate: 9
   types:
-  - !<reference>
-    - types
-    - id
-    - 26
-  - !<reference>
-    - types
-    - id
-    - 2
+  - !<reference> types/id:26
+  - !<reference> types/id:2
   name:
     spanish: DRAGONITE
   pokedex_description:
@@ -4261,13 +3035,9 @@
       todos modos, sólo es un rumor
   species_class:
     spanish: DRAGÓN
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 149
+  learnset: !<reference> learnsets/id:149
 - ids:
-  - - dex_national
-    - 150
+  - dex_national:150
   base_stats:
     hp: 106
     attack: 110
@@ -4277,10 +3047,7 @@
   base_yield_exp: 220
   catch_rate: 3
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: MEWTWO
   pokedex_description:
@@ -4288,13 +3055,9 @@
       son diferentes
   species_class:
     spanish: GENÉTICO
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 150
+  learnset: !<reference> learnsets/id:150
 - ids:
-  - - dex_national
-    - 151
+  - dex_national:151
   base_stats:
     hp: 100
     attack: 100
@@ -4304,10 +3067,7 @@
   base_yield_exp: 64
   catch_rate: 45
   types:
-  - !<reference>
-    - types
-    - id
-    - 24
+  - !<reference> types/id:24
   name:
     spanish: MEW
   pokedex_description:
@@ -4315,7 +3075,4 @@
       pelo de este POKÉMON
   species_class:
     spanish: N.ESPECIE
-  learnset: !<reference>
-  - learnsets
-  - id
-  - 151
+  learnset: !<reference> learnsets/id:151

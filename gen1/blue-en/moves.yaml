@@ -1,6 +1,5 @@
 - ids:
-  - - id
-    - 1
+  - id:1
   name:
     english: POUND
   power: 40
@@ -8,13 +7,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 2
+  - id:2
   name:
     english: KARATE CHOP
   power: 50
@@ -22,13 +17,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 3
+  - id:3
   name:
     english: DOUBLESLAP
   power: 15
@@ -36,13 +27,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 4
+  - id:4
   name:
     english: COMET PUNCH
   power: 18
@@ -50,13 +37,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 5
+  - id:5
   name:
     english: MEGA PUNCH
   power: 80
@@ -64,13 +47,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 6
+  - id:6
   name:
     english: PAY DAY
   power: 40
@@ -78,13 +57,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 7
+  - id:7
   name:
     english: FIRE PUNCH
   power: 75
@@ -92,13 +67,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 8
+  - id:8
   name:
     english: ICE PUNCH
   power: 75
@@ -106,13 +77,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 9
+  - id:9
   name:
     english: THUNDERPUNCH
   power: 75
@@ -120,13 +87,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 10
+  - id:10
   name:
     english: SCRATCH
   power: 40
@@ -134,13 +97,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 11
+  - id:11
   name:
     english: VICEGRIP
   power: 55
@@ -148,26 +107,18 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 12
+  - id:12
   name:
     english: GUILLOTINE
   accuracy: 30
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 13
+  - id:13
   name:
     english: RAZOR WIND
   power: 80
@@ -175,26 +126,18 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 14
+  - id:14
   name:
     english: SWORDS DANCE
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 15
+  - id:15
   name:
     english: CUT
   power: 50
@@ -202,13 +145,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 16
+  - id:16
   name:
     english: GUST
   power: 40
@@ -216,13 +155,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 17
+  - id:17
   name:
     english: WING ATTACK
   power: 35
@@ -230,26 +165,18 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 18
+  - id:18
   name:
     english: WHIRLWIND
   accuracy: 85
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 19
+  - id:19
   name:
     english: FLY
   power: 70
@@ -257,13 +184,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 20
+  - id:20
   name:
     english: BIND
   power: 15
@@ -271,13 +194,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 21
+  - id:21
   name:
     english: SLAM
   power: 80
@@ -285,13 +204,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 22
+  - id:22
   name:
     english: VINE WHIP
   power: 35
@@ -299,13 +214,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 23
+  - id:23
   name:
     english: STOMP
   power: 65
@@ -313,13 +224,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 24
+  - id:24
   name:
     english: DOUBLE KICK
   power: 30
@@ -327,13 +234,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 25
+  - id:25
   name:
     english: MEGA KICK
   power: 120
@@ -341,13 +244,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 26
+  - id:26
   name:
     english: JUMP KICK
   power: 70
@@ -355,13 +254,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 27
+  - id:27
   name:
     english: ROLLING KICK
   power: 60
@@ -369,26 +264,18 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 28
+  - id:28
   name:
     english: SAND-ATTACK
   accuracy: 100
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 29
+  - id:29
   name:
     english: HEADBUTT
   power: 70
@@ -396,13 +283,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 30
+  - id:30
   name:
     english: HORN ATTACK
   power: 65
@@ -410,13 +293,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 31
+  - id:31
   name:
     english: FURY ATTACK
   power: 15
@@ -424,26 +303,18 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 32
+  - id:32
   name:
     english: HORN DRILL
   accuracy: 30
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 33
+  - id:33
   name:
     english: TACKLE
   power: 35
@@ -451,13 +322,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 34
+  - id:34
   name:
     english: BODY SLAM
   power: 85
@@ -465,13 +332,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 35
+  - id:35
   name:
     english: WRAP
   power: 15
@@ -479,13 +342,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 36
+  - id:36
   name:
     english: TAKE DOWN
   power: 90
@@ -493,13 +352,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 37
+  - id:37
   name:
     english: THRASH
   power: 90
@@ -507,13 +362,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 38
+  - id:38
   name:
     english: DOUBLE-EDGE
   power: 100
@@ -521,26 +372,18 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 39
+  - id:39
   name:
     english: TAIL WHIP
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 40
+  - id:40
   name:
     english: POISON STING
   power: 15
@@ -548,13 +391,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 41
+  - id:41
   name:
     english: TWINEEDLE
   power: 25
@@ -562,13 +401,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 42
+  - id:42
   name:
     english: PIN MISSILE
   power: 14
@@ -576,26 +411,18 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 43
+  - id:43
   name:
     english: LEER
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 44
+  - id:44
   name:
     english: BITE
   power: 60
@@ -603,91 +430,63 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 45
+  - id:45
   name:
     english: GROWL
   accuracy: 100
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 46
+  - id:46
   name:
     english: ROAR
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 47
+  - id:47
   name:
     english: SING
   accuracy: 55
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 48
+  - id:48
   name:
     english: SUPERSONIC
   accuracy: 55
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 49
+  - id:49
   name:
     english: SONICBOOM
   accuracy: 90
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 50
+  - id:50
   name:
     english: DISABLE
   accuracy: 55
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 51
+  - id:51
   name:
     english: ACID
   power: 40
@@ -695,13 +494,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 52
+  - id:52
   name:
     english: EMBER
   power: 40
@@ -709,13 +504,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 53
+  - id:53
   name:
     english: FLAMETHROWER
   power: 95
@@ -723,26 +514,18 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 54
+  - id:54
   name:
     english: MIST
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 55
+  - id:55
   name:
     english: WATER GUN
   power: 40
@@ -750,13 +533,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 56
+  - id:56
   name:
     english: HYDRO PUMP
   power: 120
@@ -764,13 +543,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 57
+  - id:57
   name:
     english: SURF
   power: 95
@@ -778,13 +553,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 58
+  - id:58
   name:
     english: ICE BEAM
   power: 95
@@ -792,13 +563,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 59
+  - id:59
   name:
     english: BLIZZARD
   power: 120
@@ -806,13 +573,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 60
+  - id:60
   name:
     english: PSYBEAM
   power: 65
@@ -820,13 +583,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 61
+  - id:61
   name:
     english: BUBBLEBEAM
   power: 65
@@ -834,13 +593,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 62
+  - id:62
   name:
     english: AURORA BEAM
   power: 65
@@ -848,13 +603,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 63
+  - id:63
   name:
     english: HYPER BEAM
   power: 150
@@ -862,13 +613,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 64
+  - id:64
   name:
     english: PECK
   power: 35
@@ -876,13 +623,9 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 65
+  - id:65
   name:
     english: DRILL PECK
   power: 80
@@ -890,13 +633,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 66
+  - id:66
   name:
     english: SUBMISSION
   power: 80
@@ -904,13 +643,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 67
+  - id:67
   name:
     english: LOW KICK
   power: 50
@@ -918,39 +653,27 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 68
+  - id:68
   name:
     english: COUNTER
   accuracy: 100
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 69
+  - id:69
   name:
     english: SEISMIC TOSS
   accuracy: 100
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 70
+  - id:70
   name:
     english: STRENGTH
   power: 80
@@ -958,13 +681,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 71
+  - id:71
   name:
     english: ABSORB
   power: 20
@@ -972,13 +691,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 72
+  - id:72
   name:
     english: MEGA DRAIN
   power: 40
@@ -986,39 +701,27 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 73
+  - id:73
   name:
     english: LEECH SEED
   accuracy: 90
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 74
+  - id:74
   name:
     english: GROWTH
   accuracy: 100
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 75
+  - id:75
   name:
     english: RAZOR LEAF
   power: 55
@@ -1026,13 +729,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 76
+  - id:76
   name:
     english: SOLARBEAM
   power: 120
@@ -1040,52 +739,36 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 77
+  - id:77
   name:
     english: POISONPOWDER
   accuracy: 75
   base_pp: 35
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 78
+  - id:78
   name:
     english: STUN SPORE
   accuracy: 75
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 79
+  - id:79
   name:
     english: SLEEP POWDER
   accuracy: 75
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 80
+  - id:80
   name:
     english: PETAL DANCE
   power: 70
@@ -1093,39 +776,27 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 81
+  - id:81
   name:
     english: STRING SHOT
   accuracy: 95
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 82
+  - id:82
   name:
     english: DRAGON RAGE
   accuracy: 100
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 26
+  type: !<reference> types/id:26
 - ids:
-  - - id
-    - 83
+  - id:83
   name:
     english: FIRE SPIN
   power: 15
@@ -1133,13 +804,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 84
+  - id:84
   name:
     english: THUNDERSHOCK
   power: 40
@@ -1147,13 +814,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 85
+  - id:85
   name:
     english: THUNDERBOLT
   power: 95
@@ -1161,26 +824,18 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 86
+  - id:86
   name:
     english: THUNDER WAVE
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 87
+  - id:87
   name:
     english: THUNDER
   power: 120
@@ -1188,13 +843,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 23
+  type: !<reference> types/id:23
 - ids:
-  - - id
-    - 88
+  - id:88
   name:
     english: ROCK THROW
   power: 50
@@ -1202,13 +853,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 5
+  type: !<reference> types/id:5
 - ids:
-  - - id
-    - 89
+  - id:89
   name:
     english: EARTHQUAKE
   power: 100
@@ -1216,26 +863,18 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 90
+  - id:90
   name:
     english: FISSURE
   accuracy: 30
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 91
+  - id:91
   name:
     english: DIG
   power: 100
@@ -1243,26 +882,18 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 92
+  - id:92
   name:
     english: TOXIC
   accuracy: 85
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 93
+  - id:93
   name:
     english: CONFUSION
   power: 50
@@ -1270,13 +901,9 @@
   base_pp: 25
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 94
+  - id:94
   name:
     english: PSYCHIC
   power: 90
@@ -1284,52 +911,36 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 95
+  - id:95
   name:
     english: HYPNOSIS
   accuracy: 60
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 96
+  - id:96
   name:
     english: MEDITATE
   accuracy: 100
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 97
+  - id:97
   name:
     english: AGILITY
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 98
+  - id:98
   name:
     english: QUICK ATTACK
   power: 40
@@ -1337,13 +948,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 99
+  - id:99
   name:
     english: RAGE
   power: 20
@@ -1351,273 +958,189 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 100
+  - id:100
   name:
     english: TELEPORT
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 101
+  - id:101
   name:
     english: NIGHT SHADE
   accuracy: 100
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 8
+  type: !<reference> types/id:8
 - ids:
-  - - id
-    - 102
+  - id:102
   name:
     english: MIMIC
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 103
+  - id:103
   name:
     english: SCREECH
   accuracy: 85
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 104
+  - id:104
   name:
     english: DOUBLE TEAM
   accuracy: 100
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 105
+  - id:105
   name:
     english: RECOVER
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 106
+  - id:106
   name:
     english: HARDEN
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 107
+  - id:107
   name:
     english: MINIMIZE
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 108
+  - id:108
   name:
     english: SMOKESCREEN
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 109
+  - id:109
   name:
     english: CONFUSE RAY
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 8
+  type: !<reference> types/id:8
 - ids:
-  - - id
-    - 110
+  - id:110
   name:
     english: WITHDRAW
   accuracy: 100
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 111
+  - id:111
   name:
     english: DEFENSE CURL
   accuracy: 100
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 112
+  - id:112
   name:
     english: BARRIER
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 113
+  - id:113
   name:
     english: LIGHT SCREEN
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 114
+  - id:114
   name:
     english: HAZE
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 25
+  type: !<reference> types/id:25
 - ids:
-  - - id
-    - 115
+  - id:115
   name:
     english: REFLECT
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 116
+  - id:116
   name:
     english: FOCUS ENERGY
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 117
+  - id:117
   name:
     english: BIDE
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 118
+  - id:118
   name:
     english: METRONOME
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 119
+  - id:119
   name:
     english: MIRROR MOVE
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 120
+  - id:120
   name:
     english: SELFDESTRUCT
   power: 130
@@ -1625,13 +1148,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 121
+  - id:121
   name:
     english: EGG BOMB
   power: 100
@@ -1639,13 +1158,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 122
+  - id:122
   name:
     english: LICK
   power: 20
@@ -1653,13 +1168,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 8
+  type: !<reference> types/id:8
 - ids:
-  - - id
-    - 123
+  - id:123
   name:
     english: SMOG
   power: 20
@@ -1667,13 +1178,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 124
+  - id:124
   name:
     english: SLUDGE
   power: 65
@@ -1681,13 +1188,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 125
+  - id:125
   name:
     english: BONE CLUB
   power: 65
@@ -1695,13 +1198,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 126
+  - id:126
   name:
     english: FIRE BLAST
   power: 120
@@ -1709,13 +1208,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 20
+  type: !<reference> types/id:20
 - ids:
-  - - id
-    - 127
+  - id:127
   name:
     english: WATERFALL
   power: 80
@@ -1723,13 +1218,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 128
+  - id:128
   name:
     english: CLAMP
   power: 35
@@ -1737,13 +1228,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 129
+  - id:129
   name:
     english: SWIFT
   power: 60
@@ -1751,13 +1238,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 130
+  - id:130
   name:
     english: SKULL BASH
   power: 100
@@ -1765,13 +1248,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 131
+  - id:131
   name:
     english: SPIKE CANNON
   power: 20
@@ -1779,13 +1258,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 132
+  - id:132
   name:
     english: CONSTRICT
   power: 10
@@ -1793,52 +1268,36 @@
   base_pp: 35
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 133
+  - id:133
   name:
     english: AMNESIA
   accuracy: 100
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 134
+  - id:134
   name:
     english: KINESIS
   accuracy: 80
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 135
+  - id:135
   name:
     english: SOFTBOILED
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 136
+  - id:136
   name:
     english: HI JUMP KICK
   power: 85
@@ -1846,26 +1305,18 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 1
+  type: !<reference> types/id:1
 - ids:
-  - - id
-    - 137
+  - id:137
   name:
     english: GLARE
   accuracy: 75
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 138
+  - id:138
   name:
     english: DREAM EATER
   power: 100
@@ -1873,26 +1324,18 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 139
+  - id:139
   name:
     english: POISON GAS
   accuracy: 55
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 140
+  - id:140
   name:
     english: BARRAGE
   power: 15
@@ -1900,13 +1343,9 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 141
+  - id:141
   name:
     english: LEECH LIFE
   power: 20
@@ -1914,26 +1353,18 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 7
+  type: !<reference> types/id:7
 - ids:
-  - - id
-    - 142
+  - id:142
   name:
     english: LOVELY KISS
   accuracy: 75
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 143
+  - id:143
   name:
     english: SKY ATTACK
   power: 140
@@ -1941,26 +1372,18 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 2
+  type: !<reference> types/id:2
 - ids:
-  - - id
-    - 144
+  - id:144
   name:
     english: TRANSFORM
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 145
+  - id:145
   name:
     english: BUBBLE
   power: 20
@@ -1968,13 +1391,9 @@
   base_pp: 30
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 146
+  - id:146
   name:
     english: DIZZY PUNCH
   power: 70
@@ -1982,78 +1401,54 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 147
+  - id:147
   name:
     english: SPORE
   accuracy: 100
   base_pp: 15
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 22
+  type: !<reference> types/id:22
 - ids:
-  - - id
-    - 148
+  - id:148
   name:
     english: FLASH
   accuracy: 70
   base_pp: 20
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 149
+  - id:149
   name:
     english: PSYWAVE
   accuracy: 80
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 150
+  - id:150
   name:
     english: SPLASH
   accuracy: 100
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 151
+  - id:151
   name:
     english: ACID ARMOR
   accuracy: 100
   base_pp: 40
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 3
+  type: !<reference> types/id:3
 - ids:
-  - - id
-    - 152
+  - id:152
   name:
     english: CRABHAMMER
   power: 90
@@ -2061,13 +1456,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 21
+  type: !<reference> types/id:21
 - ids:
-  - - id
-    - 153
+  - id:153
   name:
     english: EXPLOSION
   power: 170
@@ -2075,13 +1466,9 @@
   base_pp: 5
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 154
+  - id:154
   name:
     english: FURY SWIPES
   power: 18
@@ -2089,13 +1476,9 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 155
+  - id:155
   name:
     english: BONEMERANG
   power: 50
@@ -2103,26 +1486,18 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 4
+  type: !<reference> types/id:4
 - ids:
-  - - id
-    - 156
+  - id:156
   name:
     english: REST
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 24
+  type: !<reference> types/id:24
 - ids:
-  - - id
-    - 157
+  - id:157
   name:
     english: ROCK SLIDE
   power: 75
@@ -2130,13 +1505,9 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 5
+  type: !<reference> types/id:5
 - ids:
-  - - id
-    - 158
+  - id:158
   name:
     english: HYPER FANG
   power: 80
@@ -2144,39 +1515,27 @@
   base_pp: 15
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 159
+  - id:159
   name:
     english: SHARPEN
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 160
+  - id:160
   name:
     english: CONVERSION
   accuracy: 100
   base_pp: 30
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 161
+  - id:161
   name:
     english: TRI ATTACK
   power: 80
@@ -2184,26 +1543,18 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 162
+  - id:162
   name:
     english: SUPER FANG
   accuracy: 90
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 163
+  - id:163
   name:
     english: SLASH
   power: 70
@@ -2211,26 +1562,18 @@
   base_pp: 20
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 164
+  - id:164
   name:
     english: SUBSTITUTE
   accuracy: 100
   base_pp: 10
   is_damaging: false
   is_status: true
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
 - ids:
-  - - id
-    - 165
+  - id:165
   name:
     english: STRUGGLE
   power: 50
@@ -2238,7 +1581,4 @@
   base_pp: 10
   is_damaging: true
   is_status: false
-  type: !<reference>
-  - types
-  - id
-  - 0
+  type: !<reference> types/id:0
