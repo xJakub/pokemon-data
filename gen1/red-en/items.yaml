@@ -1,0 +1,422 @@
+- ids:
+  - id:1
+  name:
+    english: MASTER BALL
+- ids:
+  - id:2
+  name:
+    english: ULTRA BALL
+  buy_price: 1200
+  sell_price: 600
+- ids:
+  - id:3
+  name:
+    english: GREAT BALL
+  buy_price: 600
+  sell_price: 300
+- ids:
+  - id:4
+  name:
+    english: POKé BALL
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:5
+  name:
+    english: TOWN MAP
+- ids:
+  - id:6
+  name:
+    english: BICYCLE
+- ids:
+  - id:7
+  name:
+    english: ?????
+- ids:
+  - id:8
+  name:
+    english: SAFARI BALL
+  buy_price: 1000
+  sell_price: 500
+- ids:
+  - id:9
+  name:
+    english: POKéDEX
+- ids:
+  - id:10
+  name:
+    english: MOON STONE
+- ids:
+  - id:11
+  name:
+    english: ANTIDOTE
+  buy_price: 100
+  sell_price: 50
+- ids:
+  - id:12
+  name:
+    english: BURN HEAL
+  buy_price: 250
+  sell_price: 125
+- ids:
+  - id:13
+  name:
+    english: ICE HEAL
+  buy_price: 250
+  sell_price: 125
+- ids:
+  - id:14
+  name:
+    english: AWAKENING
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:15
+  name:
+    english: PARLYZ HEAL
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:16
+  name:
+    english: FULL RESTORE
+  buy_price: 3000
+  sell_price: 1500
+- ids:
+  - id:17
+  name:
+    english: MAX POTION
+  buy_price: 2500
+  sell_price: 1250
+- ids:
+  - id:18
+  name:
+    english: HYPER POTION
+  buy_price: 1500
+  sell_price: 750
+- ids:
+  - id:19
+  name:
+    english: SUPER POTION
+  buy_price: 700
+  sell_price: 350
+- ids:
+  - id:20
+  name:
+    english: POTION
+  buy_price: 300
+  sell_price: 150
+- ids:
+  - id:21
+  name:
+    english: BOULDERBADGE
+- ids:
+  - id:22
+  name:
+    english: CASCADEBADGE
+- ids:
+  - id:23
+  name:
+    english: THUNDERBADGE
+- ids:
+  - id:24
+  name:
+    english: RAINBOWBADGE
+- ids:
+  - id:25
+  name:
+    english: SOULBADGE
+- ids:
+  - id:26
+  name:
+    english: MARSHBADGE
+- ids:
+  - id:27
+  name:
+    english: VOLCANOBADGE
+- ids:
+  - id:28
+  name:
+    english: EARTHBADGE
+- ids:
+  - id:29
+  name:
+    english: ESCAPE ROPE
+  buy_price: 550
+  sell_price: 275
+- ids:
+  - id:30
+  name:
+    english: REPEL
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:31
+  name:
+    english: OLD AMBER
+- ids:
+  - id:32
+  name:
+    english: FIRE STONE
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:33
+  name:
+    english: THUNDERSTONE
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:34
+  name:
+    english: WATER STONE
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:35
+  name:
+    english: HP UP
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:36
+  name:
+    english: PROTEIN
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:37
+  name:
+    english: IRON
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:38
+  name:
+    english: CARBOS
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:39
+  name:
+    english: CALCIUM
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:40
+  name:
+    english: RARE CANDY
+  buy_price: 4800
+  sell_price: 2400
+- ids:
+  - id:41
+  name:
+    english: DOME FOSSIL
+- ids:
+  - id:42
+  name:
+    english: HELIX FOSSIL
+- ids:
+  - id:43
+  name:
+    english: SECRET KEY
+- ids:
+  - id:44
+  name:
+    english: ?????
+- ids:
+  - id:45
+  name:
+    english: BIKE VOUCHER
+- ids:
+  - id:46
+  name:
+    english: X ACCURACY
+  buy_price: 950
+  sell_price: 475
+- ids:
+  - id:47
+  name:
+    english: LEAF STONE
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:48
+  name:
+    english: CARD KEY
+- ids:
+  - id:49
+  name:
+    english: NUGGET
+  buy_price: 10000
+  sell_price: 5000
+- ids:
+  - id:50
+  name:
+    english: PP UP
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:51
+  name:
+    english: POKé DOLL
+  buy_price: 1000
+  sell_price: 500
+- ids:
+  - id:52
+  name:
+    english: FULL HEAL
+  buy_price: 600
+  sell_price: 300
+- ids:
+  - id:53
+  name:
+    english: REVIVE
+  buy_price: 1500
+  sell_price: 750
+- ids:
+  - id:54
+  name:
+    english: MAX REVIVE
+  buy_price: 4000
+  sell_price: 2000
+- ids:
+  - id:55
+  name:
+    english: GUARD SPEC.
+  buy_price: 700
+  sell_price: 350
+- ids:
+  - id:56
+  name:
+    english: SUPER REPEL
+  buy_price: 500
+  sell_price: 250
+- ids:
+  - id:57
+  name:
+    english: MAX REPEL
+  buy_price: 700
+  sell_price: 350
+- ids:
+  - id:58
+  name:
+    english: DIRE HIT
+  buy_price: 650
+  sell_price: 325
+- ids:
+  - id:59
+  name:
+    english: COIN
+  buy_price: 10
+  sell_price: 5
+- ids:
+  - id:60
+  name:
+    english: FRESH WATER
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:61
+  name:
+    english: SODA POP
+  buy_price: 300
+  sell_price: 150
+- ids:
+  - id:62
+  name:
+    english: LEMONADE
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:63
+  name:
+    english: S.S.TICKET
+- ids:
+  - id:64
+  name:
+    english: GOLD TEETH
+- ids:
+  - id:65
+  name:
+    english: X ATTACK
+  buy_price: 500
+  sell_price: 250
+- ids:
+  - id:66
+  name:
+    english: X DEFEND
+  buy_price: 550
+  sell_price: 275
+- ids:
+  - id:67
+  name:
+    english: X SPEED
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:68
+  name:
+    english: X SPECIAL
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:69
+  name:
+    english: COIN CASE
+- ids:
+  - id:70
+  name:
+    english: OAK's PARCEL
+- ids:
+  - id:71
+  name:
+    english: ITEMFINDER
+- ids:
+  - id:72
+  name:
+    english: SILPH SCOPE
+- ids:
+  - id:73
+  name:
+    english: POKé FLUTE
+- ids:
+  - id:74
+  name:
+    english: LIFT KEY
+- ids:
+  - id:75
+  name:
+    english: EXP.ALL
+- ids:
+  - id:76
+  name:
+    english: OLD ROD
+- ids:
+  - id:77
+  name:
+    english: GOOD ROD
+- ids:
+  - id:78
+  name:
+    english: SUPER ROD
+- ids:
+  - id:79
+  name:
+    english: PP UP
+- ids:
+  - id:80
+  name:
+    english: ETHER
+- ids:
+  - id:81
+  name:
+    english: MAX ETHER
+- ids:
+  - id:82
+  name:
+    english: ELIXER
+- ids:
+  - id:83
+  name:
+    english: MAX ELIXER

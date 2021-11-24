@@ -1,0 +1,422 @@
+- ids:
+  - id:1
+  name:
+    spanish: MASTER BALL
+- ids:
+  - id:2
+  name:
+    spanish: ULTRA BALL
+  buy_price: 1200
+  sell_price: 600
+- ids:
+  - id:3
+  name:
+    spanish: SÚPER BALL
+  buy_price: 600
+  sell_price: 300
+- ids:
+  - id:4
+  name:
+    spanish: POKé BALL
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:5
+  name:
+    spanish: MAPA PUEBLO
+- ids:
+  - id:6
+  name:
+    spanish: BICICLETA
+- ids:
+  - id:7
+  name:
+    spanish: ?????
+- ids:
+  - id:8
+  name:
+    spanish: SAFARI BALL
+  buy_price: 1000
+  sell_price: 500
+- ids:
+  - id:9
+  name:
+    spanish: POKéDEX
+- ids:
+  - id:10
+  name:
+    spanish: PIEDRA LUNAR
+- ids:
+  - id:11
+  name:
+    spanish: ANTÍDOTO
+  buy_price: 100
+  sell_price: 50
+- ids:
+  - id:12
+  name:
+    spanish: ANTIQUEMAR
+  buy_price: 250
+  sell_price: 125
+- ids:
+  - id:13
+  name:
+    spanish: ANTIHIELO
+  buy_price: 250
+  sell_price: 125
+- ids:
+  - id:14
+  name:
+    spanish: DESPERTAR
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:15
+  name:
+    spanish: ANTIPARALIZ.
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:16
+  name:
+    spanish: RESTAU. TODO
+  buy_price: 3000
+  sell_price: 1500
+- ids:
+  - id:17
+  name:
+    spanish: MÁX. POCIÓN
+  buy_price: 2500
+  sell_price: 1250
+- ids:
+  - id:18
+  name:
+    spanish: HÍPER POCIÓN
+  buy_price: 1500
+  sell_price: 750
+- ids:
+  - id:19
+  name:
+    spanish: SÚPER POCIÓN
+  buy_price: 700
+  sell_price: 350
+- ids:
+  - id:20
+  name:
+    spanish: POCIÓN
+  buy_price: 300
+  sell_price: 150
+- ids:
+  - id:21
+  name:
+    spanish: MED.ROCA
+- ids:
+  - id:22
+  name:
+    spanish: MED.CASCADA
+- ids:
+  - id:23
+  name:
+    spanish: MED.TRUENO
+- ids:
+  - id:24
+  name:
+    spanish: MED.ARCOIRIS
+- ids:
+  - id:25
+  name:
+    spanish: MED.ALMA
+- ids:
+  - id:26
+  name:
+    spanish: MED.PANTANO
+- ids:
+  - id:27
+  name:
+    spanish: MED.VOLCÁN
+- ids:
+  - id:28
+  name:
+    spanish: MED.TIERRA
+- ids:
+  - id:29
+  name:
+    spanish: CUERDA HUIDA
+  buy_price: 550
+  sell_price: 275
+- ids:
+  - id:30
+  name:
+    spanish: REPELENTE
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:31
+  name:
+    spanish: ÁMBAR VIEJO
+- ids:
+  - id:32
+  name:
+    spanish: PIEDRA FUEGO
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:33
+  name:
+    spanish: PIEDRATRUENO
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:34
+  name:
+    spanish: PIEDRA AGUA
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:35
+  name:
+    spanish: MÁS PS
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:36
+  name:
+    spanish: PROTEÍNAS
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:37
+  name:
+    spanish: HIERRO
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:38
+  name:
+    spanish: CARBURANTE
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:39
+  name:
+    spanish: CALCIO
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:40
+  name:
+    spanish: CARAMELORARO
+  buy_price: 4800
+  sell_price: 2400
+- ids:
+  - id:41
+  name:
+    spanish: FÓSIL DOMO
+- ids:
+  - id:42
+  name:
+    spanish: FÓSIL HELIX
+- ids:
+  - id:43
+  name:
+    spanish: LL. SECRETA
+- ids:
+  - id:44
+  name:
+    spanish: ?????
+- ids:
+  - id:45
+  name:
+    spanish: BONO BICI
+- ids:
+  - id:46
+  name:
+    spanish: PRECISIÓN X
+  buy_price: 950
+  sell_price: 475
+- ids:
+  - id:47
+  name:
+    spanish: PIEDRA HOJA
+  buy_price: 2100
+  sell_price: 1050
+- ids:
+  - id:48
+  name:
+    spanish: LL.MAGNÉTICA
+- ids:
+  - id:49
+  name:
+    spanish: PEPITA
+  buy_price: 10000
+  sell_price: 5000
+- ids:
+  - id:50
+  name:
+    spanish: MÁS  PP
+  buy_price: 9800
+  sell_price: 4900
+- ids:
+  - id:51
+  name:
+    spanish: POKé MUÑECA
+  buy_price: 1000
+  sell_price: 500
+- ids:
+  - id:52
+  name:
+    spanish: CURA TOTAL
+  buy_price: 600
+  sell_price: 300
+- ids:
+  - id:53
+  name:
+    spanish: REVIVIR
+  buy_price: 1500
+  sell_price: 750
+- ids:
+  - id:54
+  name:
+    spanish: MÁX. REVIVIR
+  buy_price: 4000
+  sell_price: 2000
+- ids:
+  - id:55
+  name:
+    spanish: PROTEC. ESP.
+  buy_price: 700
+  sell_price: 350
+- ids:
+  - id:56
+  name:
+    spanish: SÚPER REPEL
+  buy_price: 500
+  sell_price: 250
+- ids:
+  - id:57
+  name:
+    spanish: MÁX. REPEL
+  buy_price: 700
+  sell_price: 350
+- ids:
+  - id:58
+  name:
+    spanish: DIRECTO
+  buy_price: 650
+  sell_price: 325
+- ids:
+  - id:59
+  name:
+    spanish: MONEDA
+  buy_price: 10
+  sell_price: 5
+- ids:
+  - id:60
+  name:
+    spanish: AGUA FRESCA
+  buy_price: 200
+  sell_price: 100
+- ids:
+  - id:61
+  name:
+    spanish: REFRESCO
+  buy_price: 300
+  sell_price: 150
+- ids:
+  - id:62
+  name:
+    spanish: LIMONADA
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:63
+  name:
+    spanish: TICKET BARCO
+- ids:
+  - id:64
+  name:
+    spanish: DIENTE ORO
+- ids:
+  - id:65
+  name:
+    spanish: ATAQUE X
+  buy_price: 500
+  sell_price: 250
+- ids:
+  - id:66
+  name:
+    spanish: DEFENSA X
+  buy_price: 550
+  sell_price: 275
+- ids:
+  - id:67
+  name:
+    spanish: VELOCIDAD X
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:68
+  name:
+    spanish: ESPECIAL X
+  buy_price: 350
+  sell_price: 175
+- ids:
+  - id:69
+  name:
+    spanish: MONEDERO
+- ids:
+  - id:70
+  name:
+    spanish: CORREO-OAK
+- ids:
+  - id:71
+  name:
+    spanish: BUSCAOBJETOS
+- ids:
+  - id:72
+  name:
+    spanish: SCOPE SILPH
+- ids:
+  - id:73
+  name:
+    spanish: POKé FLAUTA
+- ids:
+  - id:74
+  name:
+    spanish: LL. ASCENSOR
+- ids:
+  - id:75
+  name:
+    spanish: REPARTIR EXP
+- ids:
+  - id:76
+  name:
+    spanish: CAñA VIEJA
+- ids:
+  - id:77
+  name:
+    spanish: CAñA BUENA
+- ids:
+  - id:78
+  name:
+    spanish: SÚPER CAÑA
+- ids:
+  - id:79
+  name:
+    spanish: MÁS  PP
+- ids:
+  - id:80
+  name:
+    spanish: ÉTER
+- ids:
+  - id:81
+  name:
+    spanish: ÉTER MÁX.
+- ids:
+  - id:82
+  name:
+    spanish: ELIXIR
+- ids:
+  - id:83
+  name:
+    spanish: ELIXIR MÁX.
