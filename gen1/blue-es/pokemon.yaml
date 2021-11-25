@@ -18,6 +18,9 @@
   species_class:
     spanish: SEMILLA
   learnset: !<reference> learnsets/id:1
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:2
+    min_level: 16
 - ids:
   - dex_national:2
   base_stats:
@@ -38,6 +41,9 @@
   species_class:
     spanish: SEMILLA
   learnset: !<reference> learnsets/id:2
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:3
+    min_level: 32
 - ids:
   - dex_national:3
   base_stats:
@@ -58,6 +64,7 @@
   species_class:
     spanish: SEMILLA
   learnset: !<reference> learnsets/id:3
+  evolutions: []
 - ids:
   - dex_national:4
   base_stats:
@@ -77,6 +84,9 @@
   species_class:
     spanish: LAGARTIJA
   learnset: !<reference> learnsets/id:4
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:5
+    min_level: 16
 - ids:
   - dex_national:5
   base_stats:
@@ -96,6 +106,9 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference> learnsets/id:5
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:6
+    min_level: 36
 - ids:
   - dex_national:6
   base_stats:
@@ -116,6 +129,7 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference> learnsets/id:6
+  evolutions: []
 - ids:
   - dex_national:7
   base_stats:
@@ -135,6 +149,9 @@
   species_class:
     spanish: TORTUGUITA
   learnset: !<reference> learnsets/id:7
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:8
+    min_level: 16
 - ids:
   - dex_national:8
   base_stats:
@@ -154,6 +171,9 @@
   species_class:
     spanish: TORTUGA
   learnset: !<reference> learnsets/id:8
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:9
+    min_level: 36
 - ids:
   - dex_national:9
   base_stats:
@@ -173,6 +193,7 @@
   species_class:
     spanish: MARISCO
   learnset: !<reference> learnsets/id:9
+  evolutions: []
 - ids:
   - dex_national:10
   base_stats:
@@ -192,6 +213,9 @@
   species_class:
     spanish: GUSANO
   learnset: !<reference> learnsets/id:10
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:11
+    min_level: 7
 - ids:
   - dex_national:11
   base_stats:
@@ -211,6 +235,9 @@
   species_class:
     spanish: CAPULLO
   learnset: !<reference> learnsets/id:11
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:12
+    min_level: 10
 - ids:
   - dex_national:12
   base_stats:
@@ -231,6 +258,7 @@
   species_class:
     spanish: MARIPOSA
   learnset: !<reference> learnsets/id:12
+  evolutions: []
 - ids:
   - dex_national:13
   base_stats:
@@ -251,6 +279,9 @@
   species_class:
     spanish: ORUGA
   learnset: !<reference> learnsets/id:13
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:14
+    min_level: 7
 - ids:
   - dex_national:14
   base_stats:
@@ -271,6 +302,9 @@
   species_class:
     spanish: CAPULLO
   learnset: !<reference> learnsets/id:14
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:15
+    min_level: 10
 - ids:
   - dex_national:15
   base_stats:
@@ -291,6 +325,7 @@
   species_class:
     spanish: ABEJA VEN.
   learnset: !<reference> learnsets/id:15
+  evolutions: []
 - ids:
   - dex_national:16
   base_stats:
@@ -311,6 +346,9 @@
   species_class:
     spanish: PAJARITO
   learnset: !<reference> learnsets/id:16
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:17
+    min_level: 18
 - ids:
   - dex_national:17
   base_stats:
@@ -331,6 +369,9 @@
   species_class:
     spanish: PÁJARO
   learnset: !<reference> learnsets/id:17
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:18
+    min_level: 36
 - ids:
   - dex_national:18
   base_stats:
@@ -351,6 +392,7 @@
   species_class:
     spanish: PÁJARO
   learnset: !<reference> learnsets/id:18
+  evolutions: []
 - ids:
   - dex_national:19
   base_stats:
@@ -370,6 +412,9 @@
   species_class:
     spanish: RATA
   learnset: !<reference> learnsets/id:19
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:20
+    min_level: 20
 - ids:
   - dex_national:20
   base_stats:
@@ -389,6 +434,7 @@
   species_class:
     spanish: RATA
   learnset: !<reference> learnsets/id:20
+  evolutions: []
 - ids:
   - dex_national:21
   base_stats:
@@ -409,6 +455,9 @@
   species_class:
     spanish: PAJARITO
   learnset: !<reference> learnsets/id:21
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:22
+    min_level: 20
 - ids:
   - dex_national:22
   base_stats:
@@ -429,6 +478,7 @@
   species_class:
     spanish: PICO
   learnset: !<reference> learnsets/id:22
+  evolutions: []
 - ids:
   - dex_national:23
   base_stats:
@@ -448,6 +498,9 @@
   species_class:
     spanish: SERPIENTE
   learnset: !<reference> learnsets/id:23
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:24
+    min_level: 22
 - ids:
   - dex_national:24
   base_stats:
@@ -467,6 +520,7 @@
   species_class:
     spanish: COBRA
   learnset: !<reference> learnsets/id:24
+  evolutions: []
 - ids:
   - dex_national:25
   base_stats:
@@ -486,6 +540,9 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference> learnsets/id:25
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:26
+    used_item: !<reference> items/id:33
 - ids:
   - dex_national:26
   base_stats:
@@ -505,6 +562,7 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference> learnsets/id:26
+  evolutions: []
 - ids:
   - dex_national:27
   base_stats:
@@ -524,6 +582,9 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference> learnsets/id:27
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:28
+    min_level: 22
 - ids:
   - dex_national:28
   base_stats:
@@ -543,6 +604,7 @@
   species_class:
     spanish: RATÓN
   learnset: !<reference> learnsets/id:28
+  evolutions: []
 - ids:
   - dex_national:29
   base_stats:
@@ -562,6 +624,9 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference> learnsets/id:29
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:30
+    min_level: 16
 - ids:
   - dex_national:30
   base_stats:
@@ -581,6 +646,9 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference> learnsets/id:30
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:31
+    used_item: !<reference> items/id:10
 - ids:
   - dex_national:31
   base_stats:
@@ -601,6 +669,7 @@
   species_class:
     spanish: TALADRO
   learnset: !<reference> learnsets/id:31
+  evolutions: []
 - ids:
   - dex_national:32
   base_stats:
@@ -620,6 +689,9 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference> learnsets/id:32
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:33
+    min_level: 16
 - ids:
   - dex_national:33
   base_stats:
@@ -639,6 +711,9 @@
   species_class:
     spanish: PIN VENENO
   learnset: !<reference> learnsets/id:33
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:34
+    used_item: !<reference> items/id:10
 - ids:
   - dex_national:34
   base_stats:
@@ -659,6 +734,7 @@
   species_class:
     spanish: TALADRO
   learnset: !<reference> learnsets/id:34
+  evolutions: []
 - ids:
   - dex_national:35
   base_stats:
@@ -678,6 +754,9 @@
   species_class:
     spanish: HADA
   learnset: !<reference> learnsets/id:35
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:36
+    used_item: !<reference> items/id:10
 - ids:
   - dex_national:36
   base_stats:
@@ -697,6 +776,7 @@
   species_class:
     spanish: HADA
   learnset: !<reference> learnsets/id:36
+  evolutions: []
 - ids:
   - dex_national:37
   base_stats:
@@ -716,6 +796,9 @@
   species_class:
     spanish: ZORRO
   learnset: !<reference> learnsets/id:37
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:38
+    used_item: !<reference> items/id:32
 - ids:
   - dex_national:38
   base_stats:
@@ -735,6 +818,7 @@
   species_class:
     spanish: ZORRO
   learnset: !<reference> learnsets/id:38
+  evolutions: []
 - ids:
   - dex_national:39
   base_stats:
@@ -754,6 +838,9 @@
   species_class:
     spanish: GLOBO
   learnset: !<reference> learnsets/id:39
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:40
+    used_item: !<reference> items/id:10
 - ids:
   - dex_national:40
   base_stats:
@@ -773,6 +860,7 @@
   species_class:
     spanish: GLOBO
   learnset: !<reference> learnsets/id:40
+  evolutions: []
 - ids:
   - dex_national:41
   base_stats:
@@ -793,6 +881,9 @@
   species_class:
     spanish: MURCIÉLAGO
   learnset: !<reference> learnsets/id:41
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:42
+    min_level: 22
 - ids:
   - dex_national:42
   base_stats:
@@ -813,6 +904,7 @@
   species_class:
     spanish: MURCIÉLAGO
   learnset: !<reference> learnsets/id:42
+  evolutions: []
 - ids:
   - dex_national:43
   base_stats:
@@ -833,6 +925,9 @@
   species_class:
     spanish: ALGAS
   learnset: !<reference> learnsets/id:43
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:44
+    min_level: 21
 - ids:
   - dex_national:44
   base_stats:
@@ -853,6 +948,9 @@
   species_class:
     spanish: ALGAS
   learnset: !<reference> learnsets/id:44
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:45
+    used_item: !<reference> items/id:47
 - ids:
   - dex_national:45
   base_stats:
@@ -873,6 +971,7 @@
   species_class:
     spanish: FLOR
   learnset: !<reference> learnsets/id:45
+  evolutions: []
 - ids:
   - dex_national:46
   base_stats:
@@ -893,6 +992,9 @@
   species_class:
     spanish: HONGO
   learnset: !<reference> learnsets/id:46
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:47
+    min_level: 24
 - ids:
   - dex_national:47
   base_stats:
@@ -913,6 +1015,7 @@
   species_class:
     spanish: HONGO
   learnset: !<reference> learnsets/id:47
+  evolutions: []
 - ids:
   - dex_national:48
   base_stats:
@@ -933,6 +1036,9 @@
   species_class:
     spanish: INSECTO
   learnset: !<reference> learnsets/id:48
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:49
+    min_level: 31
 - ids:
   - dex_national:49
   base_stats:
@@ -953,6 +1059,7 @@
   species_class:
     spanish: MOPA VEN.
   learnset: !<reference> learnsets/id:49
+  evolutions: []
 - ids:
   - dex_national:50
   base_stats:
@@ -972,6 +1079,9 @@
   species_class:
     spanish: TOPO
   learnset: !<reference> learnsets/id:50
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:51
+    min_level: 26
 - ids:
   - dex_national:51
   base_stats:
@@ -991,6 +1101,7 @@
   species_class:
     spanish: TOPO
   learnset: !<reference> learnsets/id:51
+  evolutions: []
 - ids:
   - dex_national:52
   base_stats:
@@ -1010,6 +1121,9 @@
   species_class:
     spanish: GATO ARAÑA
   learnset: !<reference> learnsets/id:52
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:53
+    min_level: 28
 - ids:
   - dex_national:53
   base_stats:
@@ -1029,6 +1143,7 @@
   species_class:
     spanish: GATO FINO
   learnset: !<reference> learnsets/id:53
+  evolutions: []
 - ids:
   - dex_national:54
   base_stats:
@@ -1048,6 +1163,9 @@
   species_class:
     spanish: PATO
   learnset: !<reference> learnsets/id:54
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:55
+    min_level: 33
 - ids:
   - dex_national:55
   base_stats:
@@ -1067,6 +1185,7 @@
   species_class:
     spanish: PATO
   learnset: !<reference> learnsets/id:55
+  evolutions: []
 - ids:
   - dex_national:56
   base_stats:
@@ -1086,6 +1205,9 @@
   species_class:
     spanish: MONO CERDO
   learnset: !<reference> learnsets/id:56
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:57
+    min_level: 28
 - ids:
   - dex_national:57
   base_stats:
@@ -1105,6 +1227,7 @@
   species_class:
     spanish: MONO CERDO
   learnset: !<reference> learnsets/id:57
+  evolutions: []
 - ids:
   - dex_national:58
   base_stats:
@@ -1124,6 +1247,9 @@
   species_class:
     spanish: PERRITO
   learnset: !<reference> learnsets/id:58
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:59
+    used_item: !<reference> items/id:32
 - ids:
   - dex_national:59
   base_stats:
@@ -1143,6 +1269,7 @@
   species_class:
     spanish: LEGENDARIO
   learnset: !<reference> learnsets/id:59
+  evolutions: []
 - ids:
   - dex_national:60
   base_stats:
@@ -1162,6 +1289,9 @@
   species_class:
     spanish: RENACUAJO
   learnset: !<reference> learnsets/id:60
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:61
+    min_level: 25
 - ids:
   - dex_national:61
   base_stats:
@@ -1181,6 +1311,9 @@
   species_class:
     spanish: RENACUAJO
   learnset: !<reference> learnsets/id:61
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:62
+    used_item: !<reference> items/id:34
 - ids:
   - dex_national:62
   base_stats:
@@ -1201,6 +1334,7 @@
   species_class:
     spanish: RENACUAJO
   learnset: !<reference> learnsets/id:62
+  evolutions: []
 - ids:
   - dex_national:63
   base_stats:
@@ -1220,6 +1354,9 @@
   species_class:
     spanish: PSI
   learnset: !<reference> learnsets/id:63
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:64
+    min_level: 16
 - ids:
   - dex_national:64
   base_stats:
@@ -1239,6 +1376,8 @@
   species_class:
     spanish: PSI
   learnset: !<reference> learnsets/id:64
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:65
 - ids:
   - dex_national:65
   base_stats:
@@ -1258,6 +1397,7 @@
   species_class:
     spanish: PSI
   learnset: !<reference> learnsets/id:65
+  evolutions: []
 - ids:
   - dex_national:66
   base_stats:
@@ -1277,6 +1417,9 @@
   species_class:
     spanish: SUPERPODER
   learnset: !<reference> learnsets/id:66
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:67
+    min_level: 28
 - ids:
   - dex_national:67
   base_stats:
@@ -1296,6 +1439,8 @@
   species_class:
     spanish: SUPERPODER
   learnset: !<reference> learnsets/id:67
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:68
 - ids:
   - dex_national:68
   base_stats:
@@ -1315,6 +1460,7 @@
   species_class:
     spanish: SUPERPODER
   learnset: !<reference> learnsets/id:68
+  evolutions: []
 - ids:
   - dex_national:69
   base_stats:
@@ -1335,6 +1481,9 @@
   species_class:
     spanish: FLOR
   learnset: !<reference> learnsets/id:69
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:70
+    min_level: 21
 - ids:
   - dex_national:70
   base_stats:
@@ -1355,6 +1504,9 @@
   species_class:
     spanish: MATAMOSCAS
   learnset: !<reference> learnsets/id:70
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:71
+    used_item: !<reference> items/id:47
 - ids:
   - dex_national:71
   base_stats:
@@ -1375,6 +1527,7 @@
   species_class:
     spanish: MATAMOSCAS
   learnset: !<reference> learnsets/id:71
+  evolutions: []
 - ids:
   - dex_national:72
   base_stats:
@@ -1395,6 +1548,9 @@
   species_class:
     spanish: MEDUSA
   learnset: !<reference> learnsets/id:72
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:73
+    min_level: 30
 - ids:
   - dex_national:73
   base_stats:
@@ -1415,6 +1571,7 @@
   species_class:
     spanish: MEDUSA
   learnset: !<reference> learnsets/id:73
+  evolutions: []
 - ids:
   - dex_national:74
   base_stats:
@@ -1435,6 +1592,9 @@
   species_class:
     spanish: ROCA
   learnset: !<reference> learnsets/id:74
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:75
+    min_level: 25
 - ids:
   - dex_national:75
   base_stats:
@@ -1455,6 +1615,8 @@
   species_class:
     spanish: ROCA
   learnset: !<reference> learnsets/id:75
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:76
 - ids:
   - dex_national:76
   base_stats:
@@ -1475,6 +1637,7 @@
   species_class:
     spanish: MEGATÓN
   learnset: !<reference> learnsets/id:76
+  evolutions: []
 - ids:
   - dex_national:77
   base_stats:
@@ -1494,6 +1657,9 @@
   species_class:
     spanish: CABALLO F.
   learnset: !<reference> learnsets/id:77
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:78
+    min_level: 40
 - ids:
   - dex_national:78
   base_stats:
@@ -1513,6 +1679,7 @@
   species_class:
     spanish: CABALLO F.
   learnset: !<reference> learnsets/id:78
+  evolutions: []
 - ids:
   - dex_national:79
   base_stats:
@@ -1533,6 +1700,9 @@
   species_class:
     spanish: ATONTADO
   learnset: !<reference> learnsets/id:79
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:80
+    min_level: 37
 - ids:
   - dex_national:80
   base_stats:
@@ -1553,6 +1723,7 @@
   species_class:
     spanish: ERMITAÑO
   learnset: !<reference> learnsets/id:80
+  evolutions: []
 - ids:
   - dex_national:81
   base_stats:
@@ -1572,6 +1743,9 @@
   species_class:
     spanish: IMÁN
   learnset: !<reference> learnsets/id:81
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:82
+    min_level: 30
 - ids:
   - dex_national:82
   base_stats:
@@ -1591,6 +1765,7 @@
   species_class:
     spanish: IMÁN
   learnset: !<reference> learnsets/id:82
+  evolutions: []
 - ids:
   - dex_national:83
   base_stats:
@@ -1611,6 +1786,7 @@
   species_class:
     spanish: PATO SALV.
   learnset: !<reference> learnsets/id:83
+  evolutions: []
 - ids:
   - dex_national:84
   base_stats:
@@ -1631,6 +1807,9 @@
   species_class:
     spanish: AVE GEMELA
   learnset: !<reference> learnsets/id:84
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:85
+    min_level: 31
 - ids:
   - dex_national:85
   base_stats:
@@ -1651,6 +1830,7 @@
   species_class:
     spanish: AVE TRIPLE
   learnset: !<reference> learnsets/id:85
+  evolutions: []
 - ids:
   - dex_national:86
   base_stats:
@@ -1670,6 +1850,9 @@
   species_class:
     spanish: LEÓN MAR.
   learnset: !<reference> learnsets/id:86
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:87
+    min_level: 34
 - ids:
   - dex_national:87
   base_stats:
@@ -1690,6 +1873,7 @@
   species_class:
     spanish: LEÓN MAR.
   learnset: !<reference> learnsets/id:87
+  evolutions: []
 - ids:
   - dex_national:88
   base_stats:
@@ -1709,6 +1893,9 @@
   species_class:
     spanish: LODO
   learnset: !<reference> learnsets/id:88
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:89
+    min_level: 38
 - ids:
   - dex_national:89
   base_stats:
@@ -1728,6 +1915,7 @@
   species_class:
     spanish: LODO
   learnset: !<reference> learnsets/id:89
+  evolutions: []
 - ids:
   - dex_national:90
   base_stats:
@@ -1747,6 +1935,9 @@
   species_class:
     spanish: BIVALVO
   learnset: !<reference> learnsets/id:90
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:91
+    used_item: !<reference> items/id:34
 - ids:
   - dex_national:91
   base_stats:
@@ -1767,6 +1958,7 @@
   species_class:
     spanish: BIVALVO
   learnset: !<reference> learnsets/id:91
+  evolutions: []
 - ids:
   - dex_national:92
   base_stats:
@@ -1787,6 +1979,9 @@
   species_class:
     spanish: GAS
   learnset: !<reference> learnsets/id:92
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:93
+    min_level: 25
 - ids:
   - dex_national:93
   base_stats:
@@ -1807,6 +2002,8 @@
   species_class:
     spanish: GAS
   learnset: !<reference> learnsets/id:93
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:94
 - ids:
   - dex_national:94
   base_stats:
@@ -1827,6 +2024,7 @@
   species_class:
     spanish: SOMBRA
   learnset: !<reference> learnsets/id:94
+  evolutions: []
 - ids:
   - dex_national:95
   base_stats:
@@ -1847,6 +2045,7 @@
   species_class:
     spanish: SERP.ROCA
   learnset: !<reference> learnsets/id:95
+  evolutions: []
 - ids:
   - dex_national:96
   base_stats:
@@ -1866,6 +2065,9 @@
   species_class:
     spanish: HIPNOSIS
   learnset: !<reference> learnsets/id:96
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:97
+    min_level: 26
 - ids:
   - dex_national:97
   base_stats:
@@ -1885,6 +2087,7 @@
   species_class:
     spanish: HIPNOSIS
   learnset: !<reference> learnsets/id:97
+  evolutions: []
 - ids:
   - dex_national:98
   base_stats:
@@ -1904,6 +2107,9 @@
   species_class:
     spanish: CANGREJO
   learnset: !<reference> learnsets/id:98
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:99
+    min_level: 28
 - ids:
   - dex_national:99
   base_stats:
@@ -1923,6 +2129,7 @@
   species_class:
     spanish: TENAZA
   learnset: !<reference> learnsets/id:99
+  evolutions: []
 - ids:
   - dex_national:100
   base_stats:
@@ -1942,6 +2149,9 @@
   species_class:
     spanish: BOLA
   learnset: !<reference> learnsets/id:100
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:101
+    min_level: 30
 - ids:
   - dex_national:101
   base_stats:
@@ -1961,6 +2171,7 @@
   species_class:
     spanish: BOLA
   learnset: !<reference> learnsets/id:101
+  evolutions: []
 - ids:
   - dex_national:102
   base_stats:
@@ -1981,6 +2192,9 @@
   species_class:
     spanish: HUEVO
   learnset: !<reference> learnsets/id:102
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:103
+    used_item: !<reference> items/id:47
 - ids:
   - dex_national:103
   base_stats:
@@ -2001,6 +2215,7 @@
   species_class:
     spanish: COCO
   learnset: !<reference> learnsets/id:103
+  evolutions: []
 - ids:
   - dex_national:104
   base_stats:
@@ -2020,6 +2235,9 @@
   species_class:
     spanish: SOLITARIO
   learnset: !<reference> learnsets/id:104
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:105
+    min_level: 28
 - ids:
   - dex_national:105
   base_stats:
@@ -2039,6 +2257,7 @@
   species_class:
     spanish: APILAHUESO
   learnset: !<reference> learnsets/id:105
+  evolutions: []
 - ids:
   - dex_national:106
   base_stats:
@@ -2058,6 +2277,7 @@
   species_class:
     spanish: PATEANDO
   learnset: !<reference> learnsets/id:106
+  evolutions: []
 - ids:
   - dex_national:107
   base_stats:
@@ -2077,6 +2297,7 @@
   species_class:
     spanish: PEGANDO
   learnset: !<reference> learnsets/id:107
+  evolutions: []
 - ids:
   - dex_national:108
   base_stats:
@@ -2096,6 +2317,7 @@
   species_class:
     spanish: LAMIENDO
   learnset: !<reference> learnsets/id:108
+  evolutions: []
 - ids:
   - dex_national:109
   base_stats:
@@ -2115,6 +2337,9 @@
   species_class:
     spanish: GAS VENENO
   learnset: !<reference> learnsets/id:109
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:110
+    min_level: 35
 - ids:
   - dex_national:110
   base_stats:
@@ -2134,6 +2359,7 @@
   species_class:
     spanish: GAS VENENO
   learnset: !<reference> learnsets/id:110
+  evolutions: []
 - ids:
   - dex_national:111
   base_stats:
@@ -2154,6 +2380,9 @@
   species_class:
     spanish: CLAVOS
   learnset: !<reference> learnsets/id:111
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:112
+    min_level: 42
 - ids:
   - dex_national:112
   base_stats:
@@ -2174,6 +2403,7 @@
   species_class:
     spanish: TALADRO
   learnset: !<reference> learnsets/id:112
+  evolutions: []
 - ids:
   - dex_national:113
   base_stats:
@@ -2193,6 +2423,7 @@
   species_class:
     spanish: HUEVO
   learnset: !<reference> learnsets/id:113
+  evolutions: []
 - ids:
   - dex_national:114
   base_stats:
@@ -2212,6 +2443,7 @@
   species_class:
     spanish: ENREDADERA
   learnset: !<reference> learnsets/id:114
+  evolutions: []
 - ids:
   - dex_national:115
   base_stats:
@@ -2231,6 +2463,7 @@
   species_class:
     spanish: PADRES
   learnset: !<reference> learnsets/id:115
+  evolutions: []
 - ids:
   - dex_national:116
   base_stats:
@@ -2250,6 +2483,9 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference> learnsets/id:116
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:117
+    min_level: 32
 - ids:
   - dex_national:117
   base_stats:
@@ -2269,6 +2505,7 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference> learnsets/id:117
+  evolutions: []
 - ids:
   - dex_national:118
   base_stats:
@@ -2288,6 +2525,9 @@
   species_class:
     spanish: PEZ COLOR
   learnset: !<reference> learnsets/id:118
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:119
+    min_level: 33
 - ids:
   - dex_national:119
   base_stats:
@@ -2307,6 +2547,7 @@
   species_class:
     spanish: PEZ COLOR
   learnset: !<reference> learnsets/id:119
+  evolutions: []
 - ids:
   - dex_national:120
   base_stats:
@@ -2326,6 +2567,9 @@
   species_class:
     spanish: ESTRELLADA
   learnset: !<reference> learnsets/id:120
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:121
+    used_item: !<reference> items/id:34
 - ids:
   - dex_national:121
   base_stats:
@@ -2346,6 +2590,7 @@
   species_class:
     spanish: MISTERIOSO
   learnset: !<reference> learnsets/id:121
+  evolutions: []
 - ids:
   - dex_national:122
   base_stats:
@@ -2365,6 +2610,7 @@
   species_class:
     spanish: BARRERA
   learnset: !<reference> learnsets/id:122
+  evolutions: []
 - ids:
   - dex_national:123
   base_stats:
@@ -2385,6 +2631,7 @@
   species_class:
     spanish: MANTIS
   learnset: !<reference> learnsets/id:123
+  evolutions: []
 - ids:
   - dex_national:124
   base_stats:
@@ -2405,6 +2652,7 @@
   species_class:
     spanish: F. HUMANA
   learnset: !<reference> learnsets/id:124
+  evolutions: []
 - ids:
   - dex_national:125
   base_stats:
@@ -2424,6 +2672,7 @@
   species_class:
     spanish: ELÉCTRICO
   learnset: !<reference> learnsets/id:125
+  evolutions: []
 - ids:
   - dex_national:126
   base_stats:
@@ -2443,6 +2692,7 @@
   species_class:
     spanish: ESCUPFUEGO
   learnset: !<reference> learnsets/id:126
+  evolutions: []
 - ids:
   - dex_national:127
   base_stats:
@@ -2462,6 +2712,7 @@
   species_class:
     spanish: ESCARABAJO
   learnset: !<reference> learnsets/id:127
+  evolutions: []
 - ids:
   - dex_national:128
   base_stats:
@@ -2481,6 +2732,7 @@
   species_class:
     spanish: TORO BRAVO
   learnset: !<reference> learnsets/id:128
+  evolutions: []
 - ids:
   - dex_national:129
   base_stats:
@@ -2500,6 +2752,9 @@
   species_class:
     spanish: PEZ
   learnset: !<reference> learnsets/id:129
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:130
+    min_level: 20
 - ids:
   - dex_national:130
   base_stats:
@@ -2520,6 +2775,7 @@
   species_class:
     spanish: ATROCIDAD
   learnset: !<reference> learnsets/id:130
+  evolutions: []
 - ids:
   - dex_national:131
   base_stats:
@@ -2540,6 +2796,7 @@
   species_class:
     spanish: TRANSPORTE
   learnset: !<reference> learnsets/id:131
+  evolutions: []
 - ids:
   - dex_national:132
   base_stats:
@@ -2559,6 +2816,7 @@
   species_class:
     spanish: TRANSFORM.
   learnset: !<reference> learnsets/id:132
+  evolutions: []
 - ids:
   - dex_national:133
   base_stats:
@@ -2578,6 +2836,13 @@
   species_class:
     spanish: EVOLUCIÓN
   learnset: !<reference> learnsets/id:133
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:136
+    used_item: !<reference> items/id:32
+  - evolved_pokemon: !<reference> pokemon/id:135
+    used_item: !<reference> items/id:33
+  - evolved_pokemon: !<reference> pokemon/id:134
+    used_item: !<reference> items/id:34
 - ids:
   - dex_national:134
   base_stats:
@@ -2597,6 +2862,7 @@
   species_class:
     spanish: BURBUJA
   learnset: !<reference> learnsets/id:134
+  evolutions: []
 - ids:
   - dex_national:135
   base_stats:
@@ -2616,6 +2882,7 @@
   species_class:
     spanish: RELÁMPAGO
   learnset: !<reference> learnsets/id:135
+  evolutions: []
 - ids:
   - dex_national:136
   base_stats:
@@ -2635,6 +2902,7 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference> learnsets/id:136
+  evolutions: []
 - ids:
   - dex_national:137
   base_stats:
@@ -2654,6 +2922,7 @@
   species_class:
     spanish: VIRTUAL
   learnset: !<reference> learnsets/id:137
+  evolutions: []
 - ids:
   - dex_national:138
   base_stats:
@@ -2674,6 +2943,9 @@
   species_class:
     spanish: ESPIRAL
   learnset: !<reference> learnsets/id:138
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:139
+    min_level: 40
 - ids:
   - dex_national:139
   base_stats:
@@ -2694,6 +2966,7 @@
   species_class:
     spanish: ESPIRAL
   learnset: !<reference> learnsets/id:139
+  evolutions: []
 - ids:
   - dex_national:140
   base_stats:
@@ -2714,6 +2987,9 @@
   species_class:
     spanish: MARISCO
   learnset: !<reference> learnsets/id:140
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:141
+    min_level: 40
 - ids:
   - dex_national:141
   base_stats:
@@ -2734,6 +3010,7 @@
   species_class:
     spanish: MARISCO
   learnset: !<reference> learnsets/id:141
+  evolutions: []
 - ids:
   - dex_national:142
   base_stats:
@@ -2754,6 +3031,7 @@
   species_class:
     spanish: FÓSIL
   learnset: !<reference> learnsets/id:142
+  evolutions: []
 - ids:
   - dex_national:143
   base_stats:
@@ -2773,6 +3051,7 @@
   species_class:
     spanish: DORMIR
   learnset: !<reference> learnsets/id:143
+  evolutions: []
 - ids:
   - dex_national:144
   base_stats:
@@ -2793,6 +3072,7 @@
   species_class:
     spanish: CONGELAR
   learnset: !<reference> learnsets/id:144
+  evolutions: []
 - ids:
   - dex_national:145
   base_stats:
@@ -2813,6 +3093,7 @@
   species_class:
     spanish: ELÉCTRICO
   learnset: !<reference> learnsets/id:145
+  evolutions: []
 - ids:
   - dex_national:146
   base_stats:
@@ -2833,6 +3114,7 @@
   species_class:
     spanish: LLAMA
   learnset: !<reference> learnsets/id:146
+  evolutions: []
 - ids:
   - dex_national:147
   base_stats:
@@ -2852,6 +3134,9 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference> learnsets/id:147
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:148
+    min_level: 30
 - ids:
   - dex_national:148
   base_stats:
@@ -2871,6 +3156,9 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference> learnsets/id:148
+  evolutions:
+  - evolved_pokemon: !<reference> pokemon/id:149
+    min_level: 55
 - ids:
   - dex_national:149
   base_stats:
@@ -2891,6 +3179,7 @@
   species_class:
     spanish: DRAGÓN
   learnset: !<reference> learnsets/id:149
+  evolutions: []
 - ids:
   - dex_national:150
   base_stats:
@@ -2910,6 +3199,7 @@
   species_class:
     spanish: GENÉTICO
   learnset: !<reference> learnsets/id:150
+  evolutions: []
 - ids:
   - dex_national:151
   base_stats:
@@ -2929,3 +3219,4 @@
   species_class:
     spanish: N.ESPECIE
   learnset: !<reference> learnsets/id:151
+  evolutions: []
