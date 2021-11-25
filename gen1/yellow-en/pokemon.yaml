@@ -19,7 +19,7 @@
     english: SEED
   learnset: !<reference> learnsets/id:1
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:2
+  - evolved_pokemon: !<reference> pokemon/dex_national:2
     min_level: 16
 - ids:
   - dex_national:2
@@ -42,7 +42,7 @@
     english: SEED
   learnset: !<reference> learnsets/id:2
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:3
+  - evolved_pokemon: !<reference> pokemon/dex_national:3
     min_level: 32
 - ids:
   - dex_national:3
@@ -85,7 +85,7 @@
     english: LIZARD
   learnset: !<reference> learnsets/id:4
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:5
+  - evolved_pokemon: !<reference> pokemon/dex_national:5
     min_level: 16
 - ids:
   - dex_national:5
@@ -107,7 +107,7 @@
     english: FLAME
   learnset: !<reference> learnsets/id:5
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:6
+  - evolved_pokemon: !<reference> pokemon/dex_national:6
     min_level: 36
 - ids:
   - dex_national:6
@@ -150,7 +150,7 @@
     english: TINYTURTLE
   learnset: !<reference> learnsets/id:7
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:8
+  - evolved_pokemon: !<reference> pokemon/dex_national:8
     min_level: 16
 - ids:
   - dex_national:8
@@ -172,7 +172,7 @@
     english: TURTLE
   learnset: !<reference> learnsets/id:8
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:9
+  - evolved_pokemon: !<reference> pokemon/dex_national:9
     min_level: 36
 - ids:
   - dex_national:9
@@ -214,7 +214,7 @@
     english: WORM
   learnset: !<reference> learnsets/id:10
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:11
+  - evolved_pokemon: !<reference> pokemon/dex_national:11
     min_level: 7
 - ids:
   - dex_national:11
@@ -236,7 +236,7 @@
     english: COCOON
   learnset: !<reference> learnsets/id:11
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:12
+  - evolved_pokemon: !<reference> pokemon/dex_national:12
     min_level: 10
 - ids:
   - dex_national:12
@@ -280,7 +280,7 @@
     english: HAIRY BUG
   learnset: !<reference> learnsets/id:13
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:14
+  - evolved_pokemon: !<reference> pokemon/dex_national:14
     min_level: 7
 - ids:
   - dex_national:14
@@ -303,7 +303,7 @@
     english: COCOON
   learnset: !<reference> learnsets/id:14
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:15
+  - evolved_pokemon: !<reference> pokemon/dex_national:15
     min_level: 10
 - ids:
   - dex_national:15
@@ -347,7 +347,7 @@
     english: TINY BIRD
   learnset: !<reference> learnsets/id:16
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:17
+  - evolved_pokemon: !<reference> pokemon/dex_national:17
     min_level: 18
 - ids:
   - dex_national:17
@@ -370,7 +370,7 @@
     english: BIRD
   learnset: !<reference> learnsets/id:17
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:18
+  - evolved_pokemon: !<reference> pokemon/dex_national:18
     min_level: 36
 - ids:
   - dex_national:18
@@ -413,7 +413,7 @@
     english: RAT
   learnset: !<reference> learnsets/id:19
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:20
+  - evolved_pokemon: !<reference> pokemon/dex_national:20
     min_level: 20
 - ids:
   - dex_national:20
@@ -456,7 +456,7 @@
     english: TINY BIRD
   learnset: !<reference> learnsets/id:21
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:22
+  - evolved_pokemon: !<reference> pokemon/dex_national:22
     min_level: 20
 - ids:
   - dex_national:22
@@ -499,7 +499,7 @@
     english: SNAKE
   learnset: !<reference> learnsets/id:23
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:24
+  - evolved_pokemon: !<reference> pokemon/dex_national:24
     min_level: 22
 - ids:
   - dex_national:24
@@ -541,7 +541,7 @@
     english: MOUSE
   learnset: !<reference> learnsets/id:25
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:26
+  - evolved_pokemon: !<reference> pokemon/dex_national:26
     used_item: !<reference> items/id:33
 - ids:
   - dex_national:26
@@ -583,7 +583,7 @@
     english: MOUSE
   learnset: !<reference> learnsets/id:27
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:28
+  - evolved_pokemon: !<reference> pokemon/dex_national:28
     min_level: 22
 - ids:
   - dex_national:28
@@ -625,7 +625,7 @@
     english: POISON PIN
   learnset: !<reference> learnsets/id:29
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:30
+  - evolved_pokemon: !<reference> pokemon/dex_national:30
     min_level: 16
 - ids:
   - dex_national:30
@@ -647,7 +647,7 @@
     english: POISON PIN
   learnset: !<reference> learnsets/id:30
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:31
+  - evolved_pokemon: !<reference> pokemon/dex_national:31
     used_item: !<reference> items/id:10
 - ids:
   - dex_national:31
@@ -690,7 +690,7 @@
     english: POISON PIN
   learnset: !<reference> learnsets/id:32
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:33
+  - evolved_pokemon: !<reference> pokemon/dex_national:33
     min_level: 16
 - ids:
   - dex_national:33
@@ -712,7 +712,7 @@
     english: POISON PIN
   learnset: !<reference> learnsets/id:33
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:34
+  - evolved_pokemon: !<reference> pokemon/dex_national:34
     used_item: !<reference> items/id:10
 - ids:
   - dex_national:34
@@ -755,7 +755,7 @@
     english: FAIRY
   learnset: !<reference> learnsets/id:35
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:36
+  - evolved_pokemon: !<reference> pokemon/dex_national:36
     used_item: !<reference> items/id:10
 - ids:
   - dex_national:36
@@ -797,7 +797,7 @@
     english: FOX
   learnset: !<reference> learnsets/id:37
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:38
+  - evolved_pokemon: !<reference> pokemon/dex_national:38
     used_item: !<reference> items/id:32
 - ids:
   - dex_national:38
@@ -839,7 +839,7 @@
     english: BALLOON
   learnset: !<reference> learnsets/id:39
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:40
+  - evolved_pokemon: !<reference> pokemon/dex_national:40
     used_item: !<reference> items/id:10
 - ids:
   - dex_national:40
@@ -882,7 +882,7 @@
     english: BAT
   learnset: !<reference> learnsets/id:41
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:42
+  - evolved_pokemon: !<reference> pokemon/dex_national:42
     min_level: 22
 - ids:
   - dex_national:42
@@ -926,7 +926,7 @@
     english: WEED
   learnset: !<reference> learnsets/id:43
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:44
+  - evolved_pokemon: !<reference> pokemon/dex_national:44
     min_level: 21
 - ids:
   - dex_national:44
@@ -949,7 +949,7 @@
     english: WEED
   learnset: !<reference> learnsets/id:44
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:45
+  - evolved_pokemon: !<reference> pokemon/dex_national:45
     used_item: !<reference> items/id:47
 - ids:
   - dex_national:45
@@ -993,7 +993,7 @@
     english: MUSHROOM
   learnset: !<reference> learnsets/id:46
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:47
+  - evolved_pokemon: !<reference> pokemon/dex_national:47
     min_level: 24
 - ids:
   - dex_national:47
@@ -1037,7 +1037,7 @@
     english: INSECT
   learnset: !<reference> learnsets/id:48
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:49
+  - evolved_pokemon: !<reference> pokemon/dex_national:49
     min_level: 31
 - ids:
   - dex_national:49
@@ -1080,7 +1080,7 @@
     english: MOLE
   learnset: !<reference> learnsets/id:50
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:51
+  - evolved_pokemon: !<reference> pokemon/dex_national:51
     min_level: 26
 - ids:
   - dex_national:51
@@ -1122,7 +1122,7 @@
     english: SCRATCHCAT
   learnset: !<reference> learnsets/id:52
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:53
+  - evolved_pokemon: !<reference> pokemon/dex_national:53
     min_level: 28
 - ids:
   - dex_national:53
@@ -1164,7 +1164,7 @@
     english: DUCK
   learnset: !<reference> learnsets/id:54
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:55
+  - evolved_pokemon: !<reference> pokemon/dex_national:55
     min_level: 33
 - ids:
   - dex_national:55
@@ -1206,7 +1206,7 @@
     english: PIG MONKEY
   learnset: !<reference> learnsets/id:56
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:57
+  - evolved_pokemon: !<reference> pokemon/dex_national:57
     min_level: 28
 - ids:
   - dex_national:57
@@ -1248,7 +1248,7 @@
     english: PUPPY
   learnset: !<reference> learnsets/id:58
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:59
+  - evolved_pokemon: !<reference> pokemon/dex_national:59
     used_item: !<reference> items/id:32
 - ids:
   - dex_national:59
@@ -1290,7 +1290,7 @@
     english: TADPOLE
   learnset: !<reference> learnsets/id:60
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:61
+  - evolved_pokemon: !<reference> pokemon/dex_national:61
     min_level: 25
 - ids:
   - dex_national:61
@@ -1312,7 +1312,7 @@
     english: TADPOLE
   learnset: !<reference> learnsets/id:61
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:62
+  - evolved_pokemon: !<reference> pokemon/dex_national:62
     used_item: !<reference> items/id:34
 - ids:
   - dex_national:62
@@ -1355,7 +1355,7 @@
     english: PSI
   learnset: !<reference> learnsets/id:63
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:64
+  - evolved_pokemon: !<reference> pokemon/dex_national:64
     min_level: 16
 - ids:
   - dex_national:64
@@ -1377,7 +1377,7 @@
     english: PSI
   learnset: !<reference> learnsets/id:64
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:65
+  - evolved_pokemon: !<reference> pokemon/dex_national:65
 - ids:
   - dex_national:65
   base_stats:
@@ -1418,7 +1418,7 @@
     english: SUPERPOWER
   learnset: !<reference> learnsets/id:66
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:67
+  - evolved_pokemon: !<reference> pokemon/dex_national:67
     min_level: 28
 - ids:
   - dex_national:67
@@ -1440,7 +1440,7 @@
     english: SUPERPOWER
   learnset: !<reference> learnsets/id:67
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:68
+  - evolved_pokemon: !<reference> pokemon/dex_national:68
 - ids:
   - dex_national:68
   base_stats:
@@ -1482,7 +1482,7 @@
     english: FLOWER
   learnset: !<reference> learnsets/id:69
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:70
+  - evolved_pokemon: !<reference> pokemon/dex_national:70
     min_level: 21
 - ids:
   - dex_national:70
@@ -1505,7 +1505,7 @@
     english: FLYCATCHER
   learnset: !<reference> learnsets/id:70
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:71
+  - evolved_pokemon: !<reference> pokemon/dex_national:71
     used_item: !<reference> items/id:47
 - ids:
   - dex_national:71
@@ -1549,7 +1549,7 @@
     english: JELLYFISH
   learnset: !<reference> learnsets/id:72
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:73
+  - evolved_pokemon: !<reference> pokemon/dex_national:73
     min_level: 30
 - ids:
   - dex_national:73
@@ -1593,7 +1593,7 @@
     english: ROCK
   learnset: !<reference> learnsets/id:74
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:75
+  - evolved_pokemon: !<reference> pokemon/dex_national:75
     min_level: 25
 - ids:
   - dex_national:75
@@ -1616,7 +1616,7 @@
     english: ROCK
   learnset: !<reference> learnsets/id:75
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:76
+  - evolved_pokemon: !<reference> pokemon/dex_national:76
 - ids:
   - dex_national:76
   base_stats:
@@ -1658,7 +1658,7 @@
     english: FIRE HORSE
   learnset: !<reference> learnsets/id:77
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:78
+  - evolved_pokemon: !<reference> pokemon/dex_national:78
     min_level: 40
 - ids:
   - dex_national:78
@@ -1701,7 +1701,7 @@
     english: DOPEY
   learnset: !<reference> learnsets/id:79
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:80
+  - evolved_pokemon: !<reference> pokemon/dex_national:80
     min_level: 37
 - ids:
   - dex_national:80
@@ -1744,7 +1744,7 @@
     english: MAGNET
   learnset: !<reference> learnsets/id:81
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:82
+  - evolved_pokemon: !<reference> pokemon/dex_national:82
     min_level: 30
 - ids:
   - dex_national:82
@@ -1808,7 +1808,7 @@
     english: TWIN BIRD
   learnset: !<reference> learnsets/id:84
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:85
+  - evolved_pokemon: !<reference> pokemon/dex_national:85
     min_level: 31
 - ids:
   - dex_national:85
@@ -1851,7 +1851,7 @@
     english: SEA LION
   learnset: !<reference> learnsets/id:86
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:87
+  - evolved_pokemon: !<reference> pokemon/dex_national:87
     min_level: 34
 - ids:
   - dex_national:87
@@ -1894,7 +1894,7 @@
     english: SLUDGE
   learnset: !<reference> learnsets/id:88
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:89
+  - evolved_pokemon: !<reference> pokemon/dex_national:89
     min_level: 38
 - ids:
   - dex_national:89
@@ -1936,7 +1936,7 @@
     english: BIVALVE
   learnset: !<reference> learnsets/id:90
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:91
+  - evolved_pokemon: !<reference> pokemon/dex_national:91
     used_item: !<reference> items/id:34
 - ids:
   - dex_national:91
@@ -1980,7 +1980,7 @@
     english: GAS
   learnset: !<reference> learnsets/id:92
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:93
+  - evolved_pokemon: !<reference> pokemon/dex_national:93
     min_level: 25
 - ids:
   - dex_national:93
@@ -2003,7 +2003,7 @@
     english: GAS
   learnset: !<reference> learnsets/id:93
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:94
+  - evolved_pokemon: !<reference> pokemon/dex_national:94
 - ids:
   - dex_national:94
   base_stats:
@@ -2066,7 +2066,7 @@
     english: HYPNOSIS
   learnset: !<reference> learnsets/id:96
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:97
+  - evolved_pokemon: !<reference> pokemon/dex_national:97
     min_level: 26
 - ids:
   - dex_national:97
@@ -2108,7 +2108,7 @@
     english: RIVER CRAB
   learnset: !<reference> learnsets/id:98
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:99
+  - evolved_pokemon: !<reference> pokemon/dex_national:99
     min_level: 28
 - ids:
   - dex_national:99
@@ -2150,7 +2150,7 @@
     english: BALL
   learnset: !<reference> learnsets/id:100
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:101
+  - evolved_pokemon: !<reference> pokemon/dex_national:101
     min_level: 30
 - ids:
   - dex_national:101
@@ -2193,7 +2193,7 @@
     english: EGG
   learnset: !<reference> learnsets/id:102
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:103
+  - evolved_pokemon: !<reference> pokemon/dex_national:103
     used_item: !<reference> items/id:47
 - ids:
   - dex_national:103
@@ -2236,7 +2236,7 @@
     english: LONELY
   learnset: !<reference> learnsets/id:104
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:105
+  - evolved_pokemon: !<reference> pokemon/dex_national:105
     min_level: 28
 - ids:
   - dex_national:105
@@ -2338,7 +2338,7 @@
     english: POISON GAS
   learnset: !<reference> learnsets/id:109
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:110
+  - evolved_pokemon: !<reference> pokemon/dex_national:110
     min_level: 35
 - ids:
   - dex_national:110
@@ -2381,7 +2381,7 @@
     english: SPIKES
   learnset: !<reference> learnsets/id:111
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:112
+  - evolved_pokemon: !<reference> pokemon/dex_national:112
     min_level: 42
 - ids:
   - dex_national:112
@@ -2484,7 +2484,7 @@
     english: DRAGON
   learnset: !<reference> learnsets/id:116
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:117
+  - evolved_pokemon: !<reference> pokemon/dex_national:117
     min_level: 32
 - ids:
   - dex_national:117
@@ -2526,7 +2526,7 @@
     english: GOLDFISH
   learnset: !<reference> learnsets/id:118
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:119
+  - evolved_pokemon: !<reference> pokemon/dex_national:119
     min_level: 33
 - ids:
   - dex_national:119
@@ -2568,7 +2568,7 @@
     english: STARSHAPE
   learnset: !<reference> learnsets/id:120
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:121
+  - evolved_pokemon: !<reference> pokemon/dex_national:121
     used_item: !<reference> items/id:34
 - ids:
   - dex_national:121
@@ -2753,7 +2753,7 @@
     english: FISH
   learnset: !<reference> learnsets/id:129
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:130
+  - evolved_pokemon: !<reference> pokemon/dex_national:130
     min_level: 20
 - ids:
   - dex_national:130
@@ -2837,11 +2837,11 @@
     english: EVOLUTION
   learnset: !<reference> learnsets/id:133
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:136
+  - evolved_pokemon: !<reference> pokemon/dex_national:136
     used_item: !<reference> items/id:32
-  - evolved_pokemon: !<reference> pokemon/id:135
+  - evolved_pokemon: !<reference> pokemon/dex_national:135
     used_item: !<reference> items/id:33
-  - evolved_pokemon: !<reference> pokemon/id:134
+  - evolved_pokemon: !<reference> pokemon/dex_national:134
     used_item: !<reference> items/id:34
 - ids:
   - dex_national:134
@@ -2944,7 +2944,7 @@
     english: SPIRAL
   learnset: !<reference> learnsets/id:138
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:139
+  - evolved_pokemon: !<reference> pokemon/dex_national:139
     min_level: 40
 - ids:
   - dex_national:139
@@ -2988,7 +2988,7 @@
     english: SHELLFISH
   learnset: !<reference> learnsets/id:140
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:141
+  - evolved_pokemon: !<reference> pokemon/dex_national:141
     min_level: 40
 - ids:
   - dex_national:141
@@ -3135,7 +3135,7 @@
     english: DRAGON
   learnset: !<reference> learnsets/id:147
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:148
+  - evolved_pokemon: !<reference> pokemon/dex_national:148
     min_level: 30
 - ids:
   - dex_national:148
@@ -3157,7 +3157,7 @@
     english: DRAGON
   learnset: !<reference> learnsets/id:148
   evolutions:
-  - evolved_pokemon: !<reference> pokemon/id:149
+  - evolved_pokemon: !<reference> pokemon/dex_national:149
     min_level: 55
 - ids:
   - dex_national:149
