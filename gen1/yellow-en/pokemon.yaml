@@ -14,8 +14,7 @@
   name:
     english: BULBASAUR
   pokedex_description:
-    english: It can go for days without eating a single morsel. In the bulb on its
-      back, it stores energy.
+    english: It can go for days without eating a single morsel. In the bulb on its back, it stores energy.
   species_class:
     english: SEED
   learnset: !<reference> learnsets/id:1
@@ -35,8 +34,7 @@
   name:
     english: IVYSAUR
   pokedex_description:
-    english: The bulb on its back grows by drawing energy. It gives off an aroma when
-      it is ready to bloom.
+    english: The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.
   species_class:
     english: SEED
   learnset: !<reference> learnsets/id:2
@@ -56,8 +54,7 @@
   name:
     english: VENUSAUR
   pokedex_description:
-    english: The flower on its back catches the sun's rays. The sunlight is then absorbed
-      and used for energy.
+    english: The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.
   species_class:
     english: SEED
   learnset: !<reference> learnsets/id:3
@@ -76,8 +73,7 @@
   name:
     english: CHARMANDER
   pokedex_description:
-    english: The flame at the tip of its tail makes a sound as it burns. You can only
-      hear it in quiet places.
+    english: The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.
   species_class:
     english: LIZARD
   learnset: !<reference> learnsets/id:4
@@ -96,8 +92,7 @@
   name:
     english: CHARMELEON
   pokedex_description:
-    english: Tough fights could excite this POKÉMON. When excited, it may blow out
-      bluishwhite flames.
+    english: Tough fights could excite this POKÉMON. When excited, it may blow out bluishwhite flames.
   species_class:
     english: FLAME
   learnset: !<reference> learnsets/id:5
@@ -117,8 +112,7 @@
   name:
     english: CHARIZARD
   pokedex_description:
-    english: When expelling a blast of super hot fire, the red flame at the tip of
-      its tail burns more intensely.
+    english: When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.
   species_class:
     english: FLAME
   learnset: !<reference> learnsets/id:6
@@ -137,8 +131,7 @@
   name:
     english: SQUIRTLE
   pokedex_description:
-    english: Shoots water at prey while in the water. Withdraws into its shell when
-      in danger.
+    english: Shoots water at prey while in the water. Withdraws into its shell when in danger.
   species_class:
     english: TINYTURTLE
   learnset: !<reference> learnsets/id:7
@@ -157,8 +150,7 @@
   name:
     english: WARTORTLE
   pokedex_description:
-    english: When tapped, this POKÉMON will pull in its head, but its tail will still
-      stick out a little bit.
+    english: When tapped, this POKÉMON will pull in its head, but its tail will still stick out a little bit.
   species_class:
     english: TURTLE
   learnset: !<reference> learnsets/id:8
@@ -177,8 +169,7 @@
   name:
     english: BLASTOISE
   pokedex_description:
-    english: Once it takes aim at its enemy, it blasts out water with even more force
-      than a fire hose.
+    english: Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.
   species_class:
     english: SHELLFISH
   learnset: !<reference> learnsets/id:9
@@ -197,8 +188,7 @@
   name:
     english: CATERPIE
   pokedex_description:
-    english: If you touch the feeler on top of its head, it will release a horrible
-      stink to protect itself.
+    english: If you touch the feeler on top of its head, it will release a horrible stink to protect itself.
   species_class:
     english: WORM
   learnset: !<reference> learnsets/id:10
@@ -217,8 +207,7 @@
   name:
     english: METAPOD
   pokedex_description:
-    english: Hardens its shell to protect itself. However, a large impact may cause
-      it to pop out of its shell.
+    english: Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.
   species_class:
     english: COCOON
   learnset: !<reference> learnsets/id:11
@@ -238,8 +227,7 @@
   name:
     english: BUTTERFREE
   pokedex_description:
-    english: Its wings, covered with poisonous powders, repel water. This allows it
-      to fly in the rain.
+    english: Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.
   species_class:
     english: BUTTERFLY
   learnset: !<reference> learnsets/id:12
@@ -259,8 +247,7 @@
   name:
     english: WEEDLE
   pokedex_description:
-    english: Beware of the sharp stinger on its head. It hides in grass and bushes
-      where it eats leaves.
+    english: Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
   species_class:
     english: HAIRY BUG
   learnset: !<reference> learnsets/id:13
@@ -280,8 +267,7 @@
   name:
     english: KAKUNA
   pokedex_description:
-    english: Able to move only slightly. When endangered, it may stick out its stinger
-      and poison its enemy.
+    english: Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.
   species_class:
     english: COCOON
   learnset: !<reference> learnsets/id:14
@@ -301,8 +287,7 @@
   name:
     english: BEEDRILL
   pokedex_description:
-    english: It has 3 poisonous stingers on its forelegs and its tail. They are used
-      to jab its enemy repeatedly.
+    english: It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
   species_class:
     english: POISON BEE
   learnset: !<reference> learnsets/id:15
@@ -322,8 +307,7 @@
   name:
     english: PIDGEY
   pokedex_description:
-    english: Very docile. If attacked, it will often kick up sand to protect itself
-      rather than fight back.
+    english: Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.
   species_class:
     english: TINY BIRD
   learnset: !<reference> learnsets/id:16
@@ -343,8 +327,7 @@
   name:
     english: PIDGEOTTO
   pokedex_description:
-    english: This POKÉMON is full of vitality. It constantly flies around its large
-      territory in search of prey.
+    english: This POKÉMON is full of vitality. It constantly flies around its large territory in search of prey.
   species_class:
     english: BIRD
   learnset: !<reference> learnsets/id:17
@@ -364,8 +347,7 @@
   name:
     english: PIDGEOT
   pokedex_description:
-    english: This POKÉMON flies at Mach 2 speed, seeking prey. Its large talons are
-      feared as wicked weapons.
+    english: This POKÉMON flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.
   species_class:
     english: BIRD
   learnset: !<reference> learnsets/id:18
@@ -384,8 +366,7 @@
   name:
     english: RATTATA
   pokedex_description:
-    english: Will chew on anything with its fangs. If you see one, it is certain that
-      40 more live in the area.
+    english: Will chew on anything with its fangs. If you see one, it is certain that 40 more live in the area.
   species_class:
     english: RAT
   learnset: !<reference> learnsets/id:19
@@ -404,8 +385,7 @@
   name:
     english: RATICATE
   pokedex_description:
-    english: Its hind feet are webbed. They act as flippers, so it can swim in rivers
-      and hunt for prey.
+    english: Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
   species_class:
     english: RAT
   learnset: !<reference> learnsets/id:20
@@ -425,8 +405,7 @@
   name:
     english: SPEAROW
   pokedex_description:
-    english: Inept at flying high. However, it can fly around very fast to protect
-      its territory.
+    english: Inept at flying high. However, it can fly around very fast to protect its territory.
   species_class:
     english: TINY BIRD
   learnset: !<reference> learnsets/id:21
@@ -446,8 +425,7 @@
   name:
     english: FEAROW
   pokedex_description:
-    english: A POKÉMON that dates back many years. If it senses danger, it flies high
-      and away, instantly.
+    english: A POKÉMON that dates back many years. If it senses danger, it flies high and away, instantly.
   species_class:
     english: BEAK
   learnset: !<reference> learnsets/id:22
@@ -466,8 +444,7 @@
   name:
     english: EKANS
   pokedex_description:
-    english: The older it gets, the longer it grows. At night, it wraps its long body
-      around tree branches to rest.
+    english: The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
   species_class:
     english: SNAKE
   learnset: !<reference> learnsets/id:23
@@ -486,8 +463,7 @@
   name:
     english: ARBOK
   pokedex_description:
-    english: The frightening patterns on its belly have been studied. Six variations
-      have been confirmed.
+    english: The frightening patterns on its belly have been studied. Six variations have been confirmed.
   species_class:
     english: COBRA
   learnset: !<reference> learnsets/id:24
@@ -506,8 +482,7 @@
   name:
     english: PIKACHU
   pokedex_description:
-    english: It keeps its tail raised to monitor its surroundings. If you yank its
-      tail, it will try to bite you.
+    english: It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.
   species_class:
     english: MOUSE
   learnset: !<reference> learnsets/id:25
@@ -526,8 +501,7 @@
   name:
     english: RAICHU
   pokedex_description:
-    english: When electricity builds up inside its body, it becomes feisty. It also
-      glows in the dark.
+    english: When electricity builds up inside its body, it becomes feisty. It also glows in the dark.
   species_class:
     english: MOUSE
   learnset: !<reference> learnsets/id:26
@@ -546,8 +520,7 @@
   name:
     english: SANDSHREW
   pokedex_description:
-    english: Its body is dry. When it gets cold at night, its hide is said to become
-      coated with a fine dew.
+    english: Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.
   species_class:
     english: MOUSE
   learnset: !<reference> learnsets/id:27
@@ -566,8 +539,7 @@
   name:
     english: SANDSLASH
   pokedex_description:
-    english: It is skilled at slashing enemies with its claws. If broken, they start
-      to grow back in a day.
+    english: It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.
   species_class:
     english: MOUSE
   learnset: !<reference> learnsets/id:28
@@ -586,8 +558,7 @@
   name:
     english: NIDORAN♀
   pokedex_description:
-    english: A mild-mannered POKÉMON that does not like to fight. Beware, its small
-      horns secrete venom.
+    english: A mild-mannered POKÉMON that does not like to fight. Beware, its small horns secrete venom.
   species_class:
     english: POISON PIN
   learnset: !<reference> learnsets/id:29
@@ -606,8 +577,7 @@
   name:
     english: NIDORINA
   pokedex_description:
-    english: When resting deep in its burrow, its thorns always retract. This is proof
-      that it is relaxed.
+    english: When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.
   species_class:
     english: POISON PIN
   learnset: !<reference> learnsets/id:30
@@ -627,8 +597,7 @@
   name:
     english: NIDOQUEEN
   pokedex_description:
-    english: Tough scales cover the sturdy body of this POKÉMON. It appears that the
-      scales grow in cycles.
+    english: Tough scales cover the sturdy body of this POKÉMON. It appears that the scales grow in cycles.
   species_class:
     english: DRILL
   learnset: !<reference> learnsets/id:31
@@ -647,8 +616,7 @@
   name:
     english: NIDORAN♂
   pokedex_description:
-    english: Its large ears are always kept upright. If it senses danger, it will
-      attack with a poisonous sting.
+    english: Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.
   species_class:
     english: POISON PIN
   learnset: !<reference> learnsets/id:32
@@ -667,8 +635,7 @@
   name:
     english: NIDORINO
   pokedex_description:
-    english: Its horns contain venom. If they are stabbed into an enemy, the impact
-      makes the poison leak out.
+    english: Its horns contain venom. If they are stabbed into an enemy, the impact makes the poison leak out.
   species_class:
     english: POISON PIN
   learnset: !<reference> learnsets/id:33
@@ -688,8 +655,7 @@
   name:
     english: NIDOKING
   pokedex_description:
-    english: Its steel-like hide adds to its powerful tackle. Its horns are so hard,
-      they can pierce a diamond.
+    english: Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.
   species_class:
     english: DRILL
   learnset: !<reference> learnsets/id:34
@@ -708,8 +674,7 @@
   name:
     english: CLEFAIRY
   pokedex_description:
-    english: Adored for their cute looks and playfulness. They are thought to be rare,
-      as they do not appear often.
+    english: Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.
   species_class:
     english: FAIRY
   learnset: !<reference> learnsets/id:35
@@ -728,8 +693,7 @@
   name:
     english: CLEFABLE
   pokedex_description:
-    english: They appear to be very protective of their own world. It is a kind of
-      fairy, rarely seen by people.
+    english: They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.
   species_class:
     english: FAIRY
   learnset: !<reference> learnsets/id:36
@@ -748,8 +712,7 @@
   name:
     english: VULPIX
   pokedex_description:
-    english: Both its fur and its tails are beautiful. As it grows, the tails split
-      and form more tails.
+    english: Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.
   species_class:
     english: FOX
   learnset: !<reference> learnsets/id:37
@@ -768,8 +731,7 @@
   name:
     english: NINETALES
   pokedex_description:
-    english: According to an enduring legend, 9 noble saints were united and reincarnated
-      as this POKÉMON.
+    english: According to an enduring legend, 9 noble saints were united and reincarnated as this POKÉMON.
   species_class:
     english: FOX
   learnset: !<reference> learnsets/id:38
@@ -788,8 +750,7 @@
   name:
     english: JIGGLYPUFF
   pokedex_description:
-    english: Uses its alluring eyes to enrapture its foe. It then sings a pleasing
-      melody that lulls the foe to sleep.
+    english: Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.
   species_class:
     english: BALLOON
   learnset: !<reference> learnsets/id:39
@@ -808,8 +769,7 @@
   name:
     english: WIGGLYTUFF
   pokedex_description:
-    english: Its body is full of elasticity. By inhaling deeply, it can continue to
-      inflate itself without limit.
+    english: Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.
   species_class:
     english: BALLOON
   learnset: !<reference> learnsets/id:40
@@ -829,8 +789,7 @@
   name:
     english: ZUBAT
   pokedex_description:
-    english: Emits ultrasonic cries while it flies. They act as a sonar used to check
-      for objects in its way.
+    english: Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.
   species_class:
     english: BAT
   learnset: !<reference> learnsets/id:41
@@ -850,8 +809,7 @@
   name:
     english: GOLBAT
   pokedex_description:
-    english: It attacks in a stealthy manner, without warning. Its sharp fangs are
-      used to bite and suck blood.
+    english: It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.
   species_class:
     english: BAT
   learnset: !<reference> learnsets/id:42
@@ -871,8 +829,7 @@
   name:
     english: ODDISH
   pokedex_description:
-    english: It may be mistaken for a clump of weeds. If you try to yank it out of
-      the ground, it shrieks horribly.
+    english: It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.
   species_class:
     english: WEED
   learnset: !<reference> learnsets/id:43
@@ -892,8 +849,7 @@
   name:
     english: GLOOM
   pokedex_description:
-    english: Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing
-      its nosebending stink.
+    english: Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nosebending stink.
   species_class:
     english: WEED
   learnset: !<reference> learnsets/id:44
@@ -913,8 +869,7 @@
   name:
     english: VILEPLUME
   pokedex_description:
-    english: Flaps its broad flower petals to scatter its poisonous pollen. The flapping
-      sound is very loud.
+    english: Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.
   species_class:
     english: FLOWER
   learnset: !<reference> learnsets/id:45
@@ -934,8 +889,7 @@
   name:
     english: PARAS
   pokedex_description:
-    english: Burrows under the ground to gnaw on tree roots. The mushrooms on its
-      back absorb most of the nutrition.
+    english: Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
   species_class:
     english: MUSHROOM
   learnset: !<reference> learnsets/id:46
@@ -955,8 +909,7 @@
   name:
     english: PARASECT
   pokedex_description:
-    english: The bug host is drained of energy by the mushrooms on its back. They
-      appear to do all the thinking.
+    english: The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.
   species_class:
     english: MUSHROOM
   learnset: !<reference> learnsets/id:47
@@ -976,8 +929,7 @@
   name:
     english: VENONAT
   pokedex_description:
-    english: Its large eyes act as radars. In a bright place, you can see that they
-      are clusters of many tiny eyes.
+    english: Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.
   species_class:
     english: INSECT
   learnset: !<reference> learnsets/id:48
@@ -997,8 +949,7 @@
   name:
     english: VENOMOTH
   pokedex_description:
-    english: The powdery scales on its wings are hard to remove. They also contain
-      poison that leaks out on contact.
+    english: The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.
   species_class:
     english: POISONMOTH
   learnset: !<reference> learnsets/id:49
@@ -1017,8 +968,7 @@
   name:
     english: DIGLETT
   pokedex_description:
-    english: It prefers dark places. It spends most of its time underground, though
-      it may pop up in caves.
+    english: It prefers dark places. It spends most of its time underground, though it may pop up in caves.
   species_class:
     english: MOLE
   learnset: !<reference> learnsets/id:50
@@ -1037,8 +987,7 @@
   name:
     english: DUGTRIO
   pokedex_description:
-    english: A team of triplets that can burrow over 60 MPH. Due to this, some people
-      think it's an earthquake.
+    english: A team of triplets that can burrow over 60 MPH. Due to this, some people think it's an earthquake.
   species_class:
     english: MOLE
   learnset: !<reference> learnsets/id:51
@@ -1057,8 +1006,7 @@
   name:
     english: MEOWTH
   pokedex_description:
-    english: Appears to be more active at night. It loves round and shiny things.
-      It can't stop from picking them up.
+    english: Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.
   species_class:
     english: SCRATCHCAT
   learnset: !<reference> learnsets/id:52
@@ -1077,8 +1025,7 @@
   name:
     english: PERSIAN
   pokedex_description:
-    english: The gem in its forehead glows on its own! It walks with all the grace
-      and elegance of a proud queen.
+    english: The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.
   species_class:
     english: CLASSY CAT
   learnset: !<reference> learnsets/id:53
@@ -1097,8 +1044,7 @@
   name:
     english: PSYDUCK
   pokedex_description:
-    english: Always tormented by headaches. It uses psychic powers, but it is not
-      known if it intends to do so.
+    english: Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.
   species_class:
     english: DUCK
   learnset: !<reference> learnsets/id:54
@@ -1117,8 +1063,7 @@
   name:
     english: GOLDUCK
   pokedex_description:
-    english: Its slim and long limbs end in broad flippers. They are used for swimming
-      gracefully in lakes.
+    english: Its slim and long limbs end in broad flippers. They are used for swimming gracefully in lakes.
   species_class:
     english: DUCK
   learnset: !<reference> learnsets/id:55
@@ -1137,8 +1082,7 @@
   name:
     english: MANKEY
   pokedex_description:
-    english: An agile POKÉMON that lives in trees. It angers easily and will not hesitate
-      to attack anything.
+    english: An agile POKÉMON that lives in trees. It angers easily and will not hesitate to attack anything.
   species_class:
     english: PIG MONKEY
   learnset: !<reference> learnsets/id:56
@@ -1157,8 +1101,7 @@
   name:
     english: PRIMEAPE
   pokedex_description:
-    english: It stops being angry only when nobody else is around. To view this moment
-      is very difficult.
+    english: It stops being angry only when nobody else is around. To view this moment is very difficult.
   species_class:
     english: PIG MONKEY
   learnset: !<reference> learnsets/id:57
@@ -1177,8 +1120,7 @@
   name:
     english: GROWLITHE
   pokedex_description:
-    english: A POKÉMON with a friendly nature. However, it will bark fiercely at anything
-      invading its territory.
+    english: A POKÉMON with a friendly nature. However, it will bark fiercely at anything invading its territory.
   species_class:
     english: PUPPY
   learnset: !<reference> learnsets/id:58
@@ -1197,8 +1139,7 @@
   name:
     english: ARCANINE
   pokedex_description:
-    english: A legendary POKÉMON in China. Many people are charmed by its grace and
-      beauty while running.
+    english: A legendary POKÉMON in China. Many people are charmed by its grace and beauty while running.
   species_class:
     english: LEGENDARY
   learnset: !<reference> learnsets/id:59
@@ -1217,8 +1158,7 @@
   name:
     english: POLIWAG
   pokedex_description:
-    english: The direction of the spiral on the belly differs by area. It is more
-      adept at swimming than walking.
+    english: The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.
   species_class:
     english: TADPOLE
   learnset: !<reference> learnsets/id:60
@@ -1237,8 +1177,7 @@
   name:
     english: POLIWHIRL
   pokedex_description:
-    english: Under attack, it uses its belly  spiral to put the foe to sleep. It then
-      makes its escape.
+    english: Under attack, it uses its belly  spiral to put the foe to sleep. It then makes its escape.
   species_class:
     english: TADPOLE
   learnset: !<reference> learnsets/id:61
@@ -1258,8 +1197,7 @@
   name:
     english: POLIWRATH
   pokedex_description:
-    english: Swims powerfully using all the muscles in its body. It can even overtake
-      champion swimmers.
+    english: Swims powerfully using all the muscles in its body. It can even overtake champion swimmers.
   species_class:
     english: TADPOLE
   learnset: !<reference> learnsets/id:62
@@ -1278,8 +1216,7 @@
   name:
     english: ABRA
   pokedex_description:
-    english: Sleeps 18 hours a day. If it senses danger, it will teleport itself to
-      safety even as it sleeps.
+    english: Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.
   species_class:
     english: PSI
   learnset: !<reference> learnsets/id:63
@@ -1298,8 +1235,7 @@
   name:
     english: KADABRA
   pokedex_description:
-    english: Many odd things happen if this POKÉMON is close by. For example, it makes
-      clocks run backwards.
+    english: Many odd things happen if this POKÉMON is close by. For example, it makes clocks run backwards.
   species_class:
     english: PSI
   learnset: !<reference> learnsets/id:64
@@ -1318,8 +1254,7 @@
   name:
     english: ALAKAZAM
   pokedex_description:
-    english: A POKÉMON that can memorize anything. It never forgets what it learns-that's
-      why this POKÉMON is smart.
+    english: A POKÉMON that can memorize anything. It never forgets what it learns-that's why this POKÉMON is smart.
   species_class:
     english: PSI
   learnset: !<reference> learnsets/id:65
@@ -1338,8 +1273,7 @@
   name:
     english: MACHOP
   pokedex_description:
-    english: Very powerful in spite of its small size. Its mastery of many types of
-      martial arts makes it very tough.
+    english: Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.
   species_class:
     english: SUPERPOWER
   learnset: !<reference> learnsets/id:66
@@ -1358,8 +1292,7 @@
   name:
     english: MACHOKE
   pokedex_description:
-    english: The belt around its waist holds back its energy. Without it, this POKÉMON
-      would be unstoppable.
+    english: The belt around its waist holds back its energy. Without it, this POKÉMON would be unstoppable.
   species_class:
     english: SUPERPOWER
   learnset: !<reference> learnsets/id:67
@@ -1378,8 +1311,7 @@
   name:
     english: MACHAMP
   pokedex_description:
-    english: One arm alone can move mountains. Using all four arms, this POKÉMON fires
-      off awesome punches.
+    english: One arm alone can move mountains. Using all four arms, this POKÉMON fires off awesome punches.
   species_class:
     english: SUPERPOWER
   learnset: !<reference> learnsets/id:68
@@ -1399,8 +1331,7 @@
   name:
     english: BELLSPROUT
   pokedex_description:
-    english: Prefers hot and humid places. It ensnares tiny insects with its vines
-      and devours them.
+    english: Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.
   species_class:
     english: FLOWER
   learnset: !<reference> learnsets/id:69
@@ -1420,8 +1351,7 @@
   name:
     english: WEEPINBELL
   pokedex_description:
-    english: When hungry, it swallows anything that moves. Its hapless prey is melted
-      inside by strong acids.
+    english: When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.
   species_class:
     english: FLYCATCHER
   learnset: !<reference> learnsets/id:70
@@ -1441,8 +1371,7 @@
   name:
     english: VICTREEBEL
   pokedex_description:
-    english: Lures prey with the sweet aroma of honey. Swallowed whole, the prey is
-      melted in a day, bones and all.
+    english: Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.
   species_class:
     english: FLYCATCHER
   learnset: !<reference> learnsets/id:71
@@ -1462,8 +1391,7 @@
   name:
     english: TENTACOOL
   pokedex_description:
-    english: It can sometimes be found all dry and shriveled up on a beach. Toss it
-      back into the sea to revive it.
+    english: It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.
   species_class:
     english: JELLYFISH
   learnset: !<reference> learnsets/id:72
@@ -1483,8 +1411,7 @@
   name:
     english: TENTACRUEL
   pokedex_description:
-    english: Its 80 tentacles can stretch and contract freely. They wrap around prey
-      and weaken it with poison.
+    english: Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.
   species_class:
     english: JELLYFISH
   learnset: !<reference> learnsets/id:73
@@ -1504,8 +1431,7 @@
   name:
     english: GEODUDE
   pokedex_description:
-    english: Commonly found near mountain trails, etc. If you step on one by accident,
-      it gets angry.
+    english: Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.
   species_class:
     english: ROCK
   learnset: !<reference> learnsets/id:74
@@ -1525,8 +1451,7 @@
   name:
     english: GRAVELER
   pokedex_description:
-    english: Often seen rolling down mountain trails. Obstacles are just things to
-      roll straight over, not avoid.
+    english: Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.
   species_class:
     english: ROCK
   learnset: !<reference> learnsets/id:75
@@ -1546,8 +1471,7 @@
   name:
     english: GOLEM
   pokedex_description:
-    english: Once it sheds its skin, its body turns tender and whitish. Its hide hardens
-      when it's exposed to air.
+    english: Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air.
   species_class:
     english: MEGATON
   learnset: !<reference> learnsets/id:76
@@ -1566,8 +1490,7 @@
   name:
     english: PONYTA
   pokedex_description:
-    english: Capable of jumping incredibly high. Its hooves and sturdy legs absorb
-      the impact of a hard landing.
+    english: Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.
   species_class:
     english: FIRE HORSE
   learnset: !<reference> learnsets/id:77
@@ -1586,8 +1509,7 @@
   name:
     english: RAPIDASH
   pokedex_description:
-    english: Just loves to run. If it sees something faster than itself, it will give
-      chase at top speed.
+    english: Just loves to run. If it sees something faster than itself, it will give chase at top speed.
   species_class:
     english: FIRE HORSE
   learnset: !<reference> learnsets/id:78
@@ -1607,8 +1529,7 @@
   name:
     english: SLOWPOKE
   pokedex_description:
-    english: Incredibly slow and sluggish. It is quite content to loll about without
-      worrying about the time.
+    english: Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.
   species_class:
     english: DOPEY
   learnset: !<reference> learnsets/id:79
@@ -1628,8 +1549,7 @@
   name:
     english: SLOWBRO
   pokedex_description:
-    english: Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes
-      a SLOWPOKE again.
+    english: Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes a SLOWPOKE again.
   species_class:
     english: HERMITCRAB
   learnset: !<reference> learnsets/id:80
@@ -1648,8 +1568,7 @@
   name:
     english: MAGNEMITE
   pokedex_description:
-    english: It is born with the ability to defy gravity. It floats in air on powerful
-      electromagnetic waves.
+    english: It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.
   species_class:
     english: MAGNET
   learnset: !<reference> learnsets/id:81
@@ -1668,8 +1587,7 @@
   name:
     english: MAGNETON
   pokedex_description:
-    english: Generates strange radio signals. It raises the temperature by 3.6F degrees
-      within 3,300 feet.
+    english: Generates strange radio signals. It raises the temperature by 3.6F degrees within 3,300 feet.
   species_class:
     english: MAGNET
   learnset: !<reference> learnsets/id:82
@@ -1689,8 +1607,7 @@
   name:
     english: FARFETCH'D
   pokedex_description:
-    english: Lives where reedy plants grow. They are rarely seen, so it's thought
-      their numbers are decreasing.
+    english: Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.
   species_class:
     english: WILD DUCK
   learnset: !<reference> learnsets/id:83
@@ -1710,8 +1627,7 @@
   name:
     english: DODUO
   pokedex_description:
-    english: Its short wings make flying difficult. Instead, this POKÉMON runs at
-      high speed on developed legs.
+    english: Its short wings make flying difficult. Instead, this POKÉMON runs at high speed on developed legs.
   species_class:
     english: TWIN BIRD
   learnset: !<reference> learnsets/id:84
@@ -1731,8 +1647,7 @@
   name:
     english: DODRIO
   pokedex_description:
-    english: One of DODUO's 2 heads splits to form a unique species. It runs close
-      to 40 MPH in prairies.
+    english: One of DODUO's 2 heads splits to form a unique species. It runs close to 40 MPH in prairies.
   species_class:
     english: TRIPLEBIRD
   learnset: !<reference> learnsets/id:85
@@ -1751,8 +1666,7 @@
   name:
     english: SEEL
   pokedex_description:
-    english: Loves freezing cold conditions. Relishes swimming in a frigid climate
-      of around 14F degrees.
+    english: Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees.
   species_class:
     english: SEA LION
   learnset: !<reference> learnsets/id:86
@@ -1772,8 +1686,7 @@
   name:
     english: DEWGONG
   pokedex_description:
-    english: Its entire body is a snowy-white. Unharmed by even intense cold, it swims
-      powerfully in icy waters.
+    english: Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.
   species_class:
     english: SEA LION
   learnset: !<reference> learnsets/id:87
@@ -1792,8 +1705,7 @@
   name:
     english: GRIMER
   pokedex_description:
-    english: Made of hardened sludge. It smells too putrid to touch. Even weeds won't
-      grow in its path.
+    english: Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path.
   species_class:
     english: SLUDGE
   learnset: !<reference> learnsets/id:88
@@ -1812,8 +1724,7 @@
   name:
     english: MUK
   pokedex_description:
-    english: Smells so awful, it can cause fainting. Through degeneration, it lost
-      its sense of smell.
+    english: Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.
   species_class:
     english: SLUDGE
   learnset: !<reference> learnsets/id:89
@@ -1832,8 +1743,7 @@
   name:
     english: SHELLDER
   pokedex_description:
-    english: The shell can withstand any attack. However, when it is open, the tender
-      body is exposed.
+    english: The shell can withstand any attack. However, when it is open, the tender body is exposed.
   species_class:
     english: BIVALVE
   learnset: !<reference> learnsets/id:90
@@ -1853,8 +1763,7 @@
   name:
     english: CLOYSTER
   pokedex_description:
-    english: For protection, it uses its harderthan-diamonds shell. It also shoots
-      spikes from the shell.
+    english: For protection, it uses its harderthan-diamonds shell. It also shoots spikes from the shell.
   species_class:
     english: BIVALVE
   learnset: !<reference> learnsets/id:91
@@ -1874,8 +1783,7 @@
   name:
     english: GASTLY
   pokedex_description:
-    english: Said to appear in decrepit, deserted buildings. It has no real shape
-      as it appears to be made of a gas.
+    english: Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.
   species_class:
     english: GAS
   learnset: !<reference> learnsets/id:92
@@ -1895,8 +1803,7 @@
   name:
     english: HAUNTER
   pokedex_description:
-    english: By licking, it saps the victim's life. It causes shaking that won't stop
-      until the victim's demise.
+    english: By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.
   species_class:
     english: GAS
   learnset: !<reference> learnsets/id:93
@@ -1916,8 +1823,7 @@
   name:
     english: GENGAR
   pokedex_description:
-    english: A GENGAR is close by if you feel a sudden chill. It may be trying to
-      lay a curse on you.
+    english: A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.
   species_class:
     english: SHADOW
   learnset: !<reference> learnsets/id:94
@@ -1937,8 +1843,7 @@
   name:
     english: ONIX
   pokedex_description:
-    english: Burrows at high speed in search of food. The tunnels it leaves are used
-      as homes by DIGLETTs.
+    english: Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.
   species_class:
     english: ROCK SNAKE
   learnset: !<reference> learnsets/id:95
@@ -1957,8 +1862,7 @@
   name:
     english: DROWZEE
   pokedex_description:
-    english: If you sleep by it all the time, it will sometimes show you dreams it
-      has eaten in the past.
+    english: If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.
   species_class:
     english: HYPNOSIS
   learnset: !<reference> learnsets/id:96
@@ -1977,8 +1881,7 @@
   name:
     english: HYPNO
   pokedex_description:
-    english: Avoid eye contact if you come across one. It will try to put you to sleep
-      by using its pendulum.
+    english: Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
   species_class:
     english: HYPNOSIS
   learnset: !<reference> learnsets/id:97
@@ -1997,8 +1900,7 @@
   name:
     english: KRABBY
   pokedex_description:
-    english: Its pincers are superb weapons. They sometimes break off during battle,
-      but they grow back fast.
+    english: Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.
   species_class:
     english: RIVER CRAB
   learnset: !<reference> learnsets/id:98
@@ -2017,8 +1919,7 @@
   name:
     english: KINGLER
   pokedex_description:
-    english: One claw grew massively and as hard as steel. It has 10,000-HP strength.
-      However, it is too heavy.
+    english: One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.
   species_class:
     english: PINCER
   learnset: !<reference> learnsets/id:99
@@ -2037,8 +1938,7 @@
   name:
     english: VOLTORB
   pokedex_description:
-    english: It is said to camouflage itself as a POKÉ BALL. It will self-destruct
-      with very little stimulus.
+    english: It is said to camouflage itself as a POKÉ BALL. It will self-destruct with very little stimulus.
   species_class:
     english: BALL
   learnset: !<reference> learnsets/id:100
@@ -2057,8 +1957,7 @@
   name:
     english: ELECTRODE
   pokedex_description:
-    english: Stores electrical energy inside its body. Even the slightest shock could
-      trigger a huge explosion.
+    english: Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.
   species_class:
     english: BALL
   learnset: !<reference> learnsets/id:101
@@ -2078,8 +1977,7 @@
   name:
     english: EXEGGCUTE
   pokedex_description:
-    english: The heads attract each other and spin around. There must be 6 heads for
-      it to maintain balance.
+    english: The heads attract each other and spin around. There must be 6 heads for it to maintain balance.
   species_class:
     english: EGG
   learnset: !<reference> learnsets/id:102
@@ -2099,8 +1997,7 @@
   name:
     english: EXEGGUTOR
   pokedex_description:
-    english: Its cries are very noisy. This is because each of the 3 heads thinks
-      about whatever it likes.
+    english: Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.
   species_class:
     english: COCONUT
   learnset: !<reference> learnsets/id:103
@@ -2119,8 +2016,7 @@
   name:
     english: CUBONE
   pokedex_description:
-    english: Wears the skull of its deceased mother. Its cries echo inside the skull
-      and come out as a sad melody.
+    english: Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.
   species_class:
     english: LONELY
   learnset: !<reference> learnsets/id:104
@@ -2139,8 +2035,7 @@
   name:
     english: MAROWAK
   pokedex_description:
-    english: Small and weak, this POKÉMON is adept with its bone club. It has grown
-      more vicious over the ages.
+    english: Small and weak, this POKÉMON is adept with its bone club. It has grown more vicious over the ages.
   species_class:
     english: BONEKEEPER
   learnset: !<reference> learnsets/id:105
@@ -2159,8 +2054,7 @@
   name:
     english: HITMONLEE
   pokedex_description:
-    english: When kicking, the sole of its foot turns as hard as a diamond on impact
-      and destroys its enemy.
+    english: When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.
   species_class:
     english: KICKING
   learnset: !<reference> learnsets/id:106
@@ -2179,8 +2073,7 @@
   name:
     english: HITMONCHAN
   pokedex_description:
-    english: Punches in corkscrew fashion. It can punch its way through a concrete
-      wall in the same way as a drill.
+    english: Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.
   species_class:
     english: PUNCHING
   learnset: !<reference> learnsets/id:107
@@ -2199,8 +2092,7 @@
   name:
     english: LICKITUNG
   pokedex_description:
-    english: Its tongue spans almost 7 feet and moves more freely than its forelegs.
-      Its licks can cause paralysis.
+    english: Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.
   species_class:
     english: LICKING
   learnset: !<reference> learnsets/id:108
@@ -2219,8 +2111,7 @@
   name:
     english: KOFFING
   pokedex_description:
-    english: In hot places, its internal gases could expand and explode without any
-      warning. Be very careful!
+    english: In hot places, its internal gases could expand and explode without any warning. Be very careful!
   species_class:
     english: POISON GAS
   learnset: !<reference> learnsets/id:109
@@ -2239,8 +2130,7 @@
   name:
     english: WEEZING
   pokedex_description:
-    english: It lives and grows by absorbing dust, germs and poison gases that are
-      contained in toxic waste and garbage.
+    english: It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.
   species_class:
     english: POISON GAS
   learnset: !<reference> learnsets/id:110
@@ -2260,8 +2150,7 @@
   name:
     english: RHYHORN
   pokedex_description:
-    english: A POKÉMON with a one-track mind. Once it charges,  it won't stop running
-      until it falls asleep.
+    english: A POKÉMON with a one-track mind. Once it charges,  it won't stop running until it falls asleep.
   species_class:
     english: SPIKES
   learnset: !<reference> learnsets/id:111
@@ -2281,8 +2170,7 @@
   name:
     english: RHYDON
   pokedex_description:
-    english: Walks on its hind legs. Shows signs of intelligence. Its armor-like hide
-      even repels molten lava.
+    english: Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.
   species_class:
     english: DRILL
   learnset: !<reference> learnsets/id:112
@@ -2301,8 +2189,7 @@
   name:
     english: CHANSEY
   pokedex_description:
-    english: A gentle and kindhearted POKÉMON that shares its nutritious eggs if it
-      sees an injured POKÉMON.
+    english: A gentle and kindhearted POKÉMON that shares its nutritious eggs if it sees an injured POKÉMON.
   species_class:
     english: EGG
   learnset: !<reference> learnsets/id:113
@@ -2321,8 +2208,7 @@
   name:
     english: TANGELA
   pokedex_description:
-    english: Its identity is obscured by masses of thick, blue vines. The vines are
-      said to never stop growing.
+    english: Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.
   species_class:
     english: VINE
   learnset: !<reference> learnsets/id:114
@@ -2341,8 +2227,7 @@
   name:
     english: KANGASKHAN
   pokedex_description:
-    english: Raises its young in its belly pouch. Won't run from any fight to keep
-      its young protected.
+    english: Raises its young in its belly pouch. Won't run from any fight to keep its young protected.
   species_class:
     english: PARENT
   learnset: !<reference> learnsets/id:115
@@ -2361,8 +2246,7 @@
   name:
     english: HORSEA
   pokedex_description:
-    english: If it senses any danger, it will vigorously spray water or a special
-      type of ink from its mouth.
+    english: If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.
   species_class:
     english: DRAGON
   learnset: !<reference> learnsets/id:116
@@ -2381,8 +2265,7 @@
   name:
     english: SEADRA
   pokedex_description:
-    english: Touching the back fin causes numbness. It hooks its tail to coral to
-      stay in place while sleeping.
+    english: Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.
   species_class:
     english: DRAGON
   learnset: !<reference> learnsets/id:117
@@ -2401,8 +2284,7 @@
   name:
     english: GOLDEEN
   pokedex_description:
-    english: When it is time for them to lay eggs, they can be seen swimming up rivers
-      and falls in large groups.
+    english: When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.
   species_class:
     english: GOLDFISH
   learnset: !<reference> learnsets/id:118
@@ -2421,8 +2303,7 @@
   name:
     english: SEAKING
   pokedex_description:
-    english: It is the male's job to make a nest by carving out boulders in a stream
-      using the horn on its head.
+    english: It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.
   species_class:
     english: GOLDFISH
   learnset: !<reference> learnsets/id:119
@@ -2441,8 +2322,7 @@
   name:
     english: STARYU
   pokedex_description:
-    english: As long as the center section is unharmed, it can grow back fully even
-      if it is chopped to bits.
+    english: As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.
   species_class:
     english: STARSHAPE
   learnset: !<reference> learnsets/id:120
@@ -2462,8 +2342,7 @@
   name:
     english: STARMIE
   pokedex_description:
-    english: The center section is named the core. People think it is communicating
-      when it glows in 7 colors.
+    english: The center section is named the core. People think it is communicating when it glows in 7 colors.
   species_class:
     english: MYSTERIOUS
   learnset: !<reference> learnsets/id:121
@@ -2482,8 +2361,7 @@
   name:
     english: MR.MIME
   pokedex_description:
-    english: Always practices its pantomime act. It makes enemies believe something
-      exists that really doesn't.
+    english: Always practices its pantomime act. It makes enemies believe something exists that really doesn't.
   species_class:
     english: BARRIER
   learnset: !<reference> learnsets/id:122
@@ -2503,8 +2381,7 @@
   name:
     english: SCYTHER
   pokedex_description:
-    english: Leaps out of tall grass and slices prey with its scythes. The movement
-      looks like that of a ninja.
+    english: Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.
   species_class:
     english: MANTIS
   learnset: !<reference> learnsets/id:123
@@ -2524,8 +2401,7 @@
   name:
     english: JYNX
   pokedex_description:
-    english: Appears to move to a rhythm of its own, as if it were dancing. It wiggles
-      its hips as it walks.
+    english: Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.
   species_class:
     english: HUMANSHAPE
   learnset: !<reference> learnsets/id:124
@@ -2544,8 +2420,7 @@
   name:
     english: ELECTABUZZ
   pokedex_description:
-    english: If a major power outage occurs, it is certain that this POKÉMON has eaten
-      electricity at a power plant.
+    english: If a major power outage occurs, it is certain that this POKÉMON has eaten electricity at a power plant.
   species_class:
     english: ELECTRIC
   learnset: !<reference> learnsets/id:125
@@ -2564,8 +2439,7 @@
   name:
     english: MAGMAR
   pokedex_description:
-    english: Born in an active volcano. Its body is always cloaked in flames, so it
-      looks like a big ball of fire.
+    english: Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.
   species_class:
     english: SPITFIRE
   learnset: !<reference> learnsets/id:126
@@ -2584,8 +2458,7 @@
   name:
     english: PINSIR
   pokedex_description:
-    english: Grips its prey in its pincers and squeezes hard! It can't move if it's
-      cold, so it lives in warm places.
+    english: Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.
   species_class:
     english: STAGBEETLE
   learnset: !<reference> learnsets/id:127
@@ -2604,8 +2477,7 @@
   name:
     english: TAUROS
   pokedex_description:
-    english: A rowdy POKÉMON with a lot of stamina. Once running, it won't stop until
-      it hits something.
+    english: A rowdy POKÉMON with a lot of stamina. Once running, it won't stop until it hits something.
   species_class:
     english: WILD BULL
   learnset: !<reference> learnsets/id:128
@@ -2624,8 +2496,7 @@
   name:
     english: MAGIKARP
   pokedex_description:
-    english: Famous for being very unreliable. It can be found swimming in seas, lakes,
-      rivers and shallow puddles.
+    english: Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.
   species_class:
     english: FISH
   learnset: !<reference> learnsets/id:129
@@ -2645,8 +2516,7 @@
   name:
     english: GYARADOS
   pokedex_description:
-    english: Brutally vicious and enormously destructive. Known for totally destroying
-      cities in ancient times.
+    english: Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times.
   species_class:
     english: ATROCIOUS
   learnset: !<reference> learnsets/id:130
@@ -2666,8 +2536,7 @@
   name:
     english: LAPRAS
   pokedex_description:
-    english: A gentle soul that can read the minds of people. It can ferry people
-      across the sea on its back.
+    english: A gentle soul that can read the minds of people. It can ferry people across the sea on its back.
   species_class:
     english: TRANSPORT
   learnset: !<reference> learnsets/id:131
@@ -2686,8 +2555,7 @@
   name:
     english: DITTO
   pokedex_description:
-    english: When it spots an enemy, its body transfigures into an almost perfect
-      copy of its opponent.
+    english: When it spots an enemy, its body transfigures into an almost perfect copy of its opponent.
   species_class:
     english: TRANSFORM
   learnset: !<reference> learnsets/id:132
@@ -2706,8 +2574,7 @@
   name:
     english: EEVEE
   pokedex_description:
-    english: Its genetic code is unstable, so it could evolve in a variety of ways.
-      There are only a few alive.
+    english: Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.
   species_class:
     english: EVOLUTION
   learnset: !<reference> learnsets/id:133
@@ -2726,8 +2593,7 @@
   name:
     english: VAPOREON
   pokedex_description:
-    english: Its cell structure is similar to water molecules. It will melt away and
-      become invisible in water.
+    english: Its cell structure is similar to water molecules. It will melt away and become invisible in water.
   species_class:
     english: BUBBLE JET
   learnset: !<reference> learnsets/id:134
@@ -2746,8 +2612,7 @@
   name:
     english: JOLTEON
   pokedex_description:
-    english: A sensitive POKÉMON that easily becomes sad or angry. Every time its
-      mood changes, it charges power.
+    english: A sensitive POKÉMON that easily becomes sad or angry. Every time its mood changes, it charges power.
   species_class:
     english: LIGHTNING
   learnset: !<reference> learnsets/id:135
@@ -2766,8 +2631,7 @@
   name:
     english: FLAREON
   pokedex_description:
-    english: It has a flame chamber inside its body. It inhales, then blows out fire
-      that is over 3,000F degrees.
+    english: It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees.
   species_class:
     english: FLAME
   learnset: !<reference> learnsets/id:136
@@ -2786,8 +2650,7 @@
   name:
     english: PORYGON
   pokedex_description:
-    english: The only POKÉMON people anticipate can fly into space. None has managed
-      the feat yet, however.
+    english: The only POKÉMON people anticipate can fly into space. None has managed the feat yet, however.
   species_class:
     english: VIRTUAL
   learnset: !<reference> learnsets/id:137
@@ -2807,8 +2670,7 @@
   name:
     english: OMANYTE
   pokedex_description:
-    english: An ancient POKÉMON that was recovered from a fossil. It swims by cleverly
-      twisting its 10 tentacles about.
+    english: An ancient POKÉMON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.
   species_class:
     english: SPIRAL
   learnset: !<reference> learnsets/id:138
@@ -2828,8 +2690,7 @@
   name:
     english: OMASTAR
   pokedex_description:
-    english: Sharp beaks ring its mouth. Its shell was too big for it to move freely,
-      so it became extinct.
+    english: Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct.
   species_class:
     english: SPIRAL
   learnset: !<reference> learnsets/id:139
@@ -2849,8 +2710,7 @@
   name:
     english: KABUTO
   pokedex_description:
-    english: A POKÉMON that was recovered from a fossil. It uses the eyes on its back
-      while hiding on the sea floor.
+    english: A POKÉMON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.
   species_class:
     english: SHELLFISH
   learnset: !<reference> learnsets/id:140
@@ -2870,8 +2730,7 @@
   name:
     english: KABUTOPS
   pokedex_description:
-    english: A slim and fast swimmer. It slices its prey with its sharp sickles and
-      drinks the body fluids.
+    english: A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.
   species_class:
     english: SHELLFISH
   learnset: !<reference> learnsets/id:141
@@ -2891,8 +2750,7 @@
   name:
     english: AERODACTYL
   pokedex_description:
-    english: A savage POKÉMON that died out in ancient times. It was resurrected using
-      DNA taken from amber.
+    english: A savage POKÉMON that died out in ancient times. It was resurrected using DNA taken from amber.
   species_class:
     english: FOSSIL
   learnset: !<reference> learnsets/id:142
@@ -2911,8 +2769,7 @@
   name:
     english: SNORLAX
   pokedex_description:
-    english: Will eat anything, even if the food happens to be a little moldy. It
-      never gets an upset stomach.
+    english: Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.
   species_class:
     english: SLEEPING
   learnset: !<reference> learnsets/id:143
@@ -2932,8 +2789,7 @@
   name:
     english: ARTICUNO
   pokedex_description:
-    english: A legendary bird POKÉMON. It freezes water that is contained in winter
-      air and makes it snow.
+    english: A legendary bird POKÉMON. It freezes water that is contained in winter air and makes it snow.
   species_class:
     english: FREEZE
   learnset: !<reference> learnsets/id:144
@@ -2953,8 +2809,7 @@
   name:
     english: ZAPDOS
   pokedex_description:
-    english: This legendary bird POKÉMON is said to appear when the sky turns dark
-      and lightning showers down.
+    english: This legendary bird POKÉMON is said to appear when the sky turns dark and lightning showers down.
   species_class:
     english: ELECTRIC
   learnset: !<reference> learnsets/id:145
@@ -2974,8 +2829,7 @@
   name:
     english: MOLTRES
   pokedex_description:
-    english: A legendary bird POKÉMON. As it flaps its flaming wings, even the night
-      sky will turn red.
+    english: A legendary bird POKÉMON. As it flaps its flaming wings, even the night sky will turn red.
   species_class:
     english: FLAME
   learnset: !<reference> learnsets/id:146
@@ -2994,8 +2848,7 @@
   name:
     english: DRATINI
   pokedex_description:
-    english: The existence of this mythical POKÉMON was only recently confirmed by
-      a fisherman who caught one.
+    english: The existence of this mythical POKÉMON was only recently confirmed by a fisherman who caught one.
   species_class:
     english: DRAGON
   learnset: !<reference> learnsets/id:147
@@ -3014,8 +2867,7 @@
   name:
     english: DRAGONAIR
   pokedex_description:
-    english: According to a witness, its body was surrounded by a strange aura that
-      gave it a mystical look.
+    english: According to a witness, its body was surrounded by a strange aura that gave it a mystical look.
   species_class:
     english: DRAGON
   learnset: !<reference> learnsets/id:148
@@ -3035,8 +2887,7 @@
   name:
     english: DRAGONITE
   pokedex_description:
-    english: It is said that this POKÉMON lives somewhere in the sea and that it flies.
-      However, it is only a rumor.
+    english: It is said that this POKÉMON lives somewhere in the sea and that it flies. However, it is only a rumor.
   species_class:
     english: DRAGON
   learnset: !<reference> learnsets/id:149
@@ -3055,8 +2906,7 @@
   name:
     english: MEWTWO
   pokedex_description:
-    english: Its DNA is almost the same as MEW's. However, its size and disposition
-      are vastly different.
+    english: Its DNA is almost the same as MEW's. However, its size and disposition are vastly different.
   species_class:
     english: GENETIC
   learnset: !<reference> learnsets/id:150
@@ -3075,8 +2925,7 @@
   name:
     english: MEW
   pokedex_description:
-    english: When viewed through a microscope, this POKÉMON's short, fine, delicate
-      hair can be seen.
+    english: When viewed through a microscope, this POKÉMON's short, fine, delicate hair can be seen.
   species_class:
     english: NEW SPECIE
   learnset: !<reference> learnsets/id:151

@@ -15,10 +15,8 @@
     english: BULBASAUR
     spanish: BULBASAUR
   pokedex_description:
-    english: It can go for days without eating a single morsel. In the bulb on its
-      back, it stores energy.
-    spanish: Puede sobrevivir largo tiempo sin probar bocado. Guarda energía en el
-      bulbo de su espalda
+    english: It can go for days without eating a single morsel. In the bulb on its back, it stores energy.
+    spanish: Puede sobrevivir largo tiempo sin probar bocado. Guarda energía en el bulbo de su espalda
   species_class:
     english: SEED
     spanish: SEMILLA
@@ -40,10 +38,8 @@
     english: IVYSAUR
     spanish: IVYSAUR
   pokedex_description:
-    english: The bulb on its back grows by drawing energy. It gives off an aroma when
-      it is ready to bloom.
-    spanish: Su bulbo crece cuando absorbe energía. Desprende un fuerte aroma cuando
-      florece
+    english: The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.
+    spanish: Su bulbo crece cuando absorbe energía. Desprende un fuerte aroma cuando florece
   species_class:
     english: SEED
     spanish: SEMILLA
@@ -65,8 +61,7 @@
     english: VENUSAUR
     spanish: VENUSAUR
   pokedex_description:
-    english: The flower on its back catches the sun's rays. The sunlight is then absorbed
-      and used for energy.
+    english: The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.
     spanish: La flor de su espalda recoge los rayos del Sol. Los transforma en energía
   species_class:
     english: SEED
@@ -88,10 +83,8 @@
     english: CHARMANDER
     spanish: CHARMANDER
   pokedex_description:
-    english: The flame at the tip of its tail makes a sound as it burns. You can only
-      hear it in quiet places.
-    spanish: La llama en la punta de su cola chisporrotea al arder. Sólo se oye en
-      lugares silenciosos
+    english: The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.
+    spanish: La llama en la punta de su cola chisporrotea al arder. Sólo se oye en lugares silenciosos
   species_class:
     english: LIZARD
     spanish: LAGARTIJA
@@ -112,10 +105,8 @@
     english: CHARMELEON
     spanish: CHARMELEON
   pokedex_description:
-    english: Tough fights could excite this POKÉMON. When excited, it may blow out
-      bluishwhite flames.
-    spanish: Las duras luchas excitan a este POKÉMON. Entonces, lanzará llamaradas
-      blanco-azuladas
+    english: Tough fights could excite this POKÉMON. When excited, it may blow out bluishwhite flames.
+    spanish: Las duras luchas excitan a este POKÉMON. Entonces, lanzará llamaradas blanco-azuladas
   species_class:
     english: FLAME
     spanish: LLAMA
@@ -137,10 +128,8 @@
     english: CHARIZARD
     spanish: CHARIZARD
   pokedex_description:
-    english: When expelling a blast of super hot fire, the red flame at the tip of
-      its tail burns more intensely.
-    spanish: Cuando lanza una descarga de fuego súper caliente, la roja llama de su
-      cola brilla más intensamente
+    english: When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.
+    spanish: Cuando lanza una descarga de fuego súper caliente, la roja llama de su cola brilla más intensamente
   species_class:
     english: FLAME
     spanish: LLAMA
@@ -161,10 +150,8 @@
     english: SQUIRTLE
     spanish: SQUIRTLE
   pokedex_description:
-    english: Shoots water at prey while in the water. Withdraws into its shell when
-      in danger.
-    spanish: Lanza agua a su presa desde el agua. Se esconde en su concha cuando se
-      siente en peligro
+    english: Shoots water at prey while in the water. Withdraws into its shell when in danger.
+    spanish: Lanza agua a su presa desde el agua. Se esconde en su concha cuando se siente en peligro
   species_class:
     english: TINYTURTLE
     spanish: TORTUGUITA
@@ -185,8 +172,7 @@
     english: WARTORTLE
     spanish: WARTORTLE
   pokedex_description:
-    english: When tapped, this POKÉMON will pull in its head, but its tail will still
-      stick out a little bit.
+    english: When tapped, this POKÉMON will pull in its head, but its tail will still stick out a little bit.
     spanish: Si es golpeado, esconderá su cabeza. Aun así, su cola puede seguir golpeando
   species_class:
     english: TURTLE
@@ -208,10 +194,8 @@
     english: BLASTOISE
     spanish: BLASTOISE
   pokedex_description:
-    english: Once it takes aim at its enemy, it blasts out water with even more force
-      than a fire hose.
-    spanish: Cuando ataca a un enemigo, su descarga de agua es aún más potente que
-      una manga de bombero
+    english: Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.
+    spanish: Cuando ataca a un enemigo, su descarga de agua es aún más potente que una manga de bombero
   species_class:
     english: SHELLFISH
     spanish: MARISCO
@@ -232,8 +216,7 @@
     english: CATERPIE
     spanish: CATERPIE
   pokedex_description:
-    english: If you touch the feeler on top of its head, it will release a horrible
-      stink to protect itself.
+    english: If you touch the feeler on top of its head, it will release a horrible stink to protect itself.
     spanish: Si tocas los receptores de su cabeza, soltará un terrible olor para protegerse
   species_class:
     english: WORM
@@ -255,10 +238,8 @@
     english: METAPOD
     spanish: METAPOD
   pokedex_description:
-    english: Hardens its shell to protect itself. However, a large impact may cause
-      it to pop out of its shell.
-    spanish: Endurece su concha para protegerse. De todos modos, un gran impacto puede
-      afectarle
+    english: Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.
+    spanish: Endurece su concha para protegerse. De todos modos, un gran impacto puede afectarle
   species_class:
     english: COCOON
     spanish: CAPULLO
@@ -280,10 +261,8 @@
     english: BUTTERFREE
     spanish: BUTTERFREE
   pokedex_description:
-    english: Its wings, covered with poisonous powders, repel water. This allows it
-      to fly in the rain.
-    spanish: Sus alas están cubiertas de polvos venenosos. Como repelen el agua, puede
-      volar bajo la lluvia
+    english: Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.
+    spanish: Sus alas están cubiertas de polvos venenosos. Como repelen el agua, puede volar bajo la lluvia
   species_class:
     english: BUTTERFLY
     spanish: MARIPOSA
@@ -305,10 +284,8 @@
     english: WEEDLE
     spanish: WEEDLE
   pokedex_description:
-    english: Beware of the sharp stinger on its head. It hides in grass and bushes
-      where it eats leaves.
-    spanish: Cuidado con el aguijón venenoso de su cabeza. Se esconde en la hierba
-      y arbustos mientras come
+    english: Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
+    spanish: Cuidado con el aguijón venenoso de su cabeza. Se esconde en la hierba y arbustos mientras come
   species_class:
     english: HAIRY BUG
     spanish: ORUGA
@@ -330,10 +307,8 @@
     english: KAKUNA
     spanish: KAKUNA
   pokedex_description:
-    english: Able to move only slightly. When endangered, it may stick out its stinger
-      and poison its enemy.
-    spanish: Sólo puede moverse un poco. Cuando está en peligro, envenena a su enemigo
-      con su aguijón
+    english: Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.
+    spanish: Sólo puede moverse un poco. Cuando está en peligro, envenena a su enemigo con su aguijón
   species_class:
     english: COCOON
     spanish: CAPULLO
@@ -355,10 +330,8 @@
     english: BEEDRILL
     spanish: BEEDRILL
   pokedex_description:
-    english: It has 3 poisonous stingers on its forelegs and its tail. They are used
-      to jab its enemy repeatedly.
-    spanish: Tiene 3 aguijones venenosos en sus patas y cola. Suelen pinchar a sus
-      enemigos repetidas veces
+    english: It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+    spanish: Tiene 3 aguijones venenosos en sus patas y cola. Suelen pinchar a sus enemigos repetidas veces
   species_class:
     english: POISON BEE
     spanish: ABEJA VEN.
@@ -380,10 +353,8 @@
     english: PIDGEY
     spanish: PIDGEY
   pokedex_description:
-    english: Very docile. If attacked, it will often kick up sand to protect itself
-      rather than fight back.
-    spanish: Son muy dóciles. Si son atacados, suelen lanzar arena en lugar de repeler
-      el ataque
+    english: Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.
+    spanish: Son muy dóciles. Si son atacados, suelen lanzar arena en lugar de repeler el ataque
   species_class:
     english: TINY BIRD
     spanish: PAJARITO
@@ -405,10 +376,8 @@
     english: PIDGEOTTO
     spanish: PIDGEOTTO
   pokedex_description:
-    english: This POKÉMON is full of vitality. It constantly flies around its large
-      territory in search of prey.
-    spanish: Este POKÉMON está repleto de vitalidad. Suele volar por su territorio
-      en busca de presas
+    english: This POKÉMON is full of vitality. It constantly flies around its large territory in search of prey.
+    spanish: Este POKÉMON está repleto de vitalidad. Suele volar por su territorio en busca de presas
   species_class:
     english: BIRD
     spanish: PÁJARO
@@ -430,10 +399,8 @@
     english: PIDGEOT
     spanish: PIDGEOT
   pokedex_description:
-    english: This POKÉMON flies at Mach 2 speed, seeking prey. Its large talons are
-      feared as wicked weapons.
-    spanish: Este POKÉMON vuela a velocidad Mach 2. Sus grandes garras son armas muy
-      peligrosas
+    english: This POKÉMON flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.
+    spanish: Este POKÉMON vuela a velocidad Mach 2. Sus grandes garras son armas muy peligrosas
   species_class:
     english: BIRD
     spanish: PÁJARO
@@ -454,10 +421,8 @@
     english: RATTATA
     spanish: RATTATA
   pokedex_description:
-    english: Will chew on anything with its fangs. If you see one, it is certain that
-      40 more live in the area.
-    spanish: Muerde cualquier cosa con sus colmillos. Si ves uno, seguro que encuentras
-      40 más en la zona
+    english: Will chew on anything with its fangs. If you see one, it is certain that 40 more live in the area.
+    spanish: Muerde cualquier cosa con sus colmillos. Si ves uno, seguro que encuentras 40 más en la zona
   species_class:
     english: RAT
     spanish: RATA
@@ -478,10 +443,8 @@
     english: RATICATE
     spanish: RATICATE
   pokedex_description:
-    english: Its hind feet are webbed. They act as flippers, so it can swim in rivers
-      and hunt for prey.
-    spanish: Sus patas son palmeadas. Sirven de aletas, por lo que puede nadar por
-      ríos en busca de presa
+    english: Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
+    spanish: Sus patas son palmeadas. Sirven de aletas, por lo que puede nadar por ríos en busca de presa
   species_class:
     english: RAT
     spanish: RATA
@@ -503,10 +466,8 @@
     english: SPEAROW
     spanish: SPEAROW
   pokedex_description:
-    english: Inept at flying high. However, it can fly around very fast to protect
-      its territory.
-    spanish: Es incapaz de volar a gran altura, pero es muy rápido, lo que le permite
-      protegerse
+    english: Inept at flying high. However, it can fly around very fast to protect its territory.
+    spanish: Es incapaz de volar a gran altura, pero es muy rápido, lo que le permite protegerse
   species_class:
     english: TINY BIRD
     spanish: PAJARITO
@@ -528,10 +489,8 @@
     english: FEAROW
     spanish: FEAROW
   pokedex_description:
-    english: A POKÉMON that dates back many years. If it senses danger, it flies high
-      and away, instantly.
-    spanish: Este POKÉMON es conocido desde hace muchos años. Si siente peligro volará
-      lejos inmediatamente
+    english: A POKÉMON that dates back many years. If it senses danger, it flies high and away, instantly.
+    spanish: Este POKÉMON es conocido desde hace muchos años. Si siente peligro volará lejos inmediatamente
   species_class:
     english: BEAK
     spanish: PICO
@@ -552,10 +511,8 @@
     english: EKANS
     spanish: EKANS
   pokedex_description:
-    english: The older it gets, the longer it grows. At night, it wraps its long body
-      around tree branches to rest.
-    spanish: Cuanto más viejo, más crece este POKÉMON. Por la noche, descansa en las
-      ramas de los árboles
+    english: The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
+    spanish: Cuanto más viejo, más crece este POKÉMON. Por la noche, descansa en las ramas de los árboles
   species_class:
     english: SNAKE
     spanish: SERPIENTE
@@ -576,10 +533,8 @@
     english: ARBOK
     spanish: ARBOK
   pokedex_description:
-    english: The frightening patterns on its belly have been studied. Six variations
-      have been confirmed.
-    spanish: Los espantosos dibujos de su piel han sido estudiados. Seis variaciones
-      han sido confirmadas
+    english: The frightening patterns on its belly have been studied. Six variations have been confirmed.
+    spanish: Los espantosos dibujos de su piel han sido estudiados. Seis variaciones han sido confirmadas
   species_class:
     english: COBRA
     spanish: COBRA
@@ -600,10 +555,8 @@
     english: PIKACHU
     spanish: PIKACHU
   pokedex_description:
-    english: It keeps its tail raised to monitor its surroundings. If you yank its
-      tail, it will try to bite you.
-    spanish: Mantiene su cola en alto para vigilar. Si das un tirón a su cola, querrá
-      morderte
+    english: It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.
+    spanish: Mantiene su cola en alto para vigilar. Si das un tirón a su cola, querrá morderte
   species_class:
     english: MOUSE
     spanish: RATÓN
@@ -624,10 +577,8 @@
     english: RAICHU
     spanish: RAICHU
   pokedex_description:
-    english: When electricity builds up inside its body, it becomes feisty. It also
-      glows in the dark.
-    spanish: Cuando la electricidad del cuerpo crece, se vuelve irritable. También
-      brilla en la oscuridad
+    english: When electricity builds up inside its body, it becomes feisty. It also glows in the dark.
+    spanish: Cuando la electricidad del cuerpo crece, se vuelve irritable. También brilla en la oscuridad
   species_class:
     english: MOUSE
     spanish: RATÓN
@@ -648,10 +599,8 @@
     english: SANDSHREW
     spanish: SANDSHREW
   pokedex_description:
-    english: Its body is dry. When it gets cold at night, its hide is said to become
-      coated with a fine dew.
-    spanish: Su cuerpo es muy seco. Cuando hace frío por la noche, su piel aparece
-      cubierta con un fino rocío
+    english: Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.
+    spanish: Su cuerpo es muy seco. Cuando hace frío por la noche, su piel aparece cubierta con un fino rocío
   species_class:
     english: MOUSE
     spanish: RATÓN
@@ -672,10 +621,8 @@
     english: SANDSLASH
     spanish: SANDSLASH
   pokedex_description:
-    english: It is skilled at slashing enemies with its claws. If broken, they start
-      to grow back in a day.
-    spanish: Es muy hábil al golpear a sus enemigos con sus garras. Si se rompen,
-      crecerán en un solo día
+    english: It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.
+    spanish: Es muy hábil al golpear a sus enemigos con sus garras. Si se rompen, crecerán en un solo día
   species_class:
     english: MOUSE
     spanish: RATÓN
@@ -696,10 +643,8 @@
     english: NIDORAN♀
     spanish: NIDORAN♀
   pokedex_description:
-    english: A mild-mannered POKÉMON that does not like to fight. Beware, its small
-      horns secrete venom.
-    spanish: A este POKÉMON no le gusta luchar. Pero cuidado, sus pequeños cuernos
-      segregan veneno
+    english: A mild-mannered POKÉMON that does not like to fight. Beware, its small horns secrete venom.
+    spanish: A este POKÉMON no le gusta luchar. Pero cuidado, sus pequeños cuernos segregan veneno
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
@@ -720,10 +665,8 @@
     english: NIDORINA
     spanish: NIDORINA
   pokedex_description:
-    english: When resting deep in its burrow, its thorns always retract. This is proof
-      that it is relaxed.
-    spanish: Cuando descansa profundamente, sus cuernos se contraen. Esto prueba que
-      está relajado
+    english: When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.
+    spanish: Cuando descansa profundamente, sus cuernos se contraen. Esto prueba que está relajado
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
@@ -745,10 +688,8 @@
     english: NIDOQUEEN
     spanish: NIDOQUEEN
   pokedex_description:
-    english: Tough scales cover the sturdy body of this POKÉMON. It appears that the
-      scales grow in cycles.
-    spanish: Grandes escamas recubren el duro cuerpo de este POKÉMON. Éstas crecen
-      cíclicamente
+    english: Tough scales cover the sturdy body of this POKÉMON. It appears that the scales grow in cycles.
+    spanish: Grandes escamas recubren el duro cuerpo de este POKÉMON. Éstas crecen cíclicamente
   species_class:
     english: DRILL
     spanish: TALADRO
@@ -769,10 +710,8 @@
     english: NIDORAN♂
     spanish: NIDORAN♂
   pokedex_description:
-    english: Its large ears are always kept upright. If it senses danger, it will
-      attack with a poisonous sting.
-    spanish: Sus largas orejas se mantienen siempre alerta. Si siente peligro, atacará
-      con su venenoso cuerno
+    english: Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.
+    spanish: Sus largas orejas se mantienen siempre alerta. Si siente peligro, atacará con su venenoso cuerno
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
@@ -793,10 +732,8 @@
     english: NIDORINO
     spanish: NIDORINO
   pokedex_description:
-    english: Its horns contain venom. If they are stabbed into an enemy, the impact
-      makes the poison leak out.
-    spanish: Sus cuernos contienen veneno. Si se introducen en el cuerpo del enemigo,
-      soltarán su tóxica carga
+    english: Its horns contain venom. If they are stabbed into an enemy, the impact makes the poison leak out.
+    spanish: Sus cuernos contienen veneno. Si se introducen en el cuerpo del enemigo, soltarán su tóxica carga
   species_class:
     english: POISON PIN
     spanish: PIN VENENO
@@ -818,10 +755,8 @@
     english: NIDOKING
     spanish: NIDOKING
   pokedex_description:
-    english: Its steel-like hide adds to its powerful tackle. Its horns are so hard,
-      they can pierce a diamond.
-    spanish: Duro como el acero, posee una poderosa carga. Sus cuernos son tan duros
-      como el diamante
+    english: Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.
+    spanish: Duro como el acero, posee una poderosa carga. Sus cuernos son tan duros como el diamante
   species_class:
     english: DRILL
     spanish: TALADRO
@@ -842,10 +777,8 @@
     english: CLEFAIRY
     spanish: CLEFAIRY
   pokedex_description:
-    english: Adored for their cute looks and playfulness. They are thought to be rare,
-      as they do not appear often.
-    spanish: Su aspecto jovial y vivaracho lo hace adorable. Piensan que son raros,
-      ya que no son muy comunes
+    english: Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.
+    spanish: Su aspecto jovial y vivaracho lo hace adorable. Piensan que son raros, ya que no son muy comunes
   species_class:
     english: FAIRY
     spanish: HADA
@@ -866,10 +799,8 @@
     english: CLEFABLE
     spanish: CLEFABLE
   pokedex_description:
-    english: They appear to be very protective of their own world. It is a kind of
-      fairy, rarely seen by people.
-    spanish: Protege bastante bien su propio entorno. Es una especie de hada, raramente
-      vista por los humanos
+    english: They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.
+    spanish: Protege bastante bien su propio entorno. Es una especie de hada, raramente vista por los humanos
   species_class:
     english: FAIRY
     spanish: HADA
@@ -890,10 +821,8 @@
     english: VULPIX
     spanish: VULPIX
   pokedex_description:
-    english: Both its fur and its tails are beautiful. As it grows, the tails split
-      and form more tails.
-    spanish: Su piel y colas son preciosas. Cuando crecen las colas, se dividen formando
-      nuevas colas
+    english: Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.
+    spanish: Su piel y colas son preciosas. Cuando crecen las colas, se dividen formando nuevas colas
   species_class:
     english: FOX
     spanish: ZORRO
@@ -914,10 +843,8 @@
     english: NINETALES
     spanish: NINETALES
   pokedex_description:
-    english: According to an enduring legend, 9 noble saints were united and reincarnated
-      as this POKÉMON.
-    spanish: De acuerdo con una antigua leyenda, este POKÉMON es la reencarnación
-      de 9 nobles santos
+    english: According to an enduring legend, 9 noble saints were united and reincarnated as this POKÉMON.
+    spanish: De acuerdo con una antigua leyenda, este POKÉMON es la reencarnación de 9 nobles santos
   species_class:
     english: FOX
     spanish: ZORRO
@@ -938,10 +865,8 @@
     english: JIGGLYPUFF
     spanish: JIGGLYPUFF
   pokedex_description:
-    english: Uses its alluring eyes to enrapture its foe. It then sings a pleasing
-      melody that lulls the foe to sleep.
-    spanish: Utiliza sus misteriosos ojos para engañar a su enemigo. También cantará
-      para dormirlo
+    english: Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.
+    spanish: Utiliza sus misteriosos ojos para engañar a su enemigo. También cantará para dormirlo
   species_class:
     english: BALLOON
     spanish: GLOBO
@@ -962,10 +887,8 @@
     english: WIGGLYTUFF
     spanish: WIGGLYTUFF
   pokedex_description:
-    english: Its body is full of elasticity. By inhaling deeply, it can continue to
-      inflate itself without limit.
-    spanish: Su cuerpo es muy elástico. Cuando inhala aire profundamente, puede inflarse
-      sin límite
+    english: Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.
+    spanish: Su cuerpo es muy elástico. Cuando inhala aire profundamente, puede inflarse sin límite
   species_class:
     english: BALLOON
     spanish: GLOBO
@@ -987,10 +910,8 @@
     english: ZUBAT
     spanish: ZUBAT
   pokedex_description:
-    english: Emits ultrasonic cries while it flies. They act as a sonar used to check
-      for objects in its way.
-    spanish: Emite sonidos ultrasónicos mientras vuela. Los utiliza como sónar para
-      evitar obstáculos
+    english: Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.
+    spanish: Emite sonidos ultrasónicos mientras vuela. Los utiliza como sónar para evitar obstáculos
   species_class:
     english: BAT
     spanish: MURCIÉLAGO
@@ -1012,10 +933,8 @@
     english: GOLBAT
     spanish: GOLBAT
   pokedex_description:
-    english: It attacks in a stealthy manner, without warning. Its sharp fangs are
-      used to bite and suck blood.
-    spanish: Ataca de manera violenta sin avisar. Utiliza sus afilados colmillos para
-      chupar sangre
+    english: It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.
+    spanish: Ataca de manera violenta sin avisar. Utiliza sus afilados colmillos para chupar sangre
   species_class:
     english: BAT
     spanish: MURCIÉLAGO
@@ -1037,10 +956,8 @@
     english: ODDISH
     spanish: ODDISH
   pokedex_description:
-    english: It may be mistaken for a clump of weeds. If you try to yank it out of
-      the ground, it shrieks horribly.
-    spanish: Suele ser confundido con un puñado de semillas. Si lo extraes del suelo,
-      gritará
+    english: It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.
+    spanish: Suele ser confundido con un puñado de semillas. Si lo extraes del suelo, gritará
   species_class:
     english: WEED
     spanish: ALGAS
@@ -1062,10 +979,8 @@
     english: GLOOM
     spanish: GLOOM
   pokedex_description:
-    english: Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing
-      its nosebending stink.
-    spanish: ¡Huele bastante mal! De todas formas, 1 de cada 1000 personas aprecian
-      su fétido olor
+    english: Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nosebending stink.
+    spanish: ¡Huele bastante mal! De todas formas, 1 de cada 1000 personas aprecian su fétido olor
   species_class:
     english: WEED
     spanish: ALGAS
@@ -1087,10 +1002,8 @@
     english: VILEPLUME
     spanish: VILEPLUME
   pokedex_description:
-    english: Flaps its broad flower petals to scatter its poisonous pollen. The flapping
-      sound is very loud.
-    spanish: Aletea sus  pétalos de flores para propagar su venenoso polen. El sonido
-      que emite es agudo
+    english: Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.
+    spanish: Aletea sus  pétalos de flores para propagar su venenoso polen. El sonido que emite es agudo
   species_class:
     english: FLOWER
     spanish: FLOR
@@ -1112,10 +1025,8 @@
     english: PARAS
     spanish: PARAS
   pokedex_description:
-    english: Burrows under the ground to gnaw on tree roots. The mushrooms on its
-      back absorb most of the nutrition.
-    spanish: Escarba bajo el suelo para roer las raíces de los árboles. Sus setas
-      absorben sus energías
+    english: Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
+    spanish: Escarba bajo el suelo para roer las raíces de los árboles. Sus setas absorben sus energías
   species_class:
     english: MUSHROOM
     spanish: HONGO
@@ -1137,8 +1048,7 @@
     english: PARASECT
     spanish: PARASECT
   pokedex_description:
-    english: The bug host is drained of energy by the mushrooms on its back. They
-      appear to do all the thinking.
+    english: The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.
     spanish: El parásito absorbe la energía con las setas de la espalda, que lo controlan
   species_class:
     english: MUSHROOM
@@ -1161,10 +1071,8 @@
     english: VENONAT
     spanish: VENONAT
   pokedex_description:
-    english: Its large eyes act as radars. In a bright place, you can see that they
-      are clusters of many tiny eyes.
-    spanish: Sus grandes ojos actúan como radares. En lugares claros, verás montones
-      de pequeños ojos
+    english: Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.
+    spanish: Sus grandes ojos actúan como radares. En lugares claros, verás montones de pequeños ojos
   species_class:
     english: INSECT
     spanish: INSECTO
@@ -1186,10 +1094,8 @@
     english: VENOMOTH
     spanish: VENOMOTH
   pokedex_description:
-    english: The powdery scales on its wings are hard to remove. They also contain
-      poison that leaks out on contact.
-    spanish: Es difícil quitar el polvo de sus alas. También posee un veneno que se
-      desprende al contacto
+    english: The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.
+    spanish: Es difícil quitar el polvo de sus alas. También posee un veneno que se desprende al contacto
   species_class:
     english: POISONMOTH
     spanish: MOPA VEN.
@@ -1210,10 +1116,8 @@
     english: DIGLETT
     spanish: DIGLETT
   pokedex_description:
-    english: It prefers dark places. It spends most of its time underground, though
-      it may pop up in caves.
-    spanish: Prefiere los lugares oscuros. Pasa el tiempo bajo tierra, aunque aparece
-      en cuevas
+    english: It prefers dark places. It spends most of its time underground, though it may pop up in caves.
+    spanish: Prefiere los lugares oscuros. Pasa el tiempo bajo tierra, aunque aparece en cuevas
   species_class:
     english: MOLE
     spanish: TOPO
@@ -1234,10 +1138,8 @@
     english: DUGTRIO
     spanish: DUGTRIO
   pokedex_description:
-    english: A team of triplets that can burrow over 60 MPH. Due to this, some people
-      think it's an earthquake.
-    spanish: Un grupo de trillizos que cava a 90 KPH. Por ello, creen que se trata
-      de un terremoto
+    english: A team of triplets that can burrow over 60 MPH. Due to this, some people think it's an earthquake.
+    spanish: Un grupo de trillizos que cava a 90 KPH. Por ello, creen que se trata de un terremoto
   species_class:
     english: MOLE
     spanish: TOPO
@@ -1258,10 +1160,8 @@
     english: MEOWTH
     spanish: MEOWTH
   pokedex_description:
-    english: Appears to be more active at night. It loves round and shiny things.
-      It can't stop from picking them up.
-    spanish: Parece que son más activos por la noche. Adoran las cosas redondas y
-      brillantes
+    english: Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.
+    spanish: Parece que son más activos por la noche. Adoran las cosas redondas y brillantes
   species_class:
     english: SCRATCHCAT
     spanish: GATO ARAÑA
@@ -1282,10 +1182,8 @@
     english: PERSIAN
     spanish: PERSIAN
   pokedex_description:
-    english: The gem in its forehead glows on its own! It walks with all the grace
-      and elegance of a proud queen.
-    spanish: ¡La gema en su frente brilla por sí misma! Camina con la elegancia de
-      una reina
+    english: The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.
+    spanish: ¡La gema en su frente brilla por sí misma! Camina con la elegancia de una reina
   species_class:
     english: CLASSY CAT
     spanish: GATO FINO
@@ -1306,10 +1204,8 @@
     english: PSYDUCK
     spanish: PSYDUCK
   pokedex_description:
-    english: Always tormented by headaches. It uses psychic powers, but it is not
-      known if it intends to do so.
-    spanish: Siempre tiene dolores de cabeza. Posee poderes mentales, pero no sabes
-      cuándo los usará
+    english: Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.
+    spanish: Siempre tiene dolores de cabeza. Posee poderes mentales, pero no sabes cuándo los usará
   species_class:
     english: DUCK
     spanish: PATO
@@ -1330,10 +1226,8 @@
     english: GOLDUCK
     spanish: GOLDUCK
   pokedex_description:
-    english: Its slim and long limbs end in broad flippers. They are used for swimming
-      gracefully in lakes.
-    spanish: Sus delgados y largos miembros acaban en anchas aletas. Las usan  para
-      nadar en los lagos
+    english: Its slim and long limbs end in broad flippers. They are used for swimming gracefully in lakes.
+    spanish: Sus delgados y largos miembros acaban en anchas aletas. Las usan  para nadar en los lagos
   species_class:
     english: DUCK
     spanish: PATO
@@ -1354,10 +1248,8 @@
     english: MANKEY
     spanish: MANKEY
   pokedex_description:
-    english: An agile POKÉMON that lives in trees. It angers easily and will not hesitate
-      to attack anything.
-    spanish: Este ágil POKÉMON vive en los árboles. Se enfada fácilmente y no dudará
-      en atacar a todos
+    english: An agile POKÉMON that lives in trees. It angers easily and will not hesitate to attack anything.
+    spanish: Este ágil POKÉMON vive en los árboles. Se enfada fácilmente y no dudará en atacar a todos
   species_class:
     english: PIG MONKEY
     spanish: MONO CERDO
@@ -1378,10 +1270,8 @@
     english: PRIMEAPE
     spanish: PRIMEAPE
   pokedex_description:
-    english: It stops being angry only when nobody else is around. To view this moment
-      is very difficult.
-    spanish: Sólo se calma cuando nadie está cerca. Llegar a ver ese momento es realmente
-      difícil
+    english: It stops being angry only when nobody else is around. To view this moment is very difficult.
+    spanish: Sólo se calma cuando nadie está cerca. Llegar a ver ese momento es realmente difícil
   species_class:
     english: PIG MONKEY
     spanish: MONO CERDO
@@ -1402,10 +1292,8 @@
     english: GROWLITHE
     spanish: GROWLITHE
   pokedex_description:
-    english: A POKÉMON with a friendly nature. However, it will bark fiercely at anything
-      invading its territory.
-    spanish: Este POKÉMON es muy amistoso. Aun así, gruñirá a cualquiera que invada
-      su territorio
+    english: A POKÉMON with a friendly nature. However, it will bark fiercely at anything invading its territory.
+    spanish: Este POKÉMON es muy amistoso. Aun así, gruñirá a cualquiera que invada su territorio
   species_class:
     english: PUPPY
     spanish: PERRITO
@@ -1426,10 +1314,8 @@
     english: ARCANINE
     spanish: ARCANINE
   pokedex_description:
-    english: A legendary POKÉMON in China. Many people are charmed by its grace and
-      beauty while running.
-    spanish: Es un POKÉMON legendario en China. Allí, adoran la gracia y belleza que
-      exhibe al correr
+    english: A legendary POKÉMON in China. Many people are charmed by its grace and beauty while running.
+    spanish: Es un POKÉMON legendario en China. Allí, adoran la gracia y belleza que exhibe al correr
   species_class:
     english: LEGENDARY
     spanish: LEGENDARIO
@@ -1450,10 +1336,8 @@
     english: POLIWAG
     spanish: POLIWAG
   pokedex_description:
-    english: The direction of the spiral on the belly differs by area. It is more
-      adept at swimming than walking.
-    spanish: La dirección de la espiral en el vientre cambia según el área. Prefiere
-      nadar a correr
+    english: The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.
+    spanish: La dirección de la espiral en el vientre cambia según el área. Prefiere nadar a correr
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
@@ -1474,10 +1358,8 @@
     english: POLIWHIRL
     spanish: POLIWHIRL
   pokedex_description:
-    english: Under attack, it uses its belly  spiral to put the foe to sleep. It then
-      makes its escape.
-    spanish: Cuando lo atacan,  usa la espiral del vientre para dormir al rival. Aprovecha
-      para escapar entonces
+    english: Under attack, it uses its belly  spiral to put the foe to sleep. It then makes its escape.
+    spanish: Cuando lo atacan,  usa la espiral del vientre para dormir al rival. Aprovecha para escapar entonces
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
@@ -1499,10 +1381,8 @@
     english: POLIWRATH
     spanish: POLIWRATH
   pokedex_description:
-    english: Swims powerfully using all the muscles in its body. It can even overtake
-      champion swimmers.
-    spanish: Es capaz de nadar usando todos los músculos de su cuerpo. Podrá adelantar
-      incluso a un campeón
+    english: Swims powerfully using all the muscles in its body. It can even overtake champion swimmers.
+    spanish: Es capaz de nadar usando todos los músculos de su cuerpo. Podrá adelantar incluso a un campeón
   species_class:
     english: TADPOLE
     spanish: RENACUAJO
@@ -1523,10 +1403,8 @@
     english: ABRA
     spanish: ABRA
   pokedex_description:
-    english: Sleeps 18 hours a day. If it senses danger, it will teleport itself to
-      safety even as it sleeps.
-    spanish: Duerme 18 horas al día. Si siente peligro, se teletransporta a lugar
-      seguro, aun durmiendo
+    english: Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.
+    spanish: Duerme 18 horas al día. Si siente peligro, se teletransporta a lugar seguro, aun durmiendo
   species_class:
     english: PSI
     spanish: PSI
@@ -1547,10 +1425,8 @@
     english: KADABRA
     spanish: KADABRA
   pokedex_description:
-    english: Many odd things happen if this POKÉMON is close by. For example, it makes
-      clocks run backwards.
-    spanish: Muchas cosas raras suceden si está cerca. Por ejemplo, hace que los relojes
-      vayan al revés
+    english: Many odd things happen if this POKÉMON is close by. For example, it makes clocks run backwards.
+    spanish: Muchas cosas raras suceden si está cerca. Por ejemplo, hace que los relojes vayan al revés
   species_class:
     english: PSI
     spanish: PSI
@@ -1571,10 +1447,8 @@
     english: ALAKAZAM
     spanish: ALAKAZAM
   pokedex_description:
-    english: A POKÉMON that can memorize anything. It never forgets what it learns-that's
-      why this POKÉMON is smart.
-    spanish: Este POKÉMON lo recuerda todo. Nunca olvida lo que aprende. Es un POKÉMON
-      muy listo
+    english: A POKÉMON that can memorize anything. It never forgets what it learns-that's why this POKÉMON is smart.
+    spanish: Este POKÉMON lo recuerda todo. Nunca olvida lo que aprende. Es un POKÉMON muy listo
   species_class:
     english: PSI
     spanish: PSI
@@ -1595,10 +1469,8 @@
     english: MACHOP
     spanish: MACHOP
   pokedex_description:
-    english: Very powerful in spite of its small size. Its mastery of many types of
-      martial arts makes it very tough.
-    spanish: Muy poderoso a pesar de su pequeño tamaño. Su maestría en artes marciales
-      lo hace muy duro
+    english: Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.
+    spanish: Muy poderoso a pesar de su pequeño tamaño. Su maestría en artes marciales lo hace muy duro
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
@@ -1619,10 +1491,8 @@
     english: MACHOKE
     spanish: MACHOKE
   pokedex_description:
-    english: The belt around its waist holds back its energy. Without it, this POKÉMON
-      would be unstoppable.
-    spanish: El cinturón que rodea su cuello retiene toda su energía. Sin él, este
-      POKÉMON sería imparable
+    english: The belt around its waist holds back its energy. Without it, this POKÉMON would be unstoppable.
+    spanish: El cinturón que rodea su cuello retiene toda su energía. Sin él, este POKÉMON sería imparable
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
@@ -1643,10 +1513,8 @@
     english: MACHAMP
     spanish: MACHAMP
   pokedex_description:
-    english: One arm alone can move mountains. Using all four arms, this POKÉMON fires
-      off awesome punches.
-    spanish: Con sólo un brazo puede mover montañas. Usando los cuatro, este POKÉMON
-      puede ser terrible
+    english: One arm alone can move mountains. Using all four arms, this POKÉMON fires off awesome punches.
+    spanish: Con sólo un brazo puede mover montañas. Usando los cuatro, este POKÉMON puede ser terrible
   species_class:
     english: SUPERPOWER
     spanish: SUPERPODER
@@ -1668,10 +1536,8 @@
     english: BELLSPROUT
     spanish: BELLSPROUT
   pokedex_description:
-    english: Prefers hot and humid places. It ensnares tiny insects with its vines
-      and devours them.
-    spanish: Prefiere los lugares calientes y húmedos. Atrapa pequeños insectos con
-      sus ramas para devorarlos
+    english: Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.
+    spanish: Prefiere los lugares calientes y húmedos. Atrapa pequeños insectos con sus ramas para devorarlos
   species_class:
     english: FLOWER
     spanish: FLOR
@@ -1693,10 +1559,8 @@
     english: WEEPINBELL
     spanish: WEEPINBELL
   pokedex_description:
-    english: When hungry, it swallows anything that moves. Its hapless prey is melted
-      inside by strong acids.
-    spanish: Cuando está hambriento, ataca a todo lo que se mueva. Su pobre presa
-      se derrite en fuertes ácidos
+    english: When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.
+    spanish: Cuando está hambriento, ataca a todo lo que se mueva. Su pobre presa se derrite en fuertes ácidos
   species_class:
     english: FLYCATCHER
     spanish: MATAMOSCAS
@@ -1718,10 +1582,8 @@
     english: VICTREEBEL
     spanish: VICTREEBEL
   pokedex_description:
-    english: Lures prey with the sweet aroma of honey. Swallowed whole, the prey is
-      melted in a day, bones and all.
-    spanish: Engaña a su presa con un dulce aroma a miel. Una vez atrapada, la presa
-      perderá hasta sus huesos
+    english: Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.
+    spanish: Engaña a su presa con un dulce aroma a miel. Una vez atrapada, la presa perderá hasta sus huesos
   species_class:
     english: FLYCATCHER
     spanish: MATAMOSCAS
@@ -1743,10 +1605,8 @@
     english: TENTACOOL
     spanish: TENTACOOL
   pokedex_description:
-    english: It can sometimes be found all dry and shriveled up on a beach. Toss it
-      back into the sea to revive it.
-    spanish: A veces puede ser encontrado seco y medio enterrado en una playa. Al
-      lanzarlo otra vez al mar revivirá
+    english: It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.
+    spanish: A veces puede ser encontrado seco y medio enterrado en una playa. Al lanzarlo otra vez al mar revivirá
   species_class:
     english: JELLYFISH
     spanish: MEDUSA
@@ -1768,10 +1628,8 @@
     english: TENTACRUEL
     spanish: TENTACRUEL
   pokedex_description:
-    english: Its 80 tentacles can stretch and contract freely. They wrap around prey
-      and weaken it with poison.
-    spanish: Puede controlar libremente sus 80 tentáculos. Éstos debilitan a su presa
-      con su poderoso veneno
+    english: Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.
+    spanish: Puede controlar libremente sus 80 tentáculos. Éstos debilitan a su presa con su poderoso veneno
   species_class:
     english: JELLYFISH
     spanish: MEDUSA
@@ -1793,10 +1651,8 @@
     english: GEODUDE
     spanish: GEODUDE
   pokedex_description:
-    english: Commonly found near mountain trails, etc. If you step on one by accident,
-      it gets angry.
-    spanish: Se encuentran normalmente en los caminos de montaña. Si te cruzas con
-      uno, se enfadará
+    english: Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.
+    spanish: Se encuentran normalmente en los caminos de montaña. Si te cruzas con uno, se enfadará
   species_class:
     english: ROCK
     spanish: ROCA
@@ -1818,10 +1674,8 @@
     english: GRAVELER
     spanish: GRAVELER
   pokedex_description:
-    english: Often seen rolling down mountain trails. Obstacles are just things to
-      roll straight over, not avoid.
-    spanish: Se le suele ver rodando por las montañas. Los obstáculos no los evita.
-      ¡Los arrolla!
+    english: Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.
+    spanish: Se le suele ver rodando por las montañas. Los obstáculos no los evita. ¡Los arrolla!
   species_class:
     english: ROCK
     spanish: ROCA
@@ -1843,10 +1697,8 @@
     english: GOLEM
     spanish: GOLEM
   pokedex_description:
-    english: Once it sheds its skin, its body turns tender and whitish. Its hide hardens
-      when it's exposed to air.
-    spanish: Cuando pierde su piel, su cuerpo se vuelve blando y blanquecino. Si esto
-      ocurre, se esconderá
+    english: Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air.
+    spanish: Cuando pierde su piel, su cuerpo se vuelve blando y blanquecino. Si esto ocurre, se esconderá
   species_class:
     english: MEGATON
     spanish: MEGATÓN
@@ -1867,10 +1719,8 @@
     english: PONYTA
     spanish: PONYTA
   pokedex_description:
-    english: Capable of jumping incredibly high. Its hooves and sturdy legs absorb
-      the impact of a hard landing.
-    spanish: Es capaz de saltar muy alto. Con sus pezuñas y sus robustas patas, absorbe
-      el impacto
+    english: Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.
+    spanish: Es capaz de saltar muy alto. Con sus pezuñas y sus robustas patas, absorbe el impacto
   species_class:
     english: FIRE HORSE
     spanish: CABALLO F.
@@ -1891,10 +1741,8 @@
     english: RAPIDASH
     spanish: RAPIDASH
   pokedex_description:
-    english: Just loves to run. If it sees something faster than itself, it will give
-      chase at top speed.
-    spanish: Le encanta correr. Si ve algo más rápido que él, intentará alcanzarlo
-      a toda velocidad
+    english: Just loves to run. If it sees something faster than itself, it will give chase at top speed.
+    spanish: Le encanta correr. Si ve algo más rápido que él, intentará alcanzarlo a toda velocidad
   species_class:
     english: FIRE HORSE
     spanish: CABALLO F.
@@ -1916,10 +1764,8 @@
     english: SLOWPOKE
     spanish: SLOWPOKE
   pokedex_description:
-    english: Incredibly slow and sluggish. It is quite content to loll about without
-      worrying about the time.
-    spanish: Es increíblemente lento y perezoso. Le encanta dormir sin preocuparse
-      ni del tiempo ni de lo que ocurra
+    english: Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.
+    spanish: Es increíblemente lento y perezoso. Le encanta dormir sin preocuparse ni del tiempo ni de lo que ocurra
   species_class:
     english: DOPEY
     spanish: ATONTADO
@@ -1941,10 +1787,8 @@
     english: SLOWBRO
     spanish: SLOWBRO
   pokedex_description:
-    english: Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes
-      a SLOWPOKE again.
-    spanish: Vive tranquilo en el mar. Si el SHELLDER de su cola se cae, vuelve a
-      ser un SLOWPOKE otra vez
+    english: Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes a SLOWPOKE again.
+    spanish: Vive tranquilo en el mar. Si el SHELLDER de su cola se cae, vuelve a ser un SLOWPOKE otra vez
   species_class:
     english: HERMITCRAB
     spanish: ERMITAÑO
@@ -1965,10 +1809,8 @@
     english: MAGNEMITE
     spanish: MAGNEMITE
   pokedex_description:
-    english: It is born with the ability to defy gravity. It floats in air on powerful
-      electromagnetic waves.
-    spanish: Puede desafiar a la gravedad desde su nacimiento. Flota en el aire gracias
-      a ondas electromagnéticas
+    english: It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.
+    spanish: Puede desafiar a la gravedad desde su nacimiento. Flota en el aire gracias a ondas electromagnéticas
   species_class:
     english: MAGNET
     spanish: IMÁN
@@ -1989,10 +1831,8 @@
     english: MAGNETON
     spanish: MAGNETON
   pokedex_description:
-    english: Generates strange radio signals. It raises the temperature by 3.6F degrees
-      within 3,300 feet.
-    spanish: Genera extrañas señales de radio. Es capaz de elevar la temperatura 3#214
-      centígrados
+    english: Generates strange radio signals. It raises the temperature by 3.6F degrees within 3,300 feet.
+    spanish: Genera extrañas señales de radio. Es capaz de elevar la temperatura 3#214 centígrados
   species_class:
     english: MAGNET
     spanish: IMÁN
@@ -2014,10 +1854,8 @@
     english: FARFETCH'D
     spanish: FARFETCH'D
   pokedex_description:
-    english: Lives where reedy plants grow. They are rarely seen, so it's thought
-      their numbers are decreasing.
-    spanish: Vive cerca de las plantas. Son raramente vistos, así que se piensa que
-      se están extinguiendo
+    english: Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.
+    spanish: Vive cerca de las plantas. Son raramente vistos, así que se piensa que se están extinguiendo
   species_class:
     english: WILD DUCK
     spanish: PATO SALV.
@@ -2039,10 +1877,8 @@
     english: DODUO
     spanish: DODUO
   pokedex_description:
-    english: Its short wings make flying difficult. Instead, this POKÉMON runs at
-      high speed on developed legs.
-    spanish: Sus cortas alas lo hacen volar con dificultad. De todos modos, puede
-      correr a gran velocidad
+    english: Its short wings make flying difficult. Instead, this POKÉMON runs at high speed on developed legs.
+    spanish: Sus cortas alas lo hacen volar con dificultad. De todos modos, puede correr a gran velocidad
   species_class:
     english: TWIN BIRD
     spanish: AVE GEMELA
@@ -2064,10 +1900,8 @@
     english: DODRIO
     spanish: DODRIO
   pokedex_description:
-    english: One of DODUO's 2 heads splits to form a unique species. It runs close
-      to 40 MPH in prairies.
-    spanish: 'Una de las dos cabezas de DODUO se divide para formar un nuevo #74.
-      Es capaz de correr a 40 KPH'
+    english: One of DODUO's 2 heads splits to form a unique species. It runs close to 40 MPH in prairies.
+    spanish: 'Una de las dos cabezas de DODUO se divide para formar un nuevo #74. Es capaz de correr a 40 KPH'
   species_class:
     english: TRIPLEBIRD
     spanish: AVE TRIPLE
@@ -2088,10 +1922,8 @@
     english: SEEL
     spanish: SEEL
   pokedex_description:
-    english: Loves freezing cold conditions. Relishes swimming in a frigid climate
-      of around 14F degrees.
-    spanish: A este POKÉMON le encanta el frío. Le encanta nadar en climas polares,
-      sea cual sea la temperatura
+    english: Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees.
+    spanish: A este POKÉMON le encanta el frío. Le encanta nadar en climas polares, sea cual sea la temperatura
   species_class:
     english: SEA LION
     spanish: LEÓN MAR.
@@ -2113,10 +1945,8 @@
     english: DEWGONG
     spanish: DEWGONG
   pokedex_description:
-    english: Its entire body is a snowy-white. Unharmed by even intense cold, it swims
-      powerfully in icy waters.
-    spanish: Su cuerpo es como una bola de nieve. Inmune al frío intenso, nada rápidamente
-      en aguas heladas
+    english: Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.
+    spanish: Su cuerpo es como una bola de nieve. Inmune al frío intenso, nada rápidamente en aguas heladas
   species_class:
     english: SEA LION
     spanish: LEÓN MAR.
@@ -2137,10 +1967,8 @@
     english: GRIMER
     spanish: GRIMER
   pokedex_description:
-    english: Made of hardened sludge. It smells too putrid to touch. Even weeds won't
-      grow in its path.
-    spanish: Está hecho de fango endurecido. Huele a pútrido. ¡Por donde pasa, no
-      crece la hierba!
+    english: Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path.
+    spanish: Está hecho de fango endurecido. Huele a pútrido. ¡Por donde pasa, no crece la hierba!
   species_class:
     english: SLUDGE
     spanish: LODO
@@ -2161,10 +1989,8 @@
     english: MUK
     spanish: MUK
   pokedex_description:
-    english: Smells so awful, it can cause fainting. Through degeneration, it lost
-      its sense of smell.
-    spanish: Huele tan mal que puede provocar desmayos. Ha degenerado tanto, que ya
-      ni él mismo se huele
+    english: Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.
+    spanish: Huele tan mal que puede provocar desmayos. Ha degenerado tanto, que ya ni él mismo se huele
   species_class:
     english: SLUDGE
     spanish: LODO
@@ -2185,10 +2011,8 @@
     english: SHELLDER
     spanish: SHELLDER
   pokedex_description:
-    english: The shell can withstand any attack. However, when it is open, the tender
-      body is exposed.
-    spanish: Su concha puede evitar cualquier ataque. El débil cuerpo sólo está expuesto
-      cuando está abierta
+    english: The shell can withstand any attack. However, when it is open, the tender body is exposed.
+    spanish: Su concha puede evitar cualquier ataque. El débil cuerpo sólo está expuesto cuando está abierta
   species_class:
     english: BIVALVE
     spanish: BIVALVO
@@ -2210,10 +2034,8 @@
     english: CLOYSTER
     spanish: CLOYSTER
   pokedex_description:
-    english: For protection, it uses its harderthan-diamonds shell. It also shoots
-      spikes from the shell.
-    spanish: Utiliza su concha para protegerse. Dicen que es más dura que el diamante.
-      También lanza espinas
+    english: For protection, it uses its harderthan-diamonds shell. It also shoots spikes from the shell.
+    spanish: Utiliza su concha para protegerse. Dicen que es más dura que el diamante. También lanza espinas
   species_class:
     english: BIVALVE
     spanish: BIVALVO
@@ -2235,10 +2057,8 @@
     english: GASTLY
     spanish: GASTLY
   pokedex_description:
-    english: Said to appear in decrepit, deserted buildings. It has no real shape
-      as it appears to be made of a gas.
-    spanish: Sólo aparece en edificios en ruinas. No tiene forma real, ya que parece
-      que está hecho de gas
+    english: Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.
+    spanish: Sólo aparece en edificios en ruinas. No tiene forma real, ya que parece que está hecho de gas
   species_class:
     english: GAS
     spanish: GAS
@@ -2260,10 +2080,8 @@
     english: HAUNTER
     spanish: HAUNTER
   pokedex_description:
-    english: By licking, it saps the victim's life. It causes shaking that won't stop
-      until the victim's demise.
-    spanish: Toma la vida de su adversario a lengüetazos. Esto produce mareos hasta
-      que la víctima fallece
+    english: By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.
+    spanish: Toma la vida de su adversario a lengüetazos. Esto produce mareos hasta que la víctima fallece
   species_class:
     english: GAS
     spanish: GAS
@@ -2285,10 +2103,8 @@
     english: GENGAR
     spanish: GENGAR
   pokedex_description:
-    english: A GENGAR is close by if you feel a sudden chill. It may be trying to
-      lay a curse on you.
-    spanish: Sabrás que un GENGAR está cerca cuando sufras de sudores fríos. Intentará
-      echarte un hechizo
+    english: A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.
+    spanish: Sabrás que un GENGAR está cerca cuando sufras de sudores fríos. Intentará echarte un hechizo
   species_class:
     english: SHADOW
     spanish: SOMBRA
@@ -2310,10 +2126,8 @@
     english: ONIX
     spanish: ONIX
   pokedex_description:
-    english: Burrows at high speed in search of food. The tunnels it leaves are used
-      as homes by DIGLETTs.
-    spanish: Cava a gran velocidad en busca de comida. Los túneles que deja son usados
-      por los DIGLETT
+    english: Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.
+    spanish: Cava a gran velocidad en busca de comida. Los túneles que deja son usados por los DIGLETT
   species_class:
     english: ROCK SNAKE
     spanish: SERP.ROCA
@@ -2334,10 +2148,8 @@
     english: DROWZEE
     spanish: DROWZEE
   pokedex_description:
-    english: If you sleep by it all the time, it will sometimes show you dreams it
-      has eaten in the past.
-    spanish: Si duermes cerca de uno todo el tiempo, en alguna ocasión podrás ver
-      sueños que se haya comido antes
+    english: If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.
+    spanish: Si duermes cerca de uno todo el tiempo, en alguna ocasión podrás ver sueños que se haya comido antes
   species_class:
     english: HYPNOSIS
     spanish: HIPNOSIS
@@ -2358,10 +2170,8 @@
     english: HYPNO
     spanish: HYPNO
   pokedex_description:
-    english: Avoid eye contact if you come across one. It will try to put you to sleep
-      by using its pendulum.
-    spanish: Intenta evitar cualquier tipo de contacto visual con este POKÉMON. Puede
-      hipnotizar con su péndulo
+    english: Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
+    spanish: Intenta evitar cualquier tipo de contacto visual con este POKÉMON. Puede hipnotizar con su péndulo
   species_class:
     english: HYPNOSIS
     spanish: HIPNOSIS
@@ -2382,10 +2192,8 @@
     english: KRABBY
     spanish: KRABBY
   pokedex_description:
-    english: Its pincers are superb weapons. They sometimes break off during battle,
-      but they grow back fast.
-    spanish: Sus pinzas son armas perfectas. En alguna ocasión pueden romperse en
-      combate, pero crecerán rápido
+    english: Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.
+    spanish: Sus pinzas son armas perfectas. En alguna ocasión pueden romperse en combate, pero crecerán rápido
   species_class:
     english: RIVER CRAB
     spanish: CANGREJO
@@ -2406,10 +2214,8 @@
     english: KINGLER
     spanish: KINGLER
   pokedex_description:
-    english: One claw grew massively and as hard as steel. It has 10,000-HP strength.
-      However, it is too heavy.
-    spanish: Una de sus pinzas crece más que la otra, y es dura como el acero. De
-      todos modos, pesa demasiado
+    english: One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.
+    spanish: Una de sus pinzas crece más que la otra, y es dura como el acero. De todos modos, pesa demasiado
   species_class:
     english: PINCER
     spanish: TENAZA
@@ -2430,10 +2236,8 @@
     english: VOLTORB
     spanish: VOLTORB
   pokedex_description:
-    english: It is said to camouflage itself as a POKÉ BALL. It will self-destruct
-      with very little stimulus.
-    spanish: Se dice que se camufla como una POKÉ BALL. Al más mínimo estímulo se
-      autodestruirá
+    english: It is said to camouflage itself as a POKÉ BALL. It will self-destruct with very little stimulus.
+    spanish: Se dice que se camufla como una POKÉ BALL. Al más mínimo estímulo se autodestruirá
   species_class:
     english: BALL
     spanish: BOLA
@@ -2454,10 +2258,8 @@
     english: ELECTRODE
     spanish: ELECTRODE
   pokedex_description:
-    english: Stores electrical energy inside its body. Even the slightest shock could
-      trigger a huge explosion.
-    spanish: Almacena energía eléctrica en su cuerpo. El más leve shock puede provocar
-      una gran explosión
+    english: Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.
+    spanish: Almacena energía eléctrica en su cuerpo. El más leve shock puede provocar una gran explosión
   species_class:
     english: BALL
     spanish: BOLA
@@ -2479,10 +2281,8 @@
     english: EXEGGCUTE
     spanish: EXEGGCUTE
   pokedex_description:
-    english: The heads attract each other and spin around. There must be 6 heads for
-      it to maintain balance.
-    spanish: Sus cabezas se atraen unas a otras, y giran entre si. Debe tener seis
-      para equilibrarse
+    english: The heads attract each other and spin around. There must be 6 heads for it to maintain balance.
+    spanish: Sus cabezas se atraen unas a otras, y giran entre si. Debe tener seis para equilibrarse
   species_class:
     english: EGG
     spanish: HUEVO
@@ -2504,10 +2304,8 @@
     english: EXEGGUTOR
     spanish: EXEGGUTOR
   pokedex_description:
-    english: Its cries are very noisy. This is because each of the 3 heads thinks
-      about whatever it likes.
-    spanish: Este POKÉMON es muy ruidoso. Esto es debido a que cada una de sus cabezas
-      hace lo que quiere
+    english: Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.
+    spanish: Este POKÉMON es muy ruidoso. Esto es debido a que cada una de sus cabezas hace lo que quiere
   species_class:
     english: COCONUT
     spanish: COCO
@@ -2528,10 +2326,8 @@
     english: CUBONE
     spanish: CUBONE
   pokedex_description:
-    english: Wears the skull of its deceased mother. Its cries echo inside the skull
-      and come out as a sad melody.
-    spanish: Siempre lleva el cráneo de su difunta madre. Su grito hace eco y parece
-      una triste melodía
+    english: Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.
+    spanish: Siempre lleva el cráneo de su difunta madre. Su grito hace eco y parece una triste melodía
   species_class:
     english: LONELY
     spanish: SOLITARIO
@@ -2552,10 +2348,8 @@
     english: MAROWAK
     spanish: MAROWAK
   pokedex_description:
-    english: Small and weak, this POKÉMON is adept with its bone club. It has grown
-      more vicious over the ages.
-    spanish: Pequeño y débil, este POKÉMON siempre va acompañado de su palo de hueso
-      de POKÉMON
+    english: Small and weak, this POKÉMON is adept with its bone club. It has grown more vicious over the ages.
+    spanish: Pequeño y débil, este POKÉMON siempre va acompañado de su palo de hueso de POKÉMON
   species_class:
     english: BONEKEEPER
     spanish: APILAHUESO
@@ -2576,10 +2370,8 @@
     english: HITMONLEE
     spanish: HITMONLEE
   pokedex_description:
-    english: When kicking, the sole of its foot turns as hard as a diamond on impact
-      and destroys its enemy.
-    spanish: Cuando da patadas al enemigo, la planta de sus pies se vuelve tan dura
-      como el diamante
+    english: When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.
+    spanish: Cuando da patadas al enemigo, la planta de sus pies se vuelve tan dura como el diamante
   species_class:
     english: KICKING
     spanish: PATEANDO
@@ -2600,10 +2392,8 @@
     english: HITMONCHAN
     spanish: HITMONCHAN
   pokedex_description:
-    english: Punches in corkscrew fashion. It can punch its way through a concrete
-      wall in the same way as a drill.
-    spanish: Sus golpes se asemejan a una taladradora. Puede atravesar un muro de
-      hormigón como si nada
+    english: Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.
+    spanish: Sus golpes se asemejan a una taladradora. Puede atravesar un muro de hormigón como si nada
   species_class:
     english: PUNCHING
     spanish: PEGANDO
@@ -2624,10 +2414,8 @@
     english: LICKITUNG
     spanish: LICKITUNG
   pokedex_description:
-    english: Its tongue spans almost 7 feet and moves more freely than its forelegs.
-      Its licks can cause paralysis.
-    spanish: Su lengua mide casi dos metros y se mueve libremente. Sus lametazos pueden
-      causar parálisis
+    english: Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.
+    spanish: Su lengua mide casi dos metros y se mueve libremente. Sus lametazos pueden causar parálisis
   species_class:
     english: LICKING
     spanish: LAMIENDO
@@ -2648,10 +2436,8 @@
     english: KOFFING
     spanish: KOFFING
   pokedex_description:
-    english: In hot places, its internal gases could expand and explode without any
-      warning. Be very careful!
-    spanish: A veces puede explotar sin avisar, ya que en lugares calurosos su gas
-      interno se expande
+    english: In hot places, its internal gases could expand and explode without any warning. Be very careful!
+    spanish: A veces puede explotar sin avisar, ya que en lugares calurosos su gas interno se expande
   species_class:
     english: POISON GAS
     spanish: GAS VENENO
@@ -2672,10 +2458,8 @@
     english: WEEZING
     spanish: WEEZING
   pokedex_description:
-    english: It lives and grows by absorbing dust, germs and poison gases that are
-      contained in toxic waste and garbage.
-    spanish: Este POKÉMON vive absorbiendo gases venenosos, gérmenes, y el polvo que
-      existe en la basura
+    english: It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.
+    spanish: Este POKÉMON vive absorbiendo gases venenosos, gérmenes, y el polvo que existe en la basura
   species_class:
     english: POISON GAS
     spanish: GAS VENENO
@@ -2697,10 +2481,8 @@
     english: RHYHORN
     spanish: RHYHORN
   pokedex_description:
-    english: A POKÉMON with a one-track mind. Once it charges,  it won't stop running
-      until it falls asleep.
-    spanish: Este POKÉMON no tiene muchas luces. Una vez inicia la carga, no para
-      hasta que cae dormido
+    english: A POKÉMON with a one-track mind. Once it charges,  it won't stop running until it falls asleep.
+    spanish: Este POKÉMON no tiene muchas luces. Una vez inicia la carga, no para hasta que cae dormido
   species_class:
     english: SPIKES
     spanish: CLAVOS
@@ -2722,10 +2504,8 @@
     english: RHYDON
     spanish: RHYDON
   pokedex_description:
-    english: Walks on its hind legs. Shows signs of intelligence. Its armor-like hide
-      even repels molten lava.
-    spanish: Camina sobre sus patas traseras, y muestra signos de inteligencia. Es
-      capaz de aguantar lava hirviendo
+    english: Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.
+    spanish: Camina sobre sus patas traseras, y muestra signos de inteligencia. Es capaz de aguantar lava hirviendo
   species_class:
     english: DRILL
     spanish: TALADRO
@@ -2746,10 +2526,8 @@
     english: CHANSEY
     spanish: CHANSEY
   pokedex_description:
-    english: A gentle and kindhearted POKÉMON that shares its nutritious eggs if it
-      sees an injured POKÉMON.
-    spanish: Este amable POKÉMON es capaz de compartir sus nutrientes huevos con un
-      POKÉMON herido
+    english: A gentle and kindhearted POKÉMON that shares its nutritious eggs if it sees an injured POKÉMON.
+    spanish: Este amable POKÉMON es capaz de compartir sus nutrientes huevos con un POKÉMON herido
   species_class:
     english: EGG
     spanish: HUEVO
@@ -2770,10 +2548,8 @@
     english: TANGELA
     spanish: TANGELA
   pokedex_description:
-    english: Its identity is obscured by masses of thick, blue vines. The vines are
-      said to never stop growing.
-    spanish: Se camufla tras una gran masa de enredaderas azules. Se dice que nunca
-      dejan de crecer
+    english: Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.
+    spanish: Se camufla tras una gran masa de enredaderas azules. Se dice que nunca dejan de crecer
   species_class:
     english: VINE
     spanish: ENREDADERA
@@ -2794,10 +2570,8 @@
     english: KANGASKHAN
     spanish: KANGASKHAN
   pokedex_description:
-    english: Raises its young in its belly pouch. Won't run from any fight to keep
-      its young protected.
-    spanish: Cuida de su cría en la bolsa de su tripa. No evitará ninguna pelea para
-      protegerla
+    english: Raises its young in its belly pouch. Won't run from any fight to keep its young protected.
+    spanish: Cuida de su cría en la bolsa de su tripa. No evitará ninguna pelea para protegerla
   species_class:
     english: PARENT
     spanish: PADRES
@@ -2818,10 +2592,8 @@
     english: HORSEA
     spanish: HORSEA
   pokedex_description:
-    english: If it senses any danger, it will vigorously spray water or a special
-      type of ink from its mouth.
-    spanish: Si se siente en peligro, arrojará un potente chorro de agua, o de una
-      tinta especial, por su boca
+    english: If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.
+    spanish: Si se siente en peligro, arrojará un potente chorro de agua, o de una tinta especial, por su boca
   species_class:
     english: DRAGON
     spanish: DRAGÓN
@@ -2842,10 +2614,8 @@
     english: SEADRA
     spanish: SEADRA
   pokedex_description:
-    english: Touching the back fin causes numbness. It hooks its tail to coral to
-      stay in place while sleeping.
-    spanish: Tocar su aleta trasera causa parálisis. Se engancha al coral para mantenerse
-      mientras duerme
+    english: Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.
+    spanish: Tocar su aleta trasera causa parálisis. Se engancha al coral para mantenerse mientras duerme
   species_class:
     english: DRAGON
     spanish: DRAGÓN
@@ -2866,10 +2636,8 @@
     english: GOLDEEN
     spanish: GOLDEEN
   pokedex_description:
-    english: When it is time for them to lay eggs, they can be seen swimming up rivers
-      and falls in large groups.
-    spanish: En su época de puesta de huevos, suelen ser vistos nadando por ríos contracorriente
-      en grandes grupos
+    english: When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.
+    spanish: En su época de puesta de huevos, suelen ser vistos nadando por ríos contracorriente en grandes grupos
   species_class:
     english: GOLDFISH
     spanish: PEZ COLOR
@@ -2890,10 +2658,8 @@
     english: SEAKING
     spanish: SEAKING
   pokedex_description:
-    english: It is the male's job to make a nest by carving out boulders in a stream
-      using the horn on its head.
-    spanish: Este POKÉMON hace sus nidos tallando cantos de riachuelo con el cuerno
-      de su cabeza
+    english: It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.
+    spanish: Este POKÉMON hace sus nidos tallando cantos de riachuelo con el cuerno de su cabeza
   species_class:
     english: GOLDFISH
     spanish: PEZ COLOR
@@ -2914,10 +2680,8 @@
     english: STARYU
     spanish: STARYU
   pokedex_description:
-    english: As long as the center section is unharmed, it can grow back fully even
-      if it is chopped to bits.
-    spanish: Mientras su parte central se mantenga intacta, crecerá de nuevo aunque
-      haya sido destrozado
+    english: As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.
+    spanish: Mientras su parte central se mantenga intacta, crecerá de nuevo aunque haya sido destrozado
   species_class:
     english: STARSHAPE
     spanish: ESTRELLADA
@@ -2939,10 +2703,8 @@
     english: STARMIE
     spanish: STARMIE
   pokedex_description:
-    english: The center section is named the core. People think it is communicating
-      when it glows in 7 colors.
-    spanish: Su zona central es conocida como el núcleo. Se piensa que se comunica
-      mediante colores
+    english: The center section is named the core. People think it is communicating when it glows in 7 colors.
+    spanish: Su zona central es conocida como el núcleo. Se piensa que se comunica mediante colores
   species_class:
     english: MYSTERIOUS
     spanish: MISTERIOSO
@@ -2963,10 +2725,8 @@
     english: MR.MIME
     spanish: MR.MIME
   pokedex_description:
-    english: Always practices its pantomime act. It makes enemies believe something
-      exists that really doesn't.
-    spanish: Siempre practica la misma pantomima. Hace creer al enemigo que existe
-      algo que no es real
+    english: Always practices its pantomime act. It makes enemies believe something exists that really doesn't.
+    spanish: Siempre practica la misma pantomima. Hace creer al enemigo que existe algo que no es real
   species_class:
     english: BARRIER
     spanish: BARRERA
@@ -2988,10 +2748,8 @@
     english: SCYTHER
     spanish: SCYTHER
   pokedex_description:
-    english: Leaps out of tall grass and slices prey with its scythes. The movement
-      looks like that of a ninja.
-    spanish: Se agazapa en la hierba alta para saltar sobre su enemigo con sus guadañas.
-      Se mueve como un ninja
+    english: Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.
+    spanish: Se agazapa en la hierba alta para saltar sobre su enemigo con sus guadañas. Se mueve como un ninja
   species_class:
     english: MANTIS
     spanish: MANTIS
@@ -3013,10 +2771,8 @@
     english: JYNX
     spanish: JYNX
   pokedex_description:
-    english: Appears to move to a rhythm of its own, as if it were dancing. It wiggles
-      its hips as it walks.
-    spanish: Parece moverse como si estuviera bailando un ritmo de su propia creación.
-      Menea mucho sus caderas
+    english: Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.
+    spanish: Parece moverse como si estuviera bailando un ritmo de su propia creación. Menea mucho sus caderas
   species_class:
     english: HUMANSHAPE
     spanish: F. HUMANA
@@ -3037,10 +2793,8 @@
     english: ELECTABUZZ
     spanish: ELECTABUZZ
   pokedex_description:
-    english: If a major power outage occurs, it is certain that this POKÉMON has eaten
-      electricity at a power plant.
-    spanish: Cuando hay un apagón, es más que posible que este POKÉMON se haya comido
-      la energía
+    english: If a major power outage occurs, it is certain that this POKÉMON has eaten electricity at a power plant.
+    spanish: Cuando hay un apagón, es más que posible que este POKÉMON se haya comido la energía
   species_class:
     english: ELECTRIC
     spanish: ELÉCTRICO
@@ -3061,10 +2815,8 @@
     english: MAGMAR
     spanish: MAGMAR
   pokedex_description:
-    english: Born in an active volcano. Its body is always cloaked in flames, so it
-      looks like a big ball of fire.
-    spanish: Nacen en volcanes activos. Su cuerpo parece una gran bola de fuego ya
-      que están en llamas
+    english: Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.
+    spanish: Nacen en volcanes activos. Su cuerpo parece una gran bola de fuego ya que están en llamas
   species_class:
     english: SPITFIRE
     spanish: ESCUPFUEGO
@@ -3085,10 +2837,8 @@
     english: PINSIR
     spanish: PINSIR
   pokedex_description:
-    english: Grips its prey in its pincers and squeezes hard! It can't move if it's
-      cold, so it lives in warm places.
-    spanish: Atrapa a su presa con sus pinzas, y aprieta fuerte. No se puede mover
-      si hace mucho frío
+    english: Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.
+    spanish: Atrapa a su presa con sus pinzas, y aprieta fuerte. No se puede mover si hace mucho frío
   species_class:
     english: STAGBEETLE
     spanish: ESCARABAJO
@@ -3109,10 +2859,8 @@
     english: TAUROS
     spanish: TAUROS
   pokedex_description:
-    english: A rowdy POKÉMON with a lot of stamina. Once running, it won't stop until
-      it hits something.
-    spanish: Un rudo POKÉMON repleto de energía vital. Cuando corre, no para hasta
-      que choca con algo
+    english: A rowdy POKÉMON with a lot of stamina. Once running, it won't stop until it hits something.
+    spanish: Un rudo POKÉMON repleto de energía vital. Cuando corre, no para hasta que choca con algo
   species_class:
     english: WILD BULL
     spanish: TORO BRAVO
@@ -3133,10 +2881,8 @@
     english: MAGIKARP
     spanish: MAGIKARP
   pokedex_description:
-    english: Famous for being very unreliable. It can be found swimming in seas, lakes,
-      rivers and shallow puddles.
-    spanish: Famoso por ser poco fiable. Puede encontrarse nadando en mares, lagos,
-      ríos y charcos
+    english: Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.
+    spanish: Famoso por ser poco fiable. Puede encontrarse nadando en mares, lagos, ríos y charcos
   species_class:
     english: FISH
     spanish: PEZ
@@ -3158,10 +2904,8 @@
     english: GYARADOS
     spanish: GYARADOS
   pokedex_description:
-    english: Brutally vicious and enormously destructive. Known for totally destroying
-      cities in ancient times.
-    spanish: Este POKÉMON es enormemente  destructivo. En la antigüedad, era conocido
-      por destruir ciudades
+    english: Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times.
+    spanish: Este POKÉMON es enormemente  destructivo. En la antigüedad, era conocido por destruir ciudades
   species_class:
     english: ATROCIOUS
     spanish: ATROCIDAD
@@ -3183,10 +2927,8 @@
     english: LAPRAS
     spanish: LAPRAS
   pokedex_description:
-    english: A gentle soul that can read the minds of people. It can ferry people
-      across the sea on its back.
-    spanish: Este espíritu gentil es capaz de leer la mente. Puede llevar a la gente
-      a través del mar
+    english: A gentle soul that can read the minds of people. It can ferry people across the sea on its back.
+    spanish: Este espíritu gentil es capaz de leer la mente. Puede llevar a la gente a través del mar
   species_class:
     english: TRANSPORT
     spanish: TRANSPORTE
@@ -3207,10 +2949,8 @@
     english: DITTO
     spanish: DITTO
   pokedex_description:
-    english: When it spots an enemy, its body transfigures into an almost perfect
-      copy of its opponent.
-    spanish: Cuando se fija en un enemigo, su cuerpo se transforma en una copia perfecta
-      del mismo
+    english: When it spots an enemy, its body transfigures into an almost perfect copy of its opponent.
+    spanish: Cuando se fija en un enemigo, su cuerpo se transforma en una copia perfecta del mismo
   species_class:
     english: TRANSFORM
     spanish: TRANSFORM.
@@ -3231,10 +2971,8 @@
     english: EEVEE
     spanish: EEVEE
   pokedex_description:
-    english: Its genetic code is unstable, so it could evolve in a variety of ways.
-      There are only a few alive.
-    spanish: Su código genético es muy inestable. Puede evolucionar en diversas razas
-      de POKÉMON
+    english: Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.
+    spanish: Su código genético es muy inestable. Puede evolucionar en diversas razas de POKÉMON
   species_class:
     english: EVOLUTION
     spanish: EVOLUCIÓN
@@ -3255,10 +2993,8 @@
     english: VAPOREON
     spanish: VAPOREON
   pokedex_description:
-    english: Its cell structure is similar to water molecules. It will melt away and
-      become invisible in water.
-    spanish: Su estructura celular se parece a las moléculas de agua. Es invisible
-      cuando está en el agua
+    english: Its cell structure is similar to water molecules. It will melt away and become invisible in water.
+    spanish: Su estructura celular se parece a las moléculas de agua. Es invisible cuando está en el agua
   species_class:
     english: BUBBLE JET
     spanish: BURBUJA
@@ -3279,10 +3015,8 @@
     english: JOLTEON
     spanish: JOLTEON
   pokedex_description:
-    english: A sensitive POKÉMON that easily becomes sad or angry. Every time its
-      mood changes, it charges power.
-    spanish: Un POKÉMON muy sensible. Se entristece o enfada con mucha facilidad,
-      lo que le da energía
+    english: A sensitive POKÉMON that easily becomes sad or angry. Every time its mood changes, it charges power.
+    spanish: Un POKÉMON muy sensible. Se entristece o enfada con mucha facilidad, lo que le da energía
   species_class:
     english: LIGHTNING
     spanish: RELÁMPAGO
@@ -3303,10 +3037,8 @@
     english: FLAREON
     spanish: FLAREON
   pokedex_description:
-    english: It has a flame chamber inside its body. It inhales, then blows out fire
-      that is over 3,000F degrees.
-    spanish: El cuerpo de este POKÉMON posee una cámara ígnea. Cuando exhala aire,
-      éste está a 3.000#214 Celsius
+    english: It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees.
+    spanish: El cuerpo de este POKÉMON posee una cámara ígnea. Cuando exhala aire, éste está a 3.000#214 Celsius
   species_class:
     english: FLAME
     spanish: LLAMA
@@ -3327,10 +3059,8 @@
     english: PORYGON
     spanish: PORYGON
   pokedex_description:
-    english: The only POKÉMON people anticipate can fly into space. None has managed
-      the feat yet, however.
-    spanish: La gente dice que se trata del único POKÉMON que puede volar por el espacio.
-      Aún no lo ha logrado
+    english: The only POKÉMON people anticipate can fly into space. None has managed the feat yet, however.
+    spanish: La gente dice que se trata del único POKÉMON que puede volar por el espacio. Aún no lo ha logrado
   species_class:
     english: VIRTUAL
     spanish: VIRTUAL
@@ -3352,10 +3082,8 @@
     english: OMANYTE
     spanish: OMANYTE
   pokedex_description:
-    english: An ancient POKÉMON that was recovered from a fossil. It swims by cleverly
-      twisting its 10 tentacles about.
-    spanish: 'Este antiguo #74 fue recuperado de un fósil. Nada muy bien gracias al
-      movimiento de sus 10 tentáculos'
+    english: An ancient POKÉMON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.
+    spanish: 'Este antiguo #74 fue recuperado de un fósil. Nada muy bien gracias al movimiento de sus 10 tentáculos'
   species_class:
     english: SPIRAL
     spanish: ESPIRAL
@@ -3377,10 +3105,8 @@
     english: OMASTAR
     spanish: OMASTAR
   pokedex_description:
-    english: Sharp beaks ring its mouth. Its shell was too big for it to move freely,
-      so it became extinct.
-    spanish: Picos afilados rodean su boca. Su concha es demasiado grande como para
-      que se mueva libremente
+    english: Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct.
+    spanish: Picos afilados rodean su boca. Su concha es demasiado grande como para que se mueva libremente
   species_class:
     english: SPIRAL
     spanish: ESPIRAL
@@ -3402,10 +3128,8 @@
     english: KABUTO
     spanish: KABUTO
   pokedex_description:
-    english: A POKÉMON that was recovered from a fossil. It uses the eyes on its back
-      while hiding on the sea floor.
-    spanish: Este POKÉMON fue recuperado desde un fósil. Usa los ojos de su espalda
-      al ocultarse en el lecho marino
+    english: A POKÉMON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.
+    spanish: Este POKÉMON fue recuperado desde un fósil. Usa los ojos de su espalda al ocultarse en el lecho marino
   species_class:
     english: SHELLFISH
     spanish: MARISCO
@@ -3427,10 +3151,8 @@
     english: KABUTOPS
     spanish: KABUTOPS
   pokedex_description:
-    english: A slim and fast swimmer. It slices its prey with its sharp sickles and
-      drinks the body fluids.
-    spanish: Este POKÉMON es un hábil y rápido nadador. Atrapa a su presa para drenar
-      sus fluidos vitales
+    english: A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.
+    spanish: Este POKÉMON es un hábil y rápido nadador. Atrapa a su presa para drenar sus fluidos vitales
   species_class:
     english: SHELLFISH
     spanish: MARISCO
@@ -3452,10 +3174,8 @@
     english: AERODACTYL
     spanish: AERODACTYL
   pokedex_description:
-    english: A savage POKÉMON that died out in ancient times. It was resurrected using
-      DNA taken from amber.
-    spanish: Este POKÉMON salvaje, extinto hace siglos, fue resucitado usando ADN
-      tomado de un ámbar
+    english: A savage POKÉMON that died out in ancient times. It was resurrected using DNA taken from amber.
+    spanish: Este POKÉMON salvaje, extinto hace siglos, fue resucitado usando ADN tomado de un ámbar
   species_class:
     english: FOSSIL
     spanish: FÓSIL
@@ -3476,10 +3196,8 @@
     english: SNORLAX
     spanish: SNORLAX
   pokedex_description:
-    english: Will eat anything, even if the food happens to be a little moldy. It
-      never gets an upset stomach.
-    spanish: Come cualquier cosa. Incluso la comida pasada de fecha. Su estómago nunca
-      se llena
+    english: Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.
+    spanish: Come cualquier cosa. Incluso la comida pasada de fecha. Su estómago nunca se llena
   species_class:
     english: SLEEPING
     spanish: DORMIR
@@ -3501,10 +3219,8 @@
     english: ARTICUNO
     spanish: ARTICUNO
   pokedex_description:
-    english: A legendary bird POKÉMON. It freezes water that is contained in winter
-      air and makes it snow.
-    spanish: Un legendario pájaro POKÉMON. Congela el agua que encuentra en el aire
-      para generar nieve
+    english: A legendary bird POKÉMON. It freezes water that is contained in winter air and makes it snow.
+    spanish: Un legendario pájaro POKÉMON. Congela el agua que encuentra en el aire para generar nieve
   species_class:
     english: FREEZE
     spanish: CONGELAR
@@ -3526,10 +3242,8 @@
     english: ZAPDOS
     spanish: ZAPDOS
   pokedex_description:
-    english: This legendary bird POKÉMON is said to appear when the sky turns dark
-      and lightning showers down.
-    spanish: Este legendario pájaro POKÉMON sólo aparece cuando el cielo se torna
-      oscuro y caen rayos
+    english: This legendary bird POKÉMON is said to appear when the sky turns dark and lightning showers down.
+    spanish: Este legendario pájaro POKÉMON sólo aparece cuando el cielo se torna oscuro y caen rayos
   species_class:
     english: ELECTRIC
     spanish: ELÉCTRICO
@@ -3551,10 +3265,8 @@
     english: MOLTRES
     spanish: MOLTRES
   pokedex_description:
-    english: A legendary bird POKÉMON. As it flaps its flaming wings, even the night
-      sky will turn red.
-    spanish: Un legendario pájaro POKÉMON. Cuando aletea sus flamígeras alas, la oscura
-      noche se torna roja
+    english: A legendary bird POKÉMON. As it flaps its flaming wings, even the night sky will turn red.
+    spanish: Un legendario pájaro POKÉMON. Cuando aletea sus flamígeras alas, la oscura noche se torna roja
   species_class:
     english: FLAME
     spanish: LLAMA
@@ -3575,10 +3287,8 @@
     english: DRATINI
     spanish: DRATINI
   pokedex_description:
-    english: The existence of this mythical POKÉMON was only recently confirmed by
-      a fisherman who caught one.
-    spanish: La existencia de este POKÉMON ha sido confirmada recientemente por un
-      pescador que cogió uno
+    english: The existence of this mythical POKÉMON was only recently confirmed by a fisherman who caught one.
+    spanish: La existencia de este POKÉMON ha sido confirmada recientemente por un pescador que cogió uno
   species_class:
     english: DRAGON
     spanish: DRAGÓN
@@ -3599,10 +3309,8 @@
     english: DRAGONAIR
     spanish: DRAGONAIR
   pokedex_description:
-    english: According to a witness, its body was surrounded by a strange aura that
-      gave it a mystical look.
-    spanish: De acuerdo con un testigo, un aura de extraña forma lo rodea, dándole
-      un misterioso y místico aspecto
+    english: According to a witness, its body was surrounded by a strange aura that gave it a mystical look.
+    spanish: De acuerdo con un testigo, un aura de extraña forma lo rodea, dándole un misterioso y místico aspecto
   species_class:
     english: DRAGON
     spanish: DRAGÓN
@@ -3624,10 +3332,8 @@
     english: DRAGONITE
     spanish: DRAGONITE
   pokedex_description:
-    english: It is said that this POKÉMON lives somewhere in the sea and that it flies.
-      However, it is only a rumor.
-    spanish: Se dice que este POKÉMON vive en algún lugar del mar, y que vuela. De
-      todos modos, sólo es un rumor
+    english: It is said that this POKÉMON lives somewhere in the sea and that it flies. However, it is only a rumor.
+    spanish: Se dice que este POKÉMON vive en algún lugar del mar, y que vuela. De todos modos, sólo es un rumor
   species_class:
     english: DRAGON
     spanish: DRAGÓN
@@ -3648,10 +3354,8 @@
     english: MEWTWO
     spanish: MEWTWO
   pokedex_description:
-    english: Its DNA is almost the same as MEW's. However, its size and disposition
-      are vastly different.
-    spanish: Su ADN es casi el mismo que el de MEW. De todos modos, su tamaño y disposición
-      son diferentes
+    english: Its DNA is almost the same as MEW's. However, its size and disposition are vastly different.
+    spanish: Su ADN es casi el mismo que el de MEW. De todos modos, su tamaño y disposición son diferentes
   species_class:
     english: GENETIC
     spanish: GENÉTICO
@@ -3672,10 +3376,8 @@
     english: MEW
     spanish: MEW
   pokedex_description:
-    english: When viewed through a microscope, this POKÉMON's short, fine, delicate
-      hair can be seen.
-    spanish: Cuando es mirado a través de un microscopio, puede observarse el delicado
-      pelo de este POKÉMON
+    english: When viewed through a microscope, this POKÉMON's short, fine, delicate hair can be seen.
+    spanish: Cuando es mirado a través de un microscopio, puede observarse el delicado pelo de este POKÉMON
   species_class:
     english: NEW SPECIE
     spanish: N.ESPECIE
